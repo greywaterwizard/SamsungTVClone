@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.5" package="com.samsung.tv.aispeaker-oobe-app" version="1.0.4421">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv" />
+    <description>Soundbar OOBE</description>
+    <ui-application appid="com.samsung.tv.aispeaker-oobe-app" exec="SoundbarOOBEApp.dll" launch_mode="single" multiple="false" nodisplay="false" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse">
+        <label>SoundbarOOBEApp</label>
+        <icon>images.png</icon>
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+        <splash-screens />
+    </ui-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/alarm.set</privilege>
+        <privilege>http://tizen.org/privilege/alarm.get</privilege>
+        <privilege>http://tizen.org/privilege/alarm</privilege>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appdir.shareddata</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth</privilege>
+        <appdefined-privilege>http://com.samsung.tv.easysetup-mediator/appdefined/easysetup-mediator</appdefined-privilege>
+        <appdefined-privilege>http://com.samsung.tizen.smartthings-client/appdefined/smartthings-client</appdefined-privilege>
+    </privileges>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <provides-appdefined-privileges />
+    <build-info id="7481903">
+        <app-info exec="SoundbarOOBEApp.dll" id="com.samsung.tv.aispeaker-oobe-app" />
+    </build-info>
+</manifest>

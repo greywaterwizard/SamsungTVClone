@@ -1,0 +1,559 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "com.samsung.tv.SAFCommonPlugin/1.0.0": {
+        "dependencies": {
+          "ImageCachePlugin": "1.0.0",
+          "NetErrorPopupPlugIn": "1.0.0",
+          "NetworkUtilPlugin": "1.0.0",
+          "ParentLockPlugin": "1.0.0",
+          "PinPopupPlugin": "1.0.0",
+          "RestPlugin": "1.0.0",
+          "Tizen.NET": "6.0.0.15044",
+          "Tizen.NET.Sdk": "1.0.9",
+          "Tizen.TV.Service.SAFSdk": "6.0.0.0"
+        },
+        "runtime": {
+          "com.samsung.tv.SAFCommonPlugin.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {},
+      "System.Runtime.CompilerServices.Unsafe/4.5.0": {},
+      "System.Text.Encoding.CodePages/4.5.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
+        }
+      },
+      "Tizen.NET/6.0.0.15044": {
+        "dependencies": {
+          "Tizen.NET.API6": "6.0.0.15044"
+        }
+      },
+      "Tizen.NET.API6/6.0.0.15044": {},
+      "Tizen.NET.Sdk/1.0.9": {},
+      "Tizen.TV.Application.Utility/1.4.8": {
+        "dependencies": {
+          "Tizen.NET": "6.0.0.15044",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.FLUX/1.0.28": {},
+      "Tizen.TV.FLUX.Component/1.0.78": {},
+      "Tizen.TV.Logger/1.0.1": {
+        "dependencies": {
+          "Tizen.NET": "6.0.0.15044",
+          "Tizen.TV.Application.Utility": "1.4.8"
+        }
+      },
+      "Tizen.TV.Network.TVConnection/17.12.6": {
+        "dependencies": {
+          "Tizen.NET": "6.0.0.15044",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.76"
+        }
+      },
+      "Tizen.TV.Security/1.0.4": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "4.5.0",
+          "Tizen.NET": "6.0.0.15044"
+        }
+      },
+      "Tizen.TV.System/1.0.76": {
+        "dependencies": {
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "ImageCachePlugin/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "Tizen.TV.FLUX": "1.0.28",
+          "Tizen.TV.System": "1.0.76"
+        },
+        "runtime": {
+          "ImageCachePlugin.dll": {}
+        }
+      },
+      "NetErrorPopupPlugIn/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "PluginTextResources": "1.0.0",
+          "Tizen.TV.FLUX": "1.0.28",
+          "Tizen.TV.FLUX.Component": "1.0.78",
+          "Tizen.TV.Logger": "1.0.1",
+          "Tizen.TV.System": "1.0.76"
+        },
+        "runtime": {
+          "NetErrorPopupPlugIn.dll": {}
+        }
+      },
+      "NetworkUtilPlugin/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "PluginTextResources": "1.0.0",
+          "Tizen.TV.Logger": "1.0.1",
+          "Tizen.TV.Network.TVConnection": "17.12.6",
+          "Tizen.TV.System": "1.0.76"
+        },
+        "runtime": {
+          "NetworkUtilPlugin.dll": {}
+        }
+      },
+      "ParentLockPlugin/1.0.0": {
+        "dependencies": {
+          "Tizen.TV.Logger": "1.0.1",
+          "Tizen.TV.System": "1.0.76"
+        },
+        "runtime": {
+          "ParentLockPlugin.dll": {}
+        }
+      },
+      "PinPopupPlugin/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "Tizen.TV.FLUX": "1.0.28",
+          "Tizen.TV.FLUX.Component": "1.0.78",
+          "Tizen.TV.Logger": "1.0.1",
+          "Tizen.TV.System": "1.0.76"
+        },
+        "runtime": {
+          "PinPopupPlugin.dll": {}
+        }
+      },
+      "PluginTextResources/1.0.0": {
+        "runtime": {
+          "PluginTextResources.dll": {}
+        },
+        "resources": {
+          "zu-ZA/PluginTextResources.resources.dll": {
+            "locale": "zu-ZA"
+          },
+          "zh-TW/PluginTextResources.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "vi-VN/PluginTextResources.resources.dll": {
+            "locale": "vi-VN"
+          },
+          "zh-HK/PluginTextResources.resources.dll": {
+            "locale": "zh-HK"
+          },
+          "zh-CN/PluginTextResources.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "xh-ZA/PluginTextResources.resources.dll": {
+            "locale": "xh-ZA"
+          },
+          "yo-NG/PluginTextResources.resources.dll": {
+            "locale": "yo-NG"
+          },
+          "uz-Cyrl-UZ/PluginTextResources.resources.dll": {
+            "locale": "uz-Cyrl-UZ"
+          },
+          "ur-PK/PluginTextResources.resources.dll": {
+            "locale": "ur-PK"
+          },
+          "uk-UA/PluginTextResources.resources.dll": {
+            "locale": "uk-UA"
+          },
+          "tu-IN/PluginTextResources.resources.dll": {
+            "locale": "tu-IN"
+          },
+          "tr-TR/PluginTextResources.resources.dll": {
+            "locale": "tr-TR"
+          },
+          "tl-PH/PluginTextResources.resources.dll": {
+            "locale": "tl-PH"
+          },
+          "th-TH/PluginTextResources.resources.dll": {
+            "locale": "th-TH"
+          },
+          "sw-KE/PluginTextResources.resources.dll": {
+            "locale": "sw-KE"
+          },
+          "te-IN/PluginTextResources.resources.dll": {
+            "locale": "te-IN"
+          },
+          "ta-IN/PluginTextResources.resources.dll": {
+            "locale": "ta-IN"
+          },
+          "sv-SE/PluginTextResources.resources.dll": {
+            "locale": "sv-SE"
+          },
+          "sq-AL/PluginTextResources.resources.dll": {
+            "locale": "sq-AL"
+          },
+          "sr/PluginTextResources.resources.dll": {
+            "locale": "sr"
+          },
+          "sl-SI/PluginTextResources.resources.dll": {
+            "locale": "sl-SI"
+          },
+          "sk-SK/PluginTextResources.resources.dll": {
+            "locale": "sk-SK"
+          },
+          "sd-IN/PluginTextResources.resources.dll": {
+            "locale": "sd-IN"
+          },
+          "sat-IN/PluginTextResources.resources.dll": {
+            "locale": "sat-IN"
+          },
+          "sa-IN/PluginTextResources.resources.dll": {
+            "locale": "sa-IN"
+          },
+          "ru-RU/PluginTextResources.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "ro-RO/PluginTextResources.resources.dll": {
+            "locale": "ro-RO"
+          },
+          "pt-PT/PluginTextResources.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "pa/PluginTextResources.resources.dll": {
+            "locale": "pa"
+          },
+          "pt-BR/PluginTextResources.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pl-PL/PluginTextResources.resources.dll": {
+            "locale": "pl-PL"
+          },
+          "or-IN/PluginTextResources.resources.dll": {
+            "locale": "or-IN"
+          },
+          "ne-NP/PluginTextResources.resources.dll": {
+            "locale": "ne-NP"
+          },
+          "nn-NO/PluginTextResources.resources.dll": {
+            "locale": "nn-NO"
+          },
+          "nl-NL/PluginTextResources.resources.dll": {
+            "locale": "nl-NL"
+          },
+          "my-MM/PluginTextResources.resources.dll": {
+            "locale": "my-MM"
+          },
+          "ms-MY/PluginTextResources.resources.dll": {
+            "locale": "ms-MY"
+          },
+          "mr-IN/PluginTextResources.resources.dll": {
+            "locale": "mr-IN"
+          },
+          "mni-IN/PluginTextResources.resources.dll": {
+            "locale": "mni-IN"
+          },
+          "mn-MN/PluginTextResources.resources.dll": {
+            "locale": "mn-MN"
+          },
+          "mk-MK/PluginTextResources.resources.dll": {
+            "locale": "mk-MK"
+          },
+          "ml-IN/PluginTextResources.resources.dll": {
+            "locale": "ml-IN"
+          },
+          "mai-IN/PluginTextResources.resources.dll": {
+            "locale": "mai-IN"
+          },
+          "mi-NZ/PluginTextResources.resources.dll": {
+            "locale": "mi-NZ"
+          },
+          "lv-LV/PluginTextResources.resources.dll": {
+            "locale": "lv-LV"
+          },
+          "lt-LT/PluginTextResources.resources.dll": {
+            "locale": "lt-LT"
+          },
+          "ku/PluginTextResources.resources.dll": {
+            "locale": "ku"
+          },
+          "ks/PluginTextResources.resources.dll": {
+            "locale": "ks"
+          },
+          "ko-KR/PluginTextResources.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "kok-IN/PluginTextResources.resources.dll": {
+            "locale": "kok-IN"
+          },
+          "kn-IN/PluginTextResources.resources.dll": {
+            "locale": "kn-IN"
+          },
+          "kk-KZ/PluginTextResources.resources.dll": {
+            "locale": "kk-KZ"
+          },
+          "km-KH/PluginTextResources.resources.dll": {
+            "locale": "km-KH"
+          },
+          "ja-JP/PluginTextResources.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "it-IT/PluginTextResources.resources.dll": {
+            "locale": "it-IT"
+          },
+          "ig-NG/PluginTextResources.resources.dll": {
+            "locale": "ig-NG"
+          },
+          "ka-GE/PluginTextResources.resources.dll": {
+            "locale": "ka-GE"
+          },
+          "id-ID/PluginTextResources.resources.dll": {
+            "locale": "id-ID"
+          },
+          "hy-AM/PluginTextResources.resources.dll": {
+            "locale": "hy-AM"
+          },
+          "hu-HU/PluginTextResources.resources.dll": {
+            "locale": "hu-HU"
+          },
+          "he-IL/PluginTextResources.resources.dll": {
+            "locale": "he-IL"
+          },
+          "hr-HR/PluginTextResources.resources.dll": {
+            "locale": "hr-HR"
+          },
+          "ha/PluginTextResources.resources.dll": {
+            "locale": "ha"
+          },
+          "hi-IN/PluginTextResources.resources.dll": {
+            "locale": "hi-IN"
+          },
+          "gu-IN/PluginTextResources.resources.dll": {
+            "locale": "gu-IN"
+          },
+          "fr-FR/PluginTextResources.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "et-EE/PluginTextResources.resources.dll": {
+            "locale": "et-EE"
+          },
+          "fr-CA/PluginTextResources.resources.dll": {
+            "locale": "fr-CA"
+          },
+          "fi-FI/PluginTextResources.resources.dll": {
+            "locale": "fi-FI"
+          },
+          "fa-IR/PluginTextResources.resources.dll": {
+            "locale": "fa-IR"
+          },
+          "es-MX/PluginTextResources.resources.dll": {
+            "locale": "es-MX"
+          },
+          "en-GB/PluginTextResources.resources.dll": {
+            "locale": "en-GB"
+          },
+          "es-ES/PluginTextResources.resources.dll": {
+            "locale": "es-ES"
+          },
+          "en-US/PluginTextResources.resources.dll": {
+            "locale": "en-US"
+          },
+          "en-AU/PluginTextResources.resources.dll": {
+            "locale": "en-AU"
+          },
+          "el-GR/PluginTextResources.resources.dll": {
+            "locale": "el-GR"
+          },
+          "de-DE/PluginTextResources.resources.dll": {
+            "locale": "de-DE"
+          },
+          "da-DK/PluginTextResources.resources.dll": {
+            "locale": "da-DK"
+          },
+          "cs-CZ/PluginTextResources.resources.dll": {
+            "locale": "cs-CZ"
+          },
+          "af-ZA/PluginTextResources.resources.dll": {
+            "locale": "af-ZA"
+          },
+          "ckb-IQ/PluginTextResources.resources.dll": {
+            "locale": "ckb-IQ"
+          },
+          "bg-BG/PluginTextResources.resources.dll": {
+            "locale": "bg-BG"
+          },
+          "bs/PluginTextResources.resources.dll": {
+            "locale": "bs"
+          },
+          "bh-IN/PluginTextResources.resources.dll": {
+            "locale": "bh-IN"
+          },
+          "bn-IN/PluginTextResources.resources.dll": {
+            "locale": "bn-IN"
+          },
+          "az/PluginTextResources.resources.dll": {
+            "locale": "az"
+          },
+          "am-ET/PluginTextResources.resources.dll": {
+            "locale": "am-ET"
+          },
+          "ar-AE/PluginTextResources.resources.dll": {
+            "locale": "ar-AE"
+          },
+          "as-IN/PluginTextResources.resources.dll": {
+            "locale": "as-IN"
+          }
+        }
+      },
+      "RestPlugin/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "Tizen.TV.Logger": "1.0.1",
+          "Tizen.TV.System": "1.0.76"
+        },
+        "runtime": {
+          "RestPlugin.dll": {}
+        }
+      },
+      "Tizen.TV.Service.SAFSdk/6.0.0.0": {
+        "runtime": {
+          "Tizen.TV.Service.SAFSdk.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "com.samsung.tv.SAFCommonPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B0e5zqoqcKVHqq6cWG1w1LRfPkSDH8YkL/nzt3b+k2CP+uvbwWlZGxG+1yFL/v43uXfepJ2Q8yNAbvdEZK/ZWQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zJEnIENxZI94PcnvB5dzcx9Vmhc3hWb1vW4WPC2L9TL0gqSnqrbCIrThconq8Q/Y6usFFaf5i7Mvs+DliuUEZA==",
+      "path": "system.text.encoding.codepages/4.5.0",
+      "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
+    },
+    "Tizen.NET/6.0.0.15044": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+AARZUp3p9J1GlGI18MbnBSX+zIWz3UC3LR1ZvFX57ULcp3Tg/gWxOJdFkK3bUoMs2+DZ/3PVm8gETxY9lbumw==",
+      "path": "tizen.net/6.0.0.15044",
+      "hashPath": "tizen.net.6.0.0.15044.nupkg.sha512"
+    },
+    "Tizen.NET.API6/6.0.0.15044": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OHg8TCVrjdbWp8aDGv3C00XqJTMiPdI2CAcQWHGiUpLGxwVeqk1o7Aoi6VABsdM1HOfIyWLhWf3wUHFVkbtePQ==",
+      "path": "tizen.net.api6/6.0.0.15044",
+      "hashPath": "tizen.net.api6.6.0.0.15044.nupkg.sha512"
+    },
+    "Tizen.NET.Sdk/1.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-acid6tFOYPnfBSKnfxj9azlc9gkT0KG8oq/c7xA9EjXRE1TP0V/tfg7XSMIUdFNw2NAYQdS8LWdwu+YK1NGpjw==",
+      "path": "tizen.net.sdk/1.0.9",
+      "hashPath": "tizen.net.sdk.1.0.9.nupkg.sha512"
+    },
+    "Tizen.TV.Application.Utility/1.4.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vz99PJvo4KD096EkWOiGnkyQSxrswy7jNwEu4nFIykJOgU2ye9CeuLnDQ+EG9K/YUSYWcpOORKVsVBJpRwTBBA==",
+      "path": "tizen.tv.application.utility/1.4.8",
+      "hashPath": "tizen.tv.application.utility.1.4.8.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX/1.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I1vK3FeL/z6S6kobFD22GkXmV1AF3Jgyt41Y8hf/F94yDi3V9J27SDdc8/xXGgdkzJuVyqdcz9Zry0oW94O4Zw==",
+      "path": "tizen.tv.flux/1.0.28",
+      "hashPath": "tizen.tv.flux.1.0.28.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX.Component/1.0.78": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PjvZiuyjhp7ICZS8PCiqEPuKh6AzGB4CPJ/CStuYBqc3giP0qXjS0e+3NMPEqmDQ0mxtxoZ4gEGGkPtTe2nvlw==",
+      "path": "tizen.tv.flux.component/1.0.78",
+      "hashPath": "tizen.tv.flux.component.1.0.78.nupkg.sha512"
+    },
+    "Tizen.TV.Logger/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Tc7JmHvmvBUEGnZALyYooKiUqiMEV7T1iHZUpGTL+IYqq1/16qf+7W0qPEMguCGSAU6qJv2KdK9L4lsNeE0XPw==",
+      "path": "tizen.tv.logger/1.0.1",
+      "hashPath": "tizen.tv.logger.1.0.1.nupkg.sha512"
+    },
+    "Tizen.TV.Network.TVConnection/17.12.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rDTLdmbRIdqUHx4TvtBGYHpyTj7dY3Crb5LIZqz9lLmchW7Nw8AE29gInp8YuWwdwzFiytnDunRldEaQPedVTA==",
+      "path": "tizen.tv.network.tvconnection/17.12.6",
+      "hashPath": "tizen.tv.network.tvconnection.17.12.6.nupkg.sha512"
+    },
+    "Tizen.TV.Security/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RiXJdFLpYjR7FJ5f+5VOm42toJ5XH3q5u3cS9FnFKMI979j0p41OFBmhDMfYxRJxASkbE1YaZ7+T7DYaWX+shQ==",
+      "path": "tizen.tv.security/1.0.4",
+      "hashPath": "tizen.tv.security.1.0.4.nupkg.sha512"
+    },
+    "Tizen.TV.System/1.0.76": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nTIJe9ulnrGHkwvgl3nlwjdNI/ODRyhRYHoQ4y/tCR+LhgZl0lhIyF3zL7mvPxBOZA7doDqkTVwdGwhHv2EyIg==",
+      "path": "tizen.tv.system/1.0.76",
+      "hashPath": "tizen.tv.system.1.0.76.nupkg.sha512"
+    },
+    "ImageCachePlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetErrorPopupPlugIn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkUtilPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParentLockPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PinPopupPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PluginTextResources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tizen.TV.Service.SAFSdk/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

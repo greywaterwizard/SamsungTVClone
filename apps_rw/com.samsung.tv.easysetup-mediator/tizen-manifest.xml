@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.easysetup-mediator" version="1.0.12">
+    <description>Easysetup Mediator</description>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv-samsung-5.0" />
+    <service-application appid="com.samsung.tv.easysetup-mediator" exec="easysetup-mediator" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+        <label>easysetup-mediator</label>
+        <icon>easysetup-mediator.png</icon>
+        <metadata key="samsung-experience-service-api-level" value="1" />
+        <background-category value="background-network" />
+    </service-application>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2019-1000</infolink>
+    </tv-info>
+    <privileges>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/alarm.get</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/alarm.set</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appdir.shareddata</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth</privilege>
+        <appdefined-privilege>http://com.samsung.tizen.smartthings-client/appdefined/smartthings-client</appdefined-privilege>
+    </privileges>
+    <provides-appdefined-privileges>
+        <appdefined-privilege>http://com.samsung.tv.easysetup-mediator/appdefined/easysetup-mediator</appdefined-privilege>
+    </provides-appdefined-privileges>
+    <requires>
+        <package id="com.samsung.tv.aispeaker-oobe-app" storeid="3201909019233" version="1.0.14" />
+    </requires>
+    <build-info id="5110917">
+        <app-info exec="easysetup-mediator" id="com.samsung.tv.easysetup-mediator" />
+    </build-info>
+</manifest>

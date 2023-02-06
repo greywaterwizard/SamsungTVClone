@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<multi-assistant>
+  <name>Google Assistant</name>
+  <languages>
+    <language>en_US</language>
+  </languages>
+  <wakeup-words>
+    <wakeup-word>ok google</wakeup-word>
+    <wakeup-word>hey google</wakeup-word>
+    <wakeup-word xml:lang="ko_KR">?????</wakeup-word>
+    <wakeup-word xml:lang="ko_KR">????</wakeup-word>
+  </wakeup-words>
+  <icon-path>shared/res/icon.png</icon-path>
+  <appid>com.samsung.tv.google-assistant</appid>
+</multi-assistant>

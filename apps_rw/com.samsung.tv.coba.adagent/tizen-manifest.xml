@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="3.0" package="com.samsung.tv.coba.adagent" version="3.0.1021">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv" />
+    <description>CoBA AdAgent Component</description>
+    <ui-application appid="com.samsung.tv.coba.adagent" exec="Com.Samsung.TV.CoBA.Advertise.dll" launch_mode="single" multiple="false" nodisplay="false" splash-screen-display="false" taskmanage="false" type="dotnet-inhouse">
+        <label>coba-adagent</label>
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-fs-external-component" value="true" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-view-plugin" value="true" />
+    </ui-application>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2020-1007</infolink>
+    </tv-info>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://tizen.org/privilege/network.profile</privilege>
+        <privilege>http://tizen.org/privilege/telephony</privilege>
+    </privileges>
+    <build-info id="7540976">
+        <app-info exec="Com.Samsung.TV.CoBA.Advertise.dll" id="com.samsung.tv.coba.adagent" />
+    </build-info>
+</manifest>

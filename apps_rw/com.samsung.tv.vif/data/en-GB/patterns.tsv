@@ -1,0 +1,2 @@
+##PATTERN => Pattern File Signature 
+#action name	pattern including <anything> or <number> as variables or [alternative1/alternative2]	order of param:param name

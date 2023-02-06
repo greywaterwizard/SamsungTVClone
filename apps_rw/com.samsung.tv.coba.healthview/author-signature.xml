@@ -1,0 +1,1411 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+    <Reference URI="tizen-manifest.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qQJ+g+crs8L7hBraT26VMsom6s6DPHm+FpMeSWL8qLw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fzu-ZA%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>fvZP22SexigT4sTmG7Fd5QuJ9YBmoqoj4boYh8rVTB0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fzh-TW%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SxVsfY+J2DFzTd5jm9bPxftuw8NLQS7guR1fBsF51io=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fzh-HK%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wU8iRCtBjueVIj6lEKJ3uzbBXVq9tsV6JyfiJoQ1D+w=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fzh-CN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>OqLP/IlH8lXisNDQzEYJ8XEQj5b+42QikQ2tpAqO0BE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fyo-NG%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wU1IQqfx1sCFRkXudUP30giL7j9zpW4yxjsyehGeHLw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fxh-ZA%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>KH2TAW04PiFSWXfF8mIi8XGbR/z/5I5j/q27x6y8ggM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FViewPluginHealth.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>42qxpM/HIMu4hC3S37s759prHQ+AvXiSDjBx/zcqR40=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fvi-VN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>lpD/+8aGm+oFmItraywV/8jlIZyVsdjyxM1YC3MVDPE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fuz-Cyrl-UZ%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BuiRZoV+OatWQIwR3Hyb4rxb6TrWcwu+J4EbUbzpKuw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fur-PK%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>eW2olTXOhSxMM4GZb9El36eIj4Xp70azh9FVszoWy9Q=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fuk-UA%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mxZInSpSWVjSB01ddaovGsQ/v/7yzW2bWmVxZqIpk30=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ftu-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>5rgYLxr47a/Qt+cbm8Rhhecux5G9oU0J5FJnFv8lHTc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ftr-TR%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>fTy06ZW2OViWGfRscMcxN3PjbRldVhxJkSmE92SSRqA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ftl-PH%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LkEW9YV7JbgJUMRQMu0M85OTn+jf0pDcEMaVec+4p1U=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fth-TH%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>T6IW58bzEjPdNoTAXz9ox86amrWaPWWAsrC45SfafbE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fte-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>p+27E7AxvSP86SX2EuJMlTBP9rEhjkLGp0gmGg3LLwI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fta-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>4p969vhZBBG56rrniV4tKr6rVkOxtyEs4IvYXOEFMbo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsw-KE%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>WzgV2kZFTBanRY+KM3eCXHosXDd/oI9m6tXJro838dU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsv-SE%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gvC7o84mSx6j1qZV4I0UrS3rIAaudA4gFpK8B02vOpw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsr%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xednj4f0EfoHdX1AEXIyE6XUKpIz/4OOxY9NqBZwNQc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsq-AL%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>WeWDYxKE61wyWbBilMH4m/Lq/VC/R+PyvbblgB/deRw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsl-SI%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>V5nmdepWUkhQq9NqC/1ljESVB3DcZ4ZJNb8Vhst9ADw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsk-SK%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NJP4db+kDo8KyyjBtTjmCSE9F8B/GEUjB6f0Or8sQr0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsd-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+NSGXImobZQyhpQRPSLM+NjfBRabxV5CTR7xMiWwIbk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsat-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2bLtx7MYUkv2iDNz84k8lNxk4KY46Yb4sAyxG+phoFA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FSamsungHealthWidget.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>HFM4ift35nv4hmJfdY2XLofEE9j4upI5tgxUdAcBoHQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FSamsungHealthTextResource.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>E5O0DyFM5HIqWiRVuGgFOb7SxUROHodNcmGeEbUMUaU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FSamsungHealthCommon.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>GdVhIPgvABtKrAxjU+XzBeYwKwZH6DKg1vQa1jmcpKM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsa-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ekfK2LPILQ7YrHORWfXOddrTRh+l/+xA/LgnVM0YEOI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fru-RU%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/OPXxhhOwQZ50p8QIDfkSRE5SS2f6o9k2J0No2Kv7X8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fro-RO%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>KPrLjsqqteUIDt2HvcQ6gFhynaeZGdeM0YGTPFMyhsc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResourceHealthGUI.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>cnuCN3qJjf4REJS3m7N58KYW6x8FH4onmC7v9TSjDc8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fsh_triangle_up_i_icon.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2OVzNJBRmTFbJs3VAbrx2p+Q2bLM3BPo64bD4Xkw8Zg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fsh_i_icon_marker_heartrate.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>4VCNAcuu2UB4p+cRcUexOuPC3uJqBUC7+HplerlXNFU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fsh_i_icon_heartrangebar.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>szzW4g4a5ZxHR/kyXn7eUX3JFSE8N9UFgB+jlBPFl1g=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fsh_i_icon_heartrangebar_orange.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wh9JCEOCnv/GFA1PiMBs2RKCWDT64C51SnuuhH9NGXM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fsh_i_icon_heartrangebar_bg.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bylZwY/mO6oqzU+t0vxIwAuD0ydjqB1rUQUyO6mV8Fg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fsh_i_icon_heartrangebar_bg_ab.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bylZwY/mO6oqzU+t0vxIwAuD0ydjqB1rUQUyO6mV8Fg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fsh_i_icon_heartrangebar_ab.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>szzW4g4a5ZxHR/kyXn7eUX3JFSE8N9UFgB+jlBPFl1g=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fsh_i_icon_heart_rate_graph_line.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Q+B2Ae6O7saxu6+Mr11bBqLdipLh7eLq71dsf9pXgpA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fsh_i_icon_ekg.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8idt9PfyNXYGQTYjBgjUqnPgu1fXj/WAu+3s4HnSgQs=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fprofile_datacard_i_img_wheel.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>iKJpKVaSpnf5VXdmbYDQ5zFls91S9xJFPY+2j/dqltc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fprofile_datacard_i_icon_heartrate.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zooZxAEHidpiIIIi2sJvvnimiRWV9kSG8RBWHKbb3HQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fworkout_summary_HR_i_img_heightline.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Pj7FABMTkO4xr3UAwl0xHnEbnxYfnJDF6XwUiqGRO0U=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fi_icon_hrzone_meter_Zone_5.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0Wg047SEuCurOxYjro2qddZemeIjva+zR1Mfb2BM6ms=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fi_icon_hrzone_meter_Zone_4.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Ro862tc5e75WqyZEMzLey4ncb7QzKn49Y/xR7HK/078=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fi_icon_hrzone_meter_Zone_3.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Os6h0MQyalP9zgglTpiW+QHXFZHBow8lt80qgR44ks0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fi_icon_hrzone_meter_Zone_2.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gVknn2fwSB9+QUxIXm51i+qW4kfbJbQY3JK7K6dSD2c=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fi_icon_hrzone_meter_Zone_1.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>jCjTeIiGhobIZphOVpSr/gdgwaNZYcoE2TRNrNZAALQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fi_icon_heartrate_zone.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>PCHzY+3G+23mghbrfsIu8TBuN2HcDrVvSq7iMskEuaU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fi_icon_heartrate_zone_about_zones_5.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>PCHzY+3G+23mghbrfsIu8TBuN2HcDrVvSq7iMskEuaU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fi_icon_heartrate_zone_about_zones_4.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qHJV+DYoofToMW4sJkO7w7k2eveHbGGknRsJf/8BOtA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fi_icon_heartrate_zone_about_zones_3.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>WvxpXOl3t0T7bTIuYqo+m5Q5GVUoM4hNgxHjj/Zssrs=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fi_icon_heartrate_zone_about_zones_2.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Ne8PFofjCi1gdF9rOH0FW0Vm1cD0Ofpl2tO0vYLjL5g=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWorkoutSummary%2Fheartrate_zone%2Fi_icon_heartrate_zone_about_zones_1.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FxwVURIXYsNTYWg/6NaM53RJTQyZJnJV5MA6QzC5+D8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fsh_i_icon_wearable.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8rFPSpMINpb80dLYnqOOCDJc48fzPdcHwku6TAJ7Og0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fsh_i_icon_wearable_solid.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2yAMnwVpbUBVprAcANBbh9HtK7eyH62gIwOo06Z/kKo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fsh_i_icon_success.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>cfOCURXuhIIip8qdetI6GmFJ+YUxlP5OPJA81DPmPgg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fsh_i_icon_function_add.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>MuNoZUrQ02oM4xZbRuT9UXbXVB1oZYCdRdXwzHE2p1c=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fsh_i_icon_bluetooth.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LnF1V4CG0jJpKDVLzKQ5G3NAOjiP2Sxj0G8eElfy1uk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fsh_i_erroricon_red.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2XjlPuvvqATnMw6rBzwxPaze9enA2CO4fHm9Z5S9EjU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fsh_device_bluetooth_no_model.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zmPM9+OI93v1r6kKwf9xQeDuz0QOgvyNlqZno+ht5zU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fsh_account.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YTAQJV0/ZRS3pop8bLY7XK3Pq7bS+YktpCdpcixfqf0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fmetrics%2Fplayback_metrics_i_icon_heartrate.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9wzDMWDumpqhtmpx+dZqKGbdpW9nHVnnkIu0yJgwkcc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fmetrics%2Fplayback_metrics_i_icon_calories.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>sigi5UEfiEVpt77rDsvRoTHza/IEHp1Qk1gWfD6szgc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fmetrics%2Fplayback_metrics_i_icon_activetime.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>QNAaY9QC/exiAN/ZNnGfrbnto/c20YOzdOPZQrvIwyU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2Fmetrics%2Fmetrics_scrim_background.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>WBZbYFSD2Fz8DfSj1gL1G6ZfrQDMrknYjYvHOoAimLk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FWearable%2FGuide%2FWatchShrinkingwithTVAppear.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>MXTjvXfTGbaX2HFY2YY0p0u3gAU0QqSSlFP1ZsEbTkM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Ftriple_arrow.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>lm03Bkd2MZo2r4AHbeL87t5B4OUP+lvzixusD/FgHOk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fsmart_trainer_row_arrow_bg.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0hB8K3Ri7OuB8IiKxP+1yto/f3y/X9yrA+/EZpJ/DLE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fsh_smart_trainer_coach.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>jWpTwQj7ygJ4pny4SHwDLzEnaNQB3NUz4xXVBvvn2O0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fsh_i_icon_information.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>EILik3Y2Hj5iEpAiQlDdW+i208iSLZSgLepaIJ+0QN0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fsh_i_icon_function_remove.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>4XoMvqJwW5QCh/Dh7pEtUKbv0UkulpbyWQYFTJz1+gc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fsh_header_logo%2Bdivider.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IMmutLbpHX4tfRn10cx+qt2KJSRZNHWKuVWNH3pZ3cY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fsh_header_logo.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>QeUGD+L0/fEUR5q413Ca5obkQm49/VRq5H2WtJ24lM8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fsh_congratulations_v2.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IWkTyM62ixhOEXeYTceT3vswC1mTrnoEGpGhKLwvS10=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fr_icon_s_rew.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>G9QUyLYLZhOuhoYJvHTVB8H23A/2BHPc0eq6+ztFcTg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fr_icon_s_play.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>j7lzU27rjrEW8tNyvfv6kGItNPFmdGfN+B7J7Dxi81M=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fr_icon_s_pause.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>aErzefK5GLNzuDSt8hyrQ6HOB6qFPyk0n5jjlB7YK0s=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fr_icon_s_more.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LhKL4MtFR23/ybb5z0SVWInQltvEGCl2gt6Maz4kvFQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fr_icon_s_ff.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zpHk6EH1hOPNGC1ZzPVsmFZudRm788xu1g3dsmzA6YI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fdark%2Fplayer_img_bg_02.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>GZjqWb2ZnFa4Rdy7sPwklbUm9D1ygyXXFG+kFUEMN80=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fdark%2Fplayer_img_bg_01.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dn5cU8XXakQHBCMwESqrYU3OavA7XDjv+5t9LVsDUJg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fdark%2Fplayer_icon_w_play.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BPXDBMg0huLdG8b07Rk80ahkMFANflWL3+2atnXyyBs=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fdark%2Fplayer_icon_w_pause.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>evnFH6fmAai4eQhtNrYj/Hp9dMQGpg9KzfnCGdwlEiE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fdark%2Fi_icon_function_rew.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>EfxPMWYPHgISmpQQWAig/a9jcI1Kcl4Vbi8RxdnJ9VQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fdark%2Fi_icon_function_info.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qKSs5PG2z3rdA4GOF9PyOvcw7vmoQOdhTVejHhdlV60=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fdark%2Fi_icon_function_info_black.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>CHXyk64oxzg/CitBIEqm1Zc9VU0FwMvDP4ifMDfyLso=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FSamsungPlayer%2Fdark%2Fi_icon_function_ff.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Qz3wOD9XFLRPCeDFHciIC3z4q73y7f9ZzMr9oNvTB5g=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Froutines_unfocused.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1WsuQby40lfbKmzaoPG9fYF7rYKa8tovH4cG2w7gl8I=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Froutines_scrim_mask.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RQkookSvdpH1KnboAT1IS7145ZGiS3ef3mSHBzgMYAM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Froutine%2Fsh_icon_routine.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>c2Tq/RI1QS+OXrBoIiMTNjbhZ7yxn5TTrPxJ80tdvMI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Froutine%2Fsh_icon_break.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Zz2BYdQeSHybTEZfReEMfbRqpHJVQqfRmq7KSD8GSk0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Froutine%2Fsh_i_icon_active_time.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>K8iiDaunu9uJC8ks4x0uEnCQr34+VX2jU4vxce6ekRA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Froutine%2Fi_icon_function_dot.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tPQa7IQAsUSZUxa4mYnA+ANr5KA3qP00dShp0f2NTMw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2Fprofile_triangle_i_icon.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JmAdqXNbIbu5mA5/LUtfH74emFg6qDHZeleyKMwu08o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2Fi_icon_wearable_status.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dp8Snf3tTRvTy90jQnydDWZjgJo4Aep8rpQ2hX7ozqs=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2Fi_icon_function_unlink.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tFVGZtr+O+Iq93+D1JzKCE229tHRfpk5YW+cuZbhe34=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2Fi_icon_function_refresh.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9LXpfiU+DvPdqLoBX2O5KATh4ViYcCWx0GHaiquna4s=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2Fi_icon_function_link.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>w2EXr7f0KzOHkfOQHPM/bRywBUcXfb6Z/YHQtjFfYgI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2Fi_icon_dashboard.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7bopySIkzZfvHpOmGnPW2yjirIOfuKjh6hVN35JgECI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2Fi_icon_dashboard_connected.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FGuz3BlW8FTaPrFK0fiuwPo16I7M/dN/+wNhflj/ds0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2Fi_icon_account_status.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RowGCLWKEEEDaWiFbZb+JqSr7TuYJtpUJ1alK6el05k=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F3rdRow%2Fsh_i_icon_wearable.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8rFPSpMINpb80dLYnqOOCDJc48fzPdcHwku6TAJ7Og0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F3rdRow%2Fsh_i_icon_terms.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>lyMpW7G2AeC8XeadjU4Cm9lG0otlEEjhHdu/jygbmWE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F3rdRow%2Fsh_i_icon_privacysettings.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qW/FmK0y6F6hkgsOGewpq7O/E97wCImAXIMDzmsyQ38=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F3rdRow%2Fsh_i_icon_cameradisconnected.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mQSkrE2iIFrOgQtRNpu3w4TfQtYSwsEu9SEwZUHn87Q=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F3rdRow%2Fsh_i_icon_camera.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ryC0EriZWCYpzXOZOovbxeLJVkG8RWkUCHSt9YQjAO8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F3rdRow%2Fsh_i_icon_activitypreferences.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8cYRyzcvKvqamamSLWnGBV0g2f6qxwVM0OkDTX5zfz4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F3rdRow%2Fsh_i_icon_achievements.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kkWVAWNci6QmlloyO1HZA2Jzc00vxwOXWm8inukIXlU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_wheel.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>MCz7B9FeIUGsFmks6cZ3vcLSM0hzC5YYZMCf0J7t/+M=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_stressmarker.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>O+PrZdQXisPZNAw5hlXZ0Dj1MMyhNzTrropYggwCMoA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_stressmarker_right.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0e1zkeZl5gPGeTqSAA+IeiNwZyY70GRGGICfbB9Z2Lw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_stressmarker_left.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mMQjhWnZHdTVIhol9/DndVOLt04rJgj0cfjV68RPeIw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_stressbolt.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>eV68dlyU/ash9ZARc5aymFQr4MJ1XORU3UBOzUrG7C8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_stress_meter.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>fSf1Em4yeNsXUQRhjxBwm6lZ+BzXgglhwJ/KgXHk/9U=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_stress_marker.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>QYt+jTl+zh1vds3Sp7TNfhpGSOzg8qcpj58HS7TPTcY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_stepsbar.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tvQSjoK86SauBLGY9W0ATbk26hgsG52c0vZGU5/j8cw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_meter_stress.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>e97OQLVg3I/yTGpRmQx+44X4hATrf6D9bkujnSm38dA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_heightline.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/D7Bexmf6pGZKSDzCTOMefL41QLr202rTKDyfpYM+Sw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_defaultline.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>b/58OZ90xbwomYsimM3T+OQuTB5jLc0oN82nIPBmpfo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_defaultline_f.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>4xIhUkTTCr/YRcjKhugLy+fgXOM+Hi3N8LwBm5ERCGQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_axismarker_8x8.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>XzZgYfJ50c3FjRlpVmXCfi5mnRVpB+GML6+6fbc90Vc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_img_axis_376x2.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>s3CIFf16uwrXW3kL4T6qEtC5lkPXAnbxEWTGCgANA0o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_icon_stress.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>nuoSmxYRad55yEQKj8xi0YyNELjGundaw+63CFVc4co=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_icon_steps.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8jjmUnozx7jnsi9JkQCjDBRqrv3Dgt0+LzNQ9nAw8m0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_icon_sleep.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bGNXceAuuDXiH6kufaDu+TWrC3xbaTcKu7RDheR08lg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_icon_heartrate.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gT1xnNLYBextKKj2z5F3/AkxH1Ktb6PjVkHs4TGCSGM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_icon_calories.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>l6pZCa5lVR/QvBGX1sXxHvsAvKSDA2U0CvC8PAAtXPA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_datacard_i_icon_activetime.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>KWWtrwmk1BsLYrdAZH/j0Cwrs1OwQeAM6YY3R4ujb9c=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fprofile_dashboard_i_img_defaultline.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>iw7ToRqldYqJM1r5l0qPmJe9evBNBBxk0Xl9E99/rl4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F2ndRow_Mobile%20Data%2Fmaxheightline.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>u6qCeqwuC0NYvHCA3BGkw3+yW/vwinicYXufmnZqsd4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F1stRow_Video%20Consumption%20Data%2Fprofile_triangle_i_icon.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JmAdqXNbIbu5mA5/LUtfH74emFg6qDHZeleyKMwu08o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F1stRow_Video%20Consumption%20Data%2Fprofile_datacard_i_icon_yoga.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bYna7ZMObA5AIWatfW7mKF/LhiDMJ1DU2XYCmrHsfv8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F1stRow_Video%20Consumption%20Data%2Fprofile_datacard_i_icon_stretch.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SjpgslwHWBMd+VNyS5iOybhFTks+X5GgfhEPpG1mMvE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F1stRow_Video%20Consumption%20Data%2Fprofile_datacard_i_icon_strength.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>DoHAC1iYsW4oF6307Co9NZS32SvSvLwGGL1WJgigois=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F1stRow_Video%20Consumption%20Data%2Fprofile_datacard_i_icon_specialty.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>lwMRre4sBcyGt7yQv/dR28XEgn97uUJmKBAUhGZ6pYQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F1stRow_Video%20Consumption%20Data%2Fprofile_datacard_i_icon_meditation.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tUsQCvIVSPEwSaN3NjjbI9DipuWUnoaLehNZoMzQuYE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F1stRow_Video%20Consumption%20Data%2Fprofile_datacard_i_icon_dance.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/3J2foQclAyux9woa6yWedQwClQMhuBrmCSUxEkpg5Y=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F1stRow_Video%20Consumption%20Data%2Fprofile_datacard_i_icon_cycle.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+gdiqnj1naOI+NkUoMVotxYlhAMpTo0LZJ2x24TrtAk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F1stRow_Video%20Consumption%20Data%2Fprofile_datacard_i_icon_cardio.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wbZWC2ODgfArOtFKKHYV0wsyPSnxjA/FARjjcvaR4LM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_SVG%2F1stRow_Video%20Consumption%20Data%2Fprofile_datacard_i_icon_barre.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LzhKq2TWkWu1rKK79luejY47se1aw9EUOnJ1t8/UZ6c=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2Funlink_mobile_full_banner.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>5p3wJuA4IKq7Ws8ULzAKBE8zBP8T3R9Gb7FmZy+Dnog=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FsmartTrainer_white_highlight.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>QWZt1Dgp9uy+J718jjo/8mDPfFHIbsBvC3XoQN/LB+k=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2Fsh_terms.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Q2q/vsRSfm+gtss9fWqglWmBbrBOVVYUY5xtA89n3fg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2Fsh_congratulations_v2.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IWkTyM62ixhOEXeYTceT3vswC1mTrnoEGpGhKLwvS10=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2Fprogress_indicator_with_count_down_60_FSP.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>K0IGgPoAYgTRsCNzRA5cCZGVRYR1hiS7LSaD0zoVJNA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FProgress_Indicator_60FSP.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>OzFQwACSEQy5Y3ZwQCBWGVGRFxH0SJxWaV0U0ZahmTc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2Fprofile_banner_portrait.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SNb3CPK75hnti+PTTWDNdFrb1o9ksq+A9Di3WJk43Ww=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FlinkUnlink_v02.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>u7AymxbzBNMkuG5qXTHDjF+GHoUeFRoGZxiAyO6wHmU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2Fi_icon_arrow_m.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>4X77z6mWVCGX5SCxSgC91Tx2F/75Z/DCFkJGKzIsr5Y=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FHalf_Circle_Loop_Blue__60FSP_75.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JSv9+9oePD4nvE4PPU40SuRBUhxcvceZgueB6QH58HU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_meter_weeklySummary.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>4eVH6G8Ha3NxoZBxA1MpoY4YSzKTy1kQGhO2BeUdAj4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_meter_steps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>urwTPD4uFMqX51KaKtfbr7bcfGH4/2ohYW6UnTE/3YM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_meter_sleep1Unit.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8eJRnf8CEow6reaSCJjDt448Dlf/HEHkP3unymsrOmE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_meter_sleep.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>yCgEzZX35Ir4e6Qq2rUxW1lm4L0MMZQI2dGGicSQp1E=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_meter_heartrate.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>CRUF/UhQgW8KEA/7jiG5xAfsLLMDj3XtNA/bWmoV0D4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_meter_calories.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RXytW1i1jibWdckoVkxGYR6DgPTpEd4Kx+8pokKlpxM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_meter_activetime2.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>UVhT9DF0LKoL8/0jQ74kJ1CqXZLtaNRG8nd4aJQJeTM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_meter_activetime.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>j7gJ5EkeAL/gyVUt1cto9topegy0odb4bLyXbbggWqI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_meter_activeRunning.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Oo6Ff9p0Hco18NkZmsOv+AN/Dgm0UN6jIq0dDmgd56E=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_completion_steps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>U8rucivHCScHM4Qp99NJUcSJM+q8VgzeMISsn3/LtHQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_completion_steps_2.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>q5/dtlOwQBiRJl7vLMh/a5eKCSga+Mw5JHzrWkgZ2fI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FdataCard_completion_activeRunning.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>R64Cz/Zr/tofi988njWEt8zULS1r+jY08K8YhzLYSpI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2FCircle_Count_down.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mzU/OtbjQ6TtoVo2At1iQDDBhH80NrI0LAOpd1Bnh7s=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FProfile_JSON%2Fblue_progress_circle.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7MejUjvwWnzL+2f4VXlQEc/KW+Xr+4C0Ijth/XxZLs4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FPNG%2Fsh_img_promo_phone.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>a7uk/d20QjBFhf90RjHF64cqcfo5QGTfIjzJb/qHg20=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FPNG%2Foobe_img_m_banner.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9Sq7RslYPmD0DN499aWdpiUt2EYrRpeJgq+34bU7gUc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FPNG%2FmobileGraphic_400x400.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>XYmHqnr6ofyJChCi/9wNErTaxypKuCdgdJCwGuq3B/Y=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FPNG%2Fi_img_header1line_custom_health.9.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xjvtJVSQrNO3aV10iOc1CvOwt71dHh9f3nfzkWlIu20=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FOnBoarding%2Fsh_header_logo%2Btext-01.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>m4aKH+wLxi+SZUT07MKPRM9Y3tEOgjGk3tKuo3O9sF8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FOnBoarding%2Fonboarding_intro_video_placeholder.jpg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>j0tUovGds6cCeOHPa2jplTf3pPgOT64QSTxmzaNzTCM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FOnBoarding%2Fonboarding_intro_video_placeholder_scrim_portrait.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>WCiV1Qo3uvE0fwEPgSpntOGDKqj9/I161gx3C935J9M=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FOnBoarding%2Fonboarding_intro_video_placeholder_portrait.jpg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>yljc9rO2qy8F2Reg62U86Z7qeV+5i3NGrtyZ4zEDQ5U=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FOnBoarding%2FLandscapeScrim.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tWz/HpqTS1L3KLWK445D1RTDduiXamQAec1AJQdV0/I=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fi_img_header1line_custom_health.9.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xjvtJVSQrNO3aV10iOc1CvOwt71dHh9f3nfzkWlIu20=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fi_img_c_imagetile_innerline_n.9.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>eE71EJKc+Mrp0z0ZP9sTCxRJG6V3aJ7AQ4o8xg+vBLY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fi_img_c_imagetile_innerline_f.9.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bUHyhiCLI6X4kvtA06bVVrx7ye2YYDKEOnyeS2IXuD8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fi_icon_wearable_status.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>J/LX9wenzvU5JsTqn61p5YRJU/RGPsHYOkhKpLDL7Hg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fi_icon_info_check.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>TJ0GIsjw3+oYTGW2FKMW+9NfuifZoGmTq6IpZg3yEWo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fi_icon_filter.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>stmySlqrmrYDPhI6fP3hlwstmVGwHrnoI1taY+6kRH4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fi_icon_filter_f.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>nR+9YplCJTD4FNOHuRT47DuKsoHVhL8wl7zACe/AwEM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fi_icon_device_m_iotcamera_disconnected.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>l+FmMV28xAg3jRkgkZkT8nqBOh2NHDRqqp27qS+Op7o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fi_icon_device_m_iotcamera_connected.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kLWHpcSznRWV4PV8c34Gwv3GnXdtMPOXoiMsnU6MJ0U=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fheader_i_returnhome.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ta3+IXs+I8ymvV0jMZ3e80eGJZrHVava6XYOr2C3UG0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Fheader_i_account-switch.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0GcbmyoZFcfqfSYlzCQNxyBfNxby59u/hrL3g1Uav08=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FEdenPreview%2Froutines_unfocused.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1WsuQby40lfbKmzaoPG9fYF7rYKa8tovH4cG2w7gl8I=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FEdenPreview%2Froutines_focused.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>UOSJ0FBzP1VeaNr/p2lH8LQW77UuvaDPfbPZzS3xi0s=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FEdenPreview%2Fprofile_logoff_unfocused.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>5LpIMXz3XSRm7smrVuEhRfSfYyzr5rgPoKK9VXwuzpM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FEdenPreview%2Fprofile_logoff_focused.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>s0zvFx14APrYTkHOeJV9QkoRuR793zzZtWsCN8SAVu8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FEdenPreview%2Fbrowse_more_unfocused.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>J1mFol4xPeUvwpHoDrPLGcryAliWIRJS0+k1DW6UHRQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FEdenPreview%2Fbrowse_more_focused.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xnSciQ/P71CeVV+6bha8hzVCvMYOGqAi1uOQXmc2tFY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Feden_i_icon_more.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wbhhi69paYBVEaYOA/y9MYNBX3d3nCUjpagaMmMo1xo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FContentDetail%2Fsh_i_icon_watch_unavailable.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kymHFRAK2Qz0WMUwQFkX03Mdyve0SDdCG+FvElXwVu0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FGray%2Fsh_i_icon_badge_coaching_500_pending.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mOdJnDFx9J5pN/3W1c4MZ7dHzbk/NQMFyIw/XaXNts4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FGray%2Fsh_i_icon_badge_coaching_50_pending.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xCMZKOd9+UL9vIds+EsOAZzZVgdMVAdOT1DRNPqPQeM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FGray%2Fsh_i_icon_badge_coaching_5_pending.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mq/lymJ1zL2/lNwdE8K5rR35srvwJOvjYRpXQq+OvJs=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FGray%2Fsh_i_icon_badge_coaching_250_pending.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qYfiNfCZXv+e9CIBBoJ0/xxQdT1OeKR3Lgln7W8Bt0I=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FGray%2Fsh_i_icon_badge_coaching_20_pending.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kZN/bFQoW+3VdL+H1qabP2m6uAaHjIAXdZV1wlIMYiI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FGray%2Fsh_i_icon_badge_coaching_1000_pending.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0tbft4cCAx5lq9XNz9HttIsOJuyCqMdSv86lioLR/kI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FGray%2Fsh_i_icon_badge_coaching_100_pending.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>T3iZND3s5JPCg+YHcZqpWoEYz2WVP/iNfOzxlFtAA6w=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FGray%2Fsh_i_icon_badge_coaching_10_pending.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>46Xq8MnUW2iAU6QlWvP4ettsT+n3d9GTa90LqQMjB6A=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FGray%2Fsh_i_icon_badge_coaching_1_pending.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9+INTBXET65DfGqOYIaVyhkiGMYLOHqRnkBJ8NyoYxw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FColor%2Fsh_i_icon_badge_coaching_500.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>R+GpTj6BJsp38OoFOGaSncJ5VjccNIRChGUqTonvbCQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FColor%2Fsh_i_icon_badge_coaching_50.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>PyoiuoB8KI559OBRaWtSUMvHK647nf0oK/9SFN9SLkw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FColor%2Fsh_i_icon_badge_coaching_5.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>b6d++lL5870C25SXhkyjMiWqMLRsPrULt9B6w4PVdyg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FColor%2Fsh_i_icon_badge_coaching_250.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IbRSumYF3IGi3vadpbIbn+xe6JTBvD/MdMD3qVVw1/U=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FColor%2Fsh_i_icon_badge_coaching_20.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FxKFj7Hlpy8LCCupsfpL8p3X7HHlYkkxN+gQHgp0Px8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FColor%2Fsh_i_icon_badge_coaching_1000.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>WcwPUcUWBSGnS6Lk2qQtK6Z03inFwlf8A6KNJNzP/oU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FColor%2Fsh_i_icon_badge_coaching_100.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>lnoJRVuoFiIvWcDS9cgrpDQkWi0DoNDfGUwpy9oPHpw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FColor%2Fsh_i_icon_badge_coaching_10.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tCXCT+nN4o5aPKzcJphY5Ad61iAMbqlQqZKQ1pPCD5I=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FBadges%2FColor%2Fsh_i_icon_badge_coaching_1.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>o4T3KnFt4sVtvc/V4ZAgzW8z3BxXa7p8g5PG02pPJ4M=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_triangle_up_i_icon.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2OVzNJBRmTFbJs3VAbrx2p+Q2bLM3BPo64bD4Xkw8Zg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_triangle_down_i_icon.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ppgZliGis9yn81PxHcxH4GGO/jssf8rWyoQP0PbTnss=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_position_guide_stand_side.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>erFtWXwafLeQ8ielN9WLw0TI6UkHNCmC9V/kGPcSEEA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_position_guide_stand_forward.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vlE1yT8O5obpYmsYqLmFJ+SAkOdlTw0o5MvMz/SCkqQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_position_guide_pushup.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>j4YJKZ6uRo49ERHach+gwXUWRQ4bLIuiO79stS3uyJM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_position_guide_hands_up.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>GG9E2vWxklyQDD/xMn34AHhXs8h9aJNvtTJQlZjrHyM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_position_guide_hands_up_side.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NA1ZV0OD5LyNqPCWpwKjplIafiV+sWbhxAmtEkjMvw8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_position_guide_down_side.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>I0bwVDhZ0MA0SdUsKbKT9qvDVrx9NewAQbvv8FkN278=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_player_bg_bot_9patch.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>nHD/ryyaMlKBaSk3D7LpDWhOrTLuyCl+iXsUwnK3wYg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_plank.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/qLKv/Kaelxs0owYpVHK7qQf274x+TIt1wZ8GctdcX4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_mirrormode_time.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mj6xuieXu9nBy9wosOUKqFN6cfotMgSQcsmKszX9ZL0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_mirrormode_heartrate.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YANO0Ar0v4JMdx2s2eLUEJi21OD3vajg50idx1k7mhE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_logo_bg_top_left.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NG99FbR+s8E3uL2gGE+gP1Y8+OzbeWBQo8m2o1mwxqU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_img_spotlight.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LE4kRg0DXe84cEtS8AFi+t1oKSFThiWY8BIVq8Qt2lM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_i_img_congratulations.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>P8MMLaTWtmp7jD/SgMJ9YWM4quEaDU9q+zFcoKSbRrQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_i_icon_error.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>6/1ZS4d0YR2ekNJ8hYuCJ2OcHz0HRoY6Y5t+KACX6MU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_i_icon_cardio.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Kdv0UNWGR0K2lAZyFg5K6VMeYmcGOVZRopV4jMOEqF0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_i_icon_calories.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gxiwhuHWeV/NJpsI+OixyumLYy/lYLQy2VQtjYPuns8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_i_icon_active_time.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Sa9+NHU3T+BvltePY3J/oihLI5UfDBoUc8pa5CtGKVk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_duration.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>sbpglhnSy/vGUhwbh96K69SvrmbcP65RwU/fqo94y0o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_connect_camera.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FQIHhEkSnGPBWo/RkcopGFQ+DNl94VCIOT4yiJC8j3g=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_coach_feedback_poor.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>jOoG2yJb8sFHhd4yRGOHXCZ1LyIUzidG/TGu1KFi4TM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_coach_feedback_perfect.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>D+Q6/0LAxA6n15ylid00eZF2e5ZmJ3lmwu+YZY3fVxc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_coach_feedback_great_3.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>PMsWBhjAlO6jfaIJyCR/jCwqOOCVKMMO8pVgyf6BL+k=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_coach_feedback_great_2.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xVXt4udY8jx5GkfXDClvFTdIZIH/M6QBmFfgwPVfWqI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fsh_coach_feedback_great_1.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VCGcHHLi+H/dbltnIVq1Qey1xen73yKM84fAH+aYaPU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2FProgress_Indicator_Percent.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ET6r+XOjT8SKcOTpC7veW8GyayJQDN4tYB5HtqeKHgM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fi_icon_success.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ZaWHMV3BUaG+XrPs4/bXP+YFHkfKmVKBeNbx+r1BICw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fi_icon_function_sound_effects_on.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JPv4xaB96RPih/a8ee6VsfA4NlXaTAJBSo4Ro9cMPv0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fi_icon_function_sound_effects_off.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>KUt/AVn36NsxcUUGgOBDeDf1n8/Ni2QNWizZyXuUDI8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fi_icon_function_play.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VC6jvUw7++hjYHFMP5PJHW4J4a2mcd+YV1maXagNWd4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fi_icon_function_pause.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>UG78j284x9wTxnwCcIfstG1Fgu0xJOAh7IqMKmPz3xo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fi_icon_function_layout.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>oX1sLoTacJjjax4RUFYoyWp/xUjEY3rDMQrPvnUfYxg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2FHalf_Circle_Loop_Blue__60FSP_75.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JSv9+9oePD4nvE4PPU40SuRBUhxcvceZgueB6QH58HU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2FGuide%2Fsh_position_guide_stand_side_left.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rzhFI/GgYwB2470gylKOvdsmq9V2747fl93MV39svKY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2FGuide%2Fsh_position_guide_stand_forward.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YxX72gUgKm4vxHKiHixBpo8505sbzUdpUkBDQnu55ws=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2FGuide%2Fsh_position_guide_side_hands_up_left.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>pPz2SLeNdD3ogWYIBz2jB9nV2vA8B2JwAlskKxlkBtY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2FGuide%2Fsh_position_guide_side_down_left.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>X6fn25VZJdb7HN0MvWyz489qyiXevJ40VXtbQFHWOpc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2FGuide%2Fsh_position_guide_hands_up.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>XszywML7GTQEdv+YY4166B+sGDpNZVM3AkJoWPnf3f0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2FGuide%2Fsh_position_guide_down_side_left.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>P5aDLUPnsD/xtYI2FVuwlpiLEiu2OQndc8/WzgkMAMI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2FGuide%2Fsh_position_error.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7s0vJRD3Ueet0T6pKKkZIdQ4euHAG0rH0Q4E8nc9mAw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2FGuide%2Ferroricon_red.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>fuTzrvamqsUnNdTT6iP6ombC3vTUC/8FOM7EGnbJhuM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2FGuide%2FCount_down_Timer_5SEC_30FPS.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Avcallm3oXaMhJWlPGBNA+mNtaBJrNv+T1p+xZubmAo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Ffeedback_message_bg_positive.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>WH8ErkE1l0oGKG3qaIAAUmOW2sJq3BCI6WEny283JfU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Ffeedback_message_bg_negative.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>q7cm0eNuYvAHwavEv1DvmFAvOqRXx6COWLTPvOzZag8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Ferroricon_red_96x96.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BLx5jeeEWrsZHS05xx/xPlakaIWmcAM5pCPc9i3Dwjw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fcamera_position.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tnz6Z3liI0fja2TY1j/czifqshUHqQVmngO58FW+akU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fcamera_bg.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>3qokSfBrwmx9JNgGv80qZ3P82j30LKQ2sUX5fFNGJsU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FAICoaching%2Fblue_progress_circle.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7MejUjvwWnzL+2f4VXlQEc/KW+Xr+4C0Ijth/XxZLs4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2FActivityPreference%2Fsh_i_icon_intensity.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/0CGfr7XGa4NhdmfJuKGfJJoqPAF6zMRndyqhcfL6GY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Fimages%2Faccount_icon_profile_signin.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>HF5umQfeknYemaVx8A5LNf7vmvMYFGi7PmVzaVGYN10=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Faudio%2Fpositive-sfx.ogg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>5AjCkHGHD/2/cRrKdzkXFgVpKtsY6AlGGN8adF60ThM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Faudio%2Fpositive_sfx.wav">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9/WsgNc2JTYGWnK0u6opZcZPc6YhITLWXBXgH74QSxo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Faudio%2Fnegative-sfx.ogg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1F4wff4LeECJClfNJy0fdHJn1ldXE1dG0r7I4575A18=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FResource%2Faudio%2Fnegative_sfx.wav">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>03wbgNEtEPgPaGLNfHgxkvJetk3xOdWpU0cW4C9BIZI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fpt-PT%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>EVkcQRgFgkAa2DmfsR9Gs+ik/8PMAKKDZEYaK7OrO0A=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fpt-BR%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>5vwH1XsGSlGVshTx8n+vdXyHxUSHWVVlSRUDyLW+5IU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fpl-PL%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/TzhcfkrV8VcVtxAKPh+xWeGjrBD1nO8KnStq/iNbAQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fpa%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dYg6cPL+vMVMzyv1M6unCzfLrMrd3EefEXYtv8RF+lQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2For-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zCXg23mna0aDbatggovZwWYzcej+Y1ETWYdwk/t7amI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fnn-NO%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>nIyGA3JW4JxZ8ftkqt+jmGghswgiFmL2wuTYTvK8FD4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fnl-NL%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kV32569kq7Q6S3n26aztL+P37xy/RWhtg0hi+F+ifSg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fne-NP%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qgJnucxWhr3jMQeHalK/Ef7bY3LRysDJWyQlG6Qw5bY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmy-MM%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>TrEwe5BFn+QkvQcGNKxEhs413hGmUMrv5510Uz2+R6Q=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fms-MY%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>U047trqtcoEYtEMLFi8gn4noggC0htq6iO+d34O29O8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmr-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Gm8Jr74oZPuAMO0k/CjuKP1LINWoY7u5ixu39xHeE5I=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmni-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>P/OcsXZ6U9fVDfrGk3EKJAMCeRS37NRJzzdEMRn7xl4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmn-MN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>sIIDwUfwIbcCIXj+fIRBLERj6FzMg8GnOzDFcfPVsYs=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fml-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Z/iSTVGuTenfKoXr1dkb+cp98TreriQ+Ue9T0sIICRk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmk-MK%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0/wU095bvgwP7d33bcHThQdqePgU8nmfh+LLpuShq+I=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmi-NZ%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LH9V/DbDoR4gWugwNIhh8f1Mb9NT4emsfN895RYw9d8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmai-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>6eH6cP7qki8e4CFLoydKkTMlsnjCPUCkTCzvp/eV9mE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Flv-LV%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SXIDfa+IXverxe5zPcpupNDkchNip40j52LelA51W1M=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Flt-LT%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>4+0zImiqBqqfOsRmfNr2bqf8UTpuZDchPHRCzAKES/M=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fku%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>DZWRrdvbTm+wg3+sPhKkmvGTAImbgv8In5iBBs83+2o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fks%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8TMc4FG3/r1tSiaxRWmiceJVm9LrpzNSg2HhUE+/+K0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fkok-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>R7fSGpsxm0lPtYp2fW7PzQVnBI7k6ZcwdL+wyqXG16U=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fko-KR%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>AVDAXQ4FuUZ3wF6eVN7cP4R1RBkYSY0bl3R0FvlclrI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fkn-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>yYmP1YPE0teNiHOyYccSVb3y2ctmBGMxrPizFWbSmCM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fkm-KH%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JPRBaQ1po1t2LM3f5/XRzpOK4rhlQZ599Bn3IlKdK+o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fkk-KZ%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>u2vXRUYe9Wf0OCQAt+ArYitcMLmC/0bKgH0S2nEo3PI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fka-GE%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>iNCLPV6XnAXHJAmHaP+14I2EmTP5dWLWrRAvJ99LC4Y=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fja-JP%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>4JtpudujR4XBni9U9b54pk6UlvBTN20b3CK065mwdkY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fit-IT%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>O1++XDCJJvDUEBCa1NjYCW0BsPbLvkL8b3PdEI+diu4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FImplHealthNUI.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>cbw3LlgeyhuxI3cuPihx27JBBvsu1CbJu9SvHwx6Gpo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fig-NG%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Jai/IHDG+TO2sfIhutW2sI8k5J9xL2PvoCiM41sK6To=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fid-ID%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>m7u+fhrXmQfPFJ6RQ4Ip9g/CIQzw+wf99lYZ4i/6asw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fhy-AM%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>19C/SP7dmNfHhnS6/aNDevPSAegyAQWIum+IfVLZ464=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fhu-HU%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>3deVcig+fmj/Szysy1QBc8hms+PRbV8vcOI5pGSVLcY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fhr-HR%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>p2nL4yUtNCZpJ8xS8StJWzbPIY9T5FTaSVsY8Wc8Pvo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fhi-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>v4yT+dk3Kz+S9ewCpwcKvWwT8vyPbiwKyKoT3e14n/E=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fhe-IL%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gZoVu/LDRXIjQJHiPZgRWKnOVnrjLQR4mJi/1lwpAwk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fha%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dhDhvgkXIBTntS1M6Q6BnLT0MBZpsA6OQZlCrMV6IC0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fgu-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>yRg8m0uC7htOOjuC5HC7RrdMRyaGeozJCVDJisvVnrw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ffr-FR%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mfMxA9RMK9Ym6BbyTP37tNFiNp/KaBvn1RGNcudnaM4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ffr-CA%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BqogBkI4hJLKUIy3nVJ9WzUA8DuTEb9YFsrqW2cly50=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ffi-FI%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>thVkbiqIfTNygy+USW4c8NC4CvR+i/ZZw2UkaToNY8Q=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ffa-IR%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IBb5P+w7Oowh03I75MAHcR4ejjnLAGoYptQ1Ogfro3A=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fet-EE%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>h0UWEM8xG9PgvE14t3qyUBWLoW73T2JfNrgJZToc2zE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fes-MX%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>u2Jn3r9omG7BNGknugEKzFWwFrrtuLbj2ylsyoCTdwc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fes-ES%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>atn8rRb1sp1MsowwygAzXosWokH8rMyvcAH+Lg6poHQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fen-US%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Gjbgtw/WOUQeBu3r6rCA610Yw76Xf4m52l3upMzRUcs=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fen-GB%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>uY7qiiuQ4NQr18+UzeRMPoj7s9HpXu0y1qF0Kbd4Hbw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fel-GR%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>DmjyV2TRqdiL979o/emOGPB8o2ZQTCYhURG2p+jl4o0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fde-DE%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>uqPGjxq9xSNG/Szq0y66AhRrqpPZkN6dSxnL3IoGtTw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fda-DK%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>EaJwR4KsxWaEwFIcTJ2KWwr1a283MCMsD015YTaDF9E=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fcs-CZ%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>HjSBRySod6mUM4YHh7ff4GWOMDaG80BpbCVqzwGb5vI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FCom.Samsung.TV.CoBA.Healthview.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>T3NoeD/xeTfiJoUHCNCxLJTk1b6XgZ3ZJXUBWU+Ekl8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fckb-IQ%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xwtQj0JJ9VdGrMlcKjtpICOTHj9ttDuTBpkkwIrR7Mk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fbs%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>pvGw8s+X4BWFCH/jPeNuM/sGjBqNvySfEKGbWOrgMu0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fbn-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>PBUjH/mqpqziUR9xQJOi1wO1LHJpITn6hbJkn1FglWo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fbh-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>XQYWeoGZiX90Xdh7JMX+1JkvtrL8cI2+0xnANTYkQuM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fbg-BG%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>OgU0axx7GVSRDNOskba1jR8J9jA+kTpXTXppr8mtsuE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Faz%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Jd3H2p8UwOfFDQ+xfuuZeyr3xK1YXkIb53wCv1NFJyo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fas-IN%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>N1XETbJBfcuTO+OOXm7hUFoCjmcorXmQOAP28cLFXZ8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Far-AE%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>6WFOuPZzgwfakTTnMyLilZMEl3MmJiGKt4lyxghqGIc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fam-ET%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>4xVmH35h4+yyxv8J5P3E9IUUREzlfDeRDQfjtGPrd4I=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FAifwModel%2FsampleConfig.dat">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>A6ecUcf2ad+uKdmy+L+TOljLQJbOZAfO8GRB1wnXVgU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FAifwModel%2Freduced_model.tflite">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>CV/ZzeRqNLqzVV6RJ6tDQeIZe/0/oVt3LDnHIUFzLNU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Faf-ZA%2FSamsungHealthTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>evrkNUoxBf6LHVrEZbtrBf7NAjcIXFOjCVs0wcGIIPo=</DigestValue>
+    </Reference>
+    <Reference URI="Com.Samsung.TV.CoBA.Healthview.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BKe01TIU0dRewpup76wQZtlE1FTdVot/yokFKKQpzac=</DigestValue>
+    </Reference>
+    <Reference URI="#prop">
+      <Transforms>
+        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+      </Transforms>
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>e2rGZ9lURQWep1IIbrRk2NYMw5EXlejQt2B0bMLUyoc=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+rtogsnRp8daSLbs7gjDxfIWtf9uo54yAPsCxUHqGDyof6rFHhEZnEgfatA4Y5fYjPnCO5NY4IDCo
+5MThd3yHmr+x7eq2lJZr3OK59T/uYze9vGGRIukRM9FY1ngDwHBLKePtWN56hC9qYbx61qjayy70
+zYasEWLFzz8AmUR2WNHuskgZAVzW0LaMwtpkd6w74R1qWNTULPLkiZhLhFmNDNa4lsqG/vEwVBk/
+Z2ZrKf9Nlv9wLhuMlEO7io0rg/d9S+5aaBX/ena6DSbrkZwVz3Ro5YYjiSk1+4/oTD4to3paVBY2
+hTiXntZQdbtRc+vRbiRMqkqHP1QOa1wC9S8aJg==
+</SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+      <X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <Object Id="prop">
+    <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+      <SignatureProperty Id="profile" Target="#AuthorSignature">
+        <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile>
+      </SignatureProperty>
+      <SignatureProperty Id="role" Target="#AuthorSignature">
+        <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role>
+      </SignatureProperty>
+      <SignatureProperty Id="identifier" Target="#AuthorSignature">
+        <dsp:Identifier></dsp:Identifier>
+      </SignatureProperty>
+    </SignatureProperties>
+  </Object>
+</Signature>

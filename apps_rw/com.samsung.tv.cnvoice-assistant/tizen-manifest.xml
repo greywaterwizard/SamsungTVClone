@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.samsung.tv.cnvoice-assistant" version="2.21.11251" api-version="5" xmlns="http://tizen.org/ns/packages">
+    <description>Application</description>
+    <profile name="tv" />
+    <ui-application appid="com.samsung.tv.cnvoice-assistant" exec="CNCapsule.dll" multiple="false" nodisplay="false" taskmanage="true" type="dotnet-inhouse" splash-screen-display="true" launch_mode="single">
+        <icon>com.samsung.tv.cnvoice-assistant</icon>
+        <label>com.samsung.tv.cnvoice-assistant</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/register_noti_service" value="noti_service_info.json" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="anytime" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/sdk/version" value="v1.0-beta.1.4" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/version" value="10000" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+        <metadata key="multiview_fullosd" value="true" />
+        <splash-screens />
+    </ui-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+    </privileges>
+    <tv-info api-version="6.0.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <provides-appdefined-privileges />
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+</manifest>

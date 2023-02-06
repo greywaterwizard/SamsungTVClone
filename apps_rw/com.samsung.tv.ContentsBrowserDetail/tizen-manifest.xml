@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="6.0" package="com.samsung.tv.ContentsBrowserDetail" version="1.22.11031">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv" />
+    <ui-application appid="com.samsung.tv.ContentsBrowserDetail" exec="ContentsBrowserDetail.dll" launch_mode="single" multiple="false" nodisplay="true" taskmanage="true" type="dotnet-inhouse">
+        <icon>ContentsBrowserDetail.png</icon>
+        <label>Universal Guide Detail</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="anytime" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/waitingscreen.type" value="notitle" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="max" />
+        <splash-screens />
+    </ui-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://developer.samsung.com/privilege/was.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.partner</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+    </privileges>
+    <provides-appdefined-privileges />
+    <tv-info api-version="6.6.0">
+        <infolink>T-INFOLINK2020-1000</infolink>
+        <infolink>T-INFOLINK2021-1001</infolink>
+    </tv-info>
+    <build-info id="8583608">
+        <app-info exec="ContentsBrowserDetail.dll" id="com.samsung.tv.ContentsBrowserDetail" />
+    </build-info>
+</manifest>

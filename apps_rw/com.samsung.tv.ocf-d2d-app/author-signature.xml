@@ -1,0 +1,435 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+<Reference URI="bin%2Focf-d2d-app">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Fe/ASwDfiOSDzqp2ckATls2Z1wWh4pyqFT21Kg4IC+0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Faf_ZA%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LkGs8WKgs7Ft8PKTri9HN4SlBbRAd27BJbCJwx6hf4o=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fam_ET%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+rLpDLhwZiAxdzby0dIIo+ZcbsThE0YGZrF5ecOYwaQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Far_AE%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DIDHlTmst5SHlfXFAaw1WJu1RleLNDwvtOv3jwdTWfM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fas_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v47VolPmpXaqs2e0kNeWKLMy1UpqHRTlcI1ux7c6HO0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Faz_AZ%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uD9qb/0Vw2x09C3txW7wsxd82H83eQIns1rf5eVfztE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbg_BG%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lp5+cVJMOiTKkU3l7TDqAw8xP765au7yr6oUOA932YE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbh_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yPxvHdI/v2qv2WxFpsgHpYQE+XZ0cw6U4lhK4R3pqOk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbn_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PFEWFL6wrHL/mBQB35GJebOlKesUZ/4Lh4l5/DxdPsc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbs_BA%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jtxMsO9CVPomz8+pQmi8pdaPjxinGHYKo65ldH9iEyg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fckb_IQ%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Apd6XCQzY7+mQznrJ4BqSgrBnxyPrLr5VQ3bsMEIZyE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fcs_CZ%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>it83gynyZCEUxlTGTLpjaPn84RNI1qJ2Vg8iisjCr5Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fda_DK%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FG2ZIrNMmcYhnrf1F6jUN82M50tmFVEpG3P8SsTubhI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fde_DE%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SiihFXITX5+PMOdRhDOahSa+sw8uR78iim0j6fmbibQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fel_GR%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9/nXqFxDV0R/41ZH/BrytQKEDRK1583gjaIH3E/1ISA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_AU%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LEBvgrq8omj9w3yfLjEI6WODHSoDrBT/ZJU5cWEEqbQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_GB%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8liGhhBVPcFdNGwsNAkjPPNX+xDWtrlJ/mD5NknOCXw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_US%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sutCu3h6+Wr9WlxqJEt15P2y4QXpVVQaZLOUO9iDtnk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fes_ES%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NSpIf9gkn+y97SJW5lwo9fE2jrBDZuxOLiuGskRdkN8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fes_MX%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c/QsXCl4PRviGJX83KwBwrJtkG3VRdW40ERSB1Gs+78=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fet_EE%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>x3KPNpwEp5LHl809qQY3JL/E5sww7HHuid5uahtrZw8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffa_IR%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YKgCQV/YtezZLudzYZNtac0mMpEYi5oEbtINRNN15IE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffi_FI%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rPZhd6R1fBAohcZZxX1IS/xVV13YHQLfb7BzjzGRE1A=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffr_CA%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>47UnL0YWCQkKvHg5iualL+JMwlUj7cmPxXFnqnljMeE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffr_FR%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RXS8VkESr0Sfh9C2UUTz/gyPATqwBVBn8NRIKOwD9Is=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fgu_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Er4S6C+s9n0/LscbdjOPsDqixblYFkjFMo9ZIatlJhY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fha_NG%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cJkID5/9JDs+S8aBlYrlrApfD95lqchIKYrkoazhGCw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhe_IL%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Gu1pzLBwQZqlC1QUOB/2rkfBSilP0vUXggnbYYW96Do=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhi_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xhmtz+DQ1Xz36vchhki1PwJYpDQKr//2Dg03kPE5psI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhr_HR%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>InIFo0JJlTmdUQwXE5iNxdiIoGYVX/R2w9zMfEScq1g=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhu_HU%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UoS1NKtw6I0IucbFQKyB1/SoC/hUUSXaaNnNesfu6xg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhy_AM%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Y3PQR63hOoLePJVp+EFr9VHje1vwRL8jpz8E+NnpuRE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fid_ID%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6C7ex4iiycuI8qH4mcTpkUhuUL1sFm1S2CH/936cFHc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fig_NG%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g5gkvHjD1lJxScfcVouBp9r0umKumRsxqe6xgJdL2Rw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fit_IT%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Szff0eaj6e/q5+sjeCHEk/isOOvggne4D2YWBncVvc0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fja_JP%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Hz7d+hvSCM86YvJwD0Guhgf03wyTokcK9wJx38B+wPY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fka_GE%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YKkWbN7GaaXlovNqTdQ2xVAANfKEXh2MxHJYJh+tBV8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkk_KZ%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pRU4Aw+KKCHUBjV+u2XPJ/i/CLI7bK9n+vT5bE47Qbo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkm_KH%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LcRJYBegr8SL9QzJ+Yv1ctXH30MawIsyGp7GuuAiy+I=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkn_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>F8G+rUTDO1dG295aZk6L3nfKRUtrBlqOyERTuAQRq9E=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fko_KR%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GeHRt7WWDuRuh7/I9JXZp33knauSGHKas9Xo1hVUbnI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkok_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DmMpvtguBSQOFktGz/ulz/NmmF7nfw2UcjlThZKk/WQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fks_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qZEx8054zhqh8k3pWRFfIWpikGCXgMPamrxqvF3szvU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fku_TR%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bJySG0XgZbNdnly3xpIQxl678SYp3KpyMSv3xPa0Z58=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Flt_LT%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wL90p1YN/DHJTaaFkSqJWTJbRI5cYT3gcc03Qpz0yjU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Flv_LV%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tHhI/zVKGwhltd344Bry5lNRa2bURsTzHqj0ALU4f08=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmai_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>a2+ddS699d3kqM7BZJgpVWDn0GgneVdsf3oshT4Hs84=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmi_NZ%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jl3EKUZoLgqvi8JSt433mMhYkPgaVt3rjwgfMuQgNgE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmk_MK%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cDCyLUHyiZaApe9arztbFaHIEA3iPD9V3oH9VdYeRxE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fml_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xWQ0lTJf3wzj0yAHdT7dxOYMJIE1Sf2R07ZNyI27H0c=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmn_MN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>goSYpO4sqldIj24rZL6PwO51VhHm58ZmLHfOPdhcSrc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmni_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ELvaNsjJKqhGijqzd1zAX74hZJQBbhx0EW0Ky15lgQ8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmr_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LE/ihBDXVvlNk9zDtRBGecOkl8JeK46Gmk1d4ADO06E=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fms_MY%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>P5bP/HCoLdNwvL88LoyZCewis7ivWY/LHwSOCY47aww=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmy_MM%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NLkT1ERNJj7tv+TJfT6us+ID/1G9RPEFlG73aPD5TlA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fne_NP%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZxM/qoOjpd59OGbsVTXogrxCuUvCGuNn5s2HZzx8BSs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fnl_NL%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>d5pfXxXBqQCqsOqU7auVWxPEPNQJdvB/cUY629fMpmw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fnn_NO%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xBLlzpFLjuenqZl/EAgykW/6jIKLSEtyRd1uj6wD9AY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2For_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8rQ3MuYUM20KvHvJ83AiWyR0vfAo7gm5hVTAVY3ejRE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpa_PK%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QIoiEd8n4AKiSpTVmdfiFxfgeO7nQwgOCEq+VHpRX80=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpl_PL%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PYCycCgy901TltqKFWQ1QtYcNpebR6ugdxaQwIUrXh4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpt_BR%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1rceu8Qv12nrba0ZeYw2Avyovey58zpmWdtyKBG1CH0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpt_PT%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c5FbveaSM8L93Jk5QjHiVMmd/cGuUh/6m7OwZWQdReY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fro_RO%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L1xWZQgezTSIDE/Spf7csH8n3Zs08h2gNANR/gH8bfI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fru_RU%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hGWVbRi9URVTfcRB5LKQpHVD9NfbWtl5RxNZ8ZZdwHQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsa_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qv2Gm06bZPvVTFSVHRfQQpE3GOsnZqu6vcxKb073Dd4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsat_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mepqMZNz5bbAQubm3/9/Svl2a/EwU8UXo+15TpuUeZg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsd_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ppp8rB0VxDM3oZmVZEhkn7eYJGXAqZ2Kcriz7OoLgOI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsk_SK%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jiQUITbuxXxsuTnoSDuUA/BGrqqj66Cxq1zISes6NDI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsl_SI%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PRA0KdeuyxjE3d15lej5VLk1A98MDRhZov0My2dVw9c=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsq_AL%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zCutOo9NzSbVabnBg1aTwynVsFKOG7mVRoUtau/Gllc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsr_RS%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8ZGqoMK8Sinp1xLVQ5XjqfbJ13R2dXPctPCtwHIMQDY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsv_SE%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lS7Zc+EHrIhWjkH6ydfynWW6j4WQ0cx0o4L8HV2xCd4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsw_KE%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PdmF1Y1cfKK7BzjpIzyMVTZ7eQJjbh3Fbz1wi4MaL7Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fta_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jQ7pWPejAP0ndwBFIbaruWDGoFzAnEo1AGHnoIP/LNg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fte_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xYo/yipcgdGfL+UWTbpvvJvN9m3GzzYRpgV3iAVaPto=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fth_TH%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xVTzu7pjokIJLi5t3kHmt9L+523dT5XpFMlLSv3CzvA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftl_PH%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OUmt2OJoUwt3El5xyUc+x+XWaoHfCi2czxwolpVmgMI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftr_TR%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wD4POTG7o1hjuyFqrETrnLVzdlM5Cio33KdMBt9Qyk4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftu_IN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XQRsn5DYDfDxA9QA0v19CJ3ImU1aCufvIpJ1szV8iRY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fuk_UA%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+nxjfZEWWA+Ri6mQ/nrknjElMEgforVj9Va4Ec+9Y5M=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fur_PK%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>187u/AaXi6jsnSOo00L/M3g6XIOWU3CMiiEgh06nqyA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fuz_UZ%40cyrillic%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bFyXG7tYhLgZxTvtcIFdFuLM//acZC9B9gAIt04CVWU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fvi_VN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RhmgXlnmkCaYOUit23cl0FU431SH+gPMzHu5Oxwl4DM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fxh_ZA%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>b2jz5v+HgOjkFOpdZG2cvos+4TnrEzALsp+BRsVA5KU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fyo_NG%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CaIuYfAUKya75QKDi1EVzUFY/G0ufj737o9hFa4Ma48=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_CN%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Y7SlqNo3q2JoaT0Li7IxlHUQw0I9rZQ45cjE9cMujTY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_HK%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>B8Kcfyp9JApzV/8HbGIRL5CgJu6GuIwKy2JB/7nNiJI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_TW%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4O5AffFI6tqFL2DI8Ul28eCFqOM/wakfLSSsty4WVos=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzu_ZA%2FLC_MESSAGES%2Focf-d2d-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7Mrjo2/z06ISKfBqTaMflMPAyMu4OwpJGhY1Dokzjbw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsvr_db_file%2Foic_svr_db_server_justworks.dat">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eQCqoN0xGdW604VnRucsfO1an4jus+TEiPFu/pMAbkc=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Flibiotivity-handler.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yZwEFuiKBmxpwMNJDXh7ZZejf7u+c1imu5WHzP17qlg=</DigestValue>
+</Reference>
+<Reference URI="tizen-manifest.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gFhfpoaVJp/c/sLIVlMXfxBAE1H9EVcY7tk+W3KTwaM=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpo8tUDs054eLlBQXiDPVDVKfw30ZZdtkRs1jd7H5K8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+Vk0XlC/rvebkR/B0+iAJy2gj04mUEVBgK6xTP5iPRboRs0tH5uTVpMznT6Cw1P4V1/JjlRSrqoIu
+D1gTrZZTXpvWUFhAj4H2wwIIcxViQ6qV3V2Z3FcW5H1tfkvqLX93EXwFUxeddTrEETDpcheyq7GA
+evbcKM3Vy7MV2v5G4L2MryOxR8cCfUa1sLQqiIMj9AeBhOkfxvw5pYk6ZhPyWqoByb0caN8VRryU
+2A7Hnu9LN1zIBE1Nm1vPBuJf/zL/O9ZaliuBKEYECiyMig0rFFSk63+zex7pRgcykSxckMgyR8+l
+A5js405xZVCcwVFD5diNGPlZP21mmsEvHQ1w5Q==
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+<X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>

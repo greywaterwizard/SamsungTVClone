@@ -1,0 +1,194 @@
+<Signature Id="AuthorSignature" xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+    <Reference URI="tizen-manifest.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>EJp4CHIJp4hXtl+WPw4viLadZXaWZSnhYEMIDyo/vlg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FMyBixbyTest.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2Finfo_nologo_default.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>y7m3A525KtYX9Qb0eMqAtfB2MBOVlzkFStv/P3MGq+Y=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2Fcheckbox_selected_foc.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>2eKxlGExreh5561TZRf2F8LmaSqsBf9A8Z8vQOSDZ2M=</DigestValue>
+    </Reference>
+    <Reference URI="com.samsung.tv.intelligent-action-app.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>9sL4aubetBdOSrILGH3AiINnES7xQqbEAp3HNxqI9yE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fvi-VN%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>yQRRyw+Hkub8+ZmOoh0xuxNKDsxXnV+D0ZlYEADWLFk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.TV.Service.Seal.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>036Sw9FO/GkNrtsHpuqin/+8OPwa5hknNKTbkh5SpQE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.TV.Service.Flux.SAF.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>zeE31a9NF6tTj2RvmnIuJBVxFf/nc8figZ/B1xwoTTk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fth-TH%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>NUsj20JnwJOERUjbi8Qv8jq+3f2Hbtm1mzGdG9pqxgY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsv-SE%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>wHPWwQo0N7+eZNaTEH8EmpPor64iv1YyKiZKk4krJKM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fru-RU%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>uI7/6ZzJ0dFmEcEP0CXOtfFn+hbTX4kQwdqiYqL59Eg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-PT%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>rq+NcXYE57BrX9NPffTQ0uYBakh/4DbLFy4tvZXpxDA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-BR%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>beXYxd+is3EIU1UmMpQyrIKeQVbj6FScHpmwl/Rz+0A=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FLitJson.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Df6MJ3aT8dplWtwbylL46Tx5Bnpt4iEyAZSN1QP5wkc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fko-KR%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>yCS4F9mQhpYWlEhfy6Ctk9wOn7/AZhkQeZszC+B+pHo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fja-JP%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>nwEQZ4db178I3nbEKTOf7/vNk53PJy9sFtBsZqdkBEo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fit-IT%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>IrZZuwbcf1XZ8XqNZ8SsaHNkHbhQevS0M2qcJnDSkYg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fid-ID%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>lRBjS+kPF/XdC178xcKmC2TfKL25rjXF3y9I19GJQ2M=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FIAATextResources.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>xNmisqzpVjSXu5iHkBJjz72gKp77jwAs19Po4L/X9hw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FIAATextResources.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>XO3wJj3MmotiC28gkcJrwbb9UIIWLzeePzvpiJ0eXNU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FIAATextResources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>bcFNqG8KhWaM2wnS9QkgMZz9/di/YCemSWVIsG4w57k=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhi-IN%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>35S6QPqvI6f6m61JUMHarqMdIWRhkchql9Obd7hY1Rc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-FR%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>mVtWXLuZFDvJ/07rF6UqT/kt3vZPG/EqtXWzyPh8PBY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-CA%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>oFdd8+QV8IxkiUicvNwHmu+R3dILZdvrqJYu9/ItMk4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-MX%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>YXZZyPvGrVgi/PjguI0u/n5oQCKE3oFBzUoyeG8nwJo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-ES%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>aB60PBCEPO/T84Zf77hfN3ewoTLsR1J4031zFfwVdwA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-US%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>gt8eE92n52wuGhTInxDnYqPveMcAjYWCMv/PR8gu7jU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-GB%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>iNLV/bHsj9WaMR0FNiIvuDHc3OZa95OM2/v3d5ckIqo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-AU%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>4qTUsjVwVqyQ9w2/+8XWknhxwqlugLku9cSY70/AzL8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fde-DE%2FIAATextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>0VIB2pV7O5VdojeUy4zFeUqExkSG6gAtn3286oWBGnE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcom.samsung.tv.intelligent-action-app.runtimeconfig.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>RGy9NEiii8fdwvQRkaCx61VldYBawsaj26wHFUsSXtA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcom.samsung.tv.intelligent-action-app.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>pxwioyDD6K8ETSjbs3U8UDu/TPT+b9rQ4feUJSpSMco=</DigestValue>
+    </Reference>
+    <Reference URI="#prop">
+      <Transforms>
+        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      </Transforms>
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>e2rGZ9lURQWep1IIbrRk2NYMw5EXlejQt2B0bMLUyoc=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+XVNV0+2/rQiB1H5phTmHyT1jWC5/EDJQYtB1j3SY7y4zcLOXowbCJWfAj33pv+jHml6k+AfMRJis
+eaorSaYVs47X6CpAKrcDCLSAuLYykKWOgMQJfI7YtNi8t3HtfzR4QEUgo0B/XLHETUYa+aEsHpV1
+v23oh4VLFB5KIWrKU80=
+</SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509Certificate>
+MIICoTCCAYmgAwIBAgIGAWD/MlRVMA0GCSqGSIb3DQEBBQUAMFYxGjAYBgNVBAoMEVRpemVuIEFz
+c29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4gRGV2
+ZWxvcGVycyBDQTAeFw0xMjExMDEwMDAwMDBaFw0xOTAxMDEwMDAwMDBaMB0xGzAZBgNVBAMMElZv
+aWNlRGlzY292ZXJ5TWVudTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAhCYo1P5UdmnNx5T5
+oEZ4d0gmfhjYeU7dYxgouqKL6mVLfvW7eqoaDCBbCbZ03HMOpXjzHZUCBZgHaV69BpZjZgvR1zMS
+Pb5FDplHyjkB64qJjCV7aECLSAV9yZZoa4Y8ByXDyEXkECzdKYiQV3FaAd1pqTbapKQwK6SYIL5m
+FAcCAwEAAaMyMDAwDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUH
+AwMwDQYJKoZIhvcNAQEFBQADggEBALIGWrOR5Z15WQpG6LZtBQauRC8+xh6ku8Vmm0HtYd3kDBx9
+xoFc5bm2Jy2Ez46WE6C10QrK8bgIzVvb17O2LVYclrFn0VX9DMp0bjqttGNbuN/rwdErMoKg6T5y
+gWGwIqkMX/hVqSl7gNBDsgQm0gP9U/sUrL5OwA5vC4pjQ7mN/h4diVbjuerWdJm3+R2KRn4ZnkII
+/dCC2ctzgAhWLw+IfEupa6eqQ/TmVopvkcKUC6Q4WDcp1jDF5uZa1410BNEb6qXzyZm+pm1ubK4D
+XHxaN+hLkVsJsyZp0lFCYV3kwD+euzDxTROpgWfGlJWmL/xyNAYn/7my++qPjzYp50g=
+</X509Certificate>
+      <X509Certificate>
+MIIDOTCCAiGgAwIBAgIBATANBgkqhkiG9w0BAQUFADBYMRowGAYDVQQKDBFUaXplbiBBc3NvY2lh
+dGlvbjEaMBgGA1UECwwRVGl6ZW4gQXNzb2NpYXRpb24xHjAcBgNVBAMMFVRpemVuIERldmVsb3Bl
+cnMgUm9vdDAeFw0xMjAxMDEwMDAwMDBaFw0yNzAxMDEwMDAwMDBaMFYxGjAYBgNVBAoMEVRpemVu
+IEFzc29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4g
+RGV2ZWxvcGVycyBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANVGhRGmMIUyBA7o
+PCz8Sxut6z6HNkF4oDIuzuKaMzRYPeWodwe9O0gmqAkToQHfwg2giRhE5GoPld0fq+OYMMwSasCu
+g8dwODx1eDeSYVuOLWRxpAmbTXOsSFi6VoWeyaPEm18JBHvZBsU5YQtgZ6Kp7MqzvQg3pXOxtajj
+vyHxiatJl+xXrHgcXC1wgyG3buty7u/Fi2mvKXJ0PRJcCjjK81dqe/Vr20sRUCrbk02zbm5ggFt/
+jIEhV8wbFRQpliobc7J4dSTKhFfrqGM8rdd54LYhD7gSI1CFSe16pUXfcVR7FhJztRaiGLnCrwBE
+dyTZ248+D4L/qR/D0axb3jcCAwEAAaMQMA4wDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOC
+AQEAnOXXQ/1O/QTDHyrmQDtFziqPY3xWlJBqJtEqXiT7Y+Ljpe66e+Ee/OjQMlZe8gu21/8cKklH
+95RxjopMWCVedXDUbWdvS2+CdyvVW/quT2E0tjqIzXDekUTYwwhlPWlGxvfj3VsxqSFq3p8Brl04
+1Gx5RKAGyKVsMfTLhbbwSWwApuBUxYfcNpKwLWGPXkysu+HctY03OKv4/xKBnVWiN8ex/Sgesi0M
++OBAOMdZMPK32uJBTeKFx1xZgTLIhk45V0hPOomPjZloiv0LSS11eyd451ufjW0iHRE7WlpR6EvI
+W6TFyZgMpQq+kg4hWl2SBTf3s2VI8Ygz7gj8TMlClg==
+</X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <Object Id="prop">
+    <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+      <SignatureProperty Id="profile" Target="#AuthorSignature">
+        <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile" />
+      </SignatureProperty>
+      <SignatureProperty Id="role" Target="#AuthorSignature">
+        <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author" />
+      </SignatureProperty>
+      <SignatureProperty Id="identifier" Target="#AuthorSignature">
+        <dsp:Identifier />
+      </SignatureProperty>
+    </SignatureProperties>
+  </Object>
+</Signature>

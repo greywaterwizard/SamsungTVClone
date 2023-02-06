@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.vd-sc-client-service" version="1.0.4">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv-samsung-5.0" />
+    <description>downloadable vd-sc-client-service</description>
+    <service-application appid="com.samsung.tv.vd-sc-client-service" auto-restart="false" exec="vd-sc-client-service" multiple="false" nodisplay="true" on-boot="false" taskmanage="false" type="capp">
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="vd-sc-client-service" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-account-wakeup" value="SIGN_IN" />
+        <label>vd-sc-client-service</label>
+        <background-category value="background-network" />
+    </service-application>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2019-1000</infolink>
+    </tv-info>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/wifidirect</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/sso.platform</privilege>
+        <appdefined-privilege>http://com.samsung.tizen.smartthings-client/appdefined/smartthings-client</appdefined-privilege>
+    </privileges>
+    <build-info id="5876239">
+        <app-info exec="vd-sc-client-service" id="com.samsung.tv.vd-sc-client-service" />
+    </build-info>
+</manifest>

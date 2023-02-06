@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.5" package="com.samsung.tv.coba.healthview" version="2.3.4">
+    <profile name="tv" />
+    <description>CoBA HealthView Presentation</description>
+    <ui-application appid="com.samsung.tv.coba.healthview" exec="Com.Samsung.TV.CoBA.Healthview.dll" launch_mode="single" multiple="false" nodisplay="true" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse">
+        <label>Samsung Health View</label>
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-fs-external-component" value="true" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-view-plugin" value="true" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+    </ui-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://tizen.org/privilege/network.profile</privilege>
+        <privilege>http://tizen.org/privilege/telephony</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="6.0.0">
+        <infolink>T-INFOLINK2021-1006</infolink>
+    </tv-info>
+    <build-info id="8518980">
+        <app-info exec="Com.Samsung.TV.CoBA.Healthview.dll" id="com.samsung.tv.coba.healthview" />
+    </build-info>
+</manifest>

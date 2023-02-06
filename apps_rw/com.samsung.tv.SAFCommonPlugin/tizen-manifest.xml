@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="6.0" package="com.samsung.tv.SAFCommonPlugin" version="1.22.04151">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv" />
+    <description>SAFCommonPlugin</description>
+    <ui-application appid="com.samsung.tv.SAFCommonPlugin" exec="com.samsung.tv.SAFCommonPlugin.dll" launch_mode="single" multiple="false" nodisplay="false" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse">
+        <label>SAFCommonPlugin</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="true" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="off" />
+        <metadata key="http://samsung.com/tv/metadata/waitingscreen.type" value="none" />
+        <metadata key="http://samsung.com/tv/metadata/use.network" value="false" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-saf-external-utilityplugin" value="[                   {'moduleName': 'TuneUtilPlugin','libName': 'TuneUtilPlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.TuneUtilPlugin.TuneUtilPlugin'},                   {'moduleName': 'ParentLockPlugin','libName': 'ParentLockPlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.ParentLockPlugin.ParentLockPlugin'},                   {'moduleName': 'NetworkUtilPlugin','libName': 'NetworkUtilPlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.NetworkUtil.NetworkUtilPlugin'},                   {'moduleName': 'ImageCachePlugin','libName': 'ImageCachePlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.ImageCachePlugin.ImageCachePlugin'},                   {'moduleName': 'RestPlugin','libName': 'RestPlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.RestPlugin.RestPlugin'}]" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-saf-external-uiplugin" value="[                   {'moduleName': 'PinPopupPlugin','libName': 'PinPopupPlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.PinPopup.PinPopupPlugin'},                   {'moduleName': 'MessageBoxPlugin','libName':'MessageBoxPlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.MessageBox.MessageBoxPlugin'},                   {'moduleName': 'NetErrorPopupPlugIn','libName':'NetErrorPopupPlugIn.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.NetErrorPopup.NetErrorPopupPlugIn'},                   {'moduleName': 'SAFTestPlugin','libName':'SAFTestPlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.SAFTest.SAFTestPlugin'}]" />
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/was.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.admin</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+    </privileges>
+    <tv-info api-version="6.6.0">
+        <infolink>T-INFOLINK2020-1000</infolink>
+        <infolink>T-INFOLINK2021-1000</infolink>
+        <infolink>T-INFOLINK2022-1000</infolink>
+    </tv-info>
+    <build-info id="7457290">
+        <app-info exec="com.samsung.tv.SAFCommonPlugin.dll" id="com.samsung.tv.SAFCommonPlugin" />
+    </build-info>
+</manifest>

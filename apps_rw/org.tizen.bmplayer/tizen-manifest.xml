@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="3.0" package="org.tizen.bmplayer" version="0.1.23" install-location="internal-only">
+        <label>BMPlayer</label>
+        <author email="songah.choi@samsung.com" href="www.samsung.com">SongAh Choi</author>
+        <description>BT Music Player Application</description>
+        <ui-application appid="org.tizen.bmplayer" exec="bmplayer" nodisplay="true" multiple="false" type="capp" taskmanage="true" process-pool="true">
+        <label>BMPlayer</label>
+        <icon>org.tizen.bmplayer.png</icon>
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-aod-rotation" value="landscape|portrait" />
+        <metadata key="http://samsung.com/tv/metadata/waitingscreen.type" value="none" />
+	<metadata key="http://samsung.com/tv/metadata/use.network" value="false" />
+        </ui-application>
+        <feature name="http://tizen.org/feature/screen.size.all">true</feature>
+        <privileges>
+                        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+                <privilege>http://tizen.org/privilege/recorder</privilege>
+                <privilege>http://tizen.org/privilege/inputgenerator</privilege>
+                <privilege>http://tizen.org/privilege/notification</privilege>
+                        <privilege>http://tizen.org/privilege/bluetooth</privilege>
+                        <privilege>http://tizen.org/privilege/bluetooth.admin</privilege>
+         </privileges>
+
+</manifest>
+

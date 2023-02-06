@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.utterance-recommender-service" version="1.0.7321">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv-samsung"/>
+    <service-application appid="com.samsung.tv.utterance-recommender-core" exec="utterance-recommender-core" multiple="false" nodisplay="true" on-boot="true" taskmanage="false" type="capp">
+        <label>utterance-recommender-core</label>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+    </privileges>
+    <tv-info api-version="1.0.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <build-info id="8614505">
+        <app-info exec="utterance-recommender-core" id="com.samsung.tv.utterance-recommender-core"/>
+        <app-info exec="utterance-recommender-app" id="com.samsung.tv.utterance-recommender-app"/>
+    </build-info>
+    <ui-application appid="com.samsung.tv.utterance-recommender-app" exec="utterance-recommender-app" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>utterance-recommender-app</label>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive"/>
+    </ui-application>
+</manifest>

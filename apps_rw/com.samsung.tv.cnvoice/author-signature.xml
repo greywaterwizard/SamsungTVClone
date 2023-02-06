@@ -1,0 +1,370 @@
+<Signature Id="AuthorSignature" xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+    <Reference URI="tizen-manifest.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>yEFLbt43XYinJCJ4n95NjspUd5P635mMuDm53KfzJaw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FMyBixbyTest.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fjsons%2FDialects.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>l1CN3y+/3w1RtQcg4L+Q/31BLMiKmdN4EyPOEXP2WFA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fjsons%2FAllServices.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>nKkJsEfQ8sBImQfw1lv6GqkjahLH7TD9YygTAOks9OA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_portrait_7.jpg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>bnIhi4gt7uBWf6t6KsDfyNpVr7+wMqRFO01izG0c/Yw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_portrait_6.jpg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>bnIhi4gt7uBWf6t6KsDfyNpVr7+wMqRFO01izG0c/Yw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_portrait_5.jpg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>ZB1Vm0iyMlKC+gaR3v253AfsuJgaLMJTrVvGSJAQ+kg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_portrait_4.jpg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>QU2N0JqKlDFvekRL4dOe9nGw6Dt9Fj27Idiuuia5lmc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_portrait_3.jpg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>iXTDYlH4y6W5YVDL95Ucpgkuo7h3ugWZm6f/cn/0Ns0=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_portrait_2.jpg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>LYoz2Gjn5KlRBnTt7l2LeWT33kbOB7ShUY4XZLy05W8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_portrait_1.jpg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>/db40YTiP4OGFdnwPYsRZkpadUYfevw2GXi70KNR1RU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_6.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>wzWvdYb505DQrHOuFWKJfCuon4kJeH2ad5Wxt0KxISg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_5.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>8ySJvV5XfgQ6sD8fGBVWa70hadmzsVDos8r+Tw3lTT0=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_4.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>CF85R78uxogsYcgAcv5hRhyHbDkMAnJ3dfs6GNhgsEk=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_3.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>F881uxyS9gxQPaivlcvX6syY3iey6rlWbJ8lDs4Zwoc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_2.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>n2tiwWDIzUtn+CxUrphGZ9nnLYwvT6p29f5k0INcdiw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FTutorial%2FBanner_1.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>dpX/fTi2HDJFEiGynQd59G2E69JqSEtq3xHH7tFKooc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2Fsettings%2Fbixby_voice_id_check.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>E+8ClBJdEHLMLgGqrEmBSWyTuSdmfFupG4qv99c/8DQ=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2Fcommon%2Fmybixby_icon_settings_n.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>UHk9tr+vTDNw39HO3Tvx4SXZ3SOQNWSBqUWTm3aDmlI=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2Fcommon%2Fmybixby_icon_settings_f.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>2ZAzrkG0fHdMYb+M2MG/wrpLn4pfUYFUKOFDB4i3eiA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_tvfood.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>KfypLmUwIUp4lG/2gy/C70Ciqncj53GPLlPibD+3PxM=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_tvcontrol.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>OlxqaPXPgbTwv73CEuizRwq27ix57xDxrHA5xGG7lDw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_tvchannel.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>j0Kcm9GTK/FU3N6slJDv+hFOalkGe/w8k67k6VpP4qw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_stock.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>VpTTHtpNwQ6NLb+UmVH/4f3cEA8QYaiyt/MxNKXHv1c=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_smartthings.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>GlPoCXdb7XSPAQ1Htj0uH7TJEgV+Km1o9NZz+WF+U0M=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_settings.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Wdi7Bzp++yPxewvLA8lNxJ2nEmYIMuhYSHhWhKKNt9o=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_search.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>PR5hwy8yjNWtoQ7aG5FVDiExcmBfCKwoamI6NP4H//4=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_samsungaccount.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>YIJ3QpACzc197+Bsub4Rd63qQjth99vLSaD4urw2WTs=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_music.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>DtMcUUGVRti57OZznRiqxKC9Xkop3nWujIC0X9Rzxi0=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_multiview.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>4At5JRY8YgvrKg7TQdsK3yHYupaSvMlbsNYN4A4b37U=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_mediacontrol.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>d/TlSD4kwICk//EcAZAaf51XM3i+ABfrOgIb6FiIFRw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_gallary.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>6xvryykHN2U6aZTzsGaxSK1uh8WMx74RT36eguD4WBE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_deeplinking.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>8k02cjhHZHUxVkr3bCLyiByJpyP+M6YlnF7bJbk/618=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_ambientmode.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Zr6D17+62hb0xgAHJKWuGym546eVJ1j8cWhRc/p58XE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_logo_accessibility.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>3j3PpA/zcS4lVVGEITKtzjAsNjNwq34BoTiSaExP+LY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_weather.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>c8vtKq0ErhnWDAOffx1UHuDoDB30wN/78Av/Q1MzkCc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_utility.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>YUz+R5sLzA97fZnOB6dHUG6cMHm65vN520ogBb4Q1Oo=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_translation.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>x2vl6ijKj1g1AgjmnpbLKCFqIC70UIweI/yicz+2RvU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_time.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>VEbqfEJCQoAGZ47Nl4NBUeLRFu9l1fTxei2uFML60PU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_ticket.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>fQCEc+0ZV5gZgAUMhWDhNTjIpCNV82qqnIh94qjx1Fg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_stock.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>PK6dqM5LAqLXUo+l6XI8SJR9/HQNusIgx/Ho6gFZvV8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_life%20service.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Ur15yO2TVLVpPJw/oXxBQqQI6EwADp8H2TKNt+AyZeI=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_keep.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>u5BnDBf6lOyOEpd+e5WDgciVjkPOt+CyvU59UAQufJ0=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_food.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>kgMvFFr3wSZ3KJESemBvFuw2kuNZRMsB2MgIXkiN8i8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_fm.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>xCQ0nMezZhGI/oWLrim774S6AkLG7JdHh1QmkNNU4h8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_encyclopedia.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>OXFvRa1AsROlAMtx6Gf7CCSW6U/4kJjXfeKGrr2Vytw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_constellation.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>kMRrzx5a0mqeNzj+GOoemHDCVtnLloE5x+etGaMTQbE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_chat.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Sr3LeXKZ7Ls6oLacGQ9mtCyOZ4sS4zcfvXDge24QEdk=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FcapsuleImage%2Fbixby_image_calendar.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>IO2Wo8DPhVHxWxB/PgQFDUeSeEboW1ZIrICLXyagKXg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2Fbg%2Futterance_bg_n.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>tqP9mZnP96EB09xC3TTcba5X93HRtH/HltdEyzcIN60=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2Fbg%2Fheader_bg.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>8vUCvassD8eOuPFTpm9WTWo+pP3Z2c4mFj3MmCov5bQ=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2Fbg%2Fdefault_bg.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>j9oAsMgf/1JdikoN/eexV0Jhzat9A2YDJxztRU6QAB0=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2Fbg%2Fallservices_bg.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>ja1MS50136R9j7Q3FNiYi+6lb2rDjd+HyPmxL35raPE=</DigestValue>
+    </Reference>
+    <Reference URI="lib%2Flibbixby.v1.0-beta.1.4.so">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>i6SIU/poaDkNnakYZiPNc4xHuMB3bkqwPy8ztlyGibs=</DigestValue>
+    </Reference>
+    <Reference URI="com.samsung.tv.cnvoice.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>XgM0GCumw+OMJUl3HX+TbMJfMOg6tdHYSwx2C71ZqLM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-CN%2FTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>o0oeQg+vDtsH6zq+kpuSwq4VHMHC8eyjKe27Krcz9Oo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fvi-VN%2FTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>tefyPmqT9S6dBRdFakLKxMEsgW5ZEnAn52Cq+zmIGxI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.TV.Security.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>58ocI1NNbinknedxcKhCLlTXMLOYaTFfsucnR+kGyCY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.TV.NUI.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>WRRppuvrhTifXHKOfF4nWGIeYKrmx/7JTnSp9/sA/Hg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.TV.NUI.Component.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>8iJmAyiMK1azZ1kByGqjQNaCYS1W/WaFvHZCVHv6KDw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.TV.FLUX.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>0jWzWk2jWm1tIa65Q73yZfvM+ARbbC1JEVxhZz+DRmk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.TV.FLUX.Component.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>qip1SOFnBzkqRrkG9GmtCTzK/5DCcFq8We1BU7yMw3U=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.Bixby.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>W8huVIpYhCbZCNQLQA+hOGAYO1882VG5C88vP1DbKQ4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTextResources.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>sP2ku31SNGUFqXwSycW/4bpv8p+/9MOZGCozTe4jRRg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTextResources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>a3Lw0KhvglYJ4ZZEAOnBQN8oErj3FY4P2FIvgGMxS1Q=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fru-RU%2FTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>x3QGEyWPpQyois/x1McF0I3zeJ/mHoi61gK0SPltJ7k=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-BR%2FTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>mQE0Y+aHDxzrVpuLlJzmouzSeSDER5s+vQLm67wGnxg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fko-KR%2FTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>liBNzxUPveSzH0RMHhrpu1Pg0ywu5g1Av1bbL3+vPr4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fit-IT%2FTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>xLeIqC17aCBjGb72/61sWNo6IarpStsBq3Rdybu3OEw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-FR%2FTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>OYvRWkFxzT5xtfj+vV3blV1LaWkCzkdd7BcakUkRNNY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-ES%2FTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>cpJt4n41anwqvnkZG4xKi3Ht7uoT7RT2fxJRptRgS+c=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-US%2FTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>HpS9QVPoIiucnYcK8BooPw3krgqUZwj9HGCkvr2ymNQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-GB%2FTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>lnybIxymfP4ZNlRm7LVyFLRX8YD5Vmjx4GAEoechpKU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fde-DE%2FTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>RxEM1ijUuvcMucsk3acDw5otWGVHN4JUx7mfn3GEkus=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcom.samsung.tv.cnvoice.runtimeconfig.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>RGy9NEiii8fdwvQRkaCx61VldYBawsaj26wHFUsSXtA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcom.samsung.tv.cnvoice.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>qtqTChuY6+z8gxdFbsvxZ4LQoIMTAQVQ2k992LB4Kjw=</DigestValue>
+    </Reference>
+    <Reference URI="#prop">
+      <Transforms>
+        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      </Transforms>
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>e2rGZ9lURQWep1IIbrRk2NYMw5EXlejQt2B0bMLUyoc=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+hBFdHOL8iSTXl47xF7SFr4xx3GZZGg73R7AsjMn/e8hSLIJ5KtdDUOopGlXUbkBTCbNJIYeDRL3j
+xn610wZykbtXo4GIvLs9agv51/z7zH9LEGCGDZD3157/HoE0XurHpKVhUPNhRZajw6H5lvLwLWoD
+EoUgBj5HiPDCRgqd8jI=
+</SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509Certificate>
+MIICoTCCAYmgAwIBAgIGAWD/MlRVMA0GCSqGSIb3DQEBBQUAMFYxGjAYBgNVBAoMEVRpemVuIEFz
+c29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4gRGV2
+ZWxvcGVycyBDQTAeFw0xMjExMDEwMDAwMDBaFw0xOTAxMDEwMDAwMDBaMB0xGzAZBgNVBAMMElZv
+aWNlRGlzY292ZXJ5TWVudTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAhCYo1P5UdmnNx5T5
+oEZ4d0gmfhjYeU7dYxgouqKL6mVLfvW7eqoaDCBbCbZ03HMOpXjzHZUCBZgHaV69BpZjZgvR1zMS
+Pb5FDplHyjkB64qJjCV7aECLSAV9yZZoa4Y8ByXDyEXkECzdKYiQV3FaAd1pqTbapKQwK6SYIL5m
+FAcCAwEAAaMyMDAwDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUH
+AwMwDQYJKoZIhvcNAQEFBQADggEBALIGWrOR5Z15WQpG6LZtBQauRC8+xh6ku8Vmm0HtYd3kDBx9
+xoFc5bm2Jy2Ez46WE6C10QrK8bgIzVvb17O2LVYclrFn0VX9DMp0bjqttGNbuN/rwdErMoKg6T5y
+gWGwIqkMX/hVqSl7gNBDsgQm0gP9U/sUrL5OwA5vC4pjQ7mN/h4diVbjuerWdJm3+R2KRn4ZnkII
+/dCC2ctzgAhWLw+IfEupa6eqQ/TmVopvkcKUC6Q4WDcp1jDF5uZa1410BNEb6qXzyZm+pm1ubK4D
+XHxaN+hLkVsJsyZp0lFCYV3kwD+euzDxTROpgWfGlJWmL/xyNAYn/7my++qPjzYp50g=
+</X509Certificate>
+      <X509Certificate>
+MIIDOTCCAiGgAwIBAgIBATANBgkqhkiG9w0BAQUFADBYMRowGAYDVQQKDBFUaXplbiBBc3NvY2lh
+dGlvbjEaMBgGA1UECwwRVGl6ZW4gQXNzb2NpYXRpb24xHjAcBgNVBAMMFVRpemVuIERldmVsb3Bl
+cnMgUm9vdDAeFw0xMjAxMDEwMDAwMDBaFw0yNzAxMDEwMDAwMDBaMFYxGjAYBgNVBAoMEVRpemVu
+IEFzc29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4g
+RGV2ZWxvcGVycyBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANVGhRGmMIUyBA7o
+PCz8Sxut6z6HNkF4oDIuzuKaMzRYPeWodwe9O0gmqAkToQHfwg2giRhE5GoPld0fq+OYMMwSasCu
+g8dwODx1eDeSYVuOLWRxpAmbTXOsSFi6VoWeyaPEm18JBHvZBsU5YQtgZ6Kp7MqzvQg3pXOxtajj
+vyHxiatJl+xXrHgcXC1wgyG3buty7u/Fi2mvKXJ0PRJcCjjK81dqe/Vr20sRUCrbk02zbm5ggFt/
+jIEhV8wbFRQpliobc7J4dSTKhFfrqGM8rdd54LYhD7gSI1CFSe16pUXfcVR7FhJztRaiGLnCrwBE
+dyTZ248+D4L/qR/D0axb3jcCAwEAAaMQMA4wDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOC
+AQEAnOXXQ/1O/QTDHyrmQDtFziqPY3xWlJBqJtEqXiT7Y+Ljpe66e+Ee/OjQMlZe8gu21/8cKklH
+95RxjopMWCVedXDUbWdvS2+CdyvVW/quT2E0tjqIzXDekUTYwwhlPWlGxvfj3VsxqSFq3p8Brl04
+1Gx5RKAGyKVsMfTLhbbwSWwApuBUxYfcNpKwLWGPXkysu+HctY03OKv4/xKBnVWiN8ex/Sgesi0M
++OBAOMdZMPK32uJBTeKFx1xZgTLIhk45V0hPOomPjZloiv0LSS11eyd451ufjW0iHRE7WlpR6EvI
+W6TFyZgMpQq+kg4hWl2SBTf3s2VI8Ygz7gj8TMlClg==
+</X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <Object Id="prop">
+    <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+      <SignatureProperty Id="profile" Target="#AuthorSignature">
+        <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile" />
+      </SignatureProperty>
+      <SignatureProperty Id="role" Target="#AuthorSignature">
+        <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author" />
+      </SignatureProperty>
+      <SignatureProperty Id="identifier" Target="#AuthorSignature">
+        <dsp:Identifier />
+      </SignatureProperty>
+    </SignatureProperties>
+  </Object>
+</Signature>

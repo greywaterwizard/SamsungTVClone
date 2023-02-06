@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="6.0" package="com.samsung.tv.store" version="1.22.11302">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv" />
+    <description>AppStore</description>
+    <ui-application appid="com.samsung.tv.store" exec="com.samsung.tv.store.dll" launch_mode="single" multiple="false" nodisplay="false" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse">
+        <icon>com.samsung.tv.store</icon>
+        <label>Apps</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-bixby" value="bixby_info.json" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="anytime" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/sdk/version" value="v1.0-beta.1.4" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/version" value="10000" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/action-id-settings" value="tvSettings.OpenSettings,tvSettings.CloseSettings" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/smarthubreset" value="{'value':0,'process_name':'com.samsung.tv.store','vconf_key':'db/smarthub/reset/apps','action':'kill'}" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-saf-external-uiplugin" value="[{'moduleName': 'AppsDetailPlugin','libName': 'CommonStore.dll','libPath':'res/lib/netcoreapp2.0/','className':'Tizen.TV.Service.CommonStore.CommonDetail'}]" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-saf-external-utilityplugin" value="[{'moduleName': 'AppLaunchPlugin','libName': 'AppLaunchPlugin.dll','libPath':'res/lib/netcoreapp2.0/','className':'Tizen.TV.Service.AppLaunchPlugin.AppLaunchPlugin'}]" />
+    </ui-application>
+    <ui-application appid="org.volt.apps" exec="com.samsung.tv.store.dll" launch_mode="single" multiple="false" nodisplay="false" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse">
+        <icon>com.samsung.tv.store</icon>
+        <label>Apps</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-bixby" value="bixby_info.json" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="anytime" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/sdk/version" value="v1.0-beta.1.4" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/version" value="10000" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/action-id-settings" value="tvSettings.OpenSettings" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/smarthubreset" value="{'value':0,'process_name':'com.samsung.tv.store','vconf_key':'db/smarthub/reset/apps','action':'kill'}" />
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/imemanager</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.partner</privilege>
+        <privilege>http://developer.samsung.com/privilege/was.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://tizen.org/privilege/mediastorage</privilege>
+        <privilege>http://tizen.org/privilege/externalstorage</privilege>
+        <privilege>http://developer.samsung.com/privilege/voicecontrol</privilege>
+        <privilege>http://developer.samsung.com/privilege/microphone</privilege>
+    </privileges>
+    <app-context appid="com.samsung.tv.store">
+        <app-context-rule>
+            <source selector="key">XF86HotelAppsGuest</source>
+            <condition selector="product">htv</condition>
+            <target args="Sub_Menu:hotel" request="launch" selector="app">com.samsung.tv.store</target>
+        </app-context-rule>
+    </app-context>
+    <tv-info api-version="6.6.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <build-info id="8772575">
+        <app-info exec="com.samsung.tv.store.dll" id="com.samsung.tv.store" />
+        <app-info exec="com.samsung.tv.store.dll" id="org.volt.apps" />
+    </build-info>
+</manifest>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<voice-control-engine>
+  <languages>
+    <lang>en_US</lang>
+    <lang>en_GB</lang>
+    <lang>ko_KR</lang>
+    <lang>it_IT</lang>
+    <lang>de_DE</lang>
+    <lang>ru_RU</lang>
+    <lang>fr_FR</lang>
+    <lang>es_ES</lang>
+    <lang>zh_CN</lang>
+    <lang>en_IN</lang>
+    <lang>pt_BR</lang>
+  </languages>
+  <name>Samsung voice control engine</name>
+  <non-fixed-support>true</non-fixed-support>
+  <id>org.tizen.voice-client</id>
+</voice-control-engine>

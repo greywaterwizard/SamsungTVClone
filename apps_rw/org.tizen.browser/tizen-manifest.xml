@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="org.tizen.browser" version="4.2.11030">
+    <profile name="tv-samsung" />
+    <ui-application appid="org.tizen.browser" auto-restart="true" exec="browser" multiple="false" nodisplay="false" on-boot="true" process-pool="true" taskmanage="true" type="capp">
+        <label>Internet</label>
+        <icon>org.tizen.browser.png</icon>
+        <description>WebBrowser</description>
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/version" value="10000" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/sdk/version" value="v1.0-beta.1.4" />
+        <metadata key="thewall_middle_only" value="eden" />
+        <metadata key="thewall_skip_apptype" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/appbootingsupport" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+        <metadata key="http://samsung.com/tv/metadata/use.preview" value="true" />
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/filesystem.read</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+        <privilege>http://tizen.org/privilege/web-history.admin</privilege>
+        <privilege>http://tizen.org/privilege/screenshot</privilege>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://tizen.org/privilege/download</privilege>
+        <privilege>http://tizen.org/privilege/bookmark.admin</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/systemsettings.admin</privilege>
+        <privilege>http://tizen.org/privilege/externalstorage</privilege>
+        <privilege>http://tizen.org/privilege/mediastorage</privilege>
+        <privilege>http://tizen.org/privilege/keymanager</privilege>
+        <privilege>http://tizen.org/privilege/mediahistory.read</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://tizen.org/privilege/inputgenerator</privilege>
+        <privilege>http://tizen.org/privilege/content.write</privilege>
+        <privilege>http://tizen.org/privilege/content.read</privilege>
+        <privilege>http://tizen.org/privilege/push</privilege>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <appdefined-privilege>http://com.samsung.tizen.samsung-cloud/appdefined/samsung-cloud</appdefined-privilege>
+        <privilege>http://developer.samsung.com/privilege/samsungpass.admin</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2020-1002</infolink>
+    </tv-info>
+    <build-info id="8589912">
+        <app-info exec="browser" id="org.tizen.browser" />
+    </build-info>
+</manifest>

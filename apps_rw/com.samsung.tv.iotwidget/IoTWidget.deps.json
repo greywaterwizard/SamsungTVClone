@@ -1,0 +1,796 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "IoTWidget/1.0.0": {
+        "dependencies": {
+          "TextResource": "1.0.0",
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.NET.Sdk": "1.1.6",
+          "Tizen.TV": "1.2.13",
+          "Tizen.TV.Application": "1.1.1",
+          "Tizen.TV.Application.Utility": "1.4.13",
+          "Tizen.TV.FLUX": "1.0.64",
+          "Tizen.TV.FLUX.Component": "2.1.1",
+          "Tizen.TV.NUI": "1.0.166",
+          "Tizen.TV.Service.AovWidgetAPI": "0.0.3",
+          "Tizen.TV.Service.CoBA.Common": "1.1.6",
+          "Tizen.TV.Service.IoT.Client": "0.0.26",
+          "Tizen.TV.Service.Sso": "1.9.0"
+        },
+        "runtime": {
+          "IoTWidget.dll": {}
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Microsoft.NETCore.Targets/1.1.0": {},
+      "Mono.Data.Sqlite.Portable/1.0.3.5": {},
+      "Newtonsoft.Json/12.0.1": {},
+      "System.Memory/4.5.3": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.7.0"
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.7.0": {},
+      "System.Text.Encoding.CodePages/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.7.0"
+        }
+      },
+      "System.Text.Encodings.Web/4.7.0": {
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        }
+      },
+      "System.Text.Json/4.7.1": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.0",
+          "System.Memory": "4.5.3",
+          "System.Runtime.CompilerServices.Unsafe": "4.7.0",
+          "System.Text.Encodings.Web": "4.7.0",
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.5.2": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.7.0"
+        }
+      },
+      "System.Threading.Timer/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "Tizen.NET/9.0.0.16813": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Tizen.NET.API9": "9.0.0.16813"
+        }
+      },
+      "Tizen.NET.API9/9.0.0.16813": {},
+      "Tizen.NET.Sdk/1.1.6": {},
+      "Tizen.TV/1.2.13": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.145"
+        }
+      },
+      "Tizen.TV.Application/1.1.1": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Application.Utility/1.4.13": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Broadcast.TVService/1.1.25": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.DownloadableApplications/1.0.10": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Application.Utility": "1.4.13",
+          "Tizen.TV.System": "1.0.145"
+        }
+      },
+      "Tizen.TV.DownloadableApplications.ComSS/1.0.4": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Application.Utility": "1.4.13",
+          "Tizen.TV.System": "1.0.145"
+        }
+      },
+      "Tizen.TV.FLUX/1.0.64": {},
+      "Tizen.TV.FLUX.Component/2.1.1": {},
+      "Tizen.TV.Logger/1.0.1": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Application.Utility": "1.4.13"
+        }
+      },
+      "Tizen.TV.Multimedia.Aifw.Api/1.3.7": {},
+      "Tizen.TV.Network.Curl/17.10.10": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV": "1.2.13",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.NUI/1.0.166": {},
+      "Tizen.TV.Security/1.0.4": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "4.5.0",
+          "Tizen.NET": "9.0.0.16813"
+        }
+      },
+      "Tizen.TV.Service.AovWidgetAPI/0.0.3": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.NUI": "1.0.166",
+          "Tizen.TV.System": "1.0.145"
+        }
+      },
+      "Tizen.TV.Service.CoBA.Common/1.1.6": {
+        "dependencies": {
+          "Mono.Data.Sqlite.Portable": "1.0.3.5",
+          "Newtonsoft.Json": "12.0.1",
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Broadcast.TVService": "1.1.25",
+          "Tizen.TV.DownloadableApplications": "1.0.10",
+          "Tizen.TV.DownloadableApplications.ComSS": "1.0.4",
+          "Tizen.TV.Logger": "1.0.1",
+          "Tizen.TV.Multimedia.Aifw.Api": "1.3.7",
+          "Tizen.TV.Network.Curl": "17.10.10",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.Service.ContentService": "1.0.2",
+          "Tizen.TV.Service.IoT.Server": "0.0.17",
+          "Tizen.TV.Service.SourceList": "1.0.8",
+          "Tizen.TV.Service.Sso": "1.9.0",
+          "Tizen.TV.SmartView": "1.0.1",
+          "Tizen.TV.System": "1.0.145",
+          "Tizen.TV.System.Framework": "1.0.5"
+        }
+      },
+      "Tizen.TV.Service.ContentService/1.0.2": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.145"
+        }
+      },
+      "Tizen.TV.Service.IoT.Client/0.0.26": {
+        "dependencies": {
+          "System.Text.Json": "4.7.1",
+          "System.Threading.Timer": "4.3.0",
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.145"
+        }
+      },
+      "Tizen.TV.Service.IoT.Server/0.0.17": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.145"
+        }
+      },
+      "Tizen.TV.Service.SourceList/1.0.8": {
+        "dependencies": {
+          "System.Text.Json": "4.7.1",
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Service.Sso/1.9.0": {
+        "dependencies": {
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.145"
+        }
+      },
+      "Tizen.TV.SmartView/1.0.1": {
+        "dependencies": {
+          "System.Text.Json": "4.7.1",
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.System/1.0.145": {
+        "dependencies": {
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.System.Framework/1.0.5": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16813",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "TextResource/1.0.0": {
+        "runtime": {
+          "TextResource.dll": {}
+        },
+        "resources": {
+          "zu-ZA/TextResource.resources.dll": {
+            "locale": "zu-ZA"
+          },
+          "zh-TW/TextResource.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "zh-HK/TextResource.resources.dll": {
+            "locale": "zh-HK"
+          },
+          "zh-CN/TextResource.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "xh-ZA/TextResource.resources.dll": {
+            "locale": "xh-ZA"
+          },
+          "yo-NG/TextResource.resources.dll": {
+            "locale": "yo-NG"
+          },
+          "uz-Cyrl-UZ/TextResource.resources.dll": {
+            "locale": "uz-Cyrl-UZ"
+          },
+          "vi-VN/TextResource.resources.dll": {
+            "locale": "vi-VN"
+          },
+          "ur-PK/TextResource.resources.dll": {
+            "locale": "ur-PK"
+          },
+          "uk-UA/TextResource.resources.dll": {
+            "locale": "uk-UA"
+          },
+          "tu-IN/TextResource.resources.dll": {
+            "locale": "tu-IN"
+          },
+          "th-TH/TextResource.resources.dll": {
+            "locale": "th-TH"
+          },
+          "tr-TR/TextResource.resources.dll": {
+            "locale": "tr-TR"
+          },
+          "tl-PH/TextResource.resources.dll": {
+            "locale": "tl-PH"
+          },
+          "ta-IN/TextResource.resources.dll": {
+            "locale": "ta-IN"
+          },
+          "te-IN/TextResource.resources.dll": {
+            "locale": "te-IN"
+          },
+          "sw-KE/TextResource.resources.dll": {
+            "locale": "sw-KE"
+          },
+          "sv-SE/TextResource.resources.dll": {
+            "locale": "sv-SE"
+          },
+          "sq-AL/TextResource.resources.dll": {
+            "locale": "sq-AL"
+          },
+          "sr/TextResource.resources.dll": {
+            "locale": "sr"
+          },
+          "sl-SI/TextResource.resources.dll": {
+            "locale": "sl-SI"
+          },
+          "sk-SK/TextResource.resources.dll": {
+            "locale": "sk-SK"
+          },
+          "sat-IN/TextResource.resources.dll": {
+            "locale": "sat-IN"
+          },
+          "sd-IN/TextResource.resources.dll": {
+            "locale": "sd-IN"
+          },
+          "sa-IN/TextResource.resources.dll": {
+            "locale": "sa-IN"
+          },
+          "ru-RU/TextResource.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "ro-RO/TextResource.resources.dll": {
+            "locale": "ro-RO"
+          },
+          "pt-PT/TextResource.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "pl-PL/TextResource.resources.dll": {
+            "locale": "pl-PL"
+          },
+          "pt-BR/TextResource.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pa/TextResource.resources.dll": {
+            "locale": "pa"
+          },
+          "or-IN/TextResource.resources.dll": {
+            "locale": "or-IN"
+          },
+          "ne-NP/TextResource.resources.dll": {
+            "locale": "ne-NP"
+          },
+          "nn-NO/TextResource.resources.dll": {
+            "locale": "nn-NO"
+          },
+          "nl-NL/TextResource.resources.dll": {
+            "locale": "nl-NL"
+          },
+          "my-MM/TextResource.resources.dll": {
+            "locale": "my-MM"
+          },
+          "ms-MY/TextResource.resources.dll": {
+            "locale": "ms-MY"
+          },
+          "mr-IN/TextResource.resources.dll": {
+            "locale": "mr-IN"
+          },
+          "mni-IN/TextResource.resources.dll": {
+            "locale": "mni-IN"
+          },
+          "mi-NZ/TextResource.resources.dll": {
+            "locale": "mi-NZ"
+          },
+          "ml-IN/TextResource.resources.dll": {
+            "locale": "ml-IN"
+          },
+          "mn-MN/TextResource.resources.dll": {
+            "locale": "mn-MN"
+          },
+          "mk-MK/TextResource.resources.dll": {
+            "locale": "mk-MK"
+          },
+          "mai-IN/TextResource.resources.dll": {
+            "locale": "mai-IN"
+          },
+          "lv-LV/TextResource.resources.dll": {
+            "locale": "lv-LV"
+          },
+          "ku/TextResource.resources.dll": {
+            "locale": "ku"
+          },
+          "lt-LT/TextResource.resources.dll": {
+            "locale": "lt-LT"
+          },
+          "ks/TextResource.resources.dll": {
+            "locale": "ks"
+          },
+          "ko-KR/TextResource.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "kok-IN/TextResource.resources.dll": {
+            "locale": "kok-IN"
+          },
+          "kn-IN/TextResource.resources.dll": {
+            "locale": "kn-IN"
+          },
+          "ka-GE/TextResource.resources.dll": {
+            "locale": "ka-GE"
+          },
+          "km-KH/TextResource.resources.dll": {
+            "locale": "km-KH"
+          },
+          "kk-KZ/TextResource.resources.dll": {
+            "locale": "kk-KZ"
+          },
+          "ja-JP/TextResource.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "it-IT/TextResource.resources.dll": {
+            "locale": "it-IT"
+          },
+          "ig-NG/TextResource.resources.dll": {
+            "locale": "ig-NG"
+          },
+          "id-ID/TextResource.resources.dll": {
+            "locale": "id-ID"
+          },
+          "hu-HU/TextResource.resources.dll": {
+            "locale": "hu-HU"
+          },
+          "hy-AM/TextResource.resources.dll": {
+            "locale": "hy-AM"
+          },
+          "hr-HR/TextResource.resources.dll": {
+            "locale": "hr-HR"
+          },
+          "he-IL/TextResource.resources.dll": {
+            "locale": "he-IL"
+          },
+          "hi-IN/TextResource.resources.dll": {
+            "locale": "hi-IN"
+          },
+          "fr-FR/TextResource.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "ha/TextResource.resources.dll": {
+            "locale": "ha"
+          },
+          "gu-IN/TextResource.resources.dll": {
+            "locale": "gu-IN"
+          },
+          "fr-CA/TextResource.resources.dll": {
+            "locale": "fr-CA"
+          },
+          "fi-FI/TextResource.resources.dll": {
+            "locale": "fi-FI"
+          },
+          "fa-IR/TextResource.resources.dll": {
+            "locale": "fa-IR"
+          },
+          "es-ES/TextResource.resources.dll": {
+            "locale": "es-ES"
+          },
+          "es-MX/TextResource.resources.dll": {
+            "locale": "es-MX"
+          },
+          "et-EE/TextResource.resources.dll": {
+            "locale": "et-EE"
+          },
+          "en-US/TextResource.resources.dll": {
+            "locale": "en-US"
+          },
+          "el-GR/TextResource.resources.dll": {
+            "locale": "el-GR"
+          },
+          "en-AU/TextResource.resources.dll": {
+            "locale": "en-AU"
+          },
+          "en-GB/TextResource.resources.dll": {
+            "locale": "en-GB"
+          },
+          "de-DE/TextResource.resources.dll": {
+            "locale": "de-DE"
+          },
+          "da-DK/TextResource.resources.dll": {
+            "locale": "da-DK"
+          },
+          "cs-CZ/TextResource.resources.dll": {
+            "locale": "cs-CZ"
+          },
+          "bh-IN/TextResource.resources.dll": {
+            "locale": "bh-IN"
+          },
+          "ckb-IQ/TextResource.resources.dll": {
+            "locale": "ckb-IQ"
+          },
+          "bs/TextResource.resources.dll": {
+            "locale": "bs"
+          },
+          "bn-IN/TextResource.resources.dll": {
+            "locale": "bn-IN"
+          },
+          "az/TextResource.resources.dll": {
+            "locale": "az"
+          },
+          "af-ZA/TextResource.resources.dll": {
+            "locale": "af-ZA"
+          },
+          "ar-AE/TextResource.resources.dll": {
+            "locale": "ar-AE"
+          },
+          "as-IN/TextResource.resources.dll": {
+            "locale": "as-IN"
+          },
+          "bg-BG/TextResource.resources.dll": {
+            "locale": "bg-BG"
+          },
+          "am-ET/TextResource.resources.dll": {
+            "locale": "am-ET"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IoTWidget/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1Am6l4Vpn3/K32daEqZI+FFr96OlZkgwK2LcT3pZ2zWubR5zTPW3/FkO1Rat9kb7oQOa4rxgl9LJHc5tspCWfg==",
+      "path": "microsoft.bcl.asyncinterfaces/1.1.0",
+      "hashPath": "microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Mono.Data.Sqlite.Portable/1.0.3.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K9firU6nVyjwwpqr6aRJLNawao5bdRxr0AOfn/9bcwf2op02YOgCqNQ36fb9n7+O6F5spUAKky18/fBMqvXujA==",
+      "path": "mono.data.sqlite.portable/1.0.3.5",
+      "hashPath": "mono.data.sqlite.portable.1.0.3.5.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IpU1lcHz8/09yDr9N+Juc7SCgNUz+RohkCQI+KsWKR67XxpFr8Z6c8t1iENCXZuRuNCc4HBwme/MDHNVCwyAKg==",
+      "path": "system.runtime.compilerservices.unsafe/4.7.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zJEnIENxZI94PcnvB5dzcx9Vmhc3hWb1vW4WPC2L9TL0gqSnqrbCIrThconq8Q/Y6usFFaf5i7Mvs+DliuUEZA==",
+      "path": "system.text.encoding.codepages/4.5.0",
+      "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IJanJWPQvya2sbGStt3Fkdy4IaomUBSadAfYWeJDQw0zclMk9ixSvMeei6cSmTTQ6ZkGIIAbhHZVCoLR7GgX7Q==",
+      "path": "system.text.encodings.web/4.7.0",
+      "hashPath": "system.text.encodings.web.4.7.0.nupkg.sha512"
+    },
+    "System.Text.Json/4.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XwzMbct3iNepJaFylN1+l8weWlFburEzXidqleSsLvSXdHSIJHEKtRVKHPlpWcFmJX6k3goPFfVgUfp40RR+bg==",
+      "path": "system.text.json/4.7.1",
+      "hashPath": "system.text.json.4.7.1.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BG/TNxDFv0svAzx8OiMXDlsHfGw623BZ8tCXw4YLhDFDvDhNUEV58jKYMGRnkbJNm7c3JNNJDiN7JBMzxRBR2w==",
+      "path": "system.threading.tasks.extensions/4.5.2",
+      "hashPath": "system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    },
+    "System.Threading.Timer/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NHAhoOEaYTVE3yc5H8GMuvF+KoPYgCok/EThoiTnE5PmmC4mdJNwCm4eipsNVIZbHKWCzy/L/IHoQQYFQDRldw==",
+      "path": "system.threading.timer/4.3.0",
+      "hashPath": "system.threading.timer.4.3.0.nupkg.sha512"
+    },
+    "Tizen.NET/9.0.0.16813": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JkENDiS1H+b6EXEPLPZtw6FjqmAmzMjX5FdXQPqdLTUC4TgV6M/nwvPUtF5JlOT29mntnRXDG8/cNAzPXWK5dw==",
+      "path": "tizen.net/9.0.0.16813",
+      "hashPath": "tizen.net.9.0.0.16813.nupkg.sha512"
+    },
+    "Tizen.NET.API9/9.0.0.16813": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C5GllfdGFxH+u2xEkQw0wDf2j3yl7a7U1jmunjjEwL6gpCo7jPUPVZCkNvnU35OwPJUqIfEc+mpIbtzZC6uyRg==",
+      "path": "tizen.net.api9/9.0.0.16813",
+      "hashPath": "tizen.net.api9.9.0.0.16813.nupkg.sha512"
+    },
+    "Tizen.NET.Sdk/1.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-25E63214Z5qc62CKhPXS7wgn/z4p9Ud8QAM5Ii8ldfBkC4nPIc29lPIGiX0FaILlS3k+ES5tl0/Yvtg2Z0ftvQ==",
+      "path": "tizen.net.sdk/1.1.6",
+      "hashPath": "tizen.net.sdk.1.1.6.nupkg.sha512"
+    },
+    "Tizen.TV/1.2.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fDGhCgtR4So+Xm/iW9KyKSa6JQ6eBpBI9dOKqfan1wpPRwBp2ZtJk0d2J0zSEfz4AYbN6fsuLF7VM6amBle1Xw==",
+      "path": "tizen.tv/1.2.13",
+      "hashPath": "tizen.tv.1.2.13.nupkg.sha512"
+    },
+    "Tizen.TV.Application/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HKQi0Q7odkTX0X2OWK+ur2N8iuojVIgyQ2zCYyhyYj12vTnOwQJzvjF6aJE8hNoBJmqOo9z8Fqb2ydutUgln9A==",
+      "path": "tizen.tv.application/1.1.1",
+      "hashPath": "tizen.tv.application.1.1.1.nupkg.sha512"
+    },
+    "Tizen.TV.Application.Utility/1.4.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-le0+k3A2Cr801/C+ddx1KvIOYMjccKTqSaELdBRiBwAaqEqAgp3EAugQDnrihi5BUwGvuU4ywQwNavhpEqXVFQ==",
+      "path": "tizen.tv.application.utility/1.4.13",
+      "hashPath": "tizen.tv.application.utility.1.4.13.nupkg.sha512"
+    },
+    "Tizen.TV.Broadcast.TVService/1.1.25": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ab1/Xk1XsQzjzflhDA/TCzpnlMVv+FOeJ1FY60ljJr5vAQLwhbP2gb/tMDLSKndwCUQErqk8houkPAICLYLb1g==",
+      "path": "tizen.tv.broadcast.tvservice/1.1.25",
+      "hashPath": "tizen.tv.broadcast.tvservice.1.1.25.nupkg.sha512"
+    },
+    "Tizen.TV.DownloadableApplications/1.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2zNtZusei9Pm7De9X6MoTqXDZgNyL5yMK7JhFejnVxFTZRKI1hQT4CLq669uR7DdMMe66zv5pG4voILFYj/O/Q==",
+      "path": "tizen.tv.downloadableapplications/1.0.10",
+      "hashPath": "tizen.tv.downloadableapplications.1.0.10.nupkg.sha512"
+    },
+    "Tizen.TV.DownloadableApplications.ComSS/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7TvaISgf1yJSPynxYOQVmY2acupLiyUZTBpbUGEa9Mpuwgewq6n4ARyXNVmsd31oPIB61xrx3JdRe/iUwnJiKA==",
+      "path": "tizen.tv.downloadableapplications.comss/1.0.4",
+      "hashPath": "tizen.tv.downloadableapplications.comss.1.0.4.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX/1.0.64": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p5JgCCp7Wk2kKnViRGrzJyAe0XLPLv5wN9V5yHv02U9jJDTuzRTW2t1kCKt9oHrYOHrXRPeLy4Ahdbnh6rvl+g==",
+      "path": "tizen.tv.flux/1.0.64",
+      "hashPath": "tizen.tv.flux.1.0.64.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX.Component/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0lQE8NArBfF3h4EOgG/intnwc3h+yGp5W6mIENAusOpKmByCxd1akKGSdSQKnCFQf4DXRlMFF65itoy5i0MeIA==",
+      "path": "tizen.tv.flux.component/2.1.1",
+      "hashPath": "tizen.tv.flux.component.2.1.1.nupkg.sha512"
+    },
+    "Tizen.TV.Logger/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CzStyCc3NA8jzNafAP+M+zhgmN48sBvw6/ibpf7Cc2NV9rjNk3D/YlwoyqfT8JGKJpY/tmGJEugC5ePWpYeqxw==",
+      "path": "tizen.tv.logger/1.0.1",
+      "hashPath": "tizen.tv.logger.1.0.1.nupkg.sha512"
+    },
+    "Tizen.TV.Multimedia.Aifw.Api/1.3.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rrz6ud8nFE3RQbesh4A3JFaLAynwB3VBWGxZOfGJ2VfJniHzsF+uzXMcR1qKqeUeHQgXMB3zSPrNn32Widrfug==",
+      "path": "tizen.tv.multimedia.aifw.api/1.3.7",
+      "hashPath": "tizen.tv.multimedia.aifw.api.1.3.7.nupkg.sha512"
+    },
+    "Tizen.TV.Network.Curl/17.10.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ydEyNBng+Hz3P+0YS2v2ZSorYXxDzCMHdFu8Z5PO3sE0B5OnEppeoJdiY/t4NTNyE1MWxfLYTM4Td464jo/MPw==",
+      "path": "tizen.tv.network.curl/17.10.10",
+      "hashPath": "tizen.tv.network.curl.17.10.10.nupkg.sha512"
+    },
+    "Tizen.TV.NUI/1.0.166": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N6spLJb9EqoI/j8dX0j2O1CQIeVZM7uxXevqcZnkIlWxzXbsL03WMJSp1KXKSWapkXM5TKtOUPdLzEvBX1g+fw==",
+      "path": "tizen.tv.nui/1.0.166",
+      "hashPath": "tizen.tv.nui.1.0.166.nupkg.sha512"
+    },
+    "Tizen.TV.Security/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J0e0UV0Lib/pR9unp+VJu5AAKQukQDHtf9BgFkUUOw/yrHwRfdpQHGUGzOU+MBl50IdC+IA7yVoFvrXX/qV4ew==",
+      "path": "tizen.tv.security/1.0.4",
+      "hashPath": "tizen.tv.security.1.0.4.nupkg.sha512"
+    },
+    "Tizen.TV.Service.AovWidgetAPI/0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ErolxKXkI7jebOngq4pRjs4lmfDvReE7Ig3gdbHlb3ljBRDHjmVCbxEvb5ne2ruKLm3lFyC5Fn/gwF3RDxqnHg==",
+      "path": "tizen.tv.service.aovwidgetapi/0.0.3",
+      "hashPath": "tizen.tv.service.aovwidgetapi.0.0.3.nupkg.sha512"
+    },
+    "Tizen.TV.Service.CoBA.Common/1.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TsK4S+Ek0yrVEjx/lYc2Nc7sAEgznlaWK6mGTc8BF2uZAH1ZXQVGfg9OvnVCSkTCEZAGg78G8PNPsYWr+C3jjg==",
+      "path": "tizen.tv.service.coba.common/1.1.6",
+      "hashPath": "tizen.tv.service.coba.common.1.1.6.nupkg.sha512"
+    },
+    "Tizen.TV.Service.ContentService/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9p9//pUxtQB8A/Ho1izu7nHwN6h1QswRrAhJCWP1Ftl7dIxyF6JjE65rba3GlPrcLhiMR5G9lij5g2+0OvKoWQ==",
+      "path": "tizen.tv.service.contentservice/1.0.2",
+      "hashPath": "tizen.tv.service.contentservice.1.0.2.nupkg.sha512"
+    },
+    "Tizen.TV.Service.IoT.Client/0.0.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mPwTHryqzNFu5rK8OBQ6RjtiQrQ1P7YC3ehY/4IFtYR5HOydPI5eg+eVPfTqHJfI9HNHhAry4SyO6/H1olfx2Q==",
+      "path": "tizen.tv.service.iot.client/0.0.26",
+      "hashPath": "tizen.tv.service.iot.client.0.0.26.nupkg.sha512"
+    },
+    "Tizen.TV.Service.IoT.Server/0.0.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VPinY58iAVeTX7M5T097YMiCKsO8gLFzd4tmMMgR4ZKc1Khnku9yiTOl/EpPWWXJ5jlzHf/03XAZ5Vc7b6EyCQ==",
+      "path": "tizen.tv.service.iot.server/0.0.17",
+      "hashPath": "tizen.tv.service.iot.server.0.0.17.nupkg.sha512"
+    },
+    "Tizen.TV.Service.SourceList/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3A579sYB3w9qgyyMnpMFBqU4xOywWD6pGNmK6HUoPjgKL+v2JOXODadaG+LWWv/1Rf0eH655A/7SXSnOPCTpGg==",
+      "path": "tizen.tv.service.sourcelist/1.0.8",
+      "hashPath": "tizen.tv.service.sourcelist.1.0.8.nupkg.sha512"
+    },
+    "Tizen.TV.Service.Sso/1.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pmroaK+SOsJpT89jy5JZnEKzNZIxf0H+NOggRhJFh+w/F9nQRLSFWPBmuSxuJesyJ/u2IjCpCPBLeAL1Ak1mrw==",
+      "path": "tizen.tv.service.sso/1.9.0",
+      "hashPath": "tizen.tv.service.sso.1.9.0.nupkg.sha512"
+    },
+    "Tizen.TV.SmartView/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uL6Mvnl9aq8wdgZEvLQLiN7ovi00FOawrKngUbuPYyMrlRfmNqSU0VNYsgse6J6APnMSVbIF9OuvhcWw3g2xog==",
+      "path": "tizen.tv.smartview/1.0.1",
+      "hashPath": "tizen.tv.smartview.1.0.1.nupkg.sha512"
+    },
+    "Tizen.TV.System/1.0.145": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jYNrBHxYNvypC5fTrbTdQvseUH6mD4WxzHwKE09FCe3wIsnQxqyLYbPurnixkRItQhBKrVEmoUEXmJ8Q6kmUlw==",
+      "path": "tizen.tv.system/1.0.145",
+      "hashPath": "tizen.tv.system.1.0.145.nupkg.sha512"
+    },
+    "Tizen.TV.System.Framework/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5B0y1HgGFJXsLfq+Wx6bO/Yh/hgB7xpz+aDDj29ax2eRm3tkZStLahz3U8rTf2UmXy/zpKg66TzpiPX5q60Bjg==",
+      "path": "tizen.tv.system.framework/1.0.5",
+      "hashPath": "tizen.tv.system.framework.1.0.5.nupkg.sha512"
+    },
+    "TextResource/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

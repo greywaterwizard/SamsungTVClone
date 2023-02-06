@@ -1,0 +1,2083 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+<Reference URI="bin%2Fcanalysis-daemon">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UeLRx9HWAFU1brxWQDRWMY5LWTq10DPGcam2ZPwZiSc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FARGENTINA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ihkD30hQXb7nXIKlTht1qAE72DIuE7/ym+Bibk8LxxQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FARGENTINA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Exl9uW6p5w+t2I+81MmwHRYpsxJUF9Eqc29hbEDdkRw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FARGENTINA%2Fextra_3.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FARGENTINA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v/FeivUeXqjYT2A4sT/FqbEy13X2Dq851oeWMvYnqjA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FAUSTRALIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>V4PSu9ycKjawU2SWrwDqjR2gi8s9Vqcj6TWJM56Wuwo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FAUSTRALIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GKtDJUvoNQDCDDsgmICLeEF7G5Kpr640Xur9EPyj1Rs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FAUSTRALIA%2Fextra_5.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FAUSTRALIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jFgsu9r6nVFULC2L82h84AlhsRvae6TlZCNGyA3ARWw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FAUSTRIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7uT0LB4lno1L4SEfIvd7GzyF4fNpHGPSJKxnh53/Tw0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FAUSTRIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p72JfsLxO2DiemflQB3C5D9lsef/uqZJVtv74cBs8dk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FAUSTRIA%2Fextra_6.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FAUSTRIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UeT/z15H+PmnA4TG0rKE3FU8kI3VQtBTQuOuRguw7Fo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBELGIUM%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>j2F0s+ET0U4ad/v9bsz7SNAbs01noPsB/WqLn+xijbw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBELGIUM%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QhaZiPxQmU7t9jMTzp4dw9me27ce4TZrMPwzV7fWlHA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBELGIUM%2Fextra_7.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBELGIUM%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OxRiVk18j6fNpzF72kWRO3DUxmEkP7TC8P99b0CWIX0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBRAZIL%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UlVbhw03uKpV6km79zq4/ZBOXy4GbmN2H+7Y1Pl5P5U=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBRAZIL%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UmUuL14svm87YsA7S5fYjQmOJmw+GKq56nMDtzc5KrA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBRAZIL%2Fextra_5.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBRAZIL%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OQNgQ/dLOZspxwD2RRfhVAK6l/Cp0nWTolJE+yoAJUI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBULGARIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>P4F4wgNHqFO5Md3qilikNQy9Nwg+GBCWaYaCEhvT+oY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBULGARIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+EHN75zPoiija1yLyhY+ihKWK1GixdUAfGC/BnaWIHU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBULGARIA%2Fextra_3.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FBULGARIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cx5FcbuoauUAqf9jFj/EhUFcvuwGI+iOcD7Xsqrp+aM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCANADA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kKtp6lDJ+LmmzEnang/y9zpZxX1OBL7itpSifAUEHvc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCANADA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oMw/H92hk4wytZRuJt7hAnlj2nHJMA3GhEKVcgW7BI4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCANADA%2Fextra_6.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCANADA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PViBYOkkR0shTT/OF2Aq5oZazOl4E3POKq5bpYSE35Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCHILE%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RXwOwUiB5lRyPCLnZn/GuB7SMrzwPUDamOQtUENFlxo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCHILE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0EFWghItOhKlqWwaeAGjFV/DeI7tlOW2vbw/qdReQwE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCHILE%2Fextra_5.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCHILE%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nyD7UHORIa0vl9Crva2QCs6+arofUGTsThI9iVQJzuA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCHINA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2mzC9d1/eP5idh6V9rza7L6cdXqFzILXOT7/F/dWvnU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCHINA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VZ88/bQ66lsVllHZbCDR7gsb77q0NxE/5xY3l2/Xvg4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCHINA%2Fextra_13.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCHINA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>i2NNvrcWxHK/eAJ6rv+fW4XTBHBeuUYKR57M1qs/RgU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCOLOMBIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kEVXkIbfze642GyxSHxXN2eXFfoNibL2XHQXHE0x/PQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCOLOMBIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mLBfk3f8XRcKwJ/KOh5+ItkEanZi5fIHMnrjPn1caFQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCOLOMBIA%2Fextra_4.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCOLOMBIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/ZpegVIcLps3ccq+JPRXygkcn4MxNKmg1jq81Epw+IE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCROATIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Q7AJjspQD2tuCTcQDjQ4ASVeX2hZeMRsh+Ki9KjVG6M=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCROATIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3Jr2s3mFtVgev5GQjKN+IZymjD9K9A3X5DVm8NZNQtA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCROATIA%2Fextra_4.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCROATIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D9W2KzTrjI9jCUhLcPQGINEXnfZAcT2xVgHneL10h9g=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCZECH%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5P+uUWL4ew25b7i+P2uZ4fonmAoTdVQVaximLPanSkE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCZECH%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2WfC7EKj1cdryE6eFPjnrxp+RT/TFur/Ti6s7bWNi0s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCZECH%2Fextra_4.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FCZECH%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Q3d/Enkylx3cd16fpiT/bg+v9ILnhw7Kp6/HjUenhHw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FDENMARK%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ydSbJEZZMhFGyLF5J7ZApvdJsbgas15NUSqHx++R14c=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FDENMARK%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RNV4XECvw1X2Uxqmz47KvVIz8PPyz8+dV9h/ym76138=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FDENMARK%2Fextra_16.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FDENMARK%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RRELn4X9RklF4sUYnZZvxSc0xTs02qtQJoLhUf9Q4gk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FESTONIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uysBQIuyIerP+yoSjDCCBdH/XcGQrigt3udCg0zJHSc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FESTONIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Cc+TS14q1bx2VmYf9s1P97hVyAsYLKafNTjkjhLrufE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FESTONIA%2Fextra_3.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FESTONIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Qsl6uuqQ7Cbx+pP6yCuqXlVyb8dAI6YjiugQi3K/A4w=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_BENELUX%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5Y8p4kMfP2h6vz6jlI0qgwDu+vIgaQZ1CJ/ObztxQfw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_BENELUX%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+8IUpO7w9steHVGLc8hlbUOCb35WhaeVEgQH1ThABs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_BENELUX%2Fextra_0.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_BENELUX%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fAuVJ6QQc4wE6PRWw/BSGlpcS1psNq5MG8O7mwvoJg4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_GER%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5Y8p4kMfP2h6vz6jlI0qgwDu+vIgaQZ1CJ/ObztxQfw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_GER%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+8IUpO7w9steHVGLc8hlbUOCb35WhaeVEgQH1ThABs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_GER%2Fextra_0.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_GER%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fAuVJ6QQc4wE6PRWw/BSGlpcS1psNq5MG8O7mwvoJg4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_ITALY%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>N2bikZG+KYP3sIKpCJRpEVgIP2+CmZVyrxRp+n5JeyY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_ITALY%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jgZJ9HxFOZauscecKpaz812pWxwptD39rVU6a2qVbHw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_ITALY%2Fextra_4.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_ITALY%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DwiCe6a5s/6U7cKOQLDmzCWILpGf9tKK5O0jnLAQQz0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_OTHER%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5Y8p4kMfP2h6vz6jlI0qgwDu+vIgaQZ1CJ/ObztxQfw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_OTHER%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+8IUpO7w9steHVGLc8hlbUOCb35WhaeVEgQH1ThABs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_OTHER%2Fextra_0.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_OTHER%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fAuVJ6QQc4wE6PRWw/BSGlpcS1psNq5MG8O7mwvoJg4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_SPAIN%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5Y8p4kMfP2h6vz6jlI0qgwDu+vIgaQZ1CJ/ObztxQfw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_SPAIN%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+8IUpO7w9steHVGLc8hlbUOCb35WhaeVEgQH1ThABs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_SPAIN%2Fextra_0.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_SPAIN%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fAuVJ6QQc4wE6PRWw/BSGlpcS1psNq5MG8O7mwvoJg4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_UK%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5Y8p4kMfP2h6vz6jlI0qgwDu+vIgaQZ1CJ/ObztxQfw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_UK%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+8IUpO7w9steHVGLc8hlbUOCb35WhaeVEgQH1ThABs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_UK%2Fextra_0.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FEU_UK%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fAuVJ6QQc4wE6PRWw/BSGlpcS1psNq5MG8O7mwvoJg4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FFINLAND%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8Le6Os5J3l7GKymAlmls/6BifK2onVr1KBtnhcoM2y0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FFINLAND%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iYiTzUAJMDmdoFPD00czBGXWZ1a5KiibRlS2JFYRhfs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FFINLAND%2Fextra_8.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FFINLAND%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>90/ls9hRW4mak+h12EqN+3s+xlAS17oZn/X9oLivoOI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FFRANCE%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dDxV+rj53zLpTvWdsX29lLea7wO7d1tKwelEKStPkvQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FFRANCE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ByD2aB+tv3G11Yc9f1F1e14S8w7jzjQyYiHaJu9VY48=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FFRANCE%2Fextra_5.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FFRANCE%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XVY4f3svDhkaSvJzUhnRB26LmbX2Rw5DSI915a8m6QU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FGERMANY%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yKNRL+a7YhHj2RejaJV0RgjHKODopI52PfvIWxNwAy0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FGERMANY%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yyLtGghq1i/B8NGsplMP2l7yZbKFlWURRtKeWAY/hlA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FGERMANY%2Fextra_12.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FGERMANY%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+Fs3qTGkeNHACbe9btZFFyjXtwL0DXCLMjZ9Z8BRFj8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FGREECE%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D58r9ioEkGs3e7XzTf3CinrCgFz79R8B8ywM6yP4Uh8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FGREECE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wZLyBQtDxSlCeSkHrQBM2B0DwfF/abnMYiFjtYZtQv4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FGREECE%2Fextra_3.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FGREECE%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pkX8ALzLoFRDgmTm+vvwufrEKuvqKT6sH5gRTIDC32s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FHUNGARY%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cqXgmilDUS//klVg3GZqUbhhRVNbCK1LQ+4pYSQr7LA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FHUNGARY%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YOnjmC64ns65wsa460TkoTJ6f1kfXkMQFstKkNzO78w=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FHUNGARY%2Fextra_5.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FHUNGARY%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hRVca/IUd2S9GI5EyzKqUqvELCxO45BBL/HOaW3E1JM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FINDIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oM9+1Zfep3yGQrcOzGUgG+qTISueC2EZJ7UllUGmJ3A=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FINDIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>50Y7jCbqRAIX0H2FkgcHBmVwob1GtNs1ycxdFN2PRl8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FINDIA%2Fextra_14.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FINDIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BQgZMeE4yGzgTEgQg+h4QnHLIgYY1LKlpv8AUaIZQuA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FIRELAND%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OoHQ/Zd/0NtviKofraOgvNyXPWdoKBC/wB0KV7ID0pU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FIRELAND%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>l3zPdqZAhBsr22kQD9AZXsDwK4xLXoVF16zY9Ci1G3g=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FIRELAND%2Fextra_5.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FIRELAND%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sHWkl9Q16T4mIFKqg6GqG299+LTrcbSSOzchA1ekD1Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FKOR%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9QyLPq5Fn+yXa/k6K+8R1fIXV2FdhihyVP1k1+hq2LU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FKOR%2Fbtv_cable.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gnvXaKIVACuWRrWiBbG1XSVDr41aQOhHOi0I2N0SFos=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FKOR%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WHDYJ/4ydZngABLnOmfB+BCjJfGbOaFu6B4b3h0bml8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FKOR%2Fextra_7.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FKOR%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2PAslO7s3704GL6F1Epsz0HaN9DJNbWtY7EnyvawXMw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FKOR%2Folleh_skylife.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ztQjS3GYLly7Cjhdao8z3pL5VTKEikJtKmjDD4GvDac=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FKOR%2Folleh_skylife1.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sBhE7Xr09gnFQXFqJr6iFNmTU+uxn5U8RIfCBgeBOpw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FLATVIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bUKbScsUBzwOzWuVhxdRQEnm72VNkpUScIbxrMIlJ/U=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FLATVIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iOlnHlDY561/cleuf84z2MiQmAdGiBBkABZAWS0nnvc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FLATVIA%2Fextra_3.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FLATVIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wr2wpC6+zt8YWcw1oanOQGjjfgSDhQpZraNJlGIovhc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FLITHUANIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ioloX3AGnURJs9JTiTa28xMa/AV/DBqhEILUsPH/LsA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FLITHUANIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ea04HlREcdCPSG6xQ+wfWCY/j5omfmeeX435VIDtUMo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FLITHUANIA%2Fextra_3.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FLITHUANIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PyKWMsF8fq9cGaQRBWLQU6E3f6VHfu8qmSQ1yPI+P04=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FLdCountryCode.list">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VkHeUIWjFGv+FCsdL2u5foAPRAynkmMKav5ukrH/AJ8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FLdLocalset.list">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GaJlqueugb7AN6CV1inGlIjnDEzhJySrGkn5+2e5MNg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FMEXICO%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Wg4Hy7a7QEiYcq+msrXoyzk7hpQpqWo5VY5Yg4NlxCI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FMEXICO%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S7mfano1+mbIxenjY0D/IjQ1ntaQk/f2N+wqpWfROgU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FMEXICO%2Fextra_3.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FMEXICO%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eplwHU8YQx6JKH4ZaznEtg/jPsjJCZPd7io/u3xG6rs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FNETHERLANDS%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aYaGqHeZACEYZ6BreJCrZ0nDMusOstJYNEfWj4Gsx4Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FNETHERLANDS%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ei89ZmnXwn90T5ermcwYqiaf8OxswXehQFZqqjAZPFY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FNETHERLANDS%2Fextra_7.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FNETHERLANDS%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yRpXsZBnoolcLkdHcen/hy10z4EreQZg8RgpMy2EQ3Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FNORWAY%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5fzkJ8p2DF/aD0DEf5PgbCWKxgnwRdIp71w35A/eHIc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FNORWAY%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AkrJp++Mek8mEaCFGIeMhGEOf0y+FtwGx2qtNtz6yDs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FNORWAY%2Fextra_7.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FNORWAY%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Fy2daP4zsoX9fMrn1q+MZZl4LHrUxiYmo2NVqmzuF5k=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FOTHERS%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S+n2/ZrSmpWs9k6HN/7ZKxJL5aIMTlyF4dnxg25YnD4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FOTHERS%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>I+Q5+kvlNBWlcVQxejmsodzYI9XYup+Yv52LeNkhvnU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FOTHERS%2Fextra_11.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FOTHERS%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g32ADrlveUYK/1zSSYAYVywm/+vIEMrN4aC8lWzNUSI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPERU%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kQ3vwUxf0cX56mEIKwfcIa0DD2LLfr+NfHP0lQ/1LKo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPERU%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sFtQ894RCN8O7DSxTZ4h8YgezqpT5DSdrF0Lpw6KH+M=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPERU%2Fextra_3.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPERU%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zpepAzzJr6vfP6x6GIDRiRV+3umNDWU9klB+eLiLgXU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPOLAND%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZsLHcS8BnGpGRdTqgGfqqQuVnDQDtPL2dTx2jImGshg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPOLAND%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1v+kKVK7HcIuWEuzyDo601VYaC87bBsftTNePxyQSQ8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPOLAND%2Fextra_11.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPOLAND%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>b3KSbOzUj4ch9n+EfymbosLSRggo6AQdArtscVXkRXc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPORTUGAL%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Du9HY79aNRPQhSC9ZyZGMUNUBwucl54x5/hcu7CHlbI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPORTUGAL%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xEqdfIftNLpvVguQiLxBofAQH83l7P8lux3leP80oF8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPORTUGAL%2Fextra_4.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FPORTUGAL%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TNyk7bStZmlCk0/EoHgJ98SvgrlGApEaZZjDNTKrKHs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FROMANIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C4Paq1WoJO+YtYTzPCvWA281B2DBn4c7UcpGnS5DCN0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FROMANIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>X7bh2x3fj6DV8HwIhoDr3FeCkMD8W9U7tlORSVvER7g=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FROMANIA%2Fextra_3.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FROMANIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0tLxuY0GFtQ1+nTm4NomghOUSFnelB8bYW0d6e8wdkk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FRUSSIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>B3RmrYKcMVLsnK6sf21x3esv3s2IIbaZ5YSWE0B7K0Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FRUSSIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9zJIl5bXXiRUnetLvbXuGPXjsLi9taCJhPE6+2bHW0U=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FRUSSIA%2Fextra_10.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FRUSSIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oXH/vKxvNZBuYmOslOhxASBillFHh8nfQwvjOtI3J9o=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSERBIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fK+PmbwjLpcnGcBqxBfWABC/XuD/QY4EsPpNnmVi8/0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSERBIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2rkSmgvlN8hrKdkJVBhL2e64VVqS50CjO9wd57PcDYA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSERBIA%2Fextra_7.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSERBIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xPZ42p7G332+iZCUruJxo4+1Ec6NX1bTRrUSSVmcgN8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSINGAPORE%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pIGM7lQex+53rWCcQe5amxIUE7ED0gpqQ67tzqPwwog=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSINGAPORE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QJi3TxSTW1cj7fbU5mYZZI4L07/DiKJYk/kQdHIIFXQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSINGAPORE%2Fextra_2.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSINGAPORE%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KrkxpJVpuIPhhKxKyQEbkU07Yk5fZq2fXkvs35tYwFw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSLOVENIA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XkWtTsuRqZoaJo8Q8v2Vdrcy+fh5k/om09b/miNyFm0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSLOVENIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PJ6Lp3rhF3uue+JDHUirSLjj/g7lacKk/LS2KxsJtiY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSLOVENIA%2Fextra_6.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSLOVENIA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/J145NL2di/bHCChrlnYOO3GqCYT+LJ08wMjYR6iyH4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSOUTHAFRICA%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>m4TqM2EfuaJh7kPEgn7GNHM4Vx5UjSAtEvTSb1GbQC4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSOUTHAFRICA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xR2yhEVjmkBBhUwkhpf86TYmXh9iZXtowuDgEYq8taA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSOUTHAFRICA%2Fextra_1.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSOUTHAFRICA%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nbtoRWHqaOOaukv62MPDMYX9gT6G20TzJx4UkwOV4ZE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSPAIN%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>34tnl5kRYI+RceO3ZUuabkpnDyQBdhJ13yK491NxXvw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSPAIN%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>O55A6r+EvZd78Y2xzi7dpiVWAFuTpnXUKvJ4Iz/qIV4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSPAIN%2Fextra_2.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSPAIN%2Fextra_3.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSPAIN%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>o3b0Dawi5O1T2330SlMrEdGWN2E4u7vD9JSnfV9N3dc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSWEDEN%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Kr9+nt+jCGgDfaSFoGa+OAH4GM1mfy+1bt6/XNOGGO4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSWEDEN%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TY0SLGCezmu1exGYg+AYZC2yczQ4C8kYFkBTQTiPDnU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSWEDEN%2Fextra_8.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSWEDEN%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RLUE0JqtsPFyg7ZzbzkaTCRCANJhn7dP65PLOde6DS8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSWITZERLAND%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>i4yaItGNiMggl0pJH0aC8Ndrga82yNAVFEhLFTmAQLk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSWITZERLAND%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kuHpHOu00tEUjqPZP/WJ3q/OP1SzeOWa6VVHrlCkYVM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSWITZERLAND%2Fextra_4.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FSWITZERLAND%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S0B7Y24dk12YI39cxIrM2sf5Gwvt06TtfSjUPWEK/jk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FTHAILAND%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BzpTdA9NCitEkFrxrCwak+SKlgV12pF2o/iRC0bGy/4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FTHAILAND%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p0evu35YXyEOXsAnajc0/bHh674MDFegVoPZkoIwJiU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FTHAILAND%2Fextra_5.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FTHAILAND%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QidS3loxeLauRB3rEP7aTFEiJY7TmyBZJzYyovTfcdU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FTURKEY%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Dy3vDhuZa5y9zFKBgVuh/WlKj80d7LQ/n3XpQMMb2F0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FTURKEY%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pAE2XRk5J8iec9sJgLI7rfD7YNoGV2S2QJ58zoEc1PY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FTURKEY%2Fextra_4.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FTURKEY%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NwPYJz2075HcCYdcV7kc4Vt2+HSTOIA+20JTfLatv+g=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUAE%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2glYMINrm55Q2GpKRgsKzmEmRrdPMha/rxXYNR2t7H4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUAE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZDuwbBezxnaVPcxVF7XVxcYZwc2E1Eqm6gYlRp0E/yA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUAE%2Fextra_3.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUAE%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eQMGdorU/r5B8mosMtQJmjhtau1+AVU1Rio081umsag=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUIstate.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A1XbHDkhuBkyZk7FOsKEAmZwShNYr64LsgIKM/kZvxs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUK%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IadeDpwcbGwJ6+RWsaUKoCI+6XBhYtEita5EiIMyQeo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUK%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3Mu5V7TLJJaVel4lKzeGqFtUWjVzfCKy4IMR6nMnuDk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUK%2Fextra_7.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUK%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6bAZDTitPbCeNk1jauo277chNmNBgODA7tjKq3uYUuI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUKRAINE%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aJNHVnIdfwB4lMJPo41iiKPKAZ7yyuFSY5EWSUgRpus=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUKRAINE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pQIufwzzM3n0HujrnRPHuVf4O0pYrnegF7Yx4SeiZa4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUKRAINE%2Fextra_5.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUKRAINE%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>l9vAA80qngrA2YAv2AUawNGakOOmkXtrJ8ehX1h2akE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUS%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IBafGodVKu2xsd+57PQ6c0cd7lCAuWXdLFdPVP9npjE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUS%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wGDiXnp7G5GeDc3tglGoymllm5kh7qB4fU+U86F2RUI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUS%2Fextra_14.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUS%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WlpBsf7ggnmoGyHfVpFx+C85XFdcOaLJZtwuPft51Ok=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FUS%2Fxfinity.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NlnCMl2gRcht3LiWvcyIKODupoFcqK5M38u2+kc+EmE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FVIETNAM%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>M2Ej+hZWpxKMmoQBKOeTh52AUCIkq288tG0nALN34fU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FVIETNAM%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>f6VvFGXfPaLzMNxMaECc1E9gF1VO+mbLJyS/qSulSe8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FVIETNAM%2Fextra_4.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FVIETNAM%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>i3Fru1AmlCDLayhdhZ8TSpL407YU+qv884Jr0naB37s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FWORLD%2FLogoCNN.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5Y8p4kMfP2h6vz6jlI0qgwDu+vIgaQZ1CJ/ObztxQfw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FWORLD%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+8IUpO7w9steHVGLc8hlbUOCb35WhaeVEgQH1ThABs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FWORLD%2Fextra_0.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lywJ4pobPsbR1pFGqwjv/rHzJOLh4RaQ7RL3zjdC9C8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2FWORLD%2Flogo.info">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fAuVJ6QQc4wE6PRWw/BSGlpcS1psNq5MG8O7mwvoJg4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2Fapple_icon.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mtbq2oYkGT8cIe9G2XJA8qLN/R9lgfXaGIzEJp+cq3U=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2Finput.cfg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oqcNzWaYBCMRrXU+9b1Ynk3jU2LoqyqpOUuBW4YnyZM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2Fsiamese">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xmvcQWMrOx/fyDWT1/UDKaSL7ZpWtZcp9RKdHRfKTds=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2Fstate.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1tXJxmpa8soJzxVGne5oHhD50Q9V/x8Uab3yA9J/bDs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2Fstate.cfg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uhFeHLBuG/ij+DHDCC5ElLXS5rDNkAkttD6TKPT65co=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcanalysis%2Fdata%2Fstate_bkp.bin">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/OUvNOnJhQEUtdtldrrntEOZi1a9xX24uiOnuEPGyUU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FARGENTINA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fZYEcKh2Ni3HcK50UHVREArVTw4qWiw1UmwDB2QOUfI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FARGENTINA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4tc/27GshQo39JPw5mY8rCZ5cU7DQ+FlVN76EY65EZ0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FARGENTINA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Exl9uW6p5w+t2I+81MmwHRYpsxJUF9Eqc29hbEDdkRw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FARGENTINA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FARGENTINA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>O95Qf+eh5UkVbwkFQkCUv7D/ZNZ84bwyYUCU6brlh6Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FAUSTRALIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gD5GRRGzm4YxSmKKsNktSBlDjoJIJdBaZ4y0dp13Nhg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FAUSTRALIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qmaUW27WFWYUrE5PhZEOj+muKF5u4cEU79gl1cCgbQo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FAUSTRALIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GKtDJUvoNQDCDDsgmICLeEF7G5Kpr640Xur9EPyj1Rs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FAUSTRALIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FAUSTRALIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Tz958YXXIK4WJwl7MAsF7GN4bfTot7G3AGSlOHqzYDg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FAUSTRIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oLoD9WBj65r+MNb5Yn12+1pFN+YlDcRnWYxJzoqhp24=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FAUSTRIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lK75N6akEn8HWYSaGjZNbsDatahxnfJuv5YQKOreS+c=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FAUSTRIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p72JfsLxO2DiemflQB3C5D9lsef/uqZJVtv74cBs8dk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FAUSTRIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7lVdxpDLX5yQHaZA/rGDe7AhiSdaLQUa6FFinE9wb/s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FAUSTRIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/Zdt0LFcmc8yjKVXiArdT5BFXIrUBFOgvIOTgStDEe4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBELGIUM%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u3eJtP1u+YEnUZm9FwPWFF0aPhAIcSGxfGgPIIcUvF4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBELGIUM%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ekq6WVwjvYbqCsxkMHFLDV90tFdiIc1ZATX8wizT0xU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBELGIUM%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QhaZiPxQmU7t9jMTzp4dw9me27ce4TZrMPwzV7fWlHA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBELGIUM%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBELGIUM%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>q8lia01L+WH4+DAVrOwM9f2uwyKlPp0GNoyKoEvIifg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBRAZIL%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AXEusF8NtV+ipEnZUJX31MJn+pKtzdW3o/Feklofau8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBRAZIL%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SSoTicYFh6EzmKLnCLLxaILUs1nc2SZ1G0dmUx/Vud4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBRAZIL%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UmUuL14svm87YsA7S5fYjQmOJmw+GKq56nMDtzc5KrA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBRAZIL%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBRAZIL%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MJ1c/d57zdZfuqf1oZLpfXIfYVF7F3N65+lBCsbmbVQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBULGARIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ghz3hPLRW01sECPF/L03YFAbjknExW5mDNtmohvyLrM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBULGARIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZjMq4GGpUE8WkNszI4MFC9dz1QUAPpLLJERNZNKsGHI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBULGARIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+EHN75zPoiija1yLyhY+ihKWK1GixdUAfGC/BnaWIHU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBULGARIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ke5GhvtAfHAQpTu9tHKBT6FiSvhXIxz9KjbcSZoZ6N4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FBULGARIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u1cYoFT829CAS+pak+z1Aj0Sq48qDW5CX/qNzSYaopI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCANADA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3LnkSWQtVaQaj8bzpbG+CgeqUEBAcP6EqmAoeE5pwdw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCANADA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KXCHfsVoPv1JFq9WcQznr5JjQWMZndnegMAe5bKRrcw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCANADA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oMw/H92hk4wytZRuJt7hAnlj2nHJMA3GhEKVcgW7BI4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCANADA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GoubIFjTcYdLDBVDLOJdOopibZIW0+6r1/xzA7eeRBw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCANADA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EHy4bZxSH22IfIc1U7dg5P7RJrbhqu1hMa50oJxjR28=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCECINFODB.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9NxkVSPq/apoX9J0SUWmIoMcTsVE2+ZKpnL5CgjBKt8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCHILE%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MesJqNSSek966yTCKQ8aheu+abXpZzBMhNM/WM7Gs+0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCHILE%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jl9lr55QRGlxPPxd7DFVfJshLW+u0cAkv1ua06ZdrNc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCHILE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0EFWghItOhKlqWwaeAGjFV/DeI7tlOW2vbw/qdReQwE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCHILE%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCHILE%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KIbi/44B4I6x5K9pBdgOw3EaX0KxQ3aAQQsqvexZ0eI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCHINA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3df0ASUS/2uts783V6qLGxDmms6qF6K5vUO3a5cuPLM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCHINA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UdoonPqbgV25GWOo8c0B3c024kcA4SUNIvGzq84aaA0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCHINA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VZ88/bQ66lsVllHZbCDR7gsb77q0NxE/5xY3l2/Xvg4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCHINA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCHINA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>omBmBGzoWwLEGLaAsJJiZNJ2Zl+ViGu/tBSzcd9X0Nw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCOLOMBIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UFEilH9xGoo46W9f8SNRLaal645cXcba0hs2H9iywqQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCOLOMBIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Vz9xUnWYzdbMUsIC+Ihw3mS/WGrEvpLhPyv13GjyXEA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCOLOMBIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mLBfk3f8XRcKwJ/KOh5+ItkEanZi5fIHMnrjPn1caFQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCOLOMBIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCOLOMBIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bdFHLfSlKGVrVRcH/SAMRvPse/Z5mXYvTFnJKv7pXfo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCROATIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>w8WTGWVzazUIJ4NhGoQYe7tQAu544+qU3K40PYooONg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCROATIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pMZoqY+IHYE/CD3stkhT9ew0/FiWk0T60ceA8+AZw9k=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCROATIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3Jr2s3mFtVgev5GQjKN+IZymjD9K9A3X5DVm8NZNQtA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCROATIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eNO2jhKg3kd/OZ8yh8uEKSzHix99Y0QguZDzZUqWysQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCROATIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iObMF2mZ4Yvbaqnw5FiyQWsUt8/dTIVboW32QCw6NbU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCZECH%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/7VqVat3iQU8ivbWvJyWil6r4rGoQKhQpZBRth/NqMM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCZECH%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dXhoZSRjSegqftdEYWE8B9eQzf7hytwdaIDMcgcNof8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCZECH%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2WfC7EKj1cdryE6eFPjnrxp+RT/TFur/Ti6s7bWNi0s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCZECH%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0bDJ2E5iPdFyP3+3NRjJ2a2/t4OQIbL/C1O8PNBE5xg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FCZECH%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>U4UYKUPRgWG4JROT9aN71ZnNIcLCP3qC3asmFBZt27U=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FDENMARK%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e+fnh0Hvy96bLItDKASsRp0kYWgocw8sNiMNU/RWcUA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FDENMARK%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PCLoQJbGCiTGmi8giKEWMcVEgQwJYYavChxZcdLtb8k=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FDENMARK%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RNV4XECvw1X2Uxqmz47KvVIz8PPyz8+dV9h/ym76138=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FDENMARK%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7lVdxpDLX5yQHaZA/rGDe7AhiSdaLQUa6FFinE9wb/s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FDENMARK%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rCDF4XWMy5fQslNRFxWtieNLwvye4RWSTfMyXZbEbng=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FDdCountryCode.list">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VkHeUIWjFGv+FCsdL2u5foAPRAynkmMKav5ukrH/AJ8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FDdLocalset.list">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WiHyknk1k++zbISCZGY9+jasbWVawBNe2Ld854X15LQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FESTONIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zbtduFkLgXPuiDGqfsaHcalpatK2RQU9EzitwEPriWQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FESTONIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rilEVcZG3UI/3wwPqPvwP1UVamJ+GByLqW7JPDAHPvE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FESTONIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Cc+TS14q1bx2VmYf9s1P97hVyAsYLKafNTjkjhLrufE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FESTONIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zl2UH/5YpBq+ACNr63NaFgnHVzp3UcNx2Mf1YCu+bvA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FESTONIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GYuBVVVQJCSgFxAFUBgMjoalzISs/P/9gCHhrKS5ECk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_BENELUX%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v1aI4/L4IBxxgg14Jeof6yfqpsY5Ustikt4Qjk6uiQU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_BENELUX%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jRYNcRgisAwsTNnIASL7NPrEG80/ocuToUP7CFXeG7E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_BENELUX%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aeQ3TOJ0ltEm8+ai7xZRkvVAEmGSf4jbwtFUSEIh3bU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_BENELUX%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+Pw3yQk3EBraHaqvRode2x3WKfjw4Hsp/2UPlXIb/8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_GER%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v1aI4/L4IBxxgg14Jeof6yfqpsY5Ustikt4Qjk6uiQU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_GER%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jRYNcRgisAwsTNnIASL7NPrEG80/ocuToUP7CFXeG7E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_GER%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aeQ3TOJ0ltEm8+ai7xZRkvVAEmGSf4jbwtFUSEIh3bU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_GER%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+Pw3yQk3EBraHaqvRode2x3WKfjw4Hsp/2UPlXIb/8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_ITALY%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CHPCtkKS66ylaJ+VN/wsc2YALD0P0mmeGdaY1VgCGek=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_ITALY%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/pfCHFwQoFlq3kRaXpeI9gUCyWXS8HgDinAlYwDMmZU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_ITALY%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jgZJ9HxFOZauscecKpaz812pWxwptD39rVU6a2qVbHw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_ITALY%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>f9iI9YZWSR4LxNEyjkszzrw4z+txmV2EHepNGQulnNs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_ITALY%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Z2jNisi2NziwF717g0CbRak/YKb5ODBryFGO3gY/jm8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_ITALY%2Fstbinfo.match">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QYzSqSi2RuO5wHQJ5mz7TtZh+6CYeNNCUS3toitiNYM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_OTHER%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v1aI4/L4IBxxgg14Jeof6yfqpsY5Ustikt4Qjk6uiQU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_OTHER%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jRYNcRgisAwsTNnIASL7NPrEG80/ocuToUP7CFXeG7E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_OTHER%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aeQ3TOJ0ltEm8+ai7xZRkvVAEmGSf4jbwtFUSEIh3bU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_OTHER%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+Pw3yQk3EBraHaqvRode2x3WKfjw4Hsp/2UPlXIb/8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_SPAIN%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v1aI4/L4IBxxgg14Jeof6yfqpsY5Ustikt4Qjk6uiQU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_SPAIN%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jRYNcRgisAwsTNnIASL7NPrEG80/ocuToUP7CFXeG7E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_SPAIN%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aeQ3TOJ0ltEm8+ai7xZRkvVAEmGSf4jbwtFUSEIh3bU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_SPAIN%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+Pw3yQk3EBraHaqvRode2x3WKfjw4Hsp/2UPlXIb/8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_UK%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v1aI4/L4IBxxgg14Jeof6yfqpsY5Ustikt4Qjk6uiQU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_UK%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jRYNcRgisAwsTNnIASL7NPrEG80/ocuToUP7CFXeG7E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_UK%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aeQ3TOJ0ltEm8+ai7xZRkvVAEmGSf4jbwtFUSEIh3bU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FEU_UK%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+Pw3yQk3EBraHaqvRode2x3WKfjw4Hsp/2UPlXIb/8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FFINLAND%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Aj5tyZktADmYws+VsKdtjBct7RcbtPbiYzUewRneZBo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FFINLAND%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2z9wjroRq3qX0sF8gv0oJ3ghaCNNETQbfJGCrlgY5WY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FFINLAND%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iYiTzUAJMDmdoFPD00czBGXWZ1a5KiibRlS2JFYRhfs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FFINLAND%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dfSCBD2oNFyuzFh81IdImmMPib9Itc5J+PDkvsdgCnk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FFINLAND%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PP/YBEBFO1aTBWYf5lvhFVLE6eCKF4MtRH3/+11CWQI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FFRANCE%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>czLePwGa1bkHMiqPRHRj9QwOADYC9eHEJEL+10o1EQs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FFRANCE%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YrgwpEYMePCgeu73Frz7yKreX+JwRbsE8g8ET3hDEYc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FFRANCE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ByD2aB+tv3G11Yc9f1F1e14S8w7jzjQyYiHaJu9VY48=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FFRANCE%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L2XqzCmWGfp50207P6CR4wTQZcUeSsEkG9mUXR+D2DA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FFRANCE%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>y8jHRcf5WBKEqeq1k8wh+nyvsUJsieTHqiPZANfa2tU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FGERMANY%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>j0Q/dHOLFfKRhO1AFAimzN5u+wVaenVZmwy1ykP8QD4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FGERMANY%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>akz0uG1nS4zF4mGW9UGFZUYgRccgZWyMSWoY3zQSW5w=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FGERMANY%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yyLtGghq1i/B8NGsplMP2l7yZbKFlWURRtKeWAY/hlA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FGERMANY%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Mq3d6vwYBbyZoBuPE94FLaD0HhyBfq5FliwYt+dUuZw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FGERMANY%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ddrq2bp1R55FuHjICQXReahNC2Jf+0nQVeFP6c5LZvs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FGREECE%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CvIfWliucMQNnkAApTU9/Tukiddc2Aaoou9vBo1yazA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FGREECE%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1x+ZWj/js+FWV1kzQ1YJKZmGJvcOBdvpL1hoI1K5xDc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FGREECE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wZLyBQtDxSlCeSkHrQBM2B0DwfF/abnMYiFjtYZtQv4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FGREECE%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zl2UH/5YpBq+ACNr63NaFgnHVzp3UcNx2Mf1YCu+bvA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FGREECE%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2DThGwixqv/9tx+ycOjcENujh24hfLDFfzYuk8OEKdo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FHUNGARY%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9bJgqwwtrcXJm0hxU0JON5HblG+ADSIAMPQUfkguNrQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FHUNGARY%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lFeG+jnRfLsvr7otLmox+CAsjjT984c1vRA70gRA580=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FHUNGARY%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YOnjmC64ns65wsa460TkoTJ6f1kfXkMQFstKkNzO78w=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FHUNGARY%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L2XqzCmWGfp50207P6CR4wTQZcUeSsEkG9mUXR+D2DA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FHUNGARY%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jadyexqAM88NA8gwRLQEIvzeFO3qSaYzhzflFn1JPo4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FINDIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QyeGWVLQ46omcwHw+bJz04YtS+8cWfZEI2D1QgpVG9c=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FINDIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LNFPPv+9h/+U5k1WLW2rxQCAuvhwQfGFAAxrQ3m/840=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FINDIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>50Y7jCbqRAIX0H2FkgcHBmVwob1GtNs1ycxdFN2PRl8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FINDIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tJcoI4ILbXpX1rZtaasL8tI12P4gRY267V6HtoIZoyM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FINDIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PanDFFOweYxlhHijHVHkY0UFf7Y6DvDRYIho9L7yhPY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FIRELAND%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Qz2XOH9Q/IhopCJ/kDlReIS2zlYgppMlmj5oQHaM3FU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FIRELAND%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QBh2r2fUFzvreZbEpDFxd2kjizi5YMTM1Pcm7hxW2bw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FIRELAND%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>l3zPdqZAhBsr22kQD9AZXsDwK4xLXoVF16zY9Ci1G3g=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FIRELAND%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zl2UH/5YpBq+ACNr63NaFgnHVzp3UcNx2Mf1YCu+bvA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FIRELAND%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KmhXyOZCoI+ZAmNDY6evuC2pD9IGrHqlbSldz3ZFW7k=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FKOR%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OzigTxAUTRqb+B0vzUgf79ubEwZL2gCeppqtKq9ADQI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FKOR%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wgq+9abZLfIcCN7em5eRROrO9hZgRlglKwOkft8tFm8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FKOR%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WHDYJ/4ydZngABLnOmfB+BCjJfGbOaFu6B4b3h0bml8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FKOR%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>89fIoB4aZsfTGqgophpxP3GgwbeFyO92aLrcV7ApOAA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FKOR%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>weYrxsCyRDCXzCU0WiPmeLeDvqSVF8R5dK0NPQWwi4M=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FLATVIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>esBfB8B/UWeG5X/nVCzrRF1Xt0Eyf+PAmE/qTQI/3Es=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FLATVIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>apyO+LzFx2/u3vxHmUaCNANz98bK0Q/HjKciyVWOkvc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FLATVIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iOlnHlDY561/cleuf84z2MiQmAdGiBBkABZAWS0nnvc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FLATVIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7lVdxpDLX5yQHaZA/rGDe7AhiSdaLQUa6FFinE9wb/s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FLATVIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>J5F/pUP++obhpH/dgfgTm2UhwgSmtXHmszHlRz5Tbf8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FLITHUANIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ElblH19mUxsAKYhdykvAErnMu8XN2WDDFw6H/mUmJ3g=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FLITHUANIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sa0xurHpDzcwuOnWEDph5gbo9UEzP8p4wQX+VjYhzyY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FLITHUANIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ea04HlREcdCPSG6xQ+wfWCY/j5omfmeeX435VIDtUMo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FLITHUANIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GoubIFjTcYdLDBVDLOJdOopibZIW0+6r1/xzA7eeRBw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FLITHUANIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LRbZnx1Oms6woV71bYyxQ+sFmGwrf3wfbPMno2Slk4E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FMEXICO%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dic85EEuObNPblTPvFzUEXL3GT/o2pkT9GfW8KN54Og=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FMEXICO%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>I4f6PPZdCVV34eW1SxZl/Uel7hN+qAaxsWTCOUOsfQ4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FMEXICO%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S7mfano1+mbIxenjY0D/IjQ1ntaQk/f2N+wqpWfROgU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FMEXICO%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FMEXICO%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xJ3MqdgsN4kswLxss22S1KgOLkdp/okof26KLhiJsD8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FNETHERLANDS%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wbmvx8bJzBnqycxsx/BxL+7wVH254ufM1F3PufcTDoE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FNETHERLANDS%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4VSzaJVKBlTx+yZI218bE6VSB+HAy5rWCVHr9/6bwkE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FNETHERLANDS%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ei89ZmnXwn90T5ermcwYqiaf8OxswXehQFZqqjAZPFY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FNETHERLANDS%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qM4/6A0h2iNXj3DBNpQfeCY9SFAfWHJNxyd8PHI9RuM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FNETHERLANDS%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QbRyse0OR3Fpo+NDBtIkjQtC7Zz3PjYlOxsPhPPFlt4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FNORWAY%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZQnTUJVTdynVfx3I/SuqW9ZJYzdw0QalEQtTxeIZSoc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FNORWAY%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8yFPUEBU04UnUqPjOx1YhpwQ7ZD8M342r6AxM6ZzjM4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FNORWAY%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AkrJp++Mek8mEaCFGIeMhGEOf0y+FtwGx2qtNtz6yDs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FNORWAY%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dfSCBD2oNFyuzFh81IdImmMPib9Itc5J+PDkvsdgCnk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FNORWAY%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AliLKcEPh4zTZDl4x0GN8B6X35PlNjwPNRG30JAXlC0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FOPTICAL_DETECTION%2Fautodetection.optical">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UFWJDWJLcbEGNva6tmoTitqmzfWG+wBeyDkXFOFw92s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FOPTICAL_DETECTION%2Fsample.wav">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>21AtyWCKOZqdhk7hlj0wUHCdKVj36JEGhv7LEdp5xj4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FOTHERS%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JXhu1tFsKA6p7TL14SOg650sThr83YpboY93Z7psPjg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FOTHERS%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>meWuM+6Oa4S3E1GOmSjIl/yt7HO0h6YIb+0KY1XApfc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FOTHERS%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>I+Q5+kvlNBWlcVQxejmsodzYI9XYup+Yv52LeNkhvnU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FOTHERS%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>T3mnBuuJIGGear7iTibml2BByRxCEYkbnA7SPg+ffJc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FOTHERS%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KFR4rOlevV51/T45DFBlFrt74uPGCL3QOc77VqOJDoU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPERU%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TwaHrTVtCdEneCNx2Xkze7WjH86y1tjMNmYJ+DJFraM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPERU%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LPxsqxN1hUjNNTGNBTnmqEVyVFS82rQgcwf0WZ5L7PU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPERU%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sFtQ894RCN8O7DSxTZ4h8YgezqpT5DSdrF0Lpw6KH+M=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPERU%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPERU%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LzajB0ZjXHa+uP967PLEkw83fCI9rdDxyhUy1xBq+SU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPOLAND%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L1zQsaFBx7OMZLjRxPFX0QiRF7P5vM6jnObnViPCPMc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPOLAND%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HGsiN3tZprRhpBNIvPprfF/MBUEaWxTpwhr+zbaA5mk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPOLAND%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1v+kKVK7HcIuWEuzyDo601VYaC87bBsftTNePxyQSQ8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPOLAND%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JNB0h4pOuxiCY2y6tOTfRtTmWFcO70sNvgUsJuPUtq0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPOLAND%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ouZzxeK913EUvl2uxXtUIw88zAXR6cfrtz4L8jdi9to=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPORTUGAL%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1K5/dygZmSrNJnfP2yqYNpYN57M47tqpJRMTmdYvMXM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPORTUGAL%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wtOtZl+FUuJF1gAvEdnSI9unclyTeFH/bp8oDbDqLIU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPORTUGAL%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xEqdfIftNLpvVguQiLxBofAQH83l7P8lux3leP80oF8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPORTUGAL%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>W/OXLxwyIxg0J/oW0dNx1bHKtl4dNHVw1EI6fnH/QR8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FPORTUGAL%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bZcx2rmtcQUXLyEEFeIqpQAeAtZhCX8t66bUh4YjeSE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FROMANIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HST+tMt71w79Y0NELERG0cwQ9SNGTcWcGJd97Wvxnc0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FROMANIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dxAX1k6eFu/EoBMDkU+y7fIBfjz8sFgQ3QnKcJ3awKs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FROMANIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>X7bh2x3fj6DV8HwIhoDr3FeCkMD8W9U7tlORSVvER7g=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FROMANIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7lVdxpDLX5yQHaZA/rGDe7AhiSdaLQUa6FFinE9wb/s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FROMANIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ir4hIrbR4r5q9lhxt03zLV0/7XIiCObXiGA7DYIpoOY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FRUSSIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>o4aTaMqwrD9QdIjOU9mDbNBdLKkafLiIZDXHBqDVImk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FRUSSIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xdTJ5q3vgXJ5ZtuWM8joDaGW8cJGAosd1vD6RXCx6xg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FRUSSIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9zJIl5bXXiRUnetLvbXuGPXjsLi9taCJhPE6+2bHW0U=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FRUSSIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aEn0vVXVCqYSbpETHYmeR67rpttS6ZRFlaPMdkQ1zTE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FRUSSIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>l4t06QgsrkN9zc3wJHrT1+yUXwtKvC8/SII6o0/NEyo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSERBIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>U5QTuhMPta5S+iOp8r7Qf+QUNcfqKCUJ+sJe5YrSEvY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSERBIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p07YBfSuFc5fkqf1TFGwtlSx3eNh8y0pSpTFJOrK6XI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSERBIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Whf1XUSKNv9udaCQeaoBDYp3LoazfH9yvBMB1nsdy/o=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSERBIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wI5btSZDa0PbxzwB3Hhg/9bs8XQLIC1GAg9zHQdwxk0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSERBIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Hi5B2v3xzH4zj9OW2r3+4eqCSYAyOye8L+RGZfEw24w=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSINGAPORE%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Fiplmla7t2ukWcFlUC6RShsmDDV4lhyO1HmLHA0jw4U=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSINGAPORE%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6i9RJXyLc0qlmOxuL+v6ghTGS+zEWMsMjPBry5VjbtI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSINGAPORE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QJi3TxSTW1cj7fbU5mYZZI4L07/DiKJYk/kQdHIIFXQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSINGAPORE%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IM7friCyV9z/fDTRsHnIDryCEagTagYj/NVqto0GQnc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSINGAPORE%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0KVHPyEP2vZy2TNqFQV+2NdSwALC3NoDHBbHoyiaXi0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSLOVENIA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XXhK0ZYMJausT8Uv2SFJJ5NnlIBFyscyU5B0CdDqGRQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSLOVENIA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nZbE1uCbxrhpEvLXhNc+0ldvbr3EM10halwQyeTDz2E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSLOVENIA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PJ6Lp3rhF3uue+JDHUirSLjj/g7lacKk/LS2KxsJtiY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSLOVENIA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>m6ZW8tcgBANXwJEcaZT02K7S1D8yWiiwOKM+OgZKpcc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSLOVENIA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/8mqwTTR80iqTHxUYq++VyCoqm9Z0Mje40q1r2hScoc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSOUTHAFRICA%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cwzcm8PeO+Lu2V4vd2KkIujH2J+drfCUZzWCBURGGJA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSOUTHAFRICA%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Z+cB0f2u6tNYUH30mvYoPI0HaL0rvH+F7WqRYQ4TW6s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSOUTHAFRICA%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xR2yhEVjmkBBhUwkhpf86TYmXh9iZXtowuDgEYq8taA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSOUTHAFRICA%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSOUTHAFRICA%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2WWDduOFBwRmHtL/4awVancDL4xKPfahOpJ0jGJUi3s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSPAIN%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yivcEk5uVfd3uTEuUSvaGmowLabRIJxrEvJZVf6eK60=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSPAIN%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yLR/90UrNb/oOH9sC835wB5Cix4RM75cFo4ViBSiv9o=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSPAIN%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>O55A6r+EvZd78Y2xzi7dpiVWAFuTpnXUKvJ4Iz/qIV4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSPAIN%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>W/OXLxwyIxg0J/oW0dNx1bHKtl4dNHVw1EI6fnH/QR8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSPAIN%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1Pezx8hr0mTfi38N7Hc47j/Ch7JRgR04B2rueFRAGqY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSWEDEN%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EHlxw6sBTXhW1qbYrsXSUhWCWyMpKwdTP7FD8Mb4jLY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSWEDEN%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JofsyAo4mvM97JhOC5g1bJVlG0XHHsz6RuizEvFJ4Cg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSWEDEN%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TY0SLGCezmu1exGYg+AYZC2yczQ4C8kYFkBTQTiPDnU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSWEDEN%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dfSCBD2oNFyuzFh81IdImmMPib9Itc5J+PDkvsdgCnk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSWEDEN%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qo3o6JKEEX3ozgarKaeaPVkPf9dtq7bYksGeDy1GjnE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSWITZERLAND%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>M8ZdDleIq7cTSo2vhPKSlFS+EyXcG7jPfX3xXaQIoSA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSWITZERLAND%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9CXypcBdXvzKXtbJ+4mxrZcqkf0tGubF6GvQm8wLKc4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSWITZERLAND%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kuHpHOu00tEUjqPZP/WJ3q/OP1SzeOWa6VVHrlCkYVM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSWITZERLAND%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Mq3d6vwYBbyZoBuPE94FLaD0HhyBfq5FliwYt+dUuZw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FSWITZERLAND%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>W/5pSvQ6pNl/mvuy9+FylrKWWqfa+//zy76ukfQPnmI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FTHAILAND%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nd1p+LBRdr/nSfRlNcQ70R3k96IImER4yAlccg9Evhg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FTHAILAND%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p0evu35YXyEOXsAnajc0/bHh674MDFegVoPZkoIwJiU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FTHAILAND%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FTHAILAND%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OknnciO+TXorEl20/Mrgp1RSOHLNNTOSU92KWGmtFqQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FTURKEY%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4J4FmY+Au3Y5CQmhkrFzqpuOi4UhZSgxB6JkuETYDUE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FTURKEY%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>X5YUbbUyywp0owAupjMN33Wt9ERKobnWpfFFXs4Dlak=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FTURKEY%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pAE2XRk5J8iec9sJgLI7rfD7YNoGV2S2QJ58zoEc1PY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FTURKEY%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MVG2wJjT8cI3AdP7+IWYUvx8Mc3OsjzsvZVnO1QKliA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FTURKEY%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Za6S2Q1j5v5IVGGh5NTy5ydoiLGphVeFxAWQJ5TLIWE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUAE%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p2tC2gZBrB9lCtSRurm/TSxtdgP3h9NsSSxT3gFNaPE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUAE%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eTnm1MzO0YPh5wLugQEmpgrPRUM3zDQ49cwPrCDM61k=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUAE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZDuwbBezxnaVPcxVF7XVxcYZwc2E1Eqm6gYlRp0E/yA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUAE%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5mHUXYFTqu8btttyXRxeZMFuhStbci8m30awZABiFTQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUAE%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zmnIRp28BEXFJ7VRYBSHzo145yHkHwrV5UnEPU/EfGU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUK%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u5nidQuftjHNBin907CQKDpS85noV+mo3HJwzsIMa0I=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUK%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gCOotgBkQxzYD1k/FcqNT9i5w/VFN5L0synHu1lBe9U=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUK%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3Mu5V7TLJJaVel4lKzeGqFtUWjVzfCKy4IMR6nMnuDk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUK%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zl2UH/5YpBq+ACNr63NaFgnHVzp3UcNx2Mf1YCu+bvA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUK%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yIBb7+4vl6E6Ln3L0XsBZpHgEr1hxEvcu3lIIDttHDs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUKRAINE%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BYSDk6Z2wOFp7OTwc5pgWQQaof7hVnHOXGRmL/5ynQM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUKRAINE%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tAz+54OtJfPbqTUzgs5wZRKmA/IW9wQdyT/cQS+ceQ8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUKRAINE%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pQIufwzzM3n0HujrnRPHuVf4O0pYrnegF7Yx4SeiZa4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUKRAINE%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7/aTZxpTv33NJckWmkLwBlBxi1oVz6Smf/9fsA6AlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUKRAINE%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RayxvndSRih258FAAW+xilWnVCGzthAuh9vpDusbpgM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUS%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Eeu89GqgkN9jQFjkeRTLwqVbR+3pCUgYXwj4hY8tVIk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUS%2Fautodetection.code_full">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c1gN5vOIFCrdZAmcd/et7QvqygNm2rXNhsvzr5ijGrY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUS%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lai4UDKXYRQP0SdNGPY0EO3Q2AnXuMLOKBORkgt3IuY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUS%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wGDiXnp7G5GeDc3tglGoymllm5kh7qB4fU+U86F2RUI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUS%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0tmv9DHJPgU2yfub8lq4YjToImjY4s/EvctRWzATaUk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FUS%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9pgHk3j54GcEhF4LSb96J5ZFktR09BjSbCX+cWb7gtw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FVIETNAM%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jGr2WwjxLAtTPv+q2VSwiZ7TE+N/w1q+yiD1NgYN6Vs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FVIETNAM%2Fchangedetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>R5TzCEPUhPVUpBrz5GWQPVqoSA3q0MpJqQAa5tDlP24=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FVIETNAM%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>f6VvFGXfPaLzMNxMaECc1E9gF1VO+mbLJyS/qSulSe8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FVIETNAM%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L6fNx9jaFC0r8McgZX4IPPaD2NB1gZsuNpI8u6I4CjE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FVIETNAM%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XNdpQ8bw5j9SgK8zUu+ieLVbwEUHG8324VwCcYKZhhg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FWORLD%2Fautodetection.code">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bh+FcVJHhwq4VZ8ag9qS+BgFD+1CByI2xg+BA6ihSuc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FWORLD%2Fcnn.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jRYNcRgisAwsTNnIASL7NPrEG80/ocuToUP7CFXeG7E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FWORLD%2Fkey.lists">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aeQ3TOJ0ltEm8+ai7xZRkvVAEmGSf4jbwtFUSEIh3bU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2FWORLD%2Fmso.mapping">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3+Pw3yQk3EBraHaqvRode2x3WKfjw4Hsp/2UPlXIb/8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2Fgenerate_change.sh">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ztLRQz0Iku/uZGis3SpcEamlVtxAxBZYBVdt6rIaDMI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdevice_detector%2Fdata%2Fignore.list">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xmXoqlw8l4L2TzVlbbwSpqwxaiqPgaaiJXAWNPvI8Ns=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fcanalysis-daemon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=</DigestValue>
+</Reference>
+<Reference URI="tizen-manifest.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>M4C7y8N7ctCTpltMi4/MSdQ9UzW+Y1eW3puKeiaSp6w=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpo8tUDs054eLlBQXiDPVDVKfw30ZZdtkRs1jd7H5K8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+XBkHJSXg6pzmYkcRP5BUGQdIOdjwHHkS17vdrL1m5el0K9jcyktL7IAmLj88mBohJj4HgB1qdxm2
+qg33B8T/i3QwevbabcXtNKnUZSWG+wR5bWpFUHhp6ZtuMQLdGWV+oh2W8H0PV7zpDXSFBbNpwYTI
+7jsuvl7MMawMI/An676le9e6TW39oRcdR1SEtJoLwi6immdAaqnfMpmAn2fYTvX71Tts+shqiHJQ
+snVCr5sWBAh/6KugrxPqB347mJ6vSbUplUYzOp8aSMj47u/2msyUfTm8G0y5s4W3p16X1P1ZDCr0
+G+45c0wQoaV5LUg1dNTkcUxQ/qukqyMQ7bLBpg==
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+<X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>

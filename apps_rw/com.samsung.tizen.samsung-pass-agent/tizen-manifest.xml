@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.5" package="com.samsung.tizen.samsung-pass-agent" version="2.4.2">
+    <description>SES (Samsung Pass)</description>
+    <service-application appid="com.samsung.tizen.samsung-pass-agent" auto-restart="false" exec="samsung-pass-agent" multiple="false" nodisplay="true" on-boot="false" taskmanage="false" type="capp">
+        <label>samsung-pass</label>
+        <icon>samsung-pass.png</icon>
+        <metadata key="samsung-experience-service" value="true"/>
+        <metadata key="http://tizen.org/metadata/allowedappid" value="org.tizen.sso"/>
+        <metadata key="http://tizen.org/metadata/allowedappid" value="org.tizen.browser"/>
+        <metadata key="samsung-experience-service-samsung-account-wakeup-event" value="SIGN_IN|SIGN_OUT|SIGN_IN_AGAIN"/>
+        <metadata key="samsung-experience-service-smarthubreset-action" value="app-control"/>
+        <metadata key="autofill-service" value="true"/>
+        <background-category value="background-network"/>
+    </service-application>
+    <privileges>
+        <privilege>http://developer.samsung.com/privilege/securestorage.partner</privilege>
+        <privilege>http://developer.samsung.com/privilege/samsungpass.admin</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/push</privilege>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <appdefined-privilege>http://com.samsung.tizen.samsung-cloud/appdefined/samsung-cloud</appdefined-privilege>
+    </privileges>
+    <dependencies>
+		<dependency type="requires">com.samsung.tizen.samsung-account</dependency>
+		<dependency type="requires">com.samsung.tizen.samsung-cloud</dependency>
+	</dependencies>
+</manifest>

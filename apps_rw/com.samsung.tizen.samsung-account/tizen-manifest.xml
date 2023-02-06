@@ -1,0 +1,22 @@
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4.0" package="com.samsung.tizen.samsung-account" version="2.4.5">
+	<profile name="mobile"/>
+	<description>SES (Samsung Account)</description>
+	<service-application appid="com.samsung.tizen.samsung-account" exec="samsung-account" type="capp" multiple="false" taskmanage="false" nodisplay="true">
+		<label>SamsungAccountService</label>
+		<icon>SamsungAccountService.png</icon>
+		<background-category value="background-network"/>
+		<metadata key="samsung-experience-service" value="true"/>
+		<metadata key="samsung-experience-service-api-level" value="12"/>
+		<metadata key="http://developer.samsung.com/tizen/metadata/support-account-wakeup" value="SIGN_IN|SIGN_OUT"/>
+	</service-application>
+	<privileges>
+		<privilege>http://tizen.org/privilege/account.read</privilege>
+		<privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+		<privilege>http://tizen.org/privilege/network.get</privilege>
+		<privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+		<privilege>http://tizen.org/privilege/keygrab</privilege>
+		<privilege>http://tizen.org/privilege/imemanager</privilege>
+		<privilege>http://developer.samsung.com/privilege/securestorage.partner</privilege>
+		<privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+	</privileges>
+</manifest>

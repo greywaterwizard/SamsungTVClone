@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.samsung.tv.music-flex" version="0.2.71" api-version="5" xmlns="http://tizen.org/ns/packages">
+    <profile name="tv" />
+  <description>Visual Music Wall App</description>
+    <ui-application appid="com.samsung.tv.music-flex" exec="MusicFlex.dll" multiple="false" nodisplay="false" taskmanage="true" type="dotnet-inhouse" splash-screen-display="true" launch_mode="single">
+        <label>Music Flex</label>
+        <icon>1200.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/display.hidden" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/use.network" value="false" />     
+        <metadata key="no_show_delay" value="true"/>       
+      <splash-screens />
+    </ui-application>
+  <tv-info api-version="6.6.0">
+    <infolink>T-INFOLINK2020-1000</infolink>
+  </tv-info>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/systemsettings.admin</privilege>
+        <privilege>http://tizen.org/privilege/widget.viewer</privilege>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+    </privileges>
+    <provides-appdefined-privileges />
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+</manifest>

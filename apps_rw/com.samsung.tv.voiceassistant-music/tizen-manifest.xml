@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.voiceassistant-music" version="4.0.43">
+    <profile name="tv" />
+    <description>Voice music (headless music player)</description>
+    <ui-application appid="com.samsung.tv.voiceassistant-music" exec="VoiceAssistantMusic.dll" launch_mode="single" multiple="false" nodisplay="false" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse">
+        <icon>voiceassistant-music.png</icon>
+        <label>voiceassistant-music</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="anytime" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-bixby" value="shared/res/bixby_info.json" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/action-id" value="tvMediaControl.Restart,tvMediaControl.TrackPrevious,tvMediaControl.TrackNext" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/version" value="10000" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/sdk/version" value="v1.0-beta.1.4" />
+        <metadata key="no_show_delay" value="true" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/noautoraise" />
+        <app-control>
+            <operation name="http://tizen.org/appcontrol/operation/launch_on_event" />
+            <uri name="vconf://db/multi-assistant/aov_normal_off?true" />
+        </app-control>
+    </ui-application>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2020-1004</infolink>
+    </tv-info>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/download</privilege>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.partner</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/mediacontroller.server</privilege>
+        <privilege>http://tizen.org/privilege/mediacontroller.client</privilege>
+        <privilege>http://developer.samsung.com/privilege/was.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+    </privileges>
+    <provides-appdefined-privileges />
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <build-info id="6063099">
+        <app-info exec="VoiceAssistantMusic.dll" id="com.samsung.tv.voiceassistant-music" />
+    </build-info>
+</manifest>

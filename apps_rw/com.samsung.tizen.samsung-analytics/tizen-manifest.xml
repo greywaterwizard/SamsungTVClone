@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4.0" package="com.samsung.tizen.samsung-analytics" version="2.10.11">
+	<description>SES (Samsung Analytics)</description>
+	<service-application appid="com.samsung.tizen.samsung-analytics" exec="samsung-analytics" multiple="false" taskmanage="false" nodisplay="true" type="capp">
+		<label>samsung-analytics</label>
+		<icon>samsung-analytics.png</icon>
+		<app-control>
+			<operation name="http://tizen.org/appcontrol/operation/samsung_analytics/upload_stream"/>
+			<privilege>http://com.samsung.tizen.samsung-analytics/appdefined/samsung-analytics</privilege>
+		</app-control>
+		<app-control>
+			<operation name="http://tizen.org/appcontrol/operation/samsung_analytics/upload_batch"/>
+			<privilege>http://com.samsung.tizen.samsung-analytics/appdefined/samsung-analytics</privilege>
+		</app-control>
+		<metadata key="samsung-experience-service" value="true" />
+		<background-category value="system"/>
+	</service-application>
+	<privileges>
+		<privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+		<privilege>http://tizen.org/privilege/network.get</privilege>
+		<privilege>http://tizen.org/privilege/internet</privilege>
+		<privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+		<privilege>http://tizen.org/privilege/datasharing</privilege>
+		<privilege>http://tizen.org/privilege/alarm.get</privilege>
+		<privilege>http://tizen.org/privilege/alarm.set</privilege>
+		<privilege>http://tizen.org/privilege/telephony</privilege>
+		<appdefined-privilege>http://com.samsung.tizen.samsung-analytics/appdefined/samsung-analytics</appdefined-privilege>
+	</privileges>
+	<provides-appdefined-privileges>
+		<appdefined-privilege>http://com.samsung.tizen.samsung-analytics/appdefined/samsung-analytics</appdefined-privilege>
+	</provides-appdefined-privileges>
+</manifest>

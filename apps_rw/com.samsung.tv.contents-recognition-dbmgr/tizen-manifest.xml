@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.contents-recognition-dbmgr" version="1.21.3">
+    <description>contents-recognition-dbmgr TPK application</description>
+    <profile name="tv-samsung"/>
+    <service-application appid="com.samsung.tv.contents-recognition-dbmgr" exec="contents-recognition-dbmgr" type="capp" multiple="false" taskmanage="false" nodisplay="true">
+        <label>contents-recognition-dbmgr</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="contents-recognition-dbmgr"/>
+    </service-application>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <build-info id="3201909019145">
+    	<app-info exec="contents-recognition-dbmgr" id="com.samsung.tv.contents-recognition-dbmgr"/>
+    </build-info>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2019-1001</infolink>
+    </tv-info>
+</manifest>

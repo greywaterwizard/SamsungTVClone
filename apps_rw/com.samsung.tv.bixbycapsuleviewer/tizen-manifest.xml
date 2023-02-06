@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="6.0" package="com.samsung.tv.bixbycapsuleviewer" version="1.21.50190">
+    <description>BixbyCapsuleViewer App</description>
+    <profile name="tv-samsung" />
+    <app-context appid="com.samsung.tv.bixbycapsuleviewer" ui-type="partial" />
+    <ui-application appid="com.samsung.tv.bixbycapsuleviewer" exec="bixbycapsuleviewer" launch_mode="single" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>bixbycapsuleviewer</label>
+        <icon>bixbycapsuleviewer.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="com.samsung.tv.bixbycapsuleviewer" />
+        <metadata key="no_show_delay" value="true" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/noautoraise" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/version" value="10000" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/sdk/version" value="v1.0-beta.1.4" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-aod-rotation" value="landscape|portrait" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/wifidirect</privilege>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://tizen.org/privilege/filesystem.read</privilege>
+        <privilege>http://tizen.org/privilege/filesystem.write</privilege>
+        <privilege>http://tizen.org/privilege/content.write</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.all">true</feature>
+    <tv-info api-version="1.0.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <build-info id="8457765">
+        <app-info exec="bixbycapsuleviewer" id="com.samsung.tv.bixbycapsuleviewer" />
+    </build-info>
+</manifest>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.csft-service" version="1.0.1821">
+    <profile name="tv-samsung"/>
+    <service-application appid="com.samsung.tv.csft-daemon" exec="csft-daemon" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>csft-daemon</label>
+        <icon>csft-daemon.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="csft-daemon"/>
+        <metadata key="http://samsung.com/tv/metadata/pisa-feature-component" value="daemon"/>
+        <metadata key="http://samsung.com/tv/metadata/pisa-feature-wakeup-vconf" value="db/homedatacontrol/disclaimeragrees, db/adagent/psid, db/comss/countrycode, db/menu_widget/language"/>
+    </service-application>
+    <service-application appid="com.samsung.tv.csft-serviceapp" auto-restart="false" exec="csft-serviceapp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>csft-serviceapp</label>
+        <icon>csft-serviceapp.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-account-wakeup" value="SIGN_IN|SIGN_OUT"/>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/network.profile</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://tizen.org/privilege/imemanager</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/network.ethernet">true</feature>
+    <feature name="http://tizen.org/feature/network.wifi">true</feature>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <label>csft-serviceapp</label>
+    <author email="kitae.noh@samsung.com" href="www.samsung.com">Kitae Noh</author>
+    <description>Customization Service Test Compliation</description>
+    <tv-info api-version="1.0.0">
+        <infolink>T-INFOLINK2021-1008</infolink>
+    </tv-info>
+</manifest>

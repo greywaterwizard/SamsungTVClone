@@ -1,0 +1,563 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+<Reference URI="bin%2Fgoogle-assistant">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1lrLscSRzeqCkPtPqwpZ+CEMsF09oPeVtJDuOP+Z54c=</DigestValue>
+</Reference>
+<Reference URI="bin%2Fgoogle-fullscreen-app">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Q9BndXESB9D3zT16CMF7vaA2lT7CVlel0swrMywCXqQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2F.dir">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibgpr.so.9">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>30HF46asaXU2JCm/t8jUDdOOQx1PLM0m9kZVpfRFo7k=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibgrpc%2B%2B.so.1">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ussnw56xk30LijQBs9kAQNuL4xS1o1TUF0FUP0kjL+I=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibgrpc.so.9">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cut4oyDn5GiQKXyxN8/CfRVU8W6jDl/IqPDgtnrC+ME=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibgrpc_cronet.so.9">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7g8U8DYSnaCMFzepq8MhiGouu2+jHMxgxtVzoGXdMpw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibmva_proxy.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pE9WTAJGexYUNHC7Oc3D2SNnZyC7m13R6sFM6DCnRMI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibprotobuf.so.22">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xZnopbUVR4/GvoeWwVsS88ZaI3ubWPc2Y8hRpiyPnYw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibupb.so.9">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wsqP1W4zqiYOdDocqlXMIRhRDKZWDcrl/Vs0Vaw8/lA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdna_secure_storage%2FTizen_DNA_ss.crt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A5K3Nsdh0U8WLSs7LB3BrCOm3XVUrEgtWJVffKYbMAk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdna_secure_storage%2Fgoogle_assistant_ss.sign">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rx0a6KFQtTUxX4HZRQ39DfmuBqR1xkdSK7aAxztjsRw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Faf_ZA%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NhN7YYttCoZRhnXvDg6nnDJKdern5/e5JOC3HLlMCL8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fam_ET%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hKr+O87ub1YjRmWxshr9WjozA7XUy7/gpkIos7NmNUs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Far_AE%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>teFFoKYQEL3w5L+LMwQTETlzEKGcyplo+8COyMPxJfs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fas_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tkdOb/V5Cp6seh+i6OMlXAixgTQgBAa0gYGKGuz8dLM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Faz_AZ%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Rajbi1mM1aAsVDmksa3rikUl0kdXyGx0uwGcVK5ez94=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbg_BG%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tZVkPwVTrAibuA8Vz3Dlw1u9lSaAd+rM6VuZ5Ct7w4g=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbh_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DgzjwSX+lq4cuJiXvvD7FGvSX4pakEzQH56nVJC4ccM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbn_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Tm7A4jp8SqQYrumWVvAYmitP07GuLCiAhj1gC0lcAyI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbs_BA%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oznj5NWeUMmhvO8aHTQMZXqZrayIYw/8iv92z97+sOc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fckb_IQ%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zIxl6vUMnpwoXEOpO1UUQWufKxCwhnK2s6AuSWkYZBs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fcs_CZ%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eh1HlR72k0MKgdx9ogQkUL5hapc4PY6UYAafam3Zl14=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fda_DK%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>td4Qgu2WU2d16S8HnDkgYlarUe4itu08VVSIAXZxdEk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fde_DE%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3WnfJr1VFiN7ObuyOnTch5J1+Lc/rt+7cM6ATcRHK2I=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fel_GR%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nwcSvAcaO9U9MErZh4EcJKBaaCrzCqbU9vlNHLba2Hk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_GB%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/myJygZkEs3PMhxj0a0U0L6vrWk07QUE1LJ4SEDz/ws=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_US%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/myJygZkEs3PMhxj0a0U0L6vrWk07QUE1LJ4SEDz/ws=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fes_ES%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SdWDsAnmbUoZYc1GjDVGhWugx6lRFlUQPwfOeh+UgRE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fes_MX%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Uvmi5v3XfpdmU3wYaAApVKDs0V191v3tLQDj5DNwEhQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fet_EE%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rICV9sTJvNszq/P1wL92Y793UHe123hnsKnvkQCKfQ0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffa_IR%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eF49kuo0STyOQbcbX7T5x3d5EoiGLVPop0YyIsZ1Uw8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffi_FI%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UZADfPnavrTrL5zh8xEB5cKOWinqZUxsEKJu4lxjDlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffr_CA%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GwwQBfaKyqy156DzaLNQ0FzkBXPdZxgelewIrQIkf/I=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffr_FR%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JE+KrTd7w9llB9yxY5ZwQDtH+ODwotjD9mx7HE3YslU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fgu_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IfS5+J+aHzFV7i678ibFVy1FKiGukK6tvkCQ2uBOMWM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fha_NG%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zoiLb0Qbur1OZNr8l6xnQB3ef9geiMTXPABeGkb0Ul8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhe_IL%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Be9826jj2jUj5zFf/PYMBLLv0oDOj7BGzP8letyc57k=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhi_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GHYTqEbGxTYBcxmra71FkGUtCuSjZBl29BVj/hnYaJ4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhr_HR%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gli+DLkbf5yoZdXqOMmYH53ihRo2OL1+g1YnJ/Wbvc0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhu_HU%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2vzDdYJ/I7Q1xhCCGksVKjN5xeAWl+e1hF9M7Sg8ioo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhy_AM%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ieULPRCwOjd+Vq1aNxMK/cAnvs/uCbHdCiX0kjGNBDk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fid_ID%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LoX7arcHKc6uh4bXtWOlOwdCm6VOFgW7fZx9KPLlmM8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fig_NG%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WIKrdYQDGPJjWoGpSB+a7CbkkT0GkyrqlyzTwpaooZI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fit_IT%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7Srk/tRjUcCinci0TwGmQts3FLFxc/cZ7YYEdEObzT8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fja_JP%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TkIJeDgbfgHUVh2PYnrQIk6slyjoF7x2wRHzx9TV5DY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fka_GE%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/LArcYcRSd6gdziOi7W3KDq4iCHuMPkeyhDOcwiyKrY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkk_KZ%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>N8eU7z3PIf70o0Nfap663C7GzRPwSI/OwnUcpLOvSqA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkm_KH%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0x1gYoMDyNvdDT4i/ipZ4mlL3Mw8ExkTYMv87qLlcbs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkn_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>w0dDmigbYew39W3lqyyQj0AwTaikQB7C2HlY0XVQVKw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fko_KR%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NXZUyIeBrEZpd7zaWPJ5eNhsj9RoouuoappmfIa6BMY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkok_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UBm6BAe7sa4yp8mRNpAfMBrU14TYTBzAc9n4w4ztY1Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fks_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wxXbfh67YJts2tKnD7BthppBYitCPUIv8E2zqaKFg30=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fku_TR%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>s+xkCzqv3deRoIHSQTjusZp1/yKhDUPJRsI9k1JBW68=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Flt_LT%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g2iIdGexth0Sp9m8qp8AQr5lr12ord8B/k7VhMa/XqU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Flv_LV%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5eGxYFhUCfZyZyFUbFqwh+t8yAsfQnZyLCBToWhrtjk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmai_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5fVKF5mJtw/xBO8RDP6rQiE1PTjHG1amEB9sYE3w5kk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmi_NZ%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/myJygZkEs3PMhxj0a0U0L6vrWk07QUE1LJ4SEDz/ws=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmk_MK%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>H8ugfEpBiE9cLt17dZTjz5u0aFWnWjrBBYW8K1Szg/8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fml_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e5zAmUUsKlQJIt7d0XsT/0usTvpIx88qAcantcMC7KM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmn_MN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4+UvWRW/+j3+p/ZLsNvZfaLhbgCgqI2ANTWNMs4P63U=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmni_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oDPAV3/yUQwBhdK1Jg+KO1NgKWqSneJlrZgLweJ8gWc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmr_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tKCFbvpUnW2IW18LLFJVowK9PBBZLTdBDEvRqBAiDeo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fms_MY%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>a1m5l5fuI6YUNLDhZx5r9IfmbVjbtMmAzdGFVopwhAo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmy_MM%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7XtbC85tbEu/TSNrbNsdc7+0w4Mn0hLVEexDb5sAZs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fne_NP%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XF7djqjeYZntZCD99cAR8kcxcDNGtkIfSsu2FftMsBI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fnl_NL%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3WnfJr1VFiN7ObuyOnTch5J1+Lc/rt+7cM6ATcRHK2I=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fnn_NO%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yGy3MfhYZ1TjHRkQcdnjj2DSQaj5lm2RU2cPyhhOh0c=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2For_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VR7XA2hydCA81U/FyOl8oku980gbCBSvswlLMF0az20=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpa_PK%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XVbLTAn5undIDquoOvxzlwVYRkd/eTMyXZ7QOONkaXI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpl_PL%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3XLSMHq19ALO7/9OyjFEdrRuTugV5hHpQJZTX/Xii+k=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpt_BR%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bQCq2JEehd8yE0THftYlvAPKttVKO2AbFx+BHZa5iPI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpt_PT%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bJT00b+uzkb1GqfS/P7R6a9tpk4VfXiwZwZAxFOgHS0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fro_RO%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OGyO029MoFmifq0qADBrzQdyTvdcjvLG09k4RgjFrJw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fru_RU%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JWmxN5VNDITCwI2QieOpBfq0joJ3Z6FQLiKDpt3q4eY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsa_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TuIOc8tLpN70nSSi+rB+O8AgfJ591n2uOCnr3Jix720=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsat_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hwQJQAIlR5ACH8uQHLG/2KDgdGD+zTMoxD6lBuZPm7A=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsd_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>i1DSJnCmhpUBBR4eMA97u4LGzgSUZIfapNnuo9dV008=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsk_SK%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>V2cJ2WFIImfrKtnrtPw3hc3smSLPmVeEHCxEGjk9CHE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsl_SI%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NE1g6qpgsCzf9rrjf04InGmDkaIYj6buWWNPEtZAd8A=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsq_AL%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p2DfHC1dpFrWb2mNTYmHXV9bgLlHJr/ppjrgOrlFITc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsr_RS%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8H/IpTjTIGrrRVtYIfG5zXvfWuFq1u2r4Z/WJCVHWK4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsv_SE%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Xyw2fRCnu8AeuGRlCksv/9YnD5IxqTEU4lnZOIygIB0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsw_KE%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KJBcjulI8WH9A4I8K8mFOgLZ/xO2GKi/mUXnmHPvgA4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fta_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RsJCEnUL4UKMDgaN22gAx+pQBRYR2zZD+sWQDCCm3I8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fte_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RMYWBd0v6mRq7YcPvamW0nmnk2INGw30HuEQMkhoL+8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fth_TH%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iXk8M9DM/1+vuS6C7YQxnPWc/R/kTNJZJr0efk08tvc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftl_PH%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/myJygZkEs3PMhxj0a0U0L6vrWk07QUE1LJ4SEDz/ws=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftr_TR%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>43e+GiUOyj3uktjlQbEY7aP9veyeztUZS6wb5Wd3jW4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftu_IN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wKAc9vgSM8POhrx3m06HklLcRzCumGT23qkBbrITVMs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fuk_UA%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ot3CKStCyRiHx3o+MKssqTyjnMO6d2E/4DL2DwF7WsE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fur_PK%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>z/HjUNjnQfdoXq0Hln3pFr+c0DpeW1R7PjjZ02ggnbk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fuz_UZ%40cyrillic%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tBraA3bekVyIzkUqN9VvNAdjEw0jo3C8WWbsLrJ2ANg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fvi_VN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xol9Md/qeU0uHEw9qzhnTF2aiDGD2ZHEVNUX75F8f5o=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fxh_ZA%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fu3O23cqk+m+kbLV++sub/OtAQxqaGP0jNp76HmntCQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fyo_NG%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>i2Wjcc+M7UimFzH5+AAK3DWmi3eb2HrJgwbEAlzsic4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_CN%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rK6L5dH03+rbEtBPVruMplZcCs5U3WKYTvWokd+eRzs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_HK%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DSqRc2fMzmwmLJr0zoA31LLsqQxiUREo2PVanVcNqAc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_TW%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DSqRc2fMzmwmLJr0zoA31LLsqQxiUREo2PVanVcNqAc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzu_ZA%2FLC_MESSAGES%2Fgoogle-assistant.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>j1/4dSJwaFdnJXq/1a0hq5RNDtbFp0BL6n7tRFYCOhM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpo%2Flog.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>y+rhGFh8cDPhIUzwv/5sounDHj9COPj+1jErvLKqu2A=</DigestValue>
+</Reference>
+<Reference URI="res%2Froots.pem">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WgTeHMtYkCcLHLPJ1tUjW7Kze0FHs9skfJumMURZZmE=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fconsole%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jGtJEncxERazFkDqWnorA5ei6Dtx/RRiWaCojb24ZHo=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fconsole%2Fjs%2Fmain.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Q6om6Yk02hUaAbMs5BxnGiv0BEJorU9KJzf3QE+R2fg=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fconsole%2Fnodejs%2Fpackage.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gLRq8FBdSs6H7JK/6mr2M7WD9El55JG6uw3ssOD9mfk=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fconsole%2Fnodejs%2Fws.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>s/N4TWYdhjsc24D+RRwGrcbx2iCIlknv6OpKiXCktgk=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fecode_tag.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NK9CytHuTxZcisEnV8mrvjExU3ZHqJmO5TXAQNLh7KM=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2FfullscreenUI%2Fphotos%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7aY8pT5FbLJ8iEOxnnITUNH1k3/Xo/Y6IMmAm8GYxEo=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2FfullscreenUI%2Fphotos%2Fjs%2Fmain.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vM/BySL3c3qUaNQYy43VBTxkiaNOQWNrkCAQ/ognFdg=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2FfullscreenUI%2Fsettings%2Fcss%2Fstyle.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0T8Rgz2a6uO22O93bU7Os+Nn3B3R8ZqjfPP+74dMOZw=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2FfullscreenUI%2Fsettings%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lQ2L/rRo3qxIRjGvxUX40E9Rt7ovBR+nTZ0+sd4zHl0=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2FfullscreenUI%2Fsettings%2Fjs%2Fmain.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Czj0VyuKhngvpmUUHoaOzrEvdqgKuJMqSq5j3v+3d2c=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2FfullscreenUI%2Fsettings%2Fnetworkerror.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rMq5L+iNX5gGYCZFa3LMfPG/RIQnGVm01k4t9VMaxjM=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Ficon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NvDp6frCgUJ+F6wYe3aY2Rxuy5l+/nyyVx/3/hcaKv8=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fpartial%2Fga.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D5PmNXWdmT0ioPHZOiwRiyuFtYLufyDdzhobM1tkYQ0=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fpartial%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HQ9xdgw4ByW9oFwFoMrHPV8Rr0qP8fep32CHyILs6aE=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fpartial%2Fremotetaron.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PxMpU5sP82qOfsgLR+tuixMcmY9UNe9kSCNKMlvlTiI=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fpromote%2Fassistant-molecule.gif">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TkvhbhHW5TELKtp0SQAoE8kKfgAN2HBPEJ47vuLYV/Y=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fpromote%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qZZRjFQ5jQ5bAZwa+814ITMwEaZcOVq7NwpSCtOu70I=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fpromote%2Fmvanetwork.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5pyoZ/DNO3kcYtFsW1ClDRMPYTDvlvckW4T7fihJ8Vc=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fpromote%2Fscript.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>t+z91vPW22slY9Ss6Zat68Rn2b4h5hGsGGm9ST4EwOM=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fpromote%2Fstyle.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sjVNs65vhh9Xj1tNIxL9NNpZJNFxAF00C4EBxsg9yJA=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Frcu-emulator">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>70wEdnL9xU93G99Q9b9zv90jUs+M4Rbm95sqevocD14=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fwebassistant_url.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dOqsgUDbAnYgvNDqgtsLr8SNHy7+u299vNll1ndVi7c=</DigestValue>
+</Reference>
+<Reference URI="tizen-manifest.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>J+yvmlOvmMeQE+D8X7ul6MBZD3b4Sp7m1Uv3KSGuGHs=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpo8tUDs054eLlBQXiDPVDVKfw30ZZdtkRs1jd7H5K8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+EG9zvJvHwMo4Kyo9skP7p8p9nMeNFvnU8wK/1mJWlJyaiqqxDDsToIlpLULUw2H7XyLl1S/QWKLx
+M2ky/O5TfBQQfPSGtFxnFHvd/nQGH6AZvFpekV01/WM07czP/LzCFvZUK8u/inL6ODdYL3AnwWDA
+Jl12kwwT7bWs0ODEB35hk5o6pblzFY4PNWpXKGDXD3BU8qf2WztaMiVntiQWQbvd3BrHVGdL/TEb
+bSdm2TP3ScxSHFT+Y29bRnCJ7lclohg7uOfsx906JlXOv7OnLvjBk6RDnfNZS32cJ65wfQHB6l4Y
+Lo5kxT+E+O+ce/fyL/rb5EgMxBFE5quBUUFKAw==
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+<X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>

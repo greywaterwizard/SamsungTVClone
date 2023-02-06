@@ -1,0 +1,1271 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+<Reference URI="bin%2Fbrowser">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>It3aL8jaz7K+eS9w+IUP9t8uAMatA7yCnJr6Zam/bIU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibbixby.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DPoVg5JFSXccwjLo0dlbRStkTw9AUbWevvyImEyIfyg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibsamsung-svcmgr.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cltnFPBzLGp/0bMcWliQaBn6ItGGJOejWrFmhhK1TDU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibsamsungcloud.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aBmqGZPekRh7+WNOoLVnP68j4kuMmZqnSZmgBvg9gWQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdb%2F.browser-data.db">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Q6SXTKfYYcIv5a6cQhrcolSw9XOvQzPN3HwBlYdyh1s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fdb%2F.browser-data.db-journal">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>F7Do4sanqdZAhjYgVUEk8FeMtWwBTGOj3oZ2ivIPamA=</DigestValue>
+</Reference>
+<Reference URI="res%2Ficons%2Fgridcell.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4WeH6AI4E5ylNF/y+ki8E4Z04V/xIoM07HwGyNrWpsM=</DigestValue>
+</Reference>
+<Reference URI="res%2Ficons%2Fi_open_file_location.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zlwhfTwCCGI0eyRcaSSBe1WOVRDLYKzrgNxb4VMWhNM=</DigestValue>
+</Reference>
+<Reference URI="res%2Ficons%2Fi_sign_in.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ke4pCjcIsmSEGTX0uC+NuNYtLWu5RuFFxFGDY3teyJU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Faf_ZA%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>asAzpAqyuGK+QSW8ztglpBihseuHxXqbO4HMyeiljdk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fam_ET%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xmN/IvolRkymTyUYzSk6IGeCo1hn5W2VXp+Jr38F21E=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Far_AE%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HMJ5gKda7RAu0+ANEHn/JBVYCh4rZIB4xJMsBnPXSdQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fas_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mLg7sY5yFpI8w0Tyua+etKh1A3fUqwKL4y915T6h3KA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Faz_AZ%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZdjOGiHDgWe6IldYCyvjMMxeiHUKDp0a5haIY1A3tgU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbg_BG%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>q2KNTGcWD6WYjEW91sp0naQe7fMouKMN0zHq3di7qiU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbh_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tRg79HN0zaENuXkBQyWvjbvO+sDi+4TjhWlXj4IQyx4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbn_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Fhb7Yg5PFJzXazBH2qSI6YIoEfUUmIkVwwdSYohObhY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbs_BA%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Pl8A9Yx0hoLzPYyekbG/doz86gXfzCNUjBxM7XSLfpw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fckb_IQ%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pLfvWFpMKfQa8rNO4ArW09fEJsk6Y15bzD6GJ8sWwDE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fcs_CZ%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fxF8oe9a6ZbDeqQM470xVPIBp4QBqQHC9HIcpVWLCAM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fda_DK%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>I1d3LakCivm/x/pc1iVF/lQispTeRSqRnCyQBuueZ+Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fde_DE%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4kk+BH0hyjIg6ehgLodK6wTOhZeuaw5PWs+G7UeZgKg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fel_GR%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>H0f65DqjxTQOjeDCN+RbTPjqJKl4YFKEOr7PgfhoB0s=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_GB%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S4PJBjuwI3PBpbojI+NYCtrY9ufI7hE/G3E5IQ9zYvQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_US%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>a3PccY4q6qUFZjMD2BkmhvCAWpIA+wd1psXkdirxOI0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fes_ES%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TMkUk3uQWbuh3vRzOU9zrc/CsIOLhTxEsdZxoMr0G2k=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fes_MX%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lxcM7gR4MHQieOtcBOcf/YHx1fz7Kl5fT5440ATZgG0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fet_EE%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IxldYF2HtjPHS48EBMvM6dkV5t5xcXi8Os+/jzc6r/I=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffa_IR%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1286RVPTq/1+TJteHUaHtaMsBPlKpxl9V9NQlVXEZL0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffi_FI%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HFLx0+aN9q1ZvFbq+QTOOirCO1NJKi9Qnscsfl27RrQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffr_CA%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>W1S0Dh4F2nOsldKTVTiLcLDGh9v4kdEOXb9cpBKaAlk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffr_FR%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aSLG2ovkZ60nbQzIbA+ebL7V024qvyGz6OGrKfcq1RA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fgu_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vmJCiW21AK+XMB+q4kKB4QA/mkVWWWW99HFa+pHJBCk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fha_NG%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L50LusBX9KkkNPsZTfvBOYNm5xnT0xoo5KhcOYpWniQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhe_IL%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Qay/7drqCQYrrofYv3glJjxbqfHEwBF8X2vtrwhekVQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhi_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eO4BreTzHSf7W1zeDIQKFkvyCXClFYMydgRN7shk+Xs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhr_HR%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fqnt7k6Pa0XWQLHU8gzVz5rrDdEBRJQ29CWD0eds/GI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhu_HU%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>719m99NX4vD8zDuz2wqOZ0+dwNniwfCkmaIFzigicMw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhy_AM%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oQeJbvDawTatVgWoJZZSF9SszhTGQvgNUtzh7yPR3pg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fid_ID%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AXPawDitcZbGVxnDCAbOwAYfCPXXi+x438+XITUCSf4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fig_NG%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uEWSD3xSz89LbyrG3W1TqaN0FvydVeKUWKE3vEsTrNE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fit_IT%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g1SmXZTmoWxIn3R0kCbnYkf4DjN4Go0y6aUf0xf/Gxo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fka_GE%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Al38x4SZJJoEcfJ6DYVMeRuaXZ0s/KGLXE+vlhyVYys=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkk_KZ%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MFYHbGC4x70AXEZdcX4XbTLovY9D/hRsBAShgwTfKhU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkm_KH%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aCd9TxEzIjdXnkP0lrfG1+G6y1pv29J2LHkPibNDkh0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkn_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L4coQsHACtCMq6RvgTgZ7BJZIVOkOdKb2FIKXlZelF0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fko_KR%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u9thNXfOOcvD1MvQvmsol40wnzV7NITIdnuBqoZ88mI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkok_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>btYw1yRXIbUi/nnaQIZB9VilzRjJWubTcIkemwwAw7k=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fks_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9Lf73jdIgEaPqB1qZmzOQ12lJuW96vrIrU/pWcNq4MY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fku_TR%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hvVhBpsy6rMgc6woy30gxfiWB26SrG1dpLycGhNjm30=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Flt_LT%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1SAsdYZV8pyzRe/x1YNldw6ZZjlyH2Qs57JKZ1T3Z2Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Flv_LV%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Hhn/+h9Bagp/RmV1WKnkdO0ANtUahBz2M8J7psonJjA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmai_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>G2VwZ/Vp4IDRr3rbJb9Y9jKbZSnK8VpfRdj0e47Iyj4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmi_NZ%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fmXa9oRGnMjCcROY9sYNKWIT2CxKkeAmkUrm5eOAcNE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmk_MK%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3KtBk4rrDM7epGrKFGFDDFaXMb20ezxRbo4gqJzg5O8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fml_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sK0bgqvbooiY1D7ZieAzr6/piKtdOef5L9ap04Fia8U=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmn_MN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DhNo/9k/9E/LarkX8bVGUzU+Mk3vPHEgnJgPsAc9RMI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmni_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g0ODSVNbIR3PAtLtqClMKBiwfxRN4qjCEW2DqWrlKak=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmr_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lQeUnbgSTF4ynu6dSZSJSRGYyN/OoJOiN5LLJjFsMtA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fms_MY%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>54sSJU56Jdn2kHhOp3a+l5/WCkE6DFGT8Ku7VeGYXao=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmy_MM%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>edhNwkjl+HICGryyA1mYfYfNEVANnVXJxri8q+bT3SI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fne_NP%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e8PdQh7w9qhpj2fjI8ze76bIJqvxC0nIuxLmpVpppw0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fnl_NL%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XDV71v57t6XQHthy4hqfHShzVDTEhEyWJ6LUCZV62bs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fnn_NO%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uGEeqy9IVaYK190G00UFatz6QqNYzyyZTPR94p3Ld1Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2For_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OMw4Ra/i5I8iG8g07ghrl43AzjkMjQdWgN97xV+05nk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpa_PK%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A+zQGo/9gjPsx/FfB11DLNk8IkPSncsK9/Nma68I6to=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpl_PL%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yqbbOzN/f4YwpfeOzJBL8FtiitiKIvSmGfMfa+upl7s=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpt_BR%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OinEHy+h17o9nNcViet2plht7/zdhNXBcPntPs2uzJE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpt_PT%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>65AKQr7JLW/ScA5SVg1+v613pILkXXcZucNaV6BQxHY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fro_RO%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YbXoLziWP1pyOSZ9eio0bD4/zFLqgf1Tj553T8bexDY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fru_RU%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1LlNP8GuTrlvg9SD2s3ym4RFrkC6x6LqESttK2gpkLI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsa_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C/ZOU7HZKgSj8Z7H9H0gmadVCHLV1ibsDiCa30zspy4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsat_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CZ3xbYW9picEH7iv7mshvhNOh6LmVe/TERMtWEG6T34=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsd_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wu/07gg1rDrmpZJ3mMkJ76D7kfZy0UV6AEifICiIDxc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsk_SK%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>chJFq9JX//Vnbpc6sGl+GpBGb09VVVf7DuBcX5UrTgg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsl_SI%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5/64NPMe3TuNfNWgO4r/R65nQaPgl9I4U5WPiqrIgjU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsq_AL%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Dz1IE+w1xR/ZR8yu1BThUnTAboXv1dvtvaQbBh9NcCs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsr_RS%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GpPc4O0hRFERalgpuwtvY5m0Ocy6wIy0hDcYa+mxW1E=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsv_SE%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HLbIER55SwOy7dDg58TsXjhUzMReYTnCDvJ3WwsJvIE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsw_KE%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GxQhS8GolLce+22xZec4QArymTt5K8lZOjgaTsSfMQk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fta_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xD5Ui9JyxD633x+yi4XtVgnqPmFqwN4BmyI28Hte2Ag=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fte_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mBljaNzez/cHZTfNhxOWtRJ3+nqDGOeHiEHILfRO0y0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fth_TH%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pPBwPmCjiEnKSxj1NSJL5BQTxIoC2WwjB6mgk7ppOXo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftl_PH%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9OyYjtxqqbl8c+wNTVZ5LjX/+VpxT9Kca8vGj8DIUc4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftr_TR%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7MZJgDHSuCR3tCKEvtz/mPD+3ivZ+NnbiR1Bv2qvh+M=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftu_IN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>j3aj9GKLyyT5LSsNrzv6YImncE6xuvANHegK39sMUy4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fuk_UA%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WVPxaoXxvR7JAGoJFq9pELxAP47Od6GbGV6LDd3k6w8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fur_PK%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>q08s43mBMMYhnFwqm5a2tEU10d0ffyLHla5Kj8qUGCc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fuz_UZ%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pcU8xMadIFJyC7v7ZN5JxdH5wDXVaRLetpCeRlDN2mg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fvi_VN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>d2D2mQk7RHtwGKkCO31IIDdsjSOZE3U/FL8fliD9evY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fxh_ZA%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pe1uGfHHBFLxR9FoC5hp50tEWe6448PB9mYBZsFwm8c=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fyo_NG%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZAJGocMjs9Yp6N+eCZXxlswlo7Bv210T9L6A6wRV6H4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_CN%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4//zYGQFdH3CWvE6CxhUn6ciseCAHTD/APGKrNrRI5A=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_HK%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9jjysJnb3B2Qx8G13CNOTu7YdM6Qh8nvKIEgLdyYW+U=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_TW%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FBrWyulHGjydnXJVO8Dv9OULb8n3YpYqBkk21vMRKTc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzu_ZA%2FLC_MESSAGES%2Fbrowser.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0R8X+fshYW3Pt0Kg4QKfJnxcrOYfcBBV42uHWFEcgpE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fembedded_server.conf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oGxY/r6wgox/dtY+HXYGwfGLfB9rX+IBDnJWK5BX1Ic=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fbookmarks%2Fbookmarks.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Qqj+DrIZJBkoFiQfEVOByPESiqVJnutPVgTdBK+tyCE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fcommon.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lBcCY9CkP7mKvsshAlg/4kui2Yh0S9M3r1FDVMqPNNM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2Fdebug.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MZI+g1SEZlck6VyIhmFsOLcoMWQXTo34Y6F7Q3LI2OI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2Fdebug.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mgL/q1tr/TN1UQP9DjAo+Ua9xZPeDSnUCb3KWtIOqto=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2FdebugOptions.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DyfJ0OjciiGGD+5oWqjriZFk1rAuKw5BIfCISDWsVIk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bCkOMU9bzv4BvBXTQGwKJvLLuQ2v/1g7FeB8SBNVrog=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2Flayout%2Flanguage%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/xNbCCv2UnAw4cOeZhkYW//VFWfOK+LPtV5imKbDmkg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2Flayout%2Flanguage%2Flanguage.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gB2hW32cXzFEDKnQsHYpX/7nUy8LHHWozZriqv++OOA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2Flayout%2FtargetSpecificSettings%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xE4mpWebR+mXh7SaMvOKMsBI2NYNIXlP4ttyeSwzrYI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2Flayout%2FtargetSpecificSettings%2FtargetSpecificSettings.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+UrSPrTfnCqUpINyNBG5ggt7OGHwnce+ruSK3yhuggY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2Flayout%2FuserAgent%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Uhv1BEhSFWwNsn0xRyxr0Th4sJXx3DwyA5PRRukVSlM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2Flayout%2FuserAgent%2FuserAgent.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LIWDfVQNwIT5DLZec7w9NHPNU5qtu4RFb83MSvWlH2s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2Flayout%2FwebInspector%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fxsdWWjm+p4RpxdNP+wDWuDQArat3zAK+tg3NisixbU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fdebug%2Flayout%2FwebInspector%2FwebInspector.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2FenableRemotecontroller.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VXDMpQ6GlrbM4j5BNaPqDdSZmihEEuYMLBwXz98GvTo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ferror%2Fcertificate_error.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/pI5SuJVJmRI/rnIIUKzMeYFWmrw0GWOEZTVnPPFrxE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ferror%2Fcertificate_error.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>T15CpB3o3+4Dq1mMMsu9XXMhTezGAG9vNwhye303tG0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ferror%2Fcertificate_error.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>w195xbzP/XnQR+pvYJjU6iqKU6LEY9j0/mH/woy1YOU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ferror%2Ferror.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CHszAQUSrzYOV32ilQqWvO59Kwmwcqwx1sb2b3zC8ZY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ferror%2Fserver_not_found.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g/zvwVVeKcuxjja7VNeeLCqOEB8KMZsQvPMTqZzZhh4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ferror%2Fserver_not_found.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>H/gttjxLNBLD218dVM/sNSbyWLpZgWpDyWfyudCFzLk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ferror%2Fserver_not_found.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>euU2vxd47MPd1R86YhqqfAF+QQM0r5YiWLHGSqxyNJc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ferror%2Fwbs_error.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sdVU7PubZ6qwYB+JDH0LGlxS2T2fU6S1sdbZdZ5vX4I=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ferror%2Fwbs_error.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EIrzAh9PvdrEoydmAwsBt89+BuBtEcYPk2hyH6J0FhI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ferror%2Fwbs_error.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zT3c5TVuii9fBncYrWDiZ2Qrkf2VA8HIa77qnqPm/SI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ffeatured%2Fheader.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9GOrkPP+gmAmA/fqw4CpUkRjh4uXcA6f5K6KaTb0ZkE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ffeatured%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uvzDturgfc3NCWDHD2JBrVcZVmGoe2ayCn3tdqBfdvw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ffeatured%2Fquick.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5KIPvGyCFp8TGLB6zfDmUM1MtDSD5wJRRwnEtJeNPgw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Ffeatured%2Fquick.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DlLvwaabdMWJu7mCWCeqw2kWLDngMTEW/49xSphItkA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2FfloatingVideo%2Ffloating_button.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>B5Dz2a9bbJu3+RZ1tizamgwzbBAgACevdHmhLoQy4vo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2FfloatingVideo%2Ffloating_video.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HO5Zwt+QhQuAFFTrmdDeILzt+Ahja8HYneC0pRMr6Ns=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2FfloatingVideo%2Ffloating_video.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C2Bl2hLhvXg6r60L/+eaIA9aNhhhDWpFYqH8keo65I0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2FfloatingVideo%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1L7Hy8+0NKvIf08THUXIL3j9e6/4WhQC9Q8lSZv8yQU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2FfloatingVideo%2Fvideo.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xpXERp8Ptx5dMJljNF6Rz3l1ebZhRroxtPXbthyf8k4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fhc.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/x6Bj59mO21xnlkkmkiIHRqgWsDdsCUPICOb2tehdqI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fhc.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oMZ/H7PKBplDNV3o3Jrrw7g1aqlPbltcvwI6Ubl7/ug=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fhistory%2Fhistory.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tiMfNG0HaDDcVNvy0lLDPC8tDwPvCX2ff7YQgUOv6tE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fhistory%2Fhistory.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u38uVgKK7ALISFRJxtnaVyPaPFkyt7z0W33c6sGo9zU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fhistory%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3Ir2bDcearTB3K8hDh/AGSkEFlV0xtTFly7HdJ0I1uc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2FhybridNavigation.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FR2mNHtY/AMZivYHzhC6azA/a/x2P5/mlfymXDs5zTw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2F_TRAMS_AUTO_SUBMIT_OFF.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OF5UXrAmSls7Ee1w+4XXuQEPLAoIGZR0QUbTPoK4B2M=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Faf_ZA.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>B1DffM6u9WOu1yIrkUoDd5U85np8AuO2f7NNF3rHsN4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fam_ET.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4K8M4/r6jq1fCx+8Rfpj2B+tTaAnjaMxtqujQXoUA1M=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Far_AE.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HEDT8x+17wqEymRL9+1p0pXanUEjuZwes+A6g9+JnhE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fas_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rj+AjcOmwEuyBqDWCu4N8AhyqNFBoUjGveHqCPo1ozc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Faz_AZ.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZHU7Evg/fGU7fys5ZD5b0cTurU2AkeeLbglyu4jecWw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fbg_BG.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZiYuz1m5aANiypEsWRkenYSp5RljaDg4yVBeiQZaL7s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fbh_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Iu1nNGJbm9yOQ3LIulTQCuLTkfieopenbxBNLdBVpXM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fbn_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lMjro2oXaLyR4zdSjCAQxQi+d337fLfq3SPfmstZKSw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fbs_BA.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YMlYkTsBTAoVWC/CajkkJpX+LA1TKYWTlJZq1SIP4Bc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fckb_IQ.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5HONoynHmwwmEK5lLHgaxTgFeZbDesHRUlQbVm/UaPM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fcs_CZ.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p246pEg33m9EyvumKXnr1K1pVaCfVSZPMixQ5/GJ/cc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fda_DK.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PtJeKFFQPGRxX7ELJ/m4nQeGsj+GYxqAMH56/jHFUp8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fde_DE.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7oFeZOquSiGwJjkcNT0fF+TqvQVRXI93lNEUBIrckwg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fel_GR.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eSt43sIi6DUOFM9Qcx/q13FIJJrmjN06J/hpCPdcIp4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fen_GB.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5GfabnHmaW+tEQW1dHU4iSHHLfwlmokUc6fz9psJlxM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fen_US.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YhmA1eJwEZdaEeyXC7n4/NXYupcsl353ST5/KRHGFok=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fes_ES.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8o54+onoNCpxsivH85JrclhRW8dCkmIaBSA2B0L7Uiw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fes_MX.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zIdggoJ7kX/a1pQvRatULKEAvTWYKC5oIwFoWaLD0zQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fet_EE.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>clRDOK+oH/P9ldrwZGcbQ3NX0V46ghcbBY+Go+JxHc8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Ffa_IR.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jO/4loWVQFrShmZgiCdUBcVsyLsMxZP1eBU6ZBxQ0cU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Ffi_FI.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CvtQvSDuuPgbmA7Z5Nyoo2Wt1p6/dylyitt0bfR8+NQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Ffr_CA.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0SDTXXFA7ujxYLAbyFV8qjvsT597+HA0I2ZmAHU3utQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Ffr_FR.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>H7ZjUDRXfINzTEffCh0/2Y3cUH9FTqTgWLUv50f/x6Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fgu_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fvxj7CP3wrJ3nbNQxkAnVcGeZ0tn5egoYFdfi/7aExs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fha_NG.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AW42xXWtlRWPn8AJgmBR98SycAlFMGNfYLavH3JUwzc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fhe_IL.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+dC9xvk7XgtBfDlNRJtXv9AkHsW2m2igYKwNsvPE32E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fhi_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Xi7rd8Ly92YPKsTFGHErvGuSTU+s3xYfpNIbg92mbAs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fhr_HR.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MSoQ40dn8PfzrLwG36Ub+YPKOyCM37gPWNFdpSUnYx0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fhu_HU.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cze3yqD2OT5yOr9+uEXONQJ4cdrAbiAzKoBOFB475Mg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fhy_AM.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D46OEwW1276vltucVBsNoCq3kgv1y8eoazhB9PujXik=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fid_ID.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yUZwOPzoC7uO5pWFiU7QgvJxe11AcKE1FvT9vVtt+f8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fig_NG.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FaBUD5LzKVHWY0wOjVK5eFQBf4ePiVwgSJPSAcZkLsQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fit_IT.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dQBRCzMucp/19qs1a/i2wKB2zbh0qzcph7Io6DWnB8I=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fja_JP.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PoOk3efACA5Sfy7nAp7NRtd1lbgd72dgYsCHOhDdeQA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fka_GE.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NYZeskAiBr2FhkykR31ryBPkb6YNzy0H2azcAFeQaSY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fkk_KZ.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+QXo/XvROizM8if+yioK1nyKsNduPgCwisrcu2Y/mCY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fkm_KH.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>As1Tl5XdukLCDBqIg4u/DYAIrBS/cXaFuhCMrwdZlA0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fkn_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>o9VpBEIPsHLm3hn2QOwwclaNc63+28uws8cBHkI2GmA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fko_KR.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vrbAwkjQXfyI/FIXQHklLeWsnc6EgCv9DsWRl8UO4EY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fkok_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>avO+qvvpCxDipYtsEYSFOPHFGRMOS6HEXbcHc1TT07c=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fks_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ys9+n7WOy7DKPcwucrtwNAUAhRy7YB+AF6yRdKMJzVo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fku_TR.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lv0Imgo1aBqJWU0BjR1gbBwcvaHW5qFthdUFPq8TtFU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Flt_LT.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hJFVLiwBcw/Rb5NhyzHsiP7gh0Xbum5yuFzKCjVYg5Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Flv_LV.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ui72gQgv/N9Qh/3Is2NQDzQo5iuOVFgUHMPJYmqHCBQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fmai_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Xx/YI8Gz8vzVdv+3cIyzgJjrd6UYFetIFZiKULDZLV4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fmi_NZ.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yIdB1M7Wb5aLr1+9KT5nuwLqBGZ+WgSq2s5Xr3FRKAA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fmk_MK.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>og7P3YRRxc46Ui29ds1VBU/BkRQ9ssa8kCx4vArW8ZU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fml_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LovgUzgcgUqfRZAEL/4cLip3Vulp85I/gwjn/mWVdks=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fmn_MN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eBpBZ2vv6R9TVFqWCbcYrQbDNcUVCXHU1MaQBEqrxPA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fmni_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kohW8XV12LmpXiNYSGWDVVw2ttq899HMXICG69lPJf0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fmr_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mjeYbESSSvhv6YMXgd2FDt84uveFMMKAmr5KoVZ4BDw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fms_MY.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>papeMw6J+MQrTtocVpo2NR3MpXwtNqTpeGQGPvshaRE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fmy_MM.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1cDCJ7ZTD50P8qR5G+qhHgAxBQULEpf6/l4d1vmkKFM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fne_NP.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kVAJa17k0Re/8QVLAhrMcQPbe0pceCijVFXPk6IBgu8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fnl_NL.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rx44vLJ6ftDV9kUUx9wmghYR65ygeAtSEJGxrhFLKeQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fnn_NO.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pv8Wb063Qhzdkoppnn+1wE1SjFObI9lv7zr6JozGZsc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2For_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pA4uaPwNsS3tMLxlkPN0mhEXxBN2VnV+rGKkjBQwp8E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fpa_PK.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>V/XUgbZaJAWfcRdaBU+atzQgMsgndgibeAcUYqfgpDo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fpl_PL.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8Tyulh50KF1JFAPo79Vpsv46OUwqGO6h3iJZV0HoJ3k=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fpt_BR.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0GY6v6lFZlW8ZyoudL7fWWqH//nJhwIi1TBOw2xppCo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fpt_PT.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QGZJsoGmh3OD/CkLhpHv687FB1pKIxMobhQS/UmLdO4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fro_RO.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SBx9wBi0+N7ZTikzJ7TithNvytumBlfIwI0BBqBbyMo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fru_RU.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Vk+9r1KoHA2eKLpnAHP1l6G/XLd5EJEb4pr6VBs06aw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fsa_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IMDu4LuPyks2QIw7V1pV/3clYKjYL8HGTYNvOk6mSVU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fsat_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hK/cR1/nE9BghKXliXNbaeADdbfgtK0kRJgth2L9pBU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fsd_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lAM73xNH1RGPwARWKghCEZZ9AjXmYaVyKMdsaN1rOzI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fsk_SK.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Uu9DHOF6r/8H3KnWhrs+SbgDGAUfLHGt/NRvHKrFvW8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fsl_SI.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9Iws1mLq9azPU5o3iMah5hIOoja6kf2dKmMHQ1WPTJk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fsq_AL.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nTJyTN2Q06teQz9xYpeBOVVZt9qdbmdhqeDohlQbvgE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fsr_RS.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>W3tuOBFryXiINMHLQe73zzN7FFMy9+ONf7krMeJYTZ8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fsv_SE.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2mkGMxyNJEjMok80jiziLcri4m+hIiVWKReEfPTo80s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fsw_KE.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tEd6bcGElvucxeIppLChKbAozGsh5QS1Q6/1mfaEOb8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fta_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ti+V72ZGHLBOeezcVZExYeKfLy3+v76k59/bfg6IBsw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fte_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZjKOsHkBR+xpoDfoDDggqTPhe3CMR9v1xAIrlD7BT8g=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fth_TH.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Mk/5sIzrDhj42vFFNvCGRlXnm6rmg/3jRDzGTLaTR40=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Ftl_PH.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>E30slrEEHY0l9xtWMJSvCj+mgnurz1gvB6ZeMZFKE7Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Ftr_TR.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LlfAXrevy2TfsDMYhpH3v8N6CAlP3sa3Cbm+vul17M0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Ftu_IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4nE4x3l+pmh1ayouXKTIOFsErDeND7ksnfHBX7Lo7aI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fuk_UA.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FsxvmCRG8mfLJaphFWkjth2/L1pcNnwLWCJIJy8F0oc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fur_PK.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iPg8x2nVR02Vxrx0oJSqDwgrbXTN1UBhofiyx66geRQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fuz_UZ.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VnqT/fp9c92ZhAGwhtzlLeAzc312av81PpsyToUCbeQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fvi_VN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zWc2u31IwNWR1e4pppuXhLpQelL75bC08JhTWye5Bjw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fwebbrowser-app-JSON-REL-4_OsdIdList.csv">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mXXanwqm85yjMOQ/c3w/Glrh/ZrsCp+U3L4/LZozfR8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fxh_ZA.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nrmyeGEoUBbEkiSCVtU+af20maOgNEKgOm3vcD05Oiw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fyo_NG.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PGEtlt+bjwS0oEvgbeUzRxW5hXJyti2fXW/8doReeDg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fzh_CN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IuqrJZvq+r3EhiPzq+Kidw7vYjnIWYPi7Zel5rfFoYA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fzh_HK.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aGVdC0J1oE6oK/LkJNMkYAsnfI4N+eZS77P3AMGksfE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fzh_TW.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>unUPjqFIBjPLF+GfiKll29EBs9zuLAtY9dNQdvN1n1I=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flangs%2Fzu_ZA.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JO4bHmbujBWeahCxZ5hKJ1FWxk0yPjYP472/Twzvfa8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flibs%2Fcontroller.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OlUrofYOsC0UQBO1ziDAKx1UyShMYCa/BBH+ni9U5k0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flibs%2Fdal.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+LwqgONRgo/G+8DiNUTy+e5SxBT2d+BEEagwYsz4+uo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flibs%2Fgrid-controller.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wt+wREBpQjHji4XaCRuxyf3ppssV7h9Z3424PNU6A1Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flibs%2Fjquery-2.1.1.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>h0cGsrExGgcZtSZ/fRz4AwV+Nn6Urh/3v3jFRQ0w9dQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flibs%2Fjquery-3.1.1.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flibs%2Flist-controller.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iUymLfh/N6DYWmuslTeM3x7tocoB/rWXyfg4zLW9Gco=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Flibs%2Frouter.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fD82bGtSB9Qcsjkn8vjP7nfYWfhIl6yDzzXz0v3aNpQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fmarquee.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0R4Ij7Ect4iBtwnUZWu4qUsy3QPp7dkbu5l8w/ZeT7o=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Frtl.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tbmEsYVlRmzB8TMqtaC9y0MGuWPJvo7cvFeAc4gH8yQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Frtl.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tvueSA/SFZrIWBva61pvoipy8D9WVqr1LsXz/Z7fr/4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vsG23fuv+u5MkuhjU1NeU/gjHoweVe+5pN0YdgQ42FE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fabout%2Fabout.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3V8S/AlgYAKt/RTwCR+iKUlICemLi/jrgSFFjvmvT+M=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fabout%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aplX9ejFHhqVvEOkzOxFdz9dTH4lUcxBmRUwv5Z/UkQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fabout%2Findex.tmpl">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UrPijIbqHeFSKdtLdvUaGNwISfWT6LrcGScF/2v37UY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2FapprovedPages%2FapprovedPages.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2FapprovedPages%2FapprovedPages.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nrBRDeN5WN0QHXDpCvhUhgD6HGanY+edvFJN8831xa4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2FapprovedPages%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mY/0j8n+XmV3kItCdh62PuqCH1Ndlt9FRQX8S0HwSoQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2FblockedPages%2FblockedPages.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2FblockedPages%2FblockedPages.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpiWyBegT+zgQcHl2hRRYbIwHpt8g1689DIhQ0APzRg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2FblockedPages%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CFtSengC+co/RACyh5iXoFTRUtfCY3IZaNE+D7Lb/eQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fencoding%2Fencoding.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kRwOX9Q2vqbdgXx+GTUAd+QBQxrZvkatvoKRBHXmoVY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fencoding%2Fencoding.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0GHISyDoIdp4DAOHxNR2wz2WqVl0d7YR7B9nqe0jtE0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fencoding%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XxElq7dT8VFlkDfimNYsYAj1YGel7SL+9pDTTSH+Okk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fgeneral%2Fgeneral.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wmG6HPs/h0ce3JTdel2T94vVGEPLkrU3y/yKrqw3BEk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fgeneral%2Fgeneral.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>E2FMSqZdwx03g8NwauvuOYgrVwMjXZGC1FpQbvN95UY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fgeneral%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xhGWhVzAQBUoIoJ5ivrVMivsgs7BP1sEHZF0gqyaQSs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fhomepage%2Fhomepage.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wmG6HPs/h0ce3JTdel2T94vVGEPLkrU3y/yKrqw3BEk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fhomepage%2Fhomepage.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xbNdMZRJeiIgN3y+tiWH/gBa3N5A499g/rSfmxLlaZw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2Fhomepage%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zbATFLXEpbt9Pr3InCipLk+n6klK5bIeZb8k/965N6M=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2FprivateAndSecurity%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ENM6FTkf9+UhYfLC9o9Dy8bBiqMe7cwiruAQJg5/NCg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2FprivateAndSecurity%2FprivateAndSecurity.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kb0o3rx+vg6KGnraDeEJGc6dORnq3Vy5YYZaxQ3VBnc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2FsearchEngine%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6Nx5lsZ1Z015+Bz6OqPAETuOC7LcMS8OI9vrkTQ2qv0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Flayout%2FsearchEngine%2FsearchEngine.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Fsettings.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6A6T0yvajpzjQ5GCa2qnE3NbkXeO6Zef6TTLUUeS38k=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Fsettings.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>k5Dd2kalhhNmIrVP20GpbmNfG0Cx5uR29X+AbPhzWUQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsettings%2Fsettings.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gHf9EAuiixLv0cBrDkUkp0p8OZZllyZ5FUzj5NQhXwE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fsmartpage%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>M78vQLqF5M3ej3g+bTo1RCcL7aIO3WeaJNzdAjbPPyI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Futils.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dDpl1IdsOu30HkBXD5SXFaAjhlNxOz8AzYtP8890U90=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fvideooperationscontroller%2FvideoOperationsController.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kzHXEhPBlBwsyZxJ9EFkdx6p1Qa3KERA0IFLpDz7e+M=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2Fvideooperationscontroller%2FvideoOperationsControllerMain.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Uc8Ve7YYdE+V1oAfDkU7GNq6jqaKlsoCGvkEM3sH+q4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fsrvres%2Fwebapps%2FvoiceGuide.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>41WleWphQuCK2ktG8KuITXOFqwwtq0QKcOiTU9y2xTI=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fbrowser_icon_updated">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Forg.tizen.browser.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>k3PoZqHUgqCRagbPsF9mLEjD4kZg4lWony/Z7ig1gQc=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Forg.tizen.browser.sh">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>d/DA31FJOQzkvYyFWssunXHX7sX5eltv3YPMX3ujza4=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Forg.tizen.browser_accelerator_apps.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ofvCRDnTCszBRqLDCiorsm+BuKHTAqgHhPKXoepG9M4=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Forg.tizen.browser_launcher_focused.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nYcAicI/vtHsZqOsjtbM7sgEypleO71EUzcyTzsTIRk=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Forg.tizen.browser_launcher_normal.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Hz57a4mrFWqQ2HCPCd9/ZHQG9XfpKdjDFePiArcUhyc=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Forg.tizen.browser_loading_screen_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kAYdlBzDd2qCP6eWZo7qzyN/Tp9o4mB4CR5nEvaSNrQ=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Forg.tizen.browser_myapps.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ofvCRDnTCszBRqLDCiorsm+BuKHTAqgHhPKXoepG9M4=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fanim_webbottom2webdefault">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C2EkKaN9VYYE7vAldAsvE61Bhr8k9HNtTkjujIHN0A4=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fanim_webdefault2webbottom">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zfgcOB+zqtsbwp5e+p2ZEwzR787mAzv9G5D9MUP0evg=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fanim_webdefault2webleft">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>z2K0y4DF94/EECCrTN3JGMNwN0q4SKvJPipafNQNjS0=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fanim_webdefault2webright">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Nz4xt52pZ3ijytTiiCn26CD+e7IwYtaT4Di0emW4q1w=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fanim_webdefault2webup">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>X2hpQUMgsMXRVDUy9DmBgusVGGzteDoSRTl7ZgZWNQE=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fanim_webleft2webdefault">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MZayMniQvjQWJDFYz1v6X82AIDs3QhhoNOI0ewcalXQ=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fanim_webright2webdefault">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mAr+Tip2usyoZWHkrrjZeOBmGevJW6zv/SJHVegCz+I=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fanim_webup2webdefault">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>67Apk4SjjYSfdjeN6jUOMW+pxjItcNPyIXDppg7b0Rc=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Findex.theme">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CIs3RLqCEdWuhFBSxTcQcCMWRNQA1Tf3HB4p2AHjWSk=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_transparent">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Oyvs2D3yecuag2ZeQPIZ7kCDsqT6zFJ2cZ8GoidzRTA=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_bottom">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BsSg5wC80jJj2C/BgEjO6yyzmC6Gwoh7BxjMJhyk86g=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_default">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>s5HnhSYqqkmUi3UpQRpv3+ESqZQu05LzOnaDGtE13UM=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_ibeam">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jcW5m7gIR4nW7f0FNXT0Tj39O8JDigkx7FYL88NoLOw=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_left">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VHOknTQ+RQ7gnWzg15Iae57vr2H2/orEv1MagUqbwEY=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_over">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IwdM+XqPnsWVuLdB/Wipl9DEbGNPrtTAmI6HIUwGmR4=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_pnh">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eV3/UwsqEa5Bm4Gud1WFTXYJO35i8dWq5CC5bcNOHOo=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_pnr">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OHlqw94y8exoNBt17nvCWnjnEEJHmUc3D7JIZzY64fc=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_right">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pfAUCQ4HwBo6PDlG2hxJKsfSJ0jAWu/G3R5eEKe+JZM=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_scroll_bg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zUX3cAEUvQh7aNDx58EeYZG5e+EV89Qj4VZ7YvK+src=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_scroll_down">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>35qB3dK25b/YuA1HJXKPrer4NMKWy3gdNbJffKoo6EU=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_scroll_left">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YHf8LGT+GMrKe5cx09Ov6S/oN/DmF29JgvFne0Fmrs0=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_scroll_nor">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qbiLRKYvW+wknhlge7YvP7KEf26ruLcFGmEZX1m/+/Q=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_scroll_right">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7ZY6mxSuCB4rdLYiqMdt2QBAkyTzTaIcyFkwGF8zzhg=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_scroll_up">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>blfUlyMbhtGoRNbc4cXZWGvFLi08Ik+H1ct2GMBxj2Q=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fweb_cursortheme%2Fcursors%2Fnormal_web_up">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JndL4S/3JMdNnSvqWVj/sZRfbn4wGBZrwQWLAYb9T0s=</DigestValue>
+</Reference>
+<Reference URI="tizen-manifest.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4KB+TELTAFRY1WfwWv2/CiKh6MbXSIxaNPIyxArHjBY=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpo8tUDs054eLlBQXiDPVDVKfw30ZZdtkRs1jd7H5K8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+nBdac8p03uFjcBc1lk1K3b4VHnOxpKQxQyfKvRpVDJiWLlAgd1BYslyLSJilWNaPySNP1KxWHG53
+8ILYXXpbPSx2OFgr56Fc6oaMmIOnRukBED9Yt1gaT3DztkWEaRwTyhuNOcOMUILFNenH8bb3Svxx
+QofvGqexLrlPFhDDSQvhzSs8mmB8E355Ro5eTIgvO3kMcqR8JtqMTkHdVLggyRdXlhTzFkAGN8E9
+k8j4dQ0c+PuLweB74k0oqHikMyqF7HByT2J0CsZD8Y2RntLxj8+ekHX9y1bZbpbiCcnjJzVpF7Iy
+J9tpsSxrjDPaeb9VgG/1m3dgJvSAC5FmCdYM9A==
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+<X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest package="mobilebff" version="1.1.8" api-version="5.0" xmlns="http://tizen.org/ns/packages">
+    <profile name="tv" />
+    <service-application appid="mobilebff" exec="MobileBFF.dll" multiple="false" nodisplay="true" taskmanage="true" type="dotnet-inhouse" auto-restart="false" on-boot="false">
+        <label>MobileBFF</label>
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+        <metadata key="http://samsung.com/tv/metadata/display.hidden" value="true" />
+      <icon />
+        <metadata key="http://samsung.com/tv/metadata/mobilebff_feature_metrics" value="feature_metrics.json" />
+        <metadata key="http://samsung.com/tv/metadata/support.install.notification" value="false" />
+        <splash-screens />
+    </service-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://tizen.org/privilege/network.profile</privilege>
+        <privilege>http://tizen.org/privilege/telephony</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.admin</privilege>
+        <privilege>http://developer.samsung.com/privilege/was.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.partner</privilege>
+        <privilege>http://tizen.org/privilege/push</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://developer.samsung.com/privilege/iot.control</privilege>
+        <privilege>http://tizen.org/privilege/systemsettings.admin</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth.admin</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <provides-appdefined-privileges />
+    <tv-info api-version="6.6.0">
+        <infolink>T-INFOLINK2020-1000</infolink>
+    </tv-info>
+</manifest>

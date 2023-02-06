@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.CSBilling" version="022.12.15221">
+    <description>Billing UI Application</description>
+    <profile name="tv" />
+    <ui-application appid="com.samsung.tv.CSBilling" exec="com.samsung.tv.CSBilling.dll" launch_mode="single" multiple="false" nodisplay="false" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse" ui-type="partial">
+        <label>CSBilling</label>
+        <icon>com.samsung.tv.CSBilling.png</icon>
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="anytime" />
+        <metadata key="http://samsung.com/tv/metadata/pillarbox/type" value="default" />
+    </ui-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/billing</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.partner</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/network.profile</privilege>
+    </privileges>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2019-1000</infolink>
+    </tv-info>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <build-info id="8907310">
+        <app-info exec="com.samsung.tv.CSBilling.dll" id="com.samsung.tv.CSBilling" />
+    </build-info>
+</manifest>

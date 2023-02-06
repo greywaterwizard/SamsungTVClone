@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4.0" package="lib-ariafw-tv" version="2.021.021">
+    <profile name="mobile" />
+    <ui-application appid="lib-ariafw-tv" exec="lib-ariafw-tv" launch_mode="single" multiple="false" nodisplay="true" taskmanage="true" type="capp">
+		<label>LibAriaFW</label>
+		<metadata key="http://samsung.com/tv/metadata/application/mountinstall.squashfs" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/auto.update" value="true" />
+		<metadata key="http://samsung.com/tv/metadata/reference.app" value="com.samsung.tv.aria-video::org.tizen.primevideo::org.tizen.apple.apple-music::com.samsung.tv.airplay-app-2::org.tizen.globoplayapp"/>
+        <metadata key="http://developer.samsung.com/tizen/metadata/smarthubreset" value="{'value':0,'process_name':'aria-engine','vconf_key':'db/aria-engine/app-reset','action':'none'}" />
+    </ui-application>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="4.4.1">
+        <infolink>T-INFOLINK2018-1007</infolink>
+        <infolink>T-INFOLINK2021-1006</infolink>
+    </tv-info>
+    <build-info id="8369112">
+        <app-info exec="lib-ariafw-tv" id="lib-ariafw-tv" />
+    </build-info>
+</manifest>

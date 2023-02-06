@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.canalysis-service" version="21.1.35">
+    <profile name="tv-samsung" />
+	<description>AutoDetection - CanalsysisService</description>
+    <service-application appid="com.samsung.tv.canalysis-service" exec="canalysis-daemon" type="capp" multiple="false" taskmanage="false" nodisplay="true" auto-restart="true">
+        <icon>canalysis-daemon.png</icon>
+        <label>canalysis-daemon</label>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="canalysis-daemon"/>
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="true" /> 
+	</service-application>
+    <privileges>
+        <privilege>http://developer.samsung.com/privilege/sso.public</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+	<tv-info api-version="5.5.0">
+    	<infolink>T-INFOLINK2020-1000</infolink>
+    </tv-info>
+</manifest>

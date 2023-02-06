@@ -1,0 +1,479 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+    <Reference URI="tizen-manifest.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>twvnnusFXZS2yHuDsGiymf9iI9LJLnCgbmRmEoS0myA=</DigestValue>
+    </Reference>
+    <Reference URI="SamsungHealth.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rEZitC1ParGYZtDBty2N0SQcumZyZb1fkR6pihteYqI=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fdata%2Fdb%2Fvdserver_data_backup.db">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>G7sPOY0ZI3pvwnHV22CRjUXdxcW371W75vy5AMY4bps=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fdata%2Fdb%2Fuser_settings_backup.db">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9L5BCCWibTr6gO/Bv2ufqbtl8Nqcfp25i7REW4EYSy4=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fdata%2Fdb%2Fshealth_data_backup.db">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>KimSjhOU97KrtWjJQvawbpaS9XD6gD8uPNA4oKi1wWU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fdata%2Fcert%2FTizen_DNA_ss.crt">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>A5K3Nsdh0U8WLSs7LB3BrCOm3XVUrEgtWJVffKYbMAk=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fdata%2Fcert%2Fcom.samsung.tv.samsung-health_ss.sign">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xVanaL7cRr4krcCoPSmP64t1YWmDxp5dQsNOpedp8pE=</DigestValue>
+    </Reference>
+    <Reference URI="lib%2Flibbixby.v1.0-beta.1.4.so">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>i6SIU/poaDkNnakYZiPNc4xHuMB3bkqwPy8ztlyGibs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzu-ZA%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IcvE7jutg/jDqFEL4zk7eGEkU5iGkeK7eU9muy8rJAE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-TW%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ht/eAtwiRuVd/OVmJpVfm4/BnGfmfHGOlu9sfS6j4hY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-HK%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VvP+4tfHamgB+xJMU42R5y+5TpsRStdK4ELvkpWPZPc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-CN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>uH8VP/hYEuD/SoED6MXOgAleMYOclMMG6eJ1hwuiG3w=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fyo-NG%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>3PKVTlf8AyQlLhxuPgwgVVIxOWO6sadBPpEYtaB8rZI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fxh-ZA%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>onMPAmGEBZpE84hpbf/aHmEv3Uh0btn6HhYU++tPN2w=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fvi-VN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>nC7xcN8GbK0dtwxBcUc/lnzQsT5z+mRskplLs9HWs5A=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fuz-Cyrl-UZ%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>c1N2Tbga4RqmTFzRWWLsf23JUlkMxdXR1utHRiW43OY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fur-PK%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YMYslMzChA8pZf7gfCEBCvKBcNwy50wjhyvI9OT45ys=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fuk-UA%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JdNWGgs+aJdughuFksFL5Rk2bsDWwEBF17Q3W3AArcA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftu-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>5oV9w8YYalzDgQo0KS0lzmoiP/rL7dn09DoTgkF9tAg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftr-TR%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FytnxBbFAHKcAJs0Ii0HDjtbYq1AzwPCWzB5oq6YsnA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftl-PH%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Q/gRtpm3dRRYVYS5mIveg33B68USaFCNalhBk91oq18=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.Bixby.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kQ5SMbAJ7xt16vDfEqsQfzkfexPjhfAqagxUbyWJNYw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fth-TH%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1BuRr00Y5i2mzqH3xQUT/cDvv5nYcQL7ekGqK0QNJ64=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTextResourceSamsungHealth.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VCy6YTPuuN4eieKfwHOGWnR/TpYTJMSkxF/v3Vv3oMg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fte-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zJ7n7fJ+JemACl9SN0gUuTjgMPZMX9HX17HxZlkVtOc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fta-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>KRPfqfg/kwqr7ydgOIpBNYUkAT9tjlUY7oZi2NDQO+A=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsw-KE%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SvfftnQCnlLCZa/lRSREIxPimLoZYrsxi8ZwsWtTRH4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsv-SE%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Y3eTIxCx88Cqxj74fiHMnKqnAGmLE+8qnNjTI/zoIX4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsr%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Cyn9FSa2yosEhItpv1YriStX7or5mEMIKbJFmhOafVY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsq-AL%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>oHsvizgHgzyd/nNYTH1TPZA2MB2mcAMi912v+QdJDCk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsl-SI%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gel5zPGyBhfTTP/mPV06FKBlZqXLYOtwU4ve44SdE74=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsk-SK%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>E1XMB2JIBKRxyvAwexFK/Ylw8tEa72DNVac9WR5y1Go=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsd-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FildIMUWXkAtgkwgGoZlPwWBKdnmuKSgihRbaCH4CqI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsat-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rYE5uP3w5ErOXPEAvOTewqv+caILxNkXdNW9teXXvKU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FSamsungHealth.runtimeconfig.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RGy9NEiii8fdwvQRkaCx61VldYBawsaj26wHFUsSXtA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FSamsungHealth.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>OlE76VEfySK2WtJoZqeTPdW9p6q72yy6tXWuNV8v0D8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsa-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vRk2Daw4+hn+M5D8qRX9NCbtXE9oM2alw0nyu+3tXD0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fru-RU%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>C8DH/BxXSpcgRD7dgJDDueFpg8MRkBQWWTJn+DRFlwo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fro-RO%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YTA5zYLg+g1Ase93CohEDJV09hny2dSgSuV2X6oblps=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-PT%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+R2T5bOt8EW79GyZbkxva1RiLud5wvjB53oF6RF+76U=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-BR%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mllTZM+4uBuNWXD0bracrxPXUJdBddnt+LPJ71KtQzg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpl-PL%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dwfjoAaT2+tQYAUlqtn5etNllu0y12OvZuUnh79iSPQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpa%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vDTwrrF2ytptfSu904ZYieGUa04EyXYe8ybEFjHRleY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2For-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zRYcGHP1AESRfCTt93mdqpOhQbIIVV8NmKygD4YBpv8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fnn-NO%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>12tF3nLxN3RBBkFeFM9XEQUAMaCZz926Y1x0JHiXEXU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fnl-NL%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>hQpIvarAwd7z1nq5xssxJef2KfSajnpHd+RavLnVxzw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fne-NP%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>69TziOh8yTRTUi4TX0eNoKZxeZqcc4vk4N+ZVC6H8H8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmy-MM%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Oks5oDjz5L2p25tOEr2YKzaEq4zivBoM6qSv2wXLmsQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fms-MY%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Gz3x2LOcD9PQLnyZRKatz+jBaIDhUESLKJo+S5Tcbb8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmr-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>3fkBd0LQXkqkfKA2Z+qm/nKKcIn9eH7VoLFnyCVJid4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmni-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>M8OAeq5c6XIx0XwXAAm7mVSYxHaYkcL8/g692Jcb6nw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmn-MN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>3gl/qNQ3aaJbpBInMuCfi7rl1UrlWzp7LlKvaP+3/Xc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fml-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>T+A5ShhZlQtUCo5yi07UApDz94KT85mKiaOoBzkKiTM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmk-MK%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tE6T6uS57lN4hVAId89TD4OaFrLSdNt3FESEzXIxz1k=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmi-NZ%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>3VKtFMaPnwHhPyKlnFobzGttaQ48WMNEcAzv9gZg3ZQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmai-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qdiZDGOPLkYqoaCNWmVxlXanFkcjfsPFyWgZNDzunUs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Flv-LV%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1mQiPi9XM3SvoxnFVqqztlq5CrWThQaX/Lv3XN0W+Bo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Flt-LT%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rm1ihyIG0OC3+Zo+EnZWLtj5iXFx+Xb2IX22mLUUzGE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fku%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Wq5IEV9lIhzGbCVG2J9Z17bz5OTM3+zbPl++Bpa2Pck=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fks%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>P/13zZGbo6j6Bh+u89mOiiPs8M2v4+pBbt777WDvZ6w=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkok-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wfsZlfDEUPjisl0O2Em6bZ+OWf4b9H3Dqxl4NphkOc0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fko-KR%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mP8Ekqrh1iG45fSC868xNZgPdeXDOSDxNGK6kkwCltw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkn-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/4sKks4aDPFixRyA9vLuTSpEvfPoIJ6wToRDwjLlb7U=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkm-KH%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mosZLBHY6OjYAONe0H4+2x1SyP4kLbGvlk2AV4S0paY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkk-KZ%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Jt5Vc+VOKLopV5rDCJ+9osYlLZ4pZvit3PYmWGSDqsc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fka-GE%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vBhYjwXFXARDM/t++qXCaS1gtep1EN3ZmaIo3gLgVZw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fja-JP%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ll7xiY0BLhTMcAp+Zvvh3tYXyL8+YY7ofjoiHX5cdXE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fit-IT%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ZaS+F95AdDlLkiBz3xMV+zE/x4LV4NWE3NCOBuFPbmM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fig-NG%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>UkSgkzBPRqMGz6K/C9MF3b16oBWz6JoXfoRRbsB2Ltk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fid-ID%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rReVzs7iAFxetPS9YeNYfmjFApVBPOOBeA+23nx5LBw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhy-AM%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0klI5syXovDSuv+k+6b+n5Yk7v4jotH2MFc4APjLmuI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhu-HU%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2EZ5/vNXmQGi+612DDGclKHq1sUA7vAWRQoCozYcd0I=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhr-HR%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>sjuBNOIJzlHbTut796ot9E4EPsk+v0ivl7aQMGDAGIE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhi-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mk7x2VwEGoC7luIsFSmJXgpfs4RcTA8nbPlASpxVOFs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhe-IL%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>3rMvLwD9M3wEiqOiRMWdXnkRrtNCDQuE7nuv8O/heEQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fha%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zZ7qa4M+wKzA4ouAVZ0SVGFcKsY4F77PbeJIPp2l9q4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fgu-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RHtCnee3O8B1rXaD92GV0+G1cTZi5K1GNO5eZTpC8sQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-FR%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Ajvw5yubNBrAKPq/8oNw0kIJkjO7SSLdUQnzAY37ISE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-CA%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>CsZi4e/U8c4DVW/xsNOsk3I1HRhXtVXyYnj37U4WZ54=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffi-FI%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>j5yMMPPMybd4rRbonYxpY2lDjIDdsmbYau+/z06sqO4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffa-IR%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0oZzv+bQ1F6DkCgCo/r2Li5i84f3us9aiRLm3PHhI5s=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fet-EE%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BVX3NxCXCc2vlD8TZi9hf1sPf40nhryVU13up2JAmsk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-MX%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>l2BeWj36pYfJ7WOfde1dOaNJenDa2HFEH/YUZ7TouwM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-ES%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wEl9yHazaKXsTYLkjlfvP31/6DagclyNseRxxMijV08=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-US%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>XJw/GfZ6xD0Vc858c06yqkhlVP/3obuoXMasQQfZlak=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-GB%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0lMJ9t3vjYNV+qFHQZQn/FObFt4WZy4EIbnwf1Qw7O4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fel-GR%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>N12xOg4KOp/Gs9DkXPpX6TtpkR3Bbu07SbQLXZInToE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fde-DE%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7Dv6v3kT1z7uKNspPnn9Ye8zvi+St2lWpMt7/WfdKD4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fda-DK%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>oMq/RwkBK/Bv3f6z8bvqk8M/BzDpQ7M400VRtzhBIr4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcs-CZ%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ML9tQKZMxhXJa73UXSF6NPVjn0HALB1yaCs6B5Zm2e4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FCompSamsungHealth.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gzCP/cHbt9NIT0GN3vtjzwjEteJkFBPLI8XStKjPOHs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fckb-IQ%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IsyWcA9/jqdZ1Ju3wphGY34HqyBumC/3XI4/Oy+uhHg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbs%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>jbXLtovFsNi+UjCnnIQmDEh0mJHNiog46mm+2hZAwwI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbn-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>AnK2ZwCOldjWVLEYoDxunhbBBBubcWBN4Al55vDe4uA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbh-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>DDSEXPU3/qjJQ79oisJ/9Z2wmNB2BVZIqR/0sWFiRWo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbg-BG%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>upqtxckN5IWWQRnx9grP6j48Q3J2a71ANJ5BCXSQycE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Faz%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>WHhMnBEdQ+iUJitTMVv38WLNIP72WDUuuCdOcLHnsxk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fas-IN%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>iyCMvd/qaBfcJh9BI3caXqw7QkdKItGdXZj7Bal+lzg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Far-AE%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>AKcJd72zNN9HIaQRCwkEAXMhiV6BPSzoCDus3Asqrq0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fam-ET%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Gybm/ro4c0Ufqy7K51t7wnqlnijdawV/62A0PgbfkjA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Faf-ZA%2FTextResourceSamsungHealth.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>cv/aGYTr8c6UzDa5HReywvPDI5l+flXrxo75X0bwEUU=</DigestValue>
+    </Reference>
+    <Reference URI="#prop">
+      <Transforms>
+        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+      </Transforms>
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>e2rGZ9lURQWep1IIbrRk2NYMw5EXlejQt2B0bMLUyoc=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+CRYOiyuaaaYf3zHsASfRyQgzpY/RGpWf1Z4TfmGL1tGUPNCSlg9Zy2LrCLJeHnMjldsaWTXHdWUg
+bGeI44Ru0NUH1MR7bR7mA6vutJiKVcvXiBJcInK9xtTKM9pS2w49NwHCgla6UxpjTd2MQxa/ecFk
+Q7kyQKdUo8hZv2WkP5jiDIh7CAFDoo8xPY/hwtVtGhRandnasn7SjIBbVncdVSPV4g153lpoYsfW
+cpPUqBRfkQMtP7sU8rfuG+9rB9FMA1dXTciDZUi4VZbOcarEVR11GcEvhffzIPCwsk/KJJJIQpv+
++zMxA3IfaOGpIbbMABLolHcrVhRdMFjNykCKeQ==
+</SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+      <X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <Object Id="prop">
+    <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+      <SignatureProperty Id="profile" Target="#AuthorSignature">
+        <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile>
+      </SignatureProperty>
+      <SignatureProperty Id="role" Target="#AuthorSignature">
+        <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role>
+      </SignatureProperty>
+      <SignatureProperty Id="identifier" Target="#AuthorSignature">
+        <dsp:Identifier></dsp:Identifier>
+      </SignatureProperty>
+    </SignatureProperties>
+  </Object>
+</Signature>

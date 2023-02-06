@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4" package="com.samsung.tv.adplayer" version="2.2.2121">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv" />
+    <description>AdPlayer</description>
+    <ui-application appid="com.samsung.tv.adplayer" exec="AdPlayer.dll" launch_mode="single" multiple="false" nodisplay="false" taskmanage="true" type="dotnet-inhouse">
+        <label>AdPlayer</label>
+        <icon>AdPlayer.png</icon>
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+    </ui-application>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2020-1000</infolink>
+    </tv-info>
+    <privileges>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/volume.set</privilege>
+        <privilege>http://tizen.org/privilege/mediastorage</privilege>
+        <privilege>http://tizen.org/privilege/systemsettings</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+    </privileges>
+    <provides-appdefined-privileges />
+    <build-info id="5278638">
+        <app-info exec="AdPlayer.dll" id="com.samsung.tv.adplayer" />
+    </build-info>
+</manifest>

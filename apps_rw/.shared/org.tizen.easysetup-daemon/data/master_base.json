@@ -1,0 +1,35 @@
+{
+    "devices": [
+        {
+            "deviceType": "oic.d.tv",
+            "deviceName": "Samsung TV",
+            "mnid": "Samsung Electronics",
+            "mndt": "2020-01-01",
+            "vid": "VD-STV_2018_K"
+        }
+    ],
+    "configuration": {
+        "otm": 3,
+        "otmDescription": "ownershipTransferMethod : b0000 0001(Support Ultrasound Pin when perform RandomPin OTM), b1 0000 0000(Mutual Authentication), b10 0000 0000(Predefined Random PIN)",
+        "otmSupportFeature": 768,
+        "supportedTokenTypes": 3,
+        "enableGattBtle": true,
+        "keepalive": {
+            "set": [
+                1,
+                4,
+                59
+            ],
+            "select": [
+                1
+            ]
+        },
+        "tcp_keepalive": {
+            "tcp_keepidle": 40,
+            "tcp_keepcnt": 3,
+            "tcp_keepintvl": 30
+        },
+        "disableNotification": true,
+        "provisioningVersion": "1.1"
+    }
+}

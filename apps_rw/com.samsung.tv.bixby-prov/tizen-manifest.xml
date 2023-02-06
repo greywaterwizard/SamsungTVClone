@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.bixby-prov" version="22.21.11092">
+    		<feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+	<profile name="tv-samsung"/>
+	<service-application appid="com.samsung.tv.bixby-prov" exec="bixby-prov" auto-restart="true" multiple="false" nodisplay="true" taskmanage="false" type="capp" on-boot="true">
+        <label>Bixby Provisioning</label>
+        <icon>bixby-prov.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="com.samsung.tv.bixby-prov"/>
+
+        <background-category value="media"/>
+        <background-category value="background-network"/>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/filesystem.read</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.admin</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+		<privilege>http://tizen.org/privilege/bluetooth</privilege>
+		<privilege>http://tizen.org/privilege/bluetooth.admin</privilege>
+		<privilege>http://developer.samsung.com/privilege/sso.public</privilege>
+		<privilege>http://developer.samsung.com/privilege/sso.partner</privilege>
+		<privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+    </privileges>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2021-1003</infolink>
+    </tv-info>
+</manifest>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.5" package="org.tizen.netflix-app" smack-label="dtv-org.tizen.netflix-app" version="5.3.27">
+    <label>Netflix</label>
+    <description>Netflix app</description>
+    <ui-application appid="org.tizen.netflix-app" exec="netflix-app" launch_mode="single" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>Netflix</label>
+        <icon>org.tizen.netflix-app.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/appbootingsupport"/>
+        <metadata key="http://samsung.com/tv/metadata/no_use_process_pool"/>
+        <metadata key="http://developer.samsung.com/tizen/metadata/smarthubreset" value="{'value':0,'process_name':'org.tizen.netflix-app','vconf_key':'db/smarthub/reset/netflix','action':'none'}"/>
+        <metadata key="http://samsung.com/tv/metadata/application/state.by.rotation" value="terminate"/>
+        <metadata key="http://samsung.com/tv/metadata/application/launch.on.mismatched.orientation" value="rotate_screen_and_launch"/>
+        <metadata key="http://samsung.com/tv/metadata/support.rotation.popup" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/auto.update" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/use.accelerator" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/casting.protocol.dial" value=".netflix.com"/>
+        <metadata key="http://samsung.com/tv/metadata/launch.in.container"/>
+    </ui-application>
+    <dependencies>
+        <dependency required-version="1.53.6" type="requires">org.tizen.pvod-appfw</dependency>
+    </dependencies>
+    <privileges>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.all">true</feature>
+    <required-services>
+		<service min-version="1.53.6" name="PvodFW"/>
+	</required-services>
+    <build-info id="PvodFW">   
+		<app-info exec="netflix-app" id="org.tizen.netflix-app"/>
+	</build-info>
+    <tv-info api-version="5.5.0">
+		<infolink>T-INFOLINK2020-1004</infolink>
+	</tv-info>
+</manifest>

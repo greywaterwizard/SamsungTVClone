@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.samsung.tv.cinemagraph-forest" version="1.0.33" api-version="4" xmlns="http://tizen.org/ns/packages">
+    <description>Cinemagraph Forest</description>
+    <profile name="tv" />
+    <ui-application appid="com.samsung.tv.cinemagraph-forest" exec="Tizen.TV.NUI.Cinemagraph.Forest.dll" multiple="false" nodisplay="true" taskmanage="true" type="dotnet-inhouse" splash-screen-display="true" launch_mode="single">
+        <icon>CinemagraphForest.png</icon>
+        <label>Forest</label>
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.support.subcategory" value="info" />
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.support" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/display.hidden" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.use.wallpaper" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/use.network" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.use.frame" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.lite.use.video" value="true" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-ambient-screen-rotation" value="true" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/need-ambient-rotation-effect" value="true" />
+        <splash-screens />
+    </ui-application>
+    <shortcut-list />
+    <privileges />
+    <dependencies />
+    <provides-appdefined-privileges />
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+	<tv-info api-version="8.8.0">
+    <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+</manifest>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.samsung.tv.DynamicFilter" version="1.0.46" api-version="4" xmlns="http://tizen.org/ns/packages">
+    <profile name="tv" />
+    <ui-application appid="com.samsung.tv.DynamicFilter" exec="DynamicFilter.dll" multiple="false" nodisplay="false" taskmanage="true" type="dotnet-inhouse" launch_mode="single">
+        <icon>1920x1080.jpg</icon>
+        <label>Dynamic Filter</label>
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.support" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/use.network" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.use.wallpaper" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.use.frame" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/display.hidden" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.lite.use.video" value="true" />
+        <metadata key="AmbientContentAppResetMyPhoto" value="true" />
+        <metadata key="AmbientContentAppResetMyPhotoFilePath" value="/opt/usr/home/owner/apps_rw/com.samsung.tv.DynamicFilter/shared/data/ResetMyPhoto.Flag" />
+        <metadata key="http://samsung.com/tv/metadata/ambient.custom.setting" value="true" />
+        <splash-screens />
+    </ui-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.partner</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://developer.samsung.com/privilege/iot.control</privilege>
+        <privilege>http://tizen.org/privilege/appdir.shareddata</privilege>
+    </privileges>
+    <provides-appdefined-privileges />
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+</manifest>

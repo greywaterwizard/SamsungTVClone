@@ -1,0 +1,606 @@
+<Signature Id="AuthorSignature" xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+    <Reference URI="VoiceAssistantMusic.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>nnnaFxuUHvZrQqCeHU41PU7Lh7X9q3Sj/t+wXElkwIM=</DigestValue>
+    </Reference>
+    <Reference URI="tizen-manifest.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>U6hEpM/acDAe4uYedwH8TSsxdJNOmC7W7Bc4UHRZ7EQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fspotify-logo.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>4FKpdEjdfaqrKtEMPNsLa3US5fRKjVeL3pSDr2a5SyA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fbixby_info.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>pxc1Ldugkp5gtUqP+Jbj1sGsIr2hQsBAq8YQggM3MAw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fmusic_cplogo_spotify.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>9bM+1jrt5b8P35I4IkGV1HxHyZAqUs82SiBnJ1fUEC0=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fmusic_cplogo_melon.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>uEhJtpeoqV4GbAIFuRlrVyxVJ4nBPbxKnJjV9DCMEJQ=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fmusic_cplogo_bugs.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>0yvPJeWvTMMzx5/efKpQJL6gWTNgtaR8yAKLR2rrKgQ=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fmusic_cplogo_bluetooth.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>95iwsx6nu40hldfMjwJZ3kxxJcvQNEhrix5m7sTeWCE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Ficon_music_play.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>vxaPkIwEBlCCkNuCpk8LhChzgLxMDDluAK25ngsQ0IQ=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Ficon_music_pause.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>6f4BBjQGvMa7JZ8OfycKCEqdUpOuNJVwHg4uTa49ySg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2Ftvmusic_cplogo_bluetooth.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>inhRc7Gzm4N/0khVDUImrr6g+7pWVnsm1tWbSstSC/I=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2Ftvmusic_bg_small.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>hyIBUNzqj+7KQecv2yPi6F/TiqYRoNYKC0ZPGzZt4II=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2Ftvmusic_bg_small_spotify.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>G0qWWQuUDnk0QtbA9aXQslu/CiWs6mLnbtP3JreG3OY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2Ftvmusic_bg_small_spotify_highcontrast.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>R3DOnZykZ+fvSGtL/dxHdRqk1UzflYRgngPyiNUpLBI=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2Ftvmusic_bg_small_highcontrast.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>oVQyg8Fpo9wjriyP1mD7z58FBE82Tpa+q5etT05+G4Y=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2Ftvmusic_bg_full.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>L9hYVLv0LI4E/rOyAvsstByKaqbcoFDrnCxD9nwu2Z8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2Ftvmusic_bg_full_highcontrast.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>qYd0is16hQVqybTyhVVkfs/Fz3P2Jc8QDZ9Sccs5Cmw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2Ftvmusic_album_default.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>7XiKCVvzIFQDOU2Cir6fDW4MeeVS6yvfnpry4tmMxq8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2Ftvmusic_album_default_highcontrast.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>gWLQewuG1gq6BsEmrNQD5ScYpfJYH0IIjN0lzOSWDXI=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FSoundWall%2Fsoundwall_icon_screenoff.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>KfppA/75Pk7lYnYfFSLuo3zu/8qf793wA8uv3BWOS1c=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FSoundWall%2Fsoundwall_icon_playpause.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>mZs1XIJ5jdj6mDB35YcEXOTV0fj1jqvxY/21w6n+YiM=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FSoundWall%2Fsoundwall_icon_playpause_1.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>n/WRaijJSxbOEhea+/xBBsxtf77dxnuJqeJxnT0SpUg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FSoundWall%2Fsoundwall_icon_mini.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>SvF9a7mtAbOtXIYWnP8fyClS9s4d/7UAJHq+68ZtZMI=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FSoundWall%2Fsoundwall_icon_expand.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Yzj8ShYx92DBjvsgVy/hwJiayaKW4jnDXFx2x8Zz6wc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FSoundWall%2Fsoundwall_bg.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>r/uSMQnLuF/CfLS0bw0QK6Y6nhuCipE+zPrJRCGVDz8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FSoundWall%2Fsoundwall_bg_highcontrast.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Fu5o4zzxPPmmewKncH9oPoWSHYOQzGTMmLoaVSkryRM=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FSoundWall%2FResource%2Fsoundwall_headless_bg.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>CBVdx07f+IiwzALJGnuUvAQOv4ywkTHzpsMONPdZWEM=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FSoundWall%2FResource%2Fsoundwall_album_default.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>WcnxuOlv4NjsiuqCbKODdd/zHbHPKdhTBlvjy0QHaaA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FSoundWall%2FResource%2Fsoundwall_album_default_small.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>0oJ0EyKYoax3ZW1oUpy5q1mAsDxob4dzXAsdCDE3d90=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FPLATFORM%2FPRINCIPLE%2FFLUX%2Fi_icon_function_pre.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>dBC41IVSOtqOCBpfCMsDkeCYXBn9Jhk6p1O/LLWBM/Y=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FPLATFORM%2FPRINCIPLE%2FFLUX%2Fi_icon_function_play.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>fRxn5zcxINrCHZTsND71hFgRMgHThwkMqW0M5bvfJuQ=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FPLATFORM%2FPRINCIPLE%2FFLUX%2Fi_icon_function_pause.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>UtaHnZUxIL62gXfqivXV6AoMSbr93XoGYDlLHpMWA5Y=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FPLATFORM%2FPRINCIPLE%2FFLUX%2Fi_icon_function_next.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>nt443yPGmbrMsbyPAmXWeiWK1lp9DuP+JFAnNKTXuS4=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FPLATFORM%2FPRINCIPLE%2FFLUX%2Fi_icon_function_close.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>PqTtDWr3tqpRH+pGG8i0tRJR6ewR9/bX9ibnzrT3Agc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FPLATFORM%2FPRINCIPLE%2FFLUX_HighContrast%2Fi_icon_function_pre.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>dBC41IVSOtqOCBpfCMsDkeCYXBn9Jhk6p1O/LLWBM/Y=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FPLATFORM%2FPRINCIPLE%2FFLUX_HighContrast%2Fi_icon_function_play.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>fRxn5zcxINrCHZTsND71hFgRMgHThwkMqW0M5bvfJuQ=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FPLATFORM%2FPRINCIPLE%2FFLUX_HighContrast%2Fi_icon_function_pause.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>UtaHnZUxIL62gXfqivXV6AoMSbr93XoGYDlLHpMWA5Y=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FPLATFORM%2FPRINCIPLE%2FFLUX_HighContrast%2Fi_icon_function_next.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>nt443yPGmbrMsbyPAmXWeiWK1lp9DuP+JFAnNKTXuS4=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2FPLATFORM%2FPRINCIPLE%2FFLUX_HighContrast%2Fi_icon_function_close.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>PqTtDWr3tqpRH+pGG8i0tRJR6ewR9/bX9ibnzrT3Agc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FFlux%2Fic_s_equalizer.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>rwAuwNv26lBkoRkwj7zHsV6k0FhFkrrrXwE0LnpG4Ic=</DigestValue>
+    </Reference>
+    <Reference URI="lib%2Flibbixby.v1.0-beta.1.4.so">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>DPoVg5JFSXccwjLo0dlbRStkTw9AUbWevvyImEyIfyg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzu-ZA%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Kasg84c5eYB/smsYIksD0vUyMTFCUmJRjQZuvZh/GTE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-TW%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>YRfAko6hBzVvp90nb0BfzD2FTZ06U2+i2h64XH+0QPg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-HK%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>x77EMGBqJnR41TSi3lJ99dDEC/ao0ZtFLzbkqo2dJQM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-CN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>OBq63ejamvXIJbUOtC6ydAtMYTGgdOmdSXp/w5yrOJ0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fyo-NG%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>jJC3dPocfoStUa9RheZsLIwsn7v0EkwQVEURWN4nfoM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fxh-ZA%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>6E6oxGGlSfDeohTdXQvADCBf7qrqWqyOyadB4vH2VxI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FVoiceAssistantMusicTextResources.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>CTD6ROKnbaC1uGaU9/SOmLMM364LVLJKM6o7hCLu57Y=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FVoiceAssistantMusicTextResources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>nGIU1qul5Tn6xfkIeuk7Aw4ztqWG3XaCJETwxtWsO68=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FVoiceAssistantMusic.runtimeconfig.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>RGy9NEiii8fdwvQRkaCx61VldYBawsaj26wHFUsSXtA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FVoiceAssistantMusic.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>fYK/sx0zYDdPZUc51KSFQZPvdMQDQaAAVB/oHDuA1hE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fvi-VN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Sr5usvXQL9iaNfRRb6fUxvSD+hK5f39clvMQ3hVO+c4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fuz-Cyrl-UZ%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>yRID+tOxKVN1TpvMf2QO2Q+oKoxgeefKS9pjACSYe9U=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fur-PK%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>F2tL+CjEFNHMsrEI/j3FuIC691xM4tmC5VCat2+CiuE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fuk-UA%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>0c5iJk/92Cy0kY1AKK8bkmW9eMU8B70fpCoG72BNgGY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftu-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>qarTeZCM9jHwXYjHZQHmhs2JVS5oqAjlwSFBB2uSwdk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftr-TR%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>H/f8YdpkPV3fhvKCJ2eGLstFfYQq41RZoN8ImYnewlg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftl-PH%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>roUME+w8CL8Qyens/Iaj1g/qqolQjmBHh8hiJh0BRP8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.Bixby.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>kQ5SMbAJ7xt16vDfEqsQfzkfexPjhfAqagxUbyWJNYw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fth-TH%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>IcSjKFm/xsx3Oq6tlVcLvqbqa8KIVYL7HCaUdnDkvpM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fte-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>F6nrhLaZ1k0+kG01OjpzbuPO4vAw+UuDgvXd7lP91Xs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fta-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>ykCxpazOfrp3gVWopIYCXh+X3L6fPKotgbtgzOZ8wKE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsw-KE%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>B6/W9SnFwG2TYQCMXOLUNmugbOoHW3eG8RnjwFfYqxo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsv-SE%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>QtPYTRNT50864uPfp7LX6RiGu5fREahN4wYlgbkjbxM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsr%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>4pqW2a9mLnWPIWm7mrYzVLGZsBP5koA708VQvG86roc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsq-AL%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>OXlK21mnijBQv5HoIPTFBlQFiSBRUpMX7Lck9HzLk90=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsl-SI%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>lSkGQYc3VhAKb7KThIKUJAkKw4EWDpbEFDmHlEO5sSI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsk-SK%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>0Vx1OroZda2FnA97jdUoMHAxkVGaGdnG5jpiGORTOls=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsd-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>gTtRgPJhfm+7GXspvzcsBg9Ez/A8LMi/zHrawkqS4Ok=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsat-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>t60QgEPJyAGtA0+J3lzCL2c31SmZVPuyAzSU32v9+gk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsa-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>XJS/unvnt+npE5QHSUgNjJXCT8QQ6PAfqsfxDRoegC0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fru-RU%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>wsl9Qk0n89OFeR9XNemniBIdLxGLEEa1aMyZrdYiuZ4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fro-RO%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Y8ITUwAQTRRxdmg3zv6KlYvvuzvoQ95cSxEtW0xu9EM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-PT%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>ILGWWLf4Wryoc0x5DU9FhOSWMW/dkkeoxYr7nFwjNn4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-BR%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>vI5WBBvm2G6KvKfrHA/WjJEh/VjzOVyvvr2EhCOeA0k=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpl-PL%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>TctgtxUXbHAq7/LN7Wvo19JXJ5fPeqSrLME/mB5PWkg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpa%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>oW3VkHs79q6WHm5ZN+TdjGt01CJJinh4fKwagg0NFzI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2For-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>bWZ1zIY7UbalQxLeA5wXvlQT4a0HFdClpuTamnM7gTw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fnn-NO%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>y1m1uk6oo7pLcg4eWIG/UNJIE+wArRPk+93cRLbo4WY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fnl-NL%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>c9H9yjzvwWetiqwmWCdoUHEfUmpjNeAX9B3rR45RVg4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fne-NP%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>DAeQTMltM0GfOKuUGvz0QI9eYSb0kBHqt3W+KGYog3E=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmy-MM%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>lNFFS/30Tr+Ac5v0JMlagmbVh9siLPZKAHqTOxBvEy0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fms-MY%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>FjIt5AQgj8wZwLZUCfNABzNxpPhidz1BG7QVfb+Vztg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmr-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>bgZ9/Ox31lCR7pL82Hudnzhpq0jXcvhPwslnaaQ1o4c=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmni-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>uWTwVE83yZVFv5zsnQuo/K3u2B/4pAiDohrdM0lYjH4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmn-MN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>OQODhN0eLU0e6FZaCr/Z4j2YbHeyGm+29DTgcochC9M=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fml-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>n8Ydpq3LBTVUcQbqM0n+KPHGrzGHp6ca5aJWfgpf3ZU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmk-MK%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>GR3RYl/kublDdseYEIxPOw0jDr7M1qniXuK+GPHT2t0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmi-NZ%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>TIy7fslT85L8QUpAvjuh3wGnEOZNXvwvlS1bONUMKgM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmai-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>qFLoAwrW25O4ggueM6/5knC/ifUAZpA/uV/BCyRbpMA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Flv-LV%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>X1VbGtI8PGp4RK2nnwe99g9Z2he6CVLC5XxlovPslU4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Flt-LT%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>PtyinOO7+jX5jr+AuRp9WAQ3OLPZAhDvSW07jY8NHmc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fku%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>SFDaCaByYCufT4uCMBSkzFFTUUnZs3KWsYf3xAWkJ6I=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fks%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>a6glFXLTyYH6JBYVaVkCBVE8nCKfFGBU7PQKUX6z7VE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkok-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>lnkc/evWMD30nyG3hncpy34rAaabHAiekiQ+P7abag0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fko-KR%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>T1FtFCa3e3IuIDjP+1r3ekH1yD5VTtq2jWRmmQKajJw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkn-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>mfSauj2q2cNH+w0kE9+nOZGmNz9XFjNnhr5+9PE22RU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkm-KH%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>n7XULAAMSo+2uBPFp+F/dqIX0i9ylSnlmIqQPMcVbPk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkk-KZ%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>jO8VSuNbyPQVPkofnxYZN2qz9esIxQgt50hifBbmjZE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fka-GE%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>MT0gS3QVnIEx5bO2LFZbZ2rKLzl6sXOg8Oe/3rkZWDU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fja-JP%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>3SM5Wuqubb95clFM5LP9kjw41Wg7OjitWZOsqnCatck=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fit-IT%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>fZmGMUVOwoYAV8nCAT9M/df0hSjjVPe4ffIXzjGFUC4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fig-NG%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>EO0nxGP4tGUDaug+kJNQMfrQi4PH0p35QFzLdpcpoTo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fid-ID%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>riKYF0mAbBbL9utA2GWC2OvpNcDHaoOG0yNRg6OG2eo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhy-AM%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>H5+iZFLVn9z5j/ACMZHcsknFuD2fLUwseQYeUS8XJTk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhu-HU%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>TDiZQQSKSzOQBCY23Mo9kqNHRK3GBfUgcg4/aYVIymg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhr-HR%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>SMWDC3kqSsbJHJkyeUNbv6HTOOvSv+TMiNoxjbx4O6s=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhi-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>SMSoVgf8gnDRU3jtBkskpm2PHRaSsItlAuVVXhdPhGo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhe-IL%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>n3SigvWiqlLGIicSHoLsUBINmqmOSCyQLi40ee639S8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fha%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>svw86Z8cTfOJU3QHEvj8B5t/wqVgdzlahYtyygESZ+w=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fgu-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>K8V2HITlsRr8/9A6XIe+MmpDAEjRAr6H4w7bY7woglI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-FR%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>sdbr2Smbmfk4HugKOxniS7ZjI4/zAnQXYtAOASxqVqA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-CA%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>F3ZWa7ckX2HEr/dSH8gyhzLPvksGXmhkMVWkPn52kYU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffi-FI%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>3lCBo23559gQ6lqXPQ1cllrGTCMDOy5MkCSPsJlYtG0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffa-IR%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>iLCoc/X7cVXuT5mhpLhSN1HwXY45JuTbV0MnY3wUMf0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fet-EE%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>5hcfudJa759UNe59eR3J+AR/VQt9ytnFTD8OMlW2JqQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-MX%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>kv7P1dMF83uYuDsrmEQuKmIZyKnY4yrI1jnODdQ/YNk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-ES%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>O2cH22Kfp5IltzY+ZT/MqhrQC0tlwfBjPOD4GKcdalc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-US%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>cou1D6qYG3Pg6KW3YRWcFirfB0ldiRIl/BlKoc4bbJ8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-GB%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>bWji/QnmysXXEYtW0tZ+qsZw21sva79mmQqPE0ofwJU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-AU%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>csD63DbxTkxvtWx+icMQu9XVMB8CJkj9lxj+7LFML4Y=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fel-GR%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Lq0UcKRJ0lV1cj1RBS6ccNKPMoE2yiqTc2B+dUuVTXo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fde-DE%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>/cw289PgOC3lRSMwAUoZByWeuMl5PYLEGv/LCkq1HBw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fda-DK%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>QCyXbBJohhDB78sVVHaZiSOFenCfELKwy4j7ZwePeZ0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcs-CZ%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>WwgSd5w3EKJ4kQ/N/YuoZMmGM4shU9H86yg2ybe9Oo4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fckb-IQ%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>ae7TuHS+n+tYwyhhcasoCPK59+xUvuHgOMlDI0XvIPM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbs%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>tnjmogzJccKa8R2jDEpMIMngw55mhAcZ4r1lSILEwqQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbn-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>SsFDbnJSagcQvf8nWDj/T4aZCLzlOEGEeo1kUeLwVPQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbh-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>kgmMvO7qlF18wOw9n4Dfq2C6+4BWIr4vzEkXBbeg4Mk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbg-BG%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>o/ge7s588PPR6FtFRQxOVOvRImfOr4bOw78pV80H2E4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Faz%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>dPm88y2x7GnpxIr3qd4CM9RLIpKdHgnxDHBW4RTCySI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fas-IN%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>R2fkQPZa4YL4XkvPxJA5W6xBz3nthOC5iKUfRvHD8ig=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Far-AE%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>6EDMmwPSjws0qZrU6Sp5lNHFu/iu5JMAekuM4/QDfkc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fam-ET%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Tj6+eZOfzjqKuq3NY4+dso/qWFaIhPmkPpAJQMxAs88=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Faf-ZA%2FVoiceAssistantMusicTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>/EKQUczZnPQ6enFF7kirmIVuJwrO+LAGKfdrZK6OCDY=</DigestValue>
+    </Reference>
+    <Reference URI="#prop">
+      <Transforms>
+        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      </Transforms>
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>e2rGZ9lURQWep1IIbrRk2NYMw5EXlejQt2B0bMLUyoc=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+U0WHRXc0ciYy47ghjfOgpUX+qcm2Vkn+nSkPjaTTKGRa4VJ5AopOQ4HbtwHYXYzyALgWIr0B8Pz9
+U2jpi7jRXevEEOFf5IyK+4vvy0mQAmHndDYAp4MFrmsszALLWcTrUwFGh36aM772M7A+NCbMFwPw
+X0FFbJNcHaX+cZ3DH0E=
+</SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509Certificate>
+MIIClTCCAX2gAwIBAgIGAVYhXgiqMA0GCSqGSIb3DQEBBQUAMFYxGjAYBgNVBAoMEVRpemVuIEFz
+c29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4gRGV2
+ZWxvcGVycyBDQTAeFw0xMjExMDEwMDAwMDBaFw0xOTAxMDEwMDAwMDBaMBExDzANBgNVBAMMBmF1
+dGhvcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEApm4Xqu2NAxOEh4Fgo0w6j+Q9MccSOPny
+mkyM3XMn0nL7mFKL4ZETxyRXlMU8DnM9l4zsEH3iS15cZknesUrCEAiuhL4fsp05ZSr6ERCYQrXs
+06WPmepipiM7n6BWzCsSmv0qNxkYWjZODWT2+15PsXfvwsK9wsrjSDIT8SuYV48CAwEAAaMyMDAw
+DAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwMwDQYJKoZIhvcN
+AQEFBQADggEBAMqla3XZiV3xAQe3laSgVJvmtEsjl3Zfp7Nufrobsl4pxQhVbOITomeEqrJkn4e6
+zzfsjQQ6nw0yXqeo6qfP1ez8Wvr/egyfO6BrnARX37K5cXszpIn7IvO6xl4Ux/rtp4vvQXDcrDS5
+F07d9tg+5UO6MC/9cKaCNEIxSkXEhjOf5x2LGg686fq5V4WEKCO2ApkJRXn+tFRArysrT5FPEnus
+NG+XhHWJw58HgBrZFl0SOUJQvzi3xv5xVPml65qwbehmQyu+LcgWeKySO46nzF0AXlCTaC78FGYk
+nrG2yFeWO6SWXGV7uxgizufT+s851rPFg/EWYEjqX4jU/jp7Swg=
+</X509Certificate>
+      <X509Certificate>
+MIIDOTCCAiGgAwIBAgIBATANBgkqhkiG9w0BAQUFADBYMRowGAYDVQQKDBFUaXplbiBBc3NvY2lh
+dGlvbjEaMBgGA1UECwwRVGl6ZW4gQXNzb2NpYXRpb24xHjAcBgNVBAMMFVRpemVuIERldmVsb3Bl
+cnMgUm9vdDAeFw0xMjAxMDEwMDAwMDBaFw0yNzAxMDEwMDAwMDBaMFYxGjAYBgNVBAoMEVRpemVu
+IEFzc29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4g
+RGV2ZWxvcGVycyBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANVGhRGmMIUyBA7o
+PCz8Sxut6z6HNkF4oDIuzuKaMzRYPeWodwe9O0gmqAkToQHfwg2giRhE5GoPld0fq+OYMMwSasCu
+g8dwODx1eDeSYVuOLWRxpAmbTXOsSFi6VoWeyaPEm18JBHvZBsU5YQtgZ6Kp7MqzvQg3pXOxtajj
+vyHxiatJl+xXrHgcXC1wgyG3buty7u/Fi2mvKXJ0PRJcCjjK81dqe/Vr20sRUCrbk02zbm5ggFt/
+jIEhV8wbFRQpliobc7J4dSTKhFfrqGM8rdd54LYhD7gSI1CFSe16pUXfcVR7FhJztRaiGLnCrwBE
+dyTZ248+D4L/qR/D0axb3jcCAwEAAaMQMA4wDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOC
+AQEAnOXXQ/1O/QTDHyrmQDtFziqPY3xWlJBqJtEqXiT7Y+Ljpe66e+Ee/OjQMlZe8gu21/8cKklH
+95RxjopMWCVedXDUbWdvS2+CdyvVW/quT2E0tjqIzXDekUTYwwhlPWlGxvfj3VsxqSFq3p8Brl04
+1Gx5RKAGyKVsMfTLhbbwSWwApuBUxYfcNpKwLWGPXkysu+HctY03OKv4/xKBnVWiN8ex/Sgesi0M
++OBAOMdZMPK32uJBTeKFx1xZgTLIhk45V0hPOomPjZloiv0LSS11eyd451ufjW0iHRE7WlpR6EvI
+W6TFyZgMpQq+kg4hWl2SBTf3s2VI8Ygz7gj8TMlClg==
+</X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <Object Id="prop">
+    <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+      <SignatureProperty Id="profile" Target="#AuthorSignature">
+        <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile" />
+      </SignatureProperty>
+      <SignatureProperty Id="role" Target="#AuthorSignature">
+        <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author" />
+      </SignatureProperty>
+      <SignatureProperty Id="identifier" Target="#AuthorSignature">
+        <dsp:Identifier />
+      </SignatureProperty>
+    </SignatureProperties>
+  </Object>
+</Signature>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<tts-config>
+        <engine>org.tizen.tts-engine-vd-DVB</engine>
+        <engine-setting/>
+        <auto>on</auto>
+        <language>en_GB</language>
+        <voice-type>female</voice-type>
+        <speech-rate>8</speech-rate>
+        <pitch>8</pitch>
+        <background-volume-ratio>0.000000</background-volume-ratio>
+</tts-config>

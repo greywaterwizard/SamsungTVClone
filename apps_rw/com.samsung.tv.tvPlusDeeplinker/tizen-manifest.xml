@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.samsung.tv.tvPlusDeeplinker" version="0.1.38" api-version="5.0" xmlns="http://tizen.org/ns/packages">
+    <profile name="tv" />
+    <ui-application appid="com.samsung.tv.tvPlusDeeplinker" exec="com.samsung.tv.tvPlusDeeplinker.dll" multiple="false" nodisplay="true" taskmanage="true" api-version="6" type="dotnet-inhouse" splash-screen-display="true" launch_mode="single">
+        <label>Samsung TV Plus</label>
+        <icon>com.samsung.tv.tvPlusDeeplinker.Tizen.TV.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="true" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/auto.update" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/waitingscreen.type" value="none" />
+        <metadata key="http://samsung.com/tv/metadata/use.network" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/search.format" value="%%CONTENT_ID%%" />
+        <metadata key="http://samsung.com/tv/metadata/use.continue_watching" value="bg_service" />
+        <splash-screens />
+    </ui-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/was.platform</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.admin</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.partner</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+
+    </privileges>
+    <dependencies />
+    <provides-appdefined-privileges />
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+</manifest>

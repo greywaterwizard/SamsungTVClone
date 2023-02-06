@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.5" package="com.samsung.tv.context-aware-service" version="2.1.5">
+    <description>Context Aware Framework</description>
+    <profile name="tv-samsung" />
+    <service-application appid="com.samsung.tv.context-aware-service" auto-restart="true" exec="context-aware-service" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>ContextAwareService</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="com.samsung.tv.context-aware-service" />
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="true" />
+    </service-application>
+    <service-application appid="com.samsung.tv.context-aware-server-requester" auto-restart="false" exec="context_server_requester" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>Context Aware Serer Requester</label>
+    </service-application>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <build-info id="6272543">
+        <app-info exec="context-aware-service" id="com.samsung.tv.context-aware-service" />
+        <app-info exec="context_server_requester" id="com.samsung.tv.context-aware-server-requester" />
+    </build-info>
+</manifest>

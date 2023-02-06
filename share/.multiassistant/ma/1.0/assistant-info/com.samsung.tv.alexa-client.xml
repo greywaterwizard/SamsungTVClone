@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<multi-assistant>
+  <name>Alexa Assistant</name>
+  <languages>
+    <language>en_US</language>
+  </languages>
+  <wakeup-words>
+    <wakeup-word>alexa</wakeup-word>
+  </wakeup-words>
+  <icon-path>shared/res/alexa-client.png</icon-path>
+  <wakeup-engine-appid>com.samsung.tv.wakeup-engine-alexa</wakeup-engine-appid>
+  <appid>com.samsung.tv.alexa-client</appid>
+</multi-assistant>

@@ -1,0 +1,13 @@
+{
+	"es emp version":"0.00",
+	"dhcp renewal ratio":0.4,
+	"default wakeup interval for keepalive":3000,
+	"min wakeup interval for keepalive":300,
+	"no network interval for keepalive":3000,
+	"tcp keep alive offload feature":1,
+	"tcp keep alive on idletime":40,
+	"tcp keep alive on count":3,
+	"tcp keep alive on interval":5,
+	"tcp keep alive offload interval":40,
+	"tcp keep alive offload fail count":5
+}

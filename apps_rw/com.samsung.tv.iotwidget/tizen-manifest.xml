@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5" package="com.samsung.tv.iotwidget" version="1.0.15">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv" />
+    <widget-application appid="com.samsung.tv.iotwidget" exec="IoTWidget.dll" main="true" nodisplay="true" type="dotnet-inhouse" update-period="0">
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://tizen.org/metadata/widget/aliasid" value="com.samsung.tv.widget.container" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-aov-widget" value="true" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-aov-widget-name" value="SmartThings AoVWidget" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-aov-widget-image" value="/shared/res/IOT.png" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-aov-widget-width" value="58" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-aov-widget-height" value="26" />
+        <icon>IoTWidget.Tizen.png</icon>
+        <label>IoTAoV Widget</label>
+        <support-size preview="IoTWidget.Tizen.png">4X2</support-size>
+        <support-size preview="IoTWidget.Tizen.png">2X2</support-size>
+        <support-size preview="IoTWidget.Tizen.png">1X1</support-size>
+    </widget-application>
+    <tv-info api-version="6.5.0">
+        <infolink>T-INFOLINK2022-1000</infolink>
+    </tv-info>
+    <privileges>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+    </privileges>
+    <build-info id="6893234">
+        <app-info exec="IoTWidget.dll" id="com.samsung.tv.iotwidget" />
+    </build-info>
+</manifest>

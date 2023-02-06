@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5" package="com.samsung.tv.iot-service-home-cctv_FLUX" version="2.0.51">
+    <profile name="common" />
+    <ui-application appid="com.samsung.tv.iot-service-home-cctv_FLUX" exec="iot-service-home-cctv-flux.dll" launch_mode="single" multiple="false" nodisplay="true" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse">
+        <label>SmartThings Home CCTV Service</label>
+        <icon>images.png</icon>
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/smartthings-service-plugin" value="true" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+        <splash-screens />
+    </ui-application>
+    <tv-info api-version="6.6.0">
+        <infolink>T-INFOLINK2021-1003</infolink>
+    </tv-info>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/drminfo</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.admin</privilege>
+        <privilege>http://developer.samsung.com/privilege/securestorage</privilege>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/alarm.get</privilege>
+        <privilege>http://tizen.org/privilege/alarm.set</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth</privilege>
+        <appdefined-privilege>http://com.samsung.tizen.smartthings-client/appdefined/smartthings-client</appdefined-privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.all" />
+    <build-info id="5612592">
+        <app-info exec="iot-service-home-cctv-flux.dll" id="com.samsung.tv.iot-service-home-cctv_FLUX" />
+    </build-info>
+</manifest>

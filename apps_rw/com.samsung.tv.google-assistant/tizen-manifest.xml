@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.google-assistant" version="1.4.01240">
+    <profile name="tv-samsung"/>
+    <service-application appid="com.samsung.tv.google-assistant" exec="google-assistant" multiple="false" nodisplay="true" on-boot="true" taskmanage="true" type="capp">
+        <label>Google Assistant</label>
+        <metadata key="http://tizen.org/metadata/multi-assistant/name" value="Google Assistant"/>
+        <metadata key="http://tizen.org/metadata/multi-assistant/language" value="en_US"/>
+        <metadata key="http://tizen.org/metadata/multi-assistant/wakeup_word" value="ok google"/>
+        <metadata key="http://tizen.org/metadata/multi-assistant/wakeup_word" value="hey google"/>
+        <metadata key="http://tizen.org/metadata/multi-assistant/wakeup_word" value="ko_KR:?????"/>
+        <metadata key="http://tizen.org/metadata/multi-assistant/wakeup_word" value="ko_KR:????"/>
+        <metadata key="http://tizen.org/metadata/multi-assistant/icon_path" value="shared/res/icon.png"/>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="off"/>
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="true"/>
+        <metadata key="http://tizen.org/metadata/allowedappid" value="org.tizen.multi-assistant-service"/>
+        <metadata key="http://tizen.org/metadata/allowedappid" value="org.tizen.voice-onboarding"/>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/filesystem.read</privilege>
+        <privilege>http://tizen.org/privilege/filesystem.write</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://developer.samsung.com/privilege/securestorage.partner</privilege>
+        <privilege>http://tizen.org/privilege/volume.set</privilege>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.admin</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/wifidirect</privilege>
+        <privilege>http://tizen.org/privilege/content.write</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+    </privileges>
+    <tv-info api-version="1.0.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+        <infolink>T-INFOLINK2020-1004</infolink>
+    </tv-info>
+    <build-info id="7126426">
+        <app-info exec="google-assistant" id="com.samsung.tv.google-assistant"/>
+    </build-info>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <ui-application appid="com.samsung.tv.google-fullscreen-app" exec="google-fullscreen-app" launch_mode="single" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>google-fullscreen-app</label>
+        <icon>google-fullscreen-app.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="off"/>
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="true"/>
+    </ui-application>
+</manifest>

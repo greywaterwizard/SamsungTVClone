@@ -1,0 +1,1599 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+<Reference URI="bin%2Falexa-client">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1kcW2XyWn/MGn0+LykbZwGA5ELM5/Sh6B+LtCmNVvyU=</DigestValue>
+</Reference>
+<Reference URI="bin%2Falexa-fullscreen-app">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MJ17J6yf0qhqobv8OwMGhKHV49ZMqyTjnxXOHHKQ+bY=</DigestValue>
+</Reference>
+<Reference URI="bin%2Falexa-jump-starter">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XVds05yUCXl7VM/7lS9bdgKFUzpdA9rbiuGQrO1NFkE=</DigestValue>
+</Reference>
+<Reference URI="bin%2Fxapp-ut-on-tv">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5v8twMYzsisN8osc8X047zRLGruBcm//atWvOlYPWMU=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibACL.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>APWek1W71hRCCGZsdQN/8eQoNB6+I7iZgmPgMzV+h0s=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibADSL.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZYjOBFRgMVqhGlcXkF842dD90uosOvEhxCb2KN8RwDc=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibAFML.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LAWe0n7Xs7W1IP8vMpcellvNRYUkfCIDHUx8MEpO0jY=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibAIP.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Pr4cIXZTU3YQYZFIdxEmNKrahv77ZbaIO633wc8JLYI=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibAMAZONLITE.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5MOPe/pFT8Qo/eKcyBhdbRQagnLRmUMG69Q0/3ItSDs=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibAPLClient.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fQEQZDYCwDHdYO3oz+Gz40h1xjHatKMrP8JLgAsdfnM=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibAVSCommon.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KUHzT3zeE0drWzKfEzfLOosjXqQH5X2TRidzRIBCYho=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibAVSDeviceDetection.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LAGmsJVyaQ9+qg9VSFN8AniO7QnmeM/FwRL8I4FQpP8=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibAVSGatewayManager.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/Enj5ctts8iv2EycXxj2NHS1Ih2WMTIu6mz8QLUy/C4=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibAVSSystem.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2XDZ05tj+V3jI1HHMQOapubG7o2zsqoEChEjvz7X3FI=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibAlexa.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eu+63H6q7x9YDsQtL2AtRFdmO3tI/3fo26lL2nz8V7A=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibAlexaPresentation.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cUo+1pf8kDr7j1wA1yMfpskbZAox5Mn5f5e3YlB/Bo8=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibApiGateway.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>85ti2simSqrenlgD7YZkZ9YTKexyWKuYjQ0zjlC4vPg=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibApplicationLifecycleManager.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lC77XngUDXqyE1HAcdmulp3WnnxCDa19S28iuGPP97I=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibAudioResources.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>N/tZNZ8Akqtl/rmahp1OuqNjNvJqnPUmirgqIj3Yy7Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibCBLAuthDelegate.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RLPzrtD/RbgLlMBgQjdKCCmlBbn9r65ymvza5n5432g=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibCapabilitiesDelegate.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FTLbnyB9O7mQcolSAMKWw5AeiF0L7pOI9yvJIdxIy5w=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibCaptions.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TOxnl7iz88YN9AmWLOr04J5Z4k4zkScj0hwS0LK/vm0=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibCaptionsComponent.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IZxr5VgczGMsbKEYis96ud6EFHPQ2lOYGfccfw5bYjM=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibCaptionsLib.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UcBo0d1eLUsUyb/14TWCKrClKFKrwR7T0rteWiPPxQY=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibCertifiedSender.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nsIjBotWSjyY7W73e28gc05qx7C4e09JY3WO0kAQqPo=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibCommunicationHandler.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L9wgGJXoQEbwMNztxJRVltYy5aAcJVMyYPbk6tC8rIo=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibContextManager.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wVihAxTeZjITyQlrGEP1h9N5wAlcfILA2eJNCYFMYV4=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibDALIMPL.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hfSQoGoe6xxF1igchPpZvjj4xryU/s+4Z6lQkOQPPh8=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibDCMSink.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>npzbRq598Io4dv9NIwmNBA2D5lfkEe1WJ9Xnu1Ejv/Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibDefaultClient.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2CGIRoyLN+Hwl6aEX7b/4siTugVQ2CSAnB2J8Ig6ctU=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibDeviceAbstractionLayer.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gT9IMDH3QgvbqkgkvfmVzITO1BXqMyK5zE+QEmTb9vE=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibDeviceSettings.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>o+5bXw/oAAHDMO3ojHpgroAQwPbfB4tQzzqW2uz7mQ4=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibDummySink.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wPHPE5nvmkoxQkO+1H0c1fb5jIEFsWDQgBWYgbHOeSA=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibEndpoints.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CeL5cfyz0BP+8AMoYpqyWDN3ikjt/uUSNbCph9ApzAU=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibFunctionalityPublisher.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gba+uuiul4RhQuetXGDNtIleiGg6fJmKCFk85xkRlC4=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibInterruptModel.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nKDVrQsUWIV+K59Jvk1iUdX3MGVfGnKe2G16cXBiAck=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibKWD.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rDDzgZ+ud5M18Bsl9HUMUE2unzCHwzpN6jpO7UiDGyw=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibKeywordDetectorProvider.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xRYe1m2gTNs4Be4jfhbVU0NQLdthPiyuNX1wFz89ihI=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibLibSampleApp.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0lJjvCNgqJDevKloQrKgqEjQHcoo+VGnq9Yix55j8ZI=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibLogger.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EjXYx0jQt9X8satMHDQW98AJpxzONXsfUgcrJFqgi9g=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibMain.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wFdKSvCODyFrVaF5foSbAU+Jzgx3dsURmfAE7v+a2SM=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibMainApplicationHandler.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YTpOVh1Sd4q9Sdfr9BGnc/40fN3539tFCIOWbUFoj7g=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibMediaPlayerCapabilityAgent.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NnF2t1WJZ1njoIwYExW7yTpmxG/hk0FOY473Cc9P8aE=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibMetricRecorder.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1MFxNCxjHz5JAf3RAA3BRiTnmnGblwGopqalOALlXOA=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibMetrics.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0bH38+lcANb2fBXQPYp2CoBMRYo+ztKfAa6kVbzD6Gs=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibMetricsDelegate.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SuItrk1dRpktrCP/qStx7BXWivkYOFSmgAQ1M/epHvI=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibMetricsExtension.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XjLl6Pt9l24AyZMBWcnjO171VsBZR1hzKmSFx07llAI=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibModeController.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oZPWRU5f3I0SKoiHRAUDLC5QZs1hLRgJsL0TADoOnnA=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibNetworking.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9L/FNdhJK7hCgdqDH/PvutSqAy5pz6+Y9RBBSdiSh2o=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibPlaybackController.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Af7Ce7K8wZOeEMkCIdHFKTdX6RpyJ4abdBVUyHcZU4o=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibPlaylistParser.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WKbc+hgZgEiNhDHmixvma4PPDzTfu6gpINAoySDcoHk=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibPowerController.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2ZVbLFVro9nyF/r991nE9vAjkCdrzmmKPUxSnybnGDs=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibRangeController.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VgdAp3oYeZ7dvgH/jSdcxD0GDCFPBSIUmp8m4be6hGk=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibRegistrationManager.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>137SSJdrCuuOq8czL04JOVaHVuxrJCaCz+0TKwp3ets=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSDKComponent.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oMKHtiiTZabIEtkVgYeCoBpYHer1Xfc07wMCo7c8730=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSDKWrapper.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0b2At12xmHO/PUYUSgy7sy/mzUjiRahLKUNO5XE8+O4=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSQLiteStorage.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S47gezBDWWzcS2UQ01r3skzQQAHQQhwgYIojVHPX6mo=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSSSDKCommon.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/Kl2lKIvPd6kmeMunEBGAHVt+AmDGnOqP9dxOHTaD2s=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSampleMetricSink.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qPGq1m+WMmI1fqD4BeSF2nhBwSlOwLvSEwlMFPe+MsA=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSettingsHandler.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6ly07XHaGD8ta9cYmDiwdxg6lEL2V9zxs90Eo7K2cGE=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSmartScreenClient.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QpnzkKNFSQB4Xf1cFFx0db7bB710u9uujQVg9esLsUM=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSmartScreenSampleAppLib.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>INxUmuMTzRNfFvzv4FxHz4nIk1BVvl5GBcbtUYSaSNI=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSmartScreenTemplateRunTime.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TA5vR5JiNC1XPe60T/qPkELJcE02BbAfMAEywWKaMzM=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSoftwareComponentReporter.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>js1KRetGMHlGYH1ozVlpzx6CW7gsdoY383TJqyGLTW4=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSpeakerManager.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9lxZM6UWA74IKCb38h2LQGvXb+K16eCf5l7HR3Yyy68=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSpeechEncoder.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>l19My6s6xpcnnuMLbA6UD8bt9dxUTkB51gKPo5BpgI4=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSpeechSynthesizer.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Q+G9wI12vzjaxUVvsUgaL44MT94Xz7Flfspcx5CoyyU=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSynchronizeStateSender.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3BZ+58pDkYzPULHAwFuvPVxlL8WFxHzy1q2OGT84dRk=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibSystemSoundPlayer.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HM+kVfhDwiIzfaYst2BuT2NyYyfwUPoU/eioWaSMa1k=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibTemplateRuntime.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/dRHMXm3nLr8CY61KbLLg5w4p89wFMpr2ggzi2ANSus=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibToggleController.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mpJIj7cb7VGqAjeEloDQAUNpw39+ijzaCYLAQXe26/U=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibUplCalculator.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ha+XuPNfrAURZ2nMU4QNZhpwevv2OixfphUacboHYWA=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibUtils.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CAw9d3fUIl3qfStXH7UhKHfV7sfo6mzgw8rY908lhqA=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibVisualCharacteristics.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FpiBs20YIYJQIwIQYNfn9Q6crklKLbf69OYRKZSugQA=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibWebInitManager.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>InBM29cU9YJK+lXqugLG+5mX4msQoPPCg3b6sSvbmXM=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibXFetchHandler.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SRessOncGd+QYu6iiyyofUFczWDuhQ7/Pq3O4nxVBSU=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkAlerts.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+L8VWKnFS/oEDuDaEwfNTLrJqGRj3XLdkPdopneRmAs=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkAudioPlayer.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7ICkthOnLVGXkAl+oby2RQWzOtL7MOXwRO93wHZ5/uk=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkBluetooth.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Dofgdka3n1OtiiMGjPPrWV7HhikOgg803hLHQVuSNK8=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkCBLAuthorizationDelegate.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dVOXqozaSWp25ZTX0Zw0eEdyTobeROGfzLESeN7SdBU=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkChannelController.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2yc/n8oIpEUzJZuf7xlshKzaHfxAiBPw2+KKa1jWYXs=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkCore.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5MJXJLRIGTa71smf7sqpw0kp4EsEum9jdD7vz+yOpmE=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkDefaultDeviceSettingsManager.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mZnJTOa1fD60c3p3MY76sFChuKB6v0VUSijfU8XLPLI=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkDefaultInternetConnectionMonitor.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0BNdTpXUDl+mCFDOHPju9uWLB8tWGbPTXD5oczcL5Zg=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkDefaultSampleApplicationOptions.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ns7AynhyAlNjwypfJdnlfv2BH3DnsOkYJv2HtCE1HdI=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkDeviceSetup.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S0+Uiq0YkZZKpy1Y5AZhtYXzNxh/el3wmoe6NyeIL+4=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkDoNotDisturb.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ttm90QJT0F9j0iT++bqWHZPpLzJsv4/IR1z8PxNQoYY=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkEqualizer.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>itOQu6N1WAO70ZnZBOFcAQ6sKBrolX6W8A5If/wBjBM=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkEqualizerImplementations.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sCblNiVJXIbTRt/Z8Nh3Ud0gz1oLSea07x+75og1l40=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkExternalMediaPlayer.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZoFSDj5IGWn5/YunSj6mA1vL0XyotMU8U4apLidbCpA=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkExternalMediaPlayerInterfaces.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iczrrMgTKQ6EuNqwfqjfmR9MjYFBQCFBnYTXON8RaDA=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkInteractionModel.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nD2pJCY8Yd1GaIlGveDjGc2HCs3NAUpzR7z68db493o=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkKeypadController.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4NEBMRpK6j4bsvaUXGkzLfgoCPQXrRvpP7v3h7S/FME=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkLauncher.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KFtDro4q1cB7ZBDIrSM/6++VdAZkGqyCChwPAZn3tcc=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkLibcurlAlexaCommunications.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JerBpb9nLXdG1rb3BwvJAx4vf9tTgA7gG7avdYF/8Tc=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkLibcurlHTTPContentFetcher.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+J6xFf0nU0CARU8qp8i7bvYe6Z8MqUy4nCaIjV0Uc14=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkManufactory.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>m9JFGKwMbdrXTSa9AlbZyTWBmw9NcM3cm2zLPcazj14=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkMultiRoomMusic.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ih0rzfKvshio2T904V1SuHchvGqkYUtzJBRE7nWSMMw=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkNotifications.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8SSi+eTHcLmWVn3pV/B4G/4/XC6OjkniN8U/qCdnbdk=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkNullBluetoothImplementation.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TFMmQNMOW4SJYRKlWfLHcsAE7M+ZI8Eyh6DzA7EX0Qw=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkNullMetricRecorder.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DqGDVyWeY0N/1ODZ4jF85gpbQJI7zAL+A4gEjBfg0a4=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkNullSpeechEncoder.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TGOQows4dMBpoFLC9nzxAyhzIYye1G8InAwTm5i40+U=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkNullSystemTimeZone.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jxsQuFsRUP/eKmYzIPHCbBNA/LSqvpZvVVoViIxz204=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkPlaybackController.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fSBsljsJVfciBKWeJxr2bbG3feLxGqMvdkxDSfhlkUg=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkPostConnectOperationProviderRegistrar.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lcllIfRSsktvhOr8NG0UIXuPS50DGYirT3MTIX4ZRTc=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkRecordController.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wF50khE5iKTaaF+IbhLR6kTYjApP6UmeP5+yrqdgo3U=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkRemoteVideoPlayer.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TZCwZlH0jc8PycQwLyteyny/tebrdItkG4wOUWHuCwI=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkSampleApplicationCBLAuthRequester.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CDW+6xdlRPUDjpXJ2YOOPN/XRklGOVzH3yl3ogyB93c=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkSeekController.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2RTGcLq6V4WfupxJimdoT2Um1a+FCM2lVgOLzm0dg1s=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkShared.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jo4RffqMPZExGwNCUYARXgHqH5O6vxNwD4B/MiMuiDU=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkShutdownManager.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/C5TEzHOgZcV9GfNufmMvXIbj/UNRHvjK8A30Ftj2QQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkStartupManager.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IPFwUToDPSRIQg1a17IZKBQh/CRRtj9UdhWeIx6Ps84=</DigestValue>
+</Reference>
+<Reference URI="lib%2FlibacsdkSystemClockMonitor.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>whvcem4GxxxZbbvQXEcB/fGoA3s9fTprEiGqrrEHQbc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibatomic.so.1">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zD4qeu9aDGIhn/MM2v6SPymG8wlKuDLbCzCpy2cJebY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibdcm.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GhnJVT3Twz2UUkE5oXC9BoD3cw6mZ/IquCkiTAhN0oQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibmva_proxy.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VyB6ueOTFTzXxLT5qKfDmTpz4jnHEKtZvdr8wbDozcE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibsamsungalexastate.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6oq1PiVgZPWTsxO6ddihI0LR2wxypbLOoY49CsqGRU4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibsamsungappcontrol.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jY3HO0ODt3u6x4Lv7CEfJ7MpNk3N8uPc/TOPrTYH2zs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibsamsungaudiofocus.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NS6rbwCPeWox5nWw12D2GxGvvmZsN1AQk/845b61OjI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibsamsungcommon.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/WuVa09PsVNxysQ9v5Ap+MUqSeumRvPiDV/pgvLPDuE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibsamsungdeviceinfo.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1cAB5b40uaaKeqxFFq117Mw1FynIya/ChfnNSpBpRCs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibsamsungmicrophone.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xx/CKKm7FGqA5vnMdMAErf6RauntWVFwXrNpyNaOrzg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibsamsungstorage.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DWLwUk0gg9w4dnpKXthGdC+ZVVVC6xCEF8It4KZ+8Ss=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibsamsungwebnativecommunication.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>m+rR3SsdX7i3vI5/xqmzsOTPqixjCj7BUulhxxNIyz8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibwebsockets.so.15">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kQV/Y5Zv8nUIQnZ358u/fIBZYLerL9RKwjcG3Gi8GH0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftemp.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</DigestValue>
+</Reference>
+<Reference URI="res%2FAlexaClientSDKConfig.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>O2cY0rk7TfJ6gcD/uaBI85Ssn3rrNzwvUgjL2JmKZw8=</DigestValue>
+</Reference>
+<Reference URI="res%2FAlexaConfig.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+qBjEKZRF6TJc4raOFpGFLRMKvB35Zskj5YemjIA/QA=</DigestValue>
+</Reference>
+<Reference URI="res%2FDownchannelConfig.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Bm6PrF8qQnmNzi0oKyiEaCZWYPDcMfYHNj9wnkYE3rY=</DigestValue>
+</Reference>
+<Reference URI="res%2FInputControllerConfig.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0q/cyL04UKNhPM+CWNo34b0rxW/u93U00lWUJEMZgzM=</DigestValue>
+</Reference>
+<Reference URI="res%2FSmartScreenConfig.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kmycwG66tziEkNA1pNUVJIMylHfgam3wgYI91Ry68zc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fde-AT.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LI5Nx6EeJD6I40gja/KNodSoHm1/vx4bh8DJBbniKkY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fde-DE.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YMSGu6VPPOykqDiRPlL1EKvxcAw4ImQZ/vZ+bO2es7M=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fen-AU.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1u2DYLatqYvfctOIEePXuu6tUPWZu8Q0lHR6AhRgJsQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fen-CA.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>++zVOLFPU4lIxhn/qkqyaMqZ3NN+Bsz2oZN5PlGqeOM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fen-GB.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>h3xTBuL98yKsu9as28hThoV8m5d0zSg7Fgfk0B+iQCc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fen-IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>M3Xbny23DyP4aZnB765DTHKwVIEVwVVBmQxbriM3jKM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fen-US.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RZXF8M7yON3VoSA3RJbNN4345jC4/nOXcZ6YvnKJ6iw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fes-ES.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HzCt45/8v8sF4RXnWWbP674NcE0yxLeRbIY2ZFNexoQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fes-MX.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dOBKS6TYpckYY7Ci3Iif0J/g3qT+8nyxm0yGQJHBJUI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fes-US.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bxOJfyXEtS/Bx0bLXzF/QCFd771eeEGrl6qjaSFmsS0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Ffr-CA.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ziDBCIkKqTqrVIk9Y8QqZ/3x748aKsgtleWe5bSUgjM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Ffr-FR.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mOaHXOIOASF2/8KUCw5/y3dxPvOVuQeV60TVL3AT6nE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fhi-IN.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UPtqixE7StyvqiOiBYm4SXpX8FL/aPGzvhtXfHi6NTM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fit-IT.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7/mSRJ/9Us8xOSJQFz4Tv5VAwO47LnRvciQHAzHl1fo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fja-JP.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Zht/o+6OasMhXjq+1gmf+MyZ77/4WhYlatZQcZxz9o8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcapabilities%2Fpt-BR.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>F5yWmReXJTrHPSHszquYFm44eAaP+ADXn50JI8lKZ+I=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcerts%2FjumpStarterCBLEncryptPublic.key">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7EC+vmZAiwKl9P3h69FSLPoMPCuG0uOUs139p87IDJU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fchannel%2Fchannelmap.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Z0JgEAgjjYv6nf55TQCoiJFg8ApyJ6jIkBiTkiKKvIc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcurl-ca-bundle.pem">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CN9A6PUo7Sg7DkgLpLzb/dL9z2laetoWaCQwctgPi28=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Faf_ZA%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dryTz7/Rx98r9DGERqoUZj/mEKh4gvQAM5qILTVCq5k=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Faf_ZA%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>F3uU2DS9N4gQJT8JfwiNGt8UJGdCHJSpzfm/5w68bfU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fam_ET%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A6SUE9YD0YyQ2mBNJ58xrahc3Pm7gxsJ1rUu+m/4coc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fam_ET%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qZq/C9lH6EkXb+QfUFAjzqihuef+jG0gtRryTMCBzUA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Far_AE%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mcIbUP7DVm9l6fcbPluBKvXV77D9nYCJKtd/czfmDps=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Far_AE%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UuyaIvGD53tMl95+Qp9b6RZP9h/Fj8/NLZPZvGhoqKc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fas_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A0qDdKpj6tz5IzA9prWIdWyA2F2rvp2bmj9DnWadqzU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fas_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QUU6sGqb6+wysn1a5V6juOEcroAZ1FL6/7QVSbGh8u8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Faz_AZ%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XF+g0jQNk9ji+p8qa2mgBvDfV3rrjLB39EG6rGYuxdA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Faz_AZ%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7aP3VWFtPKOGaLSjcrFGQsK5aXKqXRvGEetXwULxAOA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbg_BG%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kZ7jjiFA8LxU23Co79uWMhn/aAiUu+lULO3SsO+FV6U=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbg_BG%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Su5I6vXZyBX3yeBU8W7Q1fp+sCThY0xMTQfHuNMHo7I=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbh_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kgHXLdVhOLFw8Gq51QsVCpq/N2/bFhOOsK1m37Mr/eU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbh_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4JvoroanMagfmCpyKK3nSOGCbxJPyr7rcQB1SKRNOcw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbn_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Yx5FlVnjadK21AOw/aUuaE9UrTpDYLxjaVSbX1Mql5M=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbn_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lXBlEpj1I4a/F//0SGhqhiQ0MgO7R+NlRcvg8JW/IfY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbs_BA%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+ZdsqvKJ6yToa5dhh72aVd6M0+Wpq+04HC+IHhOv3jQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fbs_BA%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lHawzGLFNsIYwFrJ9nNROEIrCTXVnNtDdzLyxlhRgXA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fckb_IQ%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>K3jcR8ujyZ0Ex857XMdk8IZksUAffi7KERUAhzJCOwU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fckb_IQ%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8LBUVUYLyrMzdZ2RVuPZfx+aGbqjf3TTaRLGrVBAOs0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fcs_CZ%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Kp3CsYUqC50/y2k1GyRPLsWvCL70TTkeMJzuxrCG4EI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fcs_CZ%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dt6ngBJATkkD64szi3MkdiJKEZLxEytLMx6+3MYJa30=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fda_DK%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6mHy9Ib9JK4mYICT75avbK7vvrpviKMwHesHLow3Mh4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fda_DK%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FMzTFwMfI8g126UGRZEKHp0S9B2geh6cnbQ3AH/Lmok=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fde_DE%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Gn6mUbC+WKuCs0CBw55S9ayk8cvP1S9UR+0q9UcWg7Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fde_DE%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OmV3lQ8CnaG8cXaP+tgxrkHSgdXMbxFPj/yMiAI+h9U=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fel_GR%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>P7WdMA66Ln8szYAHUWtbMuIGXSvagUdC1YKx6dBtbM4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fel_GR%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/zQmGqoe8b014TQ7D3AlkFYipAIDp/19aWihzIPmajM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_AU%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kRS3P4dl44GFKX1h6xxvBVwCqWuX9Vlw33zqoyg7jqI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_AU%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>loiV96vvvt0mrZ5fNr6NFC3xKmhvc2yhXqC8aitjRoo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_GB%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oTR3/hgIvz/QzrU2w+fRDiEU0MNU+s52pFQCaymwTMs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_GB%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>loiV96vvvt0mrZ5fNr6NFC3xKmhvc2yhXqC8aitjRoo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_US%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kRS3P4dl44GFKX1h6xxvBVwCqWuX9Vlw33zqoyg7jqI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fen_US%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>loiV96vvvt0mrZ5fNr6NFC3xKmhvc2yhXqC8aitjRoo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fes_ES%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JCOb1P5WIWPGgNBoZpaD3Jg3tPuPRkQWGLQvjlsJOFE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fes_ES%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GCqJb5BrJBNMxf8ecgyFPKu9QBlZOpyYHFH9gqainNw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fes_MX%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PlpNdYkPyWPaUWX66C5/zrz8UbBn43Ctvsam1IBHI7M=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fes_MX%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ncD79XQ+bSl06EJVdW+vXm+popJA4SowmKL/EMUoPzA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fet_EE%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6CqpQqiFQF87OVr9+u+ZSyBB0mTQSzzB2xyXirN2t7k=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fet_EE%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oFES/jNh7BS9Qq/uNL6IGUmaB+NE5OVSOKMkYxL1H0w=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffa_IR%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Gtn6pH7syugblXfECP7akbTgzqjPWQuw1Vx2h7tqroU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffa_IR%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NrgQ24gxcxbEhTZahS/sQodHT3lrz/Wr75Z5JIixPxU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffi_FI%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>injSeNlgON2jYcIb2BwE03rJrItujuXPcjaC+RCWM6E=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffi_FI%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zqNWW3KzTzQTDH0RvDtqAIjt32FPWeEvsWBUXXF3iy0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffr_CA%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XSipl2Vvb8D04clO4zWEysFOknNCFAadbC6w4/ntenk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffr_CA%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oEmyKwBheSepunB84fQL3E0vOROKUX0TV0TGm3CvDWg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffr_FR%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>82EUbkt56pmFQg6Ldw6lvdNGN5SDxET7SEoOL3hoX5Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ffr_FR%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dIZKDbo79bbKp8VKQ0kj26DttDEwqZoBNA2aO/mUPEc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fgu_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hnvP1umZ27e0Km1tzRLcAZi2P3fTzQczzafzAwcFgXk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fgu_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KO3AfOYTkU4nm8lXwKtstg3UfMOdyJkFvWPrFnUnjBE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fha_NG%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MfwDTZHhZ38dA0cq9xCsJwvsFHQHd66jvhNYkFJJ2Jo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fha_NG%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u62fiLPutPwoKd9/BzJvmPjA4hePvbSukrLTRVsI40M=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhe_IL%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2SA/nBIKQlKaT9xRhfYiKYwjscryyltVgS46Ig8YxI8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhe_IL%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hJtEoLlHQpUOuqHbWqgPB04xUHqvWw+oco+j3giGrIw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhi_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v+kOCi0NP9p6Ue/Xuh5yjwRZTzkqqvGG8/e8ZW1Pgt8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhi_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vyqo/lANRxJq7rZp/U0LWS0XemS5lE8Mz9rA8y+jL5o=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhr_HR%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CtHwI2o/exJp5smDgSCJ87DxOINmNZnDOILMUDjq/Mc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhr_HR%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>O9SPjwM6NDlmLI40s7SODqeM7LwX8ik7LhkaF/yOqa4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhu_HU%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HEqjVHcTxP/3g7G0QnmsWKvZHfdzPkWcc8rnLxw/IZY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhu_HU%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eucsN5fqu4tseJFw8AfFg8EIo71wGQpyQSuGQxnyrqI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhy_AM%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Gao+5rW+rWgr5c2lpseOpyp7+QlCx9xDL3SQjSFENwQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fhy_AM%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5nam1JKReNdEcxsct7hgA15ItsLFM9WOD7LystqitXM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fid_ID%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XpsOakQ6bjOtRn1Wuw4X88ch2Cs9+QgUFWeJMZgL2tk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fid_ID%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hXuZvdgT457iu4ntpDbNojtyS533hKuxuCZRfM6G5zU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fig_NG%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8+G32C6e7qZbqkKuz3InPEzDjzLHahItA5k+/MFogbs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fig_NG%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>d75ABK0+Z8cH57Hv9Yfufxqq+7XaY061/0cL3ntFpGE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fit_IT%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>V7kkwseJefKP84o0WXwL6LukT7WHjSYkvQw31gCGEmk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fit_IT%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wfsQVBjvhAXUY+dmj50UcX3JT3YhRUNQLHarSWSS9cI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fja_JP%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8Wh7I9pDcolBTo4p2ZMWsausV2pu3TbuDAhet3p7c8w=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fja_JP%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GuEfT74Y0KA63hz95KSi489XBHBxQt1f4rD3FlFQtEc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fka_GE%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>z3o+goaif+lV5VJcJpoEuRNKQXpRl6p1nOXcDAflOCo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fka_GE%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eRcFRxTAqbatFeFdUw8yv+UDHisP8APIAZJcjoIJUjE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkk_KZ%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Vc7NL55FbkZodvoTKvi6nPDxEcMXK7aAGcbeZlpK0Rg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkk_KZ%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>x6sH88JXxs0uhwevcEVXtzhXCUsecKqDgDIskZUZNkI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkm_KH%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qsxLTdvfjmyVE5bKiVNrRlX6M24P4rttkV52w4bjp/I=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkm_KH%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TVoJ99e9c3rK6zaQAcv8PXO32nAVeuA8KvIHoXqAZPk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkn_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>E9AIAefi/rUUG+64sGoR2xEplDT+t4jwNgLHO/d2NmM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkn_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zPVWszr6gjISoxDMZvq7SdMuypMW5gUrFU+sXoF9WTs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fko_KR%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WxfoOPqQkxHyC9XsQ3GX7PKLA0VJ5eCJH4TTx+IBQiw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fko_KR%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hdK8yDlqAHRvfmaxApTtUbNbFdmDXY2co4OaiZOOjb0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkok_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IsCidDXnrbISyC/AVHCqak2pxy/qZBK8E5LUDJQQaGo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fkok_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0z0bxvjJu79bDHb55R3bfCmbpQxpFVG4gk2E0SXWSYg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fks_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>loCxvhiLN5vP5c3hvbAFRjIRHQkPZW4X/M5bzuGUY9U=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fks_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Rw2SPkPsdqYyiak4ATk1CClXtEJHSfh+iepy4WJCgwg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fku_TR%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cIHOx86u7H7jWQiLCWnd26eH0gnYS4I8ByH6VZSpxAA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fku_TR%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mySUjHk75jCYyWrl8Z2RK5Fg2bO9G/e4RNszWvHZtPw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Flt_LT%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NJMlkWmYzvTJQciVxToGbD5wM52rgZkMpailWMnAUSQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Flt_LT%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CPu/zHTXoYbcDQ68XptHX+7Mn9dm6zr2nfrTYx59Wu8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Flv_LV%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jt3WOw10WfqFmwYH9xw3FroAyMW3UJI8pTn35s9O3Do=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Flv_LV%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4YbvnFNVM7pDJXdgpgBHS9N1doGAycDR0pqKGKFeXIs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmai_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mgwr4Rfd7sbTotMfRJXc0CM+ymOcztr2k2tbxywHl6E=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmai_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wch1sqG4ySn1WUrs9PuDmCDCgs/syVfQO895S+TEdHg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmi_NZ%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XL9+WWYZ0oJAx1fydFBiAC95PPraJE/tzjlxXv719Z4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmi_NZ%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5trIfu9shHKamgST4mmekiFO2LSIDvKY5KJHbQoBAfA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmk_MK%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6PnZ2EkTsLqGrahVhLUjLhTUSXv8IPNtbgh9P6zBtII=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmk_MK%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7xY0eOlCqMF+gUFsgT9Ch+bUfyM4pO/BoqjhYU/M+Ec=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fml_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xiN8he/SadK8XfleOrHVp7n2JBJKQHv5HsSBQ+TNVWU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fml_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rpj7i3Pr21LEtDZ0ZA+2LXI6kz70XIRtTq03rM2FzQc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmn_MN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0NQIEIQyjYqIneo00GybPwrMLP8lGGrCQbD5YaQnPlE=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmn_MN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mpRGSx2WOAdU5EBWFAlc8J+z3eU9Gja6lsDh2DYPrbo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmni_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wVvEseo6T7qAsVhS+fZduEnMRjscO9nmIU6xWBciZHQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmni_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Xp2XZJTSKe2veA8ammjDM/KbQFyj9sJ1Jolj3369coc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmr_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iUVK6BSmWNkUh4CworiEvYG8BvaE3zHHfNrkT365RVs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmr_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GP8IdFKLzz5qXvEHHTgulnWKpk+4uqjq0fNeN8OcAr8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fms_MY%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KPlB0HtwossAe9gw6EZ+PyeyzXw8q25UXXHkhHNB+G8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fms_MY%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ODW5vOf4jOD+mY6gq14CdSn42htZaT70dtcNOxF0Zvo=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmy_MM%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PcD6m+uKvZLH49dP72LUB4Nc5eBGA/XeTARUKGpdtRw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fmy_MM%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Kx7oyY/g52JzTnKbd/SfFOI04x8DV6i+UOP9xU1+vzs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fne_NP%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qEy7PxYtdqnf5c/CmX3SmBP6Msos3uISm9V+nzHSves=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fne_NP%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>40zzplLb0XUu6kk3KK06+Y6Iy2dWbkniNVggm9yo+Io=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fnl_NL%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nSu2BaZPM6fol7iUHrF1m5GwO2rWEYB7eDHRnuZKL2Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fnl_NL%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PRG8PyRKMH8L/Gn54AUz6h/Jy5ow9nALRf2VdBa1l5g=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fnn_NO%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8mGtcGVfLbQDWNE1YuEB63XWGk1vd4AJzczzWB/28cc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fnn_NO%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DmFSqiD2CATwhuFIRW7Hens090D9IyOL/io6VjAvXys=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2For_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VWRPSKnayKrIBR/lLxN1QYeOTFOnFOkoo0E4ullJj9s=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2For_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dDokJKU0dyCcrMbNYFS34c6C/shEsi1ydCXkbquFs3o=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpa_PK%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BnLBFvg24HvBWPq5V7oCqzphUUKuoEv5+0SfrM1Halw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpa_PK%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fhK4nnawCCQbOvkOSa0lUmC3UqiV8pXgeVwb3Ra5XNk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpl_PL%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/3dfxdgCksrASuZDhj2Qh+nSAz0OdDk8nLAmySth7u0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpl_PL%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lCT4p56OhIsTDcDdP2MPiJkbvFUbLxrGNpWBXoWwZaQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpt_BR%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/qnrf0aGcx1U8AAhQGlSMPKOGzvtuzQlqDzU7ieca0Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpt_BR%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eCVNfooyilZG9obKRkrlNQzTCgF3VcWWTXs4lJ2ubCw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpt_PT%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S2KIhC/lPuAsHKUDhQSOMIIJk/l5bjLFQyATGc5vs+E=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fpt_PT%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GAjp9o691njD/3Xxb1mDGkVgOMdX8TFP/4F2ogOd+sM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fro_RO%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ja5vyg9KBqZ/ed0wGl3aIXIFkwCQV9lbnraJGXt4z7M=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fro_RO%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NaYzaEu4APN7jnJ5CGFLBqMvAjInMYjbiRj2tfs7AEA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fru_RU%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NrIPQpdpKzSyLK3pKwPi5m/TmQCOnLMgis3IfnPUaK0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fru_RU%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rIRBaO2YnZoypIXIG6qk/kSIUHs4WJcENGWGaITY3Gs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsa_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0NxMPc8GiijAzTNj7htEHerZHGLTp6as8deDAPy7cls=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsa_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4xhg/NAsSzPgRla0miWXZ/MnxkJUuKv+gHUaLzmiZOY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsat_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oI5DwNJkgL+IlMA1Xik5OeqjIyUQn/DkVx2vWkvuDY8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsat_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>20AkGsoVtuBU0e7+8dM9+OQ33TwECHMyg1ntldcWsNU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsd_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8oS8h/c/AYWJAo3BCmgCuzysx2Imq1dFJrDk4xfoQTY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsd_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UOWXEhe0/ykE0lxNf+kcTffItDYXDa2p7d9KDElbjak=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsk_SK%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/x+ItQYMp3j6fByJHPZhbvmiBPBrlw6xUvJzv8PC9DA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsk_SK%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g45AwnkcJ4nmp9unN69XLNIAw+IjccERytjlZfrm+RM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsl_SI%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wIUcEZsbgZCyv2qnFvqoafUWNmK3MCfMR+O8EigfPeI=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsl_SI%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dN48uN9Ebdh+BBwlwAH0nvMv5GWyV885GoZWaH68rIs=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsq_AL%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hxFtTQrdhf71VWEJwSZh1jFNVTzFWxs9ow0yIslMfJA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsq_AL%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Fkk0vm1Fv1GTjgaz4cEReyRGaeAGbkg2Ezj5ijr5iUA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsr_RS%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CxOxCVpWfkDCUAVyBy8KJjjIzJLdhYomvR5hYczhq10=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsr_RS%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>O9SPjwM6NDlmLI40s7SODqeM7LwX8ik7LhkaF/yOqa4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsv_SE%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CmP7hfV4eRHZHMPnC1iHQ1c4S+uJZs6tA8Sn8Wd1Mb0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsv_SE%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hW0w34PIm2MbCVyNtxK0AqoEI/5vY+SAgTEJm+JCgH4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsw_KE%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wHKzc5/tolG7lvSTbqQufl/Vtm7gsDyaszmbJipjAbc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fsw_KE%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XUVr7TJ0xjHxUC7/FrxMuB/FX9ChKcETSot+005xJbA=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fta_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DI+7wX5ELTUAsmfmGoNIAcudWntHOGBLkJ5P6IY0DX4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fta_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OGAi/QHNVxVaB3VF7FcrMLJSUV6NSLafuP6LANJsl2o=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fte_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g98NcMD2SEIRYnsexIXlZe7EPdxgm3wsMyMxDt8JONc=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fte_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bYJszZSvoSH/KaasaYwBY5TnOSbMfQKAOnbefv7tK3w=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fth_TH%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8etB8f2A/EmW9ry455wc/eFs4fsV/VNv44j2RXKiihk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fth_TH%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>likW0v+luLbGLfMSNkjlu/1Zi/VjYUH5dgnpG8rAImY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftl_PH%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>56KgjPmLFJ3aWh7Uw2GGGV5OHrVPKqg4t7EeUVo8S1g=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftl_PH%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>P3jW5oazjBcW6l1w1A7kbQlcPbC2xzUFgiiwdQbpLK0=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftr_TR%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cAo993YX42wJeoSLTaEe8npu3LJCpn+C50XOo9lMcgM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftr_TR%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zXxI08l+RZDs4uNZFUdLqdlSy3n6Mnyl2k3bsgpKRLU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftu_IN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wVh4TcwIinzRbb6LUoqth14590bVFc9m6lFqPLQ+7Hg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Ftu_IN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PvqmxpPjRzKBFVV+AKUQQqI0Z+8dyz+JY0B2s9evhpY=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fuk_UA%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jjI64zOFtlH8jJVyTNZMqM1X4kkddYo0pL1i83IqCls=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fuk_UA%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SVQEFQVbfoj2gp1bl7h5QPrRyeZ+DYROOUAYVTrBo4Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fur_PK%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gPZMXPceREB2kcRpGCFl0WyJAUgJd+XF4udCp1ldtug=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fur_PK%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KjnXK1batS3jH3XcAoHJ50HkrnecOVEp/soMRy33mu8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fuz_UZ%40cyrillic%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uKpah94HSZrYeNP/CQRaY9Dvz7baUFGqKTk3kJOFXP8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fuz_UZ%40cyrillic%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BghdClm6RlvpZBniLqbiyxZz0pUaL92isqEg1/M6XpU=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fvi_VN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wYVBvEz3aLjuqhYvOEKrtkFRJTquA3nmuGU0yyk0hUg=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fvi_VN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dFQORtackLsTYQTbsK0rN4Mu9sLSUonb7QfQqNr3Iq4=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fxh_ZA%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>U4WECc4WF3v6FfLwb2Opoyxt5DIsP92veTGYskcB8hk=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fxh_ZA%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SIj1B6Ma2L0mE+YNSvBuleyyMHrleroqWp7moGIGIIM=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fyo_NG%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tHOZYraYykJrZjDh+GW93Np8Fs7LgAX1It2leusar30=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fyo_NG%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UeeChCpjtWe/ivm88z5j5Gyxu8J3g3dNWya1ezpcNpw=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_CN%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6exadxRqKWHt+tKnCyka4ZlK4pHEp9Fj7UzKpNumF9U=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_CN%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v1EB2TeLJamA4UgAzevETEvCmLjsPiV/Xh+syAmZIqQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_HK%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DSGUvlobqEA8RUa6nDC/yHdIru9D+prqESg/qvM4NVQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_HK%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OMFtac1uyoWKf1d9s8ClF3rSokT/dpvQFNYz0sEgo/A=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_TW%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lN7Zed9MwTJc4JM4x10lWt6fY880Bf9EIp5dheSq7T8=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzh_TW%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OMFtac1uyoWKf1d9s8ClF3rSokT/dpvQFNYz0sEgo/A=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzu_ZA%2FLC_MESSAGES%2Falexa-client.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4x//6KAxrWrT4k0o+K9HY48byAuMQvg3jB8VG12I01g=</DigestValue>
+</Reference>
+<Reference URI="res%2Flocale%2Fzu_ZA%2FLC_MESSAGES%2Falexa-fullscreen-app.mo">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3HsfYzk16jKOGzNf3zE0SKeyXzGPtjcgVGKKWqsQKDY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpo%2Falexa-client_list.csv">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iq6cQ4E0gYpn8xQKxVFvhMZRw0CwxQ+WVzV2QcMERbk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpo%2Falexa-fullscreen-app_list.csv">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VDLvYMTGG519SXQzBRwBPvw0Z5IV3ZhqicrFgLu/tU8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>feKyl+RkL5IiJYo+MRoUtoI6SsdXMocBSmvpewTDGkk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pViP9HkTIfYvxGxrpN7B9e8XmEfldDcd1c7n1FGyQec=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fde-DE%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MuH+KN7Y0clqf0rn0kYpZoacQb6PPYI9UYchBYiQP4E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fde-DE%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iyBhoTpZTA8XaKdsW/lIc5Fb4WhsENt7sxIHMY9tZzY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fen-AU%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5KgwPZxVzOiyIXZqIzOCCjMesDf0qrNGW9udC6xpGdg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fen-AU%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tlD1FDmRsqUE69cEiRDJSdYJwXHRhFeBA+uyqasPO/Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fen-CA%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cpH/9DPZ4DMwx+pM2taNG8nbyOw825CDHoVuHkHGJmM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fen-CA%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>y/ZztBhFfuoB6QogP4iQlzMlsOSXRnxjqBpoaXced9E=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fen-GB%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>w6f5mFqVa4P7ZrN8OIGa34dCkcAiwuj/IqwYbDeQXE8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fen-GB%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>n7WBKrdjlr16saCNrE+sb2HTVfFYWlbYj5g2oGqa01Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fen-IN%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+S1WNLaUcTvrQfXIa2UdLxqLD+HxKC82ZMz3IpwssQ0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fen-IN%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YoASAF17HkbvV2UjXTkZ4WyBWUV6pxIu3HA0SA5F0VM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fen-US%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5/TOd9e3/J9mtJA4aAKY7hRrCi3oX/T0H9cKm3WA6tQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fen-US%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tj0zErcIQ86OvoRQTXIEX6nqAugHg8TGg933B9qjNAk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fes-ES%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>j/CTaBqiy4RAy0qgLvj8kmXMz+soreV9wzOjUwq0IYE=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fes-ES%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uA8yYhBJMVsd92MQ15Lhv6DZdzSUJob9rdwUukLaDoc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fes-MX%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RwDDnUU4qkNibzSEzbxcu3hhNXJs4FCqugYy30KgwqM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fes-MX%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ReJ43TP0iu92tk2wSsa2RSXlDSD+xGPlypxYzhwcGlo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fes-US%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D3fKqsyePvqaRn0+97TcCt7ndQos4vxAxLPJ3sp13DU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fes-US%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MQCM0LjJU7QbKKRw5duffUwzzfjUiFANMgiT671JQ1U=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Ffr-CA%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>d6dZCRhiVjKCI3G5CSS9LGN49bFHmoATI/BK5tdBsLU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Ffr-CA%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6qkBJ5zGswpo9HEFqbHZFvC76Wd1m7ayJeeA4iN3N5s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Ffr-FR%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zaGmFgbSdTyGiukzCEB3wkSX8fYfCvoNcbwDU7XAsHA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Ffr-FR%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Iz40SGibstGDL91hDkM18FYcOUnf4jlERMdId5K7LK8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fhi-IN%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pgadBnQefpT9q23sxtvcJiLTWdR5Ga0JCCAdIEGCxL8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fhi-IN%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eT0zRNPJHwYpuSqVuqgUg2QSAF0ufeW03mrnWBU2vLQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fit-IT%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YrthxlnyNCfw13+ONUIksd45APqwLY0BSLDwtxFW++w=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fit-IT%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/RpOElU+HX4xLNIK97xKGO2pz0tl5YIyp2iWbtvJANA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fpt-BR%2FAlexaPromotionActivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0gV1Mgu1GD5anjAVEcglrcCEMHXCvZji0hSniGtCPKU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fpreview%2Fpt-BR%2FAlexaPromotionDeactivated.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8VTDAkMN9RWMwq0BigZGMsrsbgbs++ANASo5UQwyOJ8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fss%2FAlexaClient_ss.sign">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0KkY5dPUgJzEaPfQTJDRqA0f+CdItnX4UF9vitj8dio=</DigestValue>
+</Reference>
+<Reference URI="res%2Fss%2FTizen_DNA_ss.crt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A5K3Nsdh0U8WLSs7LB3BrCOm3XVUrEgtWJVffKYbMAk=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Falexa_icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>F1iUjnHt1EdE0kymJAMzib9NOsi8c9rKznGn9EmqknE=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Falexa_logo_blue.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8EW/dzM7eBTbRV4DiM0H01alflFj0qPIR0bY1cSJu0M=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fconsole%2Fcss%2Fstyle.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vTM9zY6vfMZ+Q5/nwrMSQAIuarlTFFhjrpAMki3tR1Q=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fconsole%2Fendpoint.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CLr8rTp4+TGcmh4ND58+cN4bRPCXWUX1KmcZe3zu148=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fconsole%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xssuKJ8CJgWq7Db7eYpT3n1G/pLLeoqS0Mn+4x2ajoI=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fconsole%2Fjs%2Fmain.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Mrve31wBzprqYqrXBZLilrd4QdLvlZ5m/z3IwjgxB7s=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fconsole%2Fjs%2Fsettings.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LHwElHtNVYJByWPDlrGVYSeeqk16wVRe5GTZoMWmu6U=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fconsole%2Fnodejs%2Fws.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Cm6Ue7U9T/KiVQgGch5qMYD8Tqmrp92laG8jyZC/hak=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fecode_tag.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eK3ZPxTjmBjOvs2P3kbWNZHZgN2Kvtddn0dPQa5g3XQ=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Ferror%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p2C5c8miq6tVgeeNByzwP/e4gc6ej+WrmGIy5TPZ4fY=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Ferror%2Fstatic%2Fcss%2Fmain.90224457.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hPnx3bptSgWiyJVCpMsMSGg7U3p0YJ5z9YV6LkeHL2s=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Ferror%2Fstatic%2Fjs%2Fmain.4fa3f013.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>15vacKtQCP78KUfHyiPG+sQpuOsF2ksUC7uUN/ToBTY=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Ferror%2Fstatic%2Fjs%2Fmain.4fa3f013.js.LICENSE.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>T55XZzWY5uMC4agR8uCChg4IOgGFDBJtUAdFes2p2Mo=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Ferror%2Fstatic%2Fmedia%2FAmazonEmber_Bold.b0d9d85d4578e7ab26d9.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UyIbsVzA2rh4bA8Z9O8c9kuIR6BuDjfKk/EfPrldzZk=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Ferror%2Fstatic%2Fmedia%2FAmazonEmber_Regular.199768837c50dc532546.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jQAXYpB9dDdn8a9cM5j9l9G+eu08t8gZpQAVbElSRIQ=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fexplore%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zzPsqUWJkkIGAD7KtnxeGZkOwwIP9jCjDsCLIEtZySo=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fexplore%2Findex.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bJ7A1Rz/c9pGnSk9IT4E6bTUWl2uzhUAJUIlH9/Sdzc=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Ffullcard%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1MwtQsAx9BPMaIrdgb4a8x1VvhI8VZSmDMIC1zizTzI=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Ffullcard%2Findex.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bJ7A1Rz/c9pGnSk9IT4E6bTUWl2uzhUAJUIlH9/Sdzc=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fpartial%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nd3ee3emCIl4QjgV5o5UPSzgj1YbE76HZ6dh3hgktE0=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fpartial%2Findex.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tP/3xxsr3hbCxBkp3Q8t635/FXlNGQ+GjHzZ8C1q3Hs=</DigestValue>
+</Reference>
+<Reference URI="tizen-manifest.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>saTaLCmscA63A++P8e6CF3/e7QFWN/7+MXQh9swY7ns=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpo8tUDs054eLlBQXiDPVDVKfw30ZZdtkRs1jd7H5K8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+WRqQ2yBchaYYPgdh89PClgBHzIBEy7uxbm+EBSg7wuPbiOyHvuozyUdUHpJT6LLRM23S7qKpF/vp
++xueKwQrqyBQ/imN6pIrXlpYrZtP7f2QkhF3lttjePA/o63YeWu78HDLeTInDzqNDWZy6bnPCwnY
+ARCAIRnjHq4vXpporJlZErt+rj+FCnbmPgdLTWaWHG3kKN1LeZRPSlDWkWHncWcvJSRSf2uBzWbt
+hmBAruTVNZ8XvSqjduM8hn63vHcJl1Jgx8nxfwjNLK0ORk4H9gXez/mCCaP1tLiJThdCoYgXnUE4
+ZTZQxeY1gc4SRp7/Xz/zUxVawQqwPpZDWAtRIQ==
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+<X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>

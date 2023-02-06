@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="org.tizen.tts-engine-vd-DVB" version="1.2.34">
+    <description>Text to speech convertion app</description>
+    <profile name="tv-samsung"/>
+    <service-application appid="org.tizen.tts-engine-vd-DVB" exec="tts-engine-vd" type="capp" multiple="false" taskmanage="false" nodisplay="true">        
+        <label>org.tizen.tts-engine-vd</label>
+        <metadata key="http://tizen.org/metadata/tts-engine/name" value="VD engine"/>
+        <metadata key="http://tizen.org/metadata/tts-engine/uuid" value="org.tizen.tts-engine-vd-DVB"/> 
+        <metadata key="http://tizen.org/metadata/tts-engine/language" value="ko_KR:female,en_US:female,en_GB:female,fr_FR:female,de_DE:female,es_ES:female,it_IT:female,nl_NL:female,pl_PL:female,ru_RU:female,da_DK:female,fi_FI:female,nn_NO:female,nb_NO:female,pt_PT:female,sv_SE:female"/>
+        <metadata key="http://tizen.org/metadata/tts-engine/credential-required" value="false"/>
+        <metadata key="http://tizen.org/metadata/tts-engine/text-size" value="2000"/>
+        <metadata key="http://tizen.org/metadata/tts-engine/pitch-support" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="org.tizen.tts-engine-vd-DVB" />
+    </service-application>
+    <service-application appid="org.tizen.tts-engine-vd-DVB-sr" exec="tts-engine-vd-sr" type="capp" multiple="false" taskmanage="false" nodisplay="true">        
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="org.tizen.tts-engine-vd-DVB-sr" />
+    </service-application>
+    <service-application appid="org.tizen.tts-engine-vd-DVB-noti" exec="tts-engine-vd-noti" type="capp" multiple="false" taskmanage="false" nodisplay="true">        
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="org.tizen.tts-engine-vd-DVB-noti" />
+    </service-application>
+    <service-application appid="org.tizen.tts-engine-vd-DVB-interrupt" exec="tts-engine-vd-interrupt" type="capp" multiple="false" taskmanage="false" nodisplay="true">        
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="org.tizen.tts-engine-vd-DVB-interrupt" />
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/network.profile</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/mediacontroller.server</privilege>
+        <privilege>http://tizen.org/privilege/volume.set</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="1.0.0">
+        <infolink>T-INFOLINK2020-1000</infolink>
+    </tv-info>	
+</manifest>

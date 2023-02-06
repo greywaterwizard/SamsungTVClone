@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.action-planner-service" version="21.22.02070">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv-samsung" />
+    <service-application appid="com.samsung.tv.action-planner-service" auto-restart="true" exec="action-planner-service" multiple="false" nodisplay="true" on-boot="true" taskmanage="true" type="capp">
+        <label>Action Planner Service Application</label>
+        <icon>icon.png</icon>
+        <background-category value="background-network" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+        <privilege>http://tizen.org/privilege/filesystem.read</privilege>
+        <privilege>http://tizen.org/privilege/inputgenerator</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+    </privileges>
+    <tv-info api-version="1.0.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <build-info id="7174504">
+        <app-info exec="action-planner-service" id="com.samsung.tv.action-planner-service" />
+    </build-info>
+</manifest>

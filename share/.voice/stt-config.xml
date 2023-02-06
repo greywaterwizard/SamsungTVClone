@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<stt-config>
+        <engine>org.tizen.stt-client</engine>
+        <engine-setting/>
+        <auto>on</auto>
+        <language>en_GB</language>
+        <silence-detection>off</silence-detection>
+        <credential>false</credential>
+</stt-config>

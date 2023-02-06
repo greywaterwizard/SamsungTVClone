@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.airplay-app" version="2.2.5">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv"/>
+    <ui-application appid="com.samsung.tv.airplay-app" exec="airplay-app" launch_mode="single" multiple="false" nodisplay="true" taskmanage="true" type="capp">
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://developer.samsung.com/tizen/metadata/noautoraise"/>
+        <metadata key="multiview_support" value="true"/>
+        <metadata key="multiview_priority" value="0"/>
+        <metadata key="http://samsung.com/tv/metadata/application/state.by.rotation" value="terminate"/>
+        <metadata key="http://samsung.com/tv/metadata/application/launch.on.mismatched.orientation" value="rotate_screen_and_launch"/>
+        <icon>airplay-app.png</icon>
+        <label>airplay-app</label>
+    </ui-application>
+    <tv-info api-version="1.0.0">
+        <infolink>T-INFOLINK2021-1002</infolink>
+    </tv-info>
+    <build-info id="5312802">
+        <app-info exec="airplay-app" id="com.samsung.tv.airplay-app"/>
+        <app-info exec="airplay-service" id="com.samsung.tv.airplay-service"/>
+    </build-info>
+    <service-application appid="com.samsung.tv.airplay-service" exec="airplay-service" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="com.samsung.tv.airplay-service"/>
+        <icon>airplay-service.png</icon>
+        <label>airplay-service</label>
+    </service-application>
+</manifest>

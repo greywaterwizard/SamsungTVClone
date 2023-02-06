@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" install-location="internal-only" package="com.samsung.tv.billing-helper" version="021.04.14121">
+    <description>Billing Service Application</description>
+    <profile name="mobile"/>
+    <service-application appid="com.samsung.tv.billing-helper" auto-restart="false" exec="billing-helper" multiple="false" nodisplay="true" on-boot="false" taskmanage="false" type="capp">
+        <label>BillingHelper</label>
+        <icon>billing-helper.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="5.5.0">
+      <infolink>T-INFOLINK2019-1000</infolink>
+    </tv-info>
+</manifest>

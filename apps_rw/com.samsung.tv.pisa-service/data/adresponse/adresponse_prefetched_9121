@@ -1,0 +1,56 @@
+{
+  "ad_ads" : 
+  [
+    {
+      "ad_creatives" : 
+      [
+        {
+          "cre_id" : "227394",
+          "cre_interaction" : 
+          {
+            "clickaction" : 
+            {
+              "clickaction" : 
+              {
+                "appcontentid" : "",
+                "appid" : "3201909019211",
+                "category" : "0000008929",
+                "runtype" : "GER"
+              },
+              "clicktype" : "1"
+            }
+          },
+          "cre_resources" : 
+          [
+            {
+              "res_height" : "402",
+              "res_type" : "image",
+              "res_url" : "https://cdn-stv.adgrx.com/image-821887479628695059064.png",
+              "res_width" : "1780"
+            }
+          ],
+          "cre_text" : "Ad",
+          "cre_tracking" : 
+          {
+            "blankreportingurl" : "https://d7luqmstmj331.cloudfront.net/blank.gif",
+            "clickreporturl" : "https://rtb.adgrx.com/clicks/88_MyigOshIzIq8rChBxrGqOleYR7bYvsqECFS24EgExGAYgVigBMNOvFTjLoQ9ABkignAFgAXgCwAEByAGMA9IBC0FERzEwMzU3U0FN2gEDMTAz5QEAKB5S6AFU8AEAigIRY29tLnNhbXN1bmd0di5hZHPSAg9hbXMtZXhjaGFuZ2UtMTDaAgDoAuKIl54GiAMBkAMDmANnwAPlD8oDBU5JS0VM4gMJMjEuMy4wMTAxogQCR0KqBAR0aWxlsgQSMjFfTklLRUxfVUhEX0JBU0lDugQTVC1JTkZPTElOSzIwMjEtMTAxMMIEARH4BACQBQKYBQE=/?AG_TID=227394",
+            "exitdelayreporturl" : "https://rtb.adgrx.com/blank.gif",
+            "hoverreporturl" : "https://rtb.adgrx.com/trackers/88_MyigOshIzIq8rChBxrGqOleYR7bYvsqECFS24EgExGAYgVigBMNOvFTjLoQ9ABkignAFgAXgCwAEByAGMA9IBC0FERzEwMzU3U0FN2gEDMTAz5QEAKB5S6AFU8AEAigIRY29tLnNhbXN1bmd0di5hZHPSAg9hbXMtZXhjaGFuZ2UtMTDaAgDoAuKIl54GiAMBkAMDmANnwAPlD8oDBU5JS0VM4gMJMjEuMy4wMTAxogQCR0KqBAR0aWxlsgQSMjFfTklLRUxfVUhEX0JBU0lDugQTVC1JTkZPTElOSzIwMjEtMTAxMMIEARH4BACQBQKYBQE=/hover.gif?AG_TID=227394",
+            "impressionreportingurl" : "https://rtb.adgrx.com/impressions/88_MyigOshIzIq8rChBxrGqOleYR7bYvsqECFS24EgExGAYgVigBMNOvFTjLoQ9ABkignAFgAXgCwAEByAGMA9IBC0FERzEwMzU3U0FN2gEDMTAz5QEAKB5S6AFU8AEAigIRY29tLnNhbXN1bmd0di5hZHPSAg9hbXMtZXhjaGFuZ2UtMTDaAgDoAuKIl54GiAMBkAMDmANnwAPlD8oDBU5JS0VM4gMJMjEuMy4wMTAxogQCR0KqBAR0aWxlsgQSMjFfTklLRUxfVUhEX0JBU0lDugQTVC1JTkZPTElOSzIwMjEtMTAxMMIEARH4BACQBQKYBQE=/250059.gif?AG_WP=0.013401&AG_ET=1673906558&AG_TID=227394",
+            "replayreporturl" : "https://rtb.adgrx.com/trackers/88_MyigOshIzIq8rChBxrGqOleYR7bYvsqECFS24EgExGAYgVigBMNOvFTjLoQ9ABkignAFgAXgCwAEByAGMA9IBC0FERzEwMzU3U0FN2gEDMTAz5QEAKB5S6AFU8AEAigIRY29tLnNhbXN1bmd0di5hZHPSAg9hbXMtZXhjaGFuZ2UtMTDaAgDoAuKIl54GiAMBkAMDmANnwAPlD8oDBU5JS0VM4gMJMjEuMy4wMTAxogQCR0KqBAR0aWxlsgQSMjFfTklLRUxfVUhEX0JBU0lDugQTVC1JTkZPTElOSzIwMjEtMTAxMMIEARH4BACQBQKYBQE=/replay.gif"
+          }
+        }
+      ],
+      "ad_detectedHdmiDevName" : "",
+      "ad_expireTime" : "1673906558",
+      "ad_guid" : "71ac6a8e-95e6-11ed-b62f-b2a102152db8-1",
+      "ad_id" : "114473-350163-250059-396",
+      "ad_numericType" : "6",
+      "ad_refreshInterval" : "30000",
+      "ad_responseTime" : "1673905250",
+      "ad_rotationInterval" : "5000",
+      "ad_type" : "CarouselType"
+    }
+  ],
+  "ad_placementId" : "9121"
+}

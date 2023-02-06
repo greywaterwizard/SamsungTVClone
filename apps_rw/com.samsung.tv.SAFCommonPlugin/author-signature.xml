@@ -1,0 +1,559 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+    <Reference URI="tizen-manifest.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FUWZoFARaFFn8eGKqpc0P+C9+DmfthzKXZYU3e9VvqI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fzu-ZA%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>KaiWDkk3AokapkI9ksDE4TKOc6ZCFYOBZm42h8tOOQI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fzh-TW%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>R0RLdJu/eveSJv4d0AwZkwhFbNNNE8aPl4N3qSvL4EA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fzh-HK%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dLFnizH1QAbYPVLEF3Kz3zj9jOk73ZeaPqFVTwwbJGU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fzh-CN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FbOQYqfZ//xOrONH0xmlRv3GFrbSO9Fvu0JjuFQTUZY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fyo-NG%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bedz3U91aezz5aQygQbR2Jv3jzDlRD+f109MjcdlMuE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fxh-ZA%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VMRXA91o7vFmVtKjBc3J0gnwrDp2DsNxeXIiWusDUfY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fvi-VN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ecsnoc6fkBUJVmDMuEywOqDhfCULBAVinLp+doyehMU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fuz-Cyrl-UZ%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>759gMzDGAcQGGuyiP8uOqMGWCJ+aeLhZxxrWIb7ItLE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fur-PK%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bsxD2sTqkxFO96q04sdtxRciDgkpGVtPgke2ZLiewBY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fuk-UA%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>r77pRXWdGhH84oO1IzRiM2PntkT5BY2J1bfGQAFHGa8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Ftu-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Z84PH+aQ+NzGYWq8H//C9xK6mdVJj6jEXB48QHEcws4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Ftr-TR%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Nv55FhkG7MBAss1MQ09zB5nvUujHhX4OuU7/s+o/gH8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Ftl-PH%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>WHvsPVZpFrimVvwOfy1ZQtbbsthvXoEMUN8QCWgadeQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FTizen.TV.Service.SAFSdk.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dxN0Ln159BVqPwdzFYzXnyshLc48o5srWIJyl9QyfZU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fth-TH%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Df+KxXFpR95lXSGSEyEvcYHgmBem28/EUhjjfx7rBBg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fte-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gugKzDnG8uq2BQGoS0p9wXwcovO+fepVP5mwo/wcHnU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fta-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>PZTaT+4YSUmKcu2I3P1HzH4tgLVHn/tzWjqtUXprcSU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fsw-KE%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>EMZPwWo+BRj31kNyIrnYYjkLvUe4q2rN2+P8dt8F7Tw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fsv-SE%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Rs8N3oTZ79bHMdH6BtMu38j7RXUIyikxNUNzwhTkiTM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fsr%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rP9x9Gm275QHLphLGvAzsahpuuHw/NiqUFj2r17u80c=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fsq-AL%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>w6C07CShxAfwGwvqxaGcF80HdhLmK+Pa8ZDCaT2AyVg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fsl-SI%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>yrFHrcWtsu3Ujg+bl+QLpc59sv4Z+lo0RVQGgPVk36c=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fsk-SK%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ZdQtrvCLe/iDs3bp5tu6Nk6ZgAG+89YVMKd8n5lTqzs=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fsd-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zh0uKCtMt915LTzAfS/8wb16R7HoV763HvYSsAacE+s=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fsat-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>HVhP55Y+3nfcIiXclEclza0Cr7wVVQ6nNwU8dpNvoSg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fsa-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VEmC7pFGfUCd5R6VpzminG8BaM0bZU/TqLAngkCDbT8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fru-RU%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1H3CTJz1jyv5XB+ACbx4Qr7giEI0UmPvcOqj0ruUzPk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fro-RO%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+JOw0UF4kqxRnDxHv0obqroQyAdBOT2QTu+Zs/n7wzc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FRestPlugin.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2MnWv+qxSAA5QKxqpNB9V1g+Gx8VCEq0ggVpd/Q8k+o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FRestPlugin.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>QR98IX6rwpJs/MlG9CilWGCOOkbWRfU/48so/gyaOlI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FRestPlugin.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dQzAJy+Qm6ECjdKLTbeHPL8U7yLLncJQlFswxmhRyG0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fpt-PT%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>oQMRh+bPqsKeDHG6PcOEIKrfePj7Mn5tIhJY8b7gvuA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fpt-BR%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>PfoHyqyjA+XFsQRyoMV5WtdtVMEej1C1apeMTniQ0uk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FPluginVersionMaker.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ifgeGijPk+2luFmGT0xmjgSmShWn/GVY/RhWZgPaUlM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FPluginVersionMaker.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ey53ONQU5EWwb0Ckar09YXmuhqhSN3K6BQSBSeOaCFw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FPluginVersionMaker.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LbGPCqypI4IZzZhq/5nM84sQ/cXaeovdoJPrL/463cI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FPluginTextResources.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>w7LCeG1v0rn2pPCicdfho/JF0Kiz8fQxsFYLHZtbQ7c=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FPluginTextResources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>HwgRwrshCXScW5OADk+ibRce9L/s+baiIXeiQY1pNtQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FPluginTextResources.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>A3+oyEKxO7Y6JJjiWFTJm5KgQrUkqRzEpNwBUyWG51E=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fpl-PL%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9cXbkumuhqwgjdOCSUMJg39rIGjp/yMV/t3/uAS/EaE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FPinPopupPlugin.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BgSv3W9n9P2ljUeLoJw5DymtcBBaVzMxY3vyefwN7YI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FPinPopupPlugin.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>lhQmJ4aTGNDBDcy7Ohed3PsrqDZ8RDo8Xf90iVeBy6E=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FPinPopupPlugin.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NWZtfsFOvGvvMqMl9x5XSigaY6C2Mmh49UD0Ee4ToUE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FParentLockPlugin.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VFXR1vqUv318x3AU+oVeWCp/O9QmRinLNWSSBbhLh4U=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FParentLockPlugin.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mvSnQi6HQIZjdhF8kmNSm8Wp/I6xTKep5M0NC+DSbNA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FParentLockPlugin.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>p/AnFkO9tvMbQ++uDm4kDwuIgZmuts9FHD6QOBUGBqE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fpa%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8CNlfkT+Q+fH58r53c+C5yRAgCXDrtr5u/A7ogWjxgA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2For-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NSz+ZYr2xoHIAiQMT80d8SdzKVSjPCKGePwiGUAiGZw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fnn-NO%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>QPvCFx6rQ94MImnCj9Njl/JRqzou5qxtzSUBFKRLef8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fnl-NL%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>UvRPiNeyKqU/YAr6OAjN3SAGD2ufV74qZ24ro83wcFA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FNetworkUtilPlugin.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BDBtUIPky4GGL+24WUaR46lFJRBsWvjruzdOonjoTic=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FNetworkUtilPlugin.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>EAFT67cB4DApkJqi8qE5OeYEWlMbh11aYrjWKI6tj60=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FNetworkUtilPlugin.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>luvd+7v9bPAuxOzuqhhiAVfFW0UgvnndthsuO2oWT14=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FNetErrorPopupPlugIn.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VKJOoy2kLSWrwaGB/klTx5zpvuje6NM9W/Hz0Rf7Gs0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FNetErrorPopupPlugIn.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>oPqLMkhVejL0GxVujBNCTjWNBUsR0fTybTA2ixmkZSg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FNetErrorPopupPlugIn.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>DV73gPJeNurPXOdZTFvwQ19FOVrDWsDUGs78cqvdqRE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fne-NP%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vmMJdY6mwHZabSMFzs2wFBXBMSVh/IEc0R6kEP/u06M=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fmy-MM%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>uEdVusRl9mDLjmuoyKRCtp8/tBLXbVEAtKKK7gBPQsU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fms-MY%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>EqRMPx8YZHKvadJPzntdofVtYYYPDDIcVog0BWZ5oEI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fmr-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>w3ZkrPL1Gpu0yPtg0UEjhBLPY8LluMHZ5+qQcDV56WA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fmni-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>jDRQmiRga+BA6Ds5LdfeObA6H7Hjpip+impbUopXpg4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fmn-MN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>eLtygBDwZCLwQ0FJ8YioO5hAlJK9lcHlKB7AWTYZskU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fml-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8whNjYgv8c6duc/RY/bBFLUc+yLNgeshZ6O95kla7D0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fmk-MK%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>H42WQ6znTD9AworeSbxr3LQ1UVCPDkbl5TW+6F4+KN4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fmi-NZ%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9FiSPy+ckD15qiUofYmcqQSjotE0FqFWaYBpeTiudlY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FMessageBoxPlugin.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>v91HsHEYWGVwmzQHUZyGpBb7uNIQ2ocn6vomq4mGt90=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FMessageBoxPlugin.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rV+nJq33eV8iikrdBdmxeQwbmu8bHDJjFbboiqy09Ro=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FMessageBoxPlugin.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SPwRcVjzuacO2Vev773RLyzt22D//hkV+IEUJh0GdqM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fmai-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>eXGkx8pc9Lzybhg2Vg/fOgw/Nmv/Krq4y+KPzpxM8gM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Flv-LV%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7cw4eDcqa+fmBYOcPm5q1lr+GFFiXR4uCbGQ8uUILMI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Flt-LT%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rbPzCcPN8k6NcbeQ0j/yCRO9j2IObWceqH364xn8JRQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fku%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Re5QWtjG4UFAGzaRQYxr2hRPtNu8O2wM7t3Vr+i7ryk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fks%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>GZy7+6Rx+KHDS0O46EtXgHyrQchRu3uqfte0EEqC7es=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fkok-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FyAh6sb/nYszAs586y1s/pAvUIX1pszS4jupphe5K8k=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fko-KR%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ZcKb/h+szkxnzS9jM+XTISekihKpgcwwgZWwBDPfP90=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fkn-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JPMvZBQuDBASxMCuAxbVYdJCURagvU1qQWKbcTd7laQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fkm-KH%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>T3cPvU8MDFVCSmtBghFk4gcfyWca+jD8wAet1OqzNDQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fkk-KZ%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>GWls+rm9MqgpZ09A8tHDunOgbcq5adjiIeL/EOzwN3Y=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fka-GE%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>aXOeLDZQ2WkhKZwR2i1AL+MdOeM843w94OsgMPjhKX8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fja-JP%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>CLA6Rsc24rv4whdRhx5MK8D7ga8ESSp82EdeI1q4Jo4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fit-IT%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>W5vCFwPBlgnkxIYCEAPVI81JX19RxaaFO0V4DXo7uoI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FImageCachePlugin.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>nkOVGboTdovocFU3NRJ69vVtEEJ7QtS1y+bpEry4xr4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FImageCachePlugin.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>UWc8u5UGL+AXvegUEbdrEsFF130yXXQCSThfp442/9o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2FImageCachePlugin.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>PCJ8E3F0ur3Zn4sH1bAbWJnAWX4F85PAh5CnP6D5SvY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fig-NG%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>k37E4ZpS4rr9xuSqBJFEA8Ex9PB4bCioczYgfLEUaQ0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fid-ID%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SOCoJuIeSEJs3qcBHimf+SclYfoUsio2FS5JwQ+fgEA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fhy-AM%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>MxxXNfq3WHA9RzZVRSnjBCIp3nRwwY2ShRDISUVCw6o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fhu-HU%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+LrsHyuJydDpbIPuh7luHFCsactpKXdD/0qusWtSBAI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fhr-HR%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>CIB0qkMeaJ9uqu6KnMuBf0YjXDAzi+iRh+l1n1gSklE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fhi-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>oMrt4S3ukB/1l3z2tCzuyAnuLw0npRoN4K5cpjngQH0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fhe-IL%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SRtURfdQz4GorRjsyzFQ/eVgqqUlX+Qyh939Npj5PVc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fha%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ZdrD4H+HkLroBojCG5235AZCwHSP9DjpBzKnCGfXQ6U=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fgu-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>oGMfRIv7dGQTqOfcWWfWjb7wYYd1cKgwvRYlpGLOANo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Ffr-FR%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1LSuR6ied8ZAiNy/QO4bIYjOsFSlV0Cy3ehHXHQwJ2Y=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Ffr-CA%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+K3KfD0nzWzMnITVOeup0pB/tEBgBZMqHNA3cjahLP4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Ffi-FI%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>OOsvTf++cyZfF3QVFPHCf9sQ5HJp2lY6E93RZIaL7wg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Ffa-IR%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gM5P/yLcMFQP37IoIZe/6QNhmX1jgzdPX3B3Fi5S4VA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fet-EE%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>XUva7U761d9E9aE4A4zKLR4BiV2IqzXNqAlMMmt77Yg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fes-MX%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>P4bzex7x1oGcFJ4acTMORRZ9equAJI2tFfuWWkp1Oeo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fes-ES%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mDTFMALI4ur1rBK6FL+8MCu6Tbl3POKVR3L4J0KwOlk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fen-US%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VdT/8R0ngBeDkqJf7yH24AW+PACPezjWPC9FxVxLAr4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fen-GB%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>OA4/dD8vsx5PH4SzUzuMM634QN6FNFwblO6mSUm5XjQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fen-AU%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qVjG+lG7uShXfqSzG4OVDIlmuXWHGZiFgFidA4USgS0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fel-GR%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>j3BzSMy2gJDJWFrYgLsq+GougGo80CGC6mLTmGxGHBY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fde-DE%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>MvyUxqjXuJq/v6LVjb3Z7lSUHv1eBXPpT6cNzbc08BM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fda-DK%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>HOgAVsi8cs/9GUfhth22tu/d71FZen6aEPKoysZs4p4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fcs-CZ%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>PMmHWs1Rmyoi6EgYHAHv5YQY7WeJVmaQkMFlSMooHE8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fcom.samsung.tv.SAFCommonPlugin.runtimeconfig.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RGy9NEiii8fdwvQRkaCx61VldYBawsaj26wHFUsSXtA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fcom.samsung.tv.SAFCommonPlugin.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9jFstI/EWRuaAgUkmXjj7mjOkbsWyBc7T7zZdaTY4ts=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fckb-IQ%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qNyaP9jWXGy9lDE7uD17BLPZUmUERHR1MgrRI3r14a8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fbs%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mP4u2sUwTDLdbkkX8WdoBGG1UXYEIdjjuzQDfdI5mL0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fbn-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NKz2+0HwrwJsQXdvwBaTj9roCFt0EKQ61mXjE2LnzOA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fbh-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>fImsc1v/H3Ys1ifchdMBuVpXmSUh3MOTL2oUOuhbvOA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fbg-BG%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>6hqI0e3sVhdvMlaYp+9LtGvAYobr6b+0/qSxCFqCJgM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Faz%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>PkwI1Ru8sI2o3JXTbBizybCz/FgENJ9X/X8DczMYOWs=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fas-IN%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Og6Of5mEPZdFZB+OmqbCQMlL3Os7AVyXPjyIz4Nn2QY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Far-AE%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>hZ1r8CKaEnT/kBYN21xJSMdg4j3e3IiZHru9v/xNgOo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Fam-ET%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ymwmOzCtlhsNt0xGBObMR8evFxGyz/5XSMgMc9fUCU0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Flib%2Fnetcoreapp2.0%2Faf-ZA%2FPluginTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+vzRfNHqHQsSifZRPGzLjvLbAti/rHNVn3up4YZ6tf8=</DigestValue>
+    </Reference>
+    <Reference URI="SAFCommonPlugin.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>3f6mUx18ohqPrnJoce8vS3amfLcVApTHjniOVMlY9HQ=</DigestValue>
+    </Reference>
+    <Reference URI="#prop">
+      <Transforms>
+        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+      </Transforms>
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>e2rGZ9lURQWep1IIbrRk2NYMw5EXlejQt2B0bMLUyoc=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+Zi5SMO9ilThwBx3eHUlOAIdHpemydXSzYgxenZBBmrWg+s71O85hCcKf5vc6ot1Dr3Z6Zcmtm4wt
+ChOG7bcCSmY5hPe6w87AZv/YpHmJlPsWweSSa6bp5H1t1tqC++JQeRPhqNlMQWKH9ezE73qJgl/o
+CghHhqagIbXSzBr+dk5qkfi8jtE783OCFlEQNcnDs3wf0cVbWqn+Eq5kqbGj+S59uQYEqUxlVFqz
+uRqqNNg8tZndAZ3mR6SgCOaFCI2lmAdlNwq9clKWzHpn1zBvXYusYzkCx51ZYBwHpGp5Uhum0Y2K
+8K+MFLHHWqY7LNJ1mnjcXEqZIXfy4pYoCwTmhg==
+</SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+      <X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <Object Id="prop">
+    <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+      <SignatureProperty Id="profile" Target="#AuthorSignature">
+        <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile>
+      </SignatureProperty>
+      <SignatureProperty Id="role" Target="#AuthorSignature">
+        <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role>
+      </SignatureProperty>
+      <SignatureProperty Id="identifier" Target="#AuthorSignature">
+        <dsp:Identifier></dsp:Identifier>
+      </SignatureProperty>
+    </SignatureProperties>
+  </Object>
+</Signature>

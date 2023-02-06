@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="6.0" package="com.samsung.tv.digitalbutler-app" version="2.4.13">
+    <description>Digital Butler</description>
+    <profile name="tv-samsung-5.0"/>
+    <ui-application appid="com.samsung.tv.digitalbutler-app" exec="digitalbutler-app" hw-acceleration="on" launch_mode="single" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>Digital Butler</label>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="off"/>
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="false"/>
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/version" value="10000"/>
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/sdk/version" value="v1.0-beta.1.4"/>
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/action-id-settings" value="tvSettings.OpenSettings,tvSettings.CloseSettings"/>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/display.hidden" value="true"/>
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-fs-external-component" value="true"/>
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-view-plugin" value="true"/>
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true"/>
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-account-wakeup" value="SIGN_IN"/>
+    </ui-application>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="6.0.0">
+        <infolink>T-INFOLINK2021-1007</infolink>
+    </tv-info>
+    <privileges>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/alarm.get</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/alarm.set</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appdir.shareddata</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth</privilege>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/inputgenerator</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth.admin</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://tizen.org/privilege/wifidirect</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/push</privilege>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://tizen.org/privilege/permission.check</privilege>
+        <appdefined-privilege>http://com.samsung.tizen.smartthings-client/appdefined/smartthings-client</appdefined-privilege>
+        <appdefined-privilege>http://com.samsung.tizen.smartthings-thing/appdefined/smartthings-thing.resource</appdefined-privilege>
+        <appdefined-privilege>http://com.samsung.tizen.smartthings-thing/appdefined/smartthings-thing.master</appdefined-privilege>
+    </privileges>
+    <build-info id="7709992">
+        <app-info exec="digitalbutler-app" id="com.samsung.tv.digitalbutler-app"/>
+        <app-info exec="digitalbutler-daemon" id="com.samsung.tv.digitalbutler-daemon"/>
+    </build-info>
+    <service-application appid="com.samsung.tv.digitalbutler-daemon" auto-restart="true" exec="digitalbutler-daemon" multiple="false" nodisplay="true" on-boot="true" taskmanage="false" type="capp">
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="off"/>
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="digitalbutler-daemon"/>
+        <label>digitalbutler-daemon</label>
+        <icon>digitalbutler-daemon.png</icon>
+        <metadata key="samsung-experience-service-api-level" value="1"/>
+        <metadata key="http://samsung.com/tv/metadata/display.hidden" value="true"/>
+        <background-category value="background-network"/>
+    </service-application>
+</manifest>

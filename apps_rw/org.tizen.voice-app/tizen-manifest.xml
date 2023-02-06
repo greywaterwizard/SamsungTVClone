@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="org.tizen.voice-app" version="21.22.12270">
+    <profile name="tv-samsung" />
+    <ui-application appid="org.tizen.voice-app" auto-restart="true" exec="voice-app" multiple="false" nodisplay="false" on-boot="true" process-pool="true" taskmanage="true" type="capp">
+        <label>voice application</label>
+        <icon>voice-app-tpk.png</icon>
+        <description>voice application</description>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/version" value="10000" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/sdk/version" value="v1.0-beta.1.4" />
+        <metadata key="http://tizen.org/metadata/multi-assistant/name" value="Bixby" />
+        <metadata key="http://tizen.org/metadata/multi-assistant/icon_path" value="shared/res/voice-app.png" />
+        <metadata key="http://tizen.org/metadata/multi-assistant/wakeup_word" value="hi bixby,hello bixby" />
+        <metadata key="http://tizen.org/metadata/multi-assistant/language" value="ko_KR,zh_CN,en_US" />
+        <metadata key="http://tizen.org/metadata/multi-assistant/wakeup_engine_appid" value="com.samsung.tv.wakeup-engine-bixby" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+        <metadata key="http://tizen.org/metadata/multi-assistant/audio_data_processing_appid" value="org.tizen.voice-client" />
+        <metadata key="no_show_delay" value="true" />
+    </ui-application>
+    <service-application appid="org.tizen.voice-app-service" auto-restart="false" exec="voice-app" multiple="false" on-boot="false" taskmanage="true" type="capp">
+        <label>voice application</label>
+        <icon>voice-app-tpk.png</icon>
+        <description>voice application</description>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="org.tizen.voice-app" />
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+        <privilege>http://tizen.org/privilege/filesystem.read</privilege>
+        <privilege>http://tizen.org/privilege/inputgenerator</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/voicecontrol.manager</privilege>
+        <privilege>http://tizen.org/privilege/volume.set</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://tizen.org/feature/led</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.public</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="8.8.0">
+        <infolink>T-INFOLINK2021-1003</infolink>
+    </tv-info>
+    <build-info id="8984261">
+        <app-info exec="voice-app" id="org.tizen.voice-app" />
+        <app-info exec="voice-app" id="org.tizen.voice-app-service" />
+    </build-info>
+</manifest>

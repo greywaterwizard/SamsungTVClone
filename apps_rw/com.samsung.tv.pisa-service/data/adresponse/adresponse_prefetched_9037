@@ -1,0 +1,86 @@
+{
+  "ad_ads" : 
+  [
+    {
+      "ad_creatives" : 
+      [
+        {
+          "cre_id" : "230624",
+          "cre_interaction" : 
+          {
+            "clickaction" : 
+            {
+              "clickaction" : 
+              {
+                "providerid" : "USQU352135A",
+                "serviceid" : "GBBA3300038UZ"
+              },
+              "clicktype" : "5"
+            }
+          },
+          "cre_resources" : 
+          [
+            {
+              "res_height" : "320",
+              "res_type" : "acceleratorimage",
+              "res_url" : "https://cdn-stv.adgrx.com/image-003900530836603217073.jpg",
+              "res_width" : "1840"
+            }
+          ],
+          "cre_text" : "Watch Now",
+          "cre_tracking" : 
+          {
+            "clickreporturl" : "https://rtb.adgrx.com/clicks/rxJ0BHTjo4L6XLJvChC2nu2ClecR7YV0ir0YMMgCEgE1GAYgVigBMLa5FTjpqw9ABkignAFgAXgCwAEByAGMA9IBC0FERzEwMzU3U0FN2gEDMTAz5QEAKB5S6AFU8AEAigIRY29tLnNhbXN1bmd0di5hZHPSAg5hbXMtZXhjaGFuZ2UtOdoCAOgCg42XngaIAwGQAwOYA2fAA-UPygMFTklLRUziAwkyMS4zLjAxMDGiBAJHQqoEBHRpbGWyBBIyMV9OSUtFTF9VSERfQkFTSUO6BBNULUlORk9MSU5LMjAyMS0xMDEwwgQBCfgEAJAFApgFAQ==/?AG_TID=230624",
+            "impressionreportingurl" : "https://rtb.adgrx.com/trackers/rxJ0BHTjo4L6XLJvChC2nu2ClecR7YV0ir0YMMgCEgE1GAYgVigBMLa5FTjpqw9ABkignAFgAXgCwAEByAGMA9IBC0FERzEwMzU3U0FN2gEDMTAz5QEAKB5S6AFU8AEAigIRY29tLnNhbXN1bmd0di5hZHPSAg5hbXMtZXhjaGFuZ2UtOdoCAOgCg42XngaIAwGQAwOYA2fAA-UPygMFTklLRUziAwkyMS4zLjAxMDGiBAJHQqoEBHRpbGWyBBIyMV9OSUtFTF9VSERfQkFTSUO6BBNULUlORk9MSU5LMjAyMS0xMDEwwgQBCfgEAJAFApgFAQ==/tile_impression.gif?AG_ET=1673949736&AG_TID=230624",
+            "thirdpartyclickreporturl" : [],
+            "thirdpartyimpressionreportingurl" : []
+          }
+        },
+        {
+          "cre_id" : "251369-0",
+          "cre_interaction" : 
+          {
+            "clickaction" : 
+            {
+              "clickaction" : 
+              {
+                "providerid" : "USQU352135A",
+                "serviceid" : "GBBA3300038UZ"
+              },
+              "clicktype" : "5"
+            }
+          },
+          "cre_resources" : 
+          [
+            {
+              "res_height" : "270",
+              "res_type" : "launcherimage",
+              "res_url" : "https://cdn-stv.adgrx.com/image-743848496015629856257.png",
+              "res_width" : "480"
+            }
+          ],
+          "cre_text" : "Ad",
+          "cre_tracking" : 
+          {
+            "blankreportingurl" : "https://d7luqmstmj331.cloudfront.net/blank.gif",
+            "clickreporturl" : "https://rtb.adgrx.com/clicks/rxJ0BHTjo4L6XLJvChC2nu2ClecR7YV0ir0YMMgCEgE1GAYgVigBMLa5FTjpqw9ABkignAFgAXgCwAEByAGMA9IBC0FERzEwMzU3U0FN2gEDMTAz5QEAKB5S6AFU8AEAigIRY29tLnNhbXN1bmd0di5hZHPSAg5hbXMtZXhjaGFuZ2UtOdoCAOgCg42XngaIAwGQAwOYA2fAA-UPygMFTklLRUziAwkyMS4zLjAxMDGiBAJHQqoEBHRpbGWyBBIyMV9OSUtFTF9VSERfQkFTSUO6BBNULUlORk9MSU5LMjAyMS0xMDEwwgQBCfgEAJAFApgFAQ==/",
+            "impressionreportingurl" : "https://rtb.adgrx.com/impressions/rxJ0BHTjo4L6XLJvChC2nu2ClecR7YV0ir0YMMgCEgE1GAYgVigBMLa5FTjpqw9ABkignAFgAXgCwAEByAGMA9IBC0FERzEwMzU3U0FN2gEDMTAz5QEAKB5S6AFU8AEAigIRY29tLnNhbXN1bmd0di5hZHPSAg5hbXMtZXhjaGFuZ2UtOdoCAOgCg42XngaIAwGQAwOYA2fAA-UPygMFTklLRUziAwkyMS4zLjAxMDGiBAJHQqoEBHRpbGWyBBIyMV9OSUtFTF9VSERfQkFTSUO6BBNULUlORk9MSU5LMjAyMS0xMDEwwgQBCfgEAJAFApgFAQ==/251369.gif?AG_WP=0.013401&AG_ET=1673949736",
+            "smarthubexitdelayurl" : "https://rtb.adgrx.com/blank.gif",
+            "thirdpartyclickreporturl" : [],
+            "thirdpartyimpressionreportingurl" : []
+          }
+        }
+      ],
+      "ad_detectedHdmiDevName" : "",
+      "ad_expireTime" : "1673949736",
+      "ad_guid" : "b69eed82-95e7-11ed-8574-8abd1830c802-5",
+      "ad_id" : "115209-351414-251369-396",
+      "ad_numericType" : "1",
+      "ad_refreshInterval" : "",
+      "ad_responseTime" : "1673905795",
+      "ad_rotationInterval" : "",
+      "ad_type" : "AdsPreviewType"
+    }
+  ],
+  "ad_placementId" : "9037"
+}

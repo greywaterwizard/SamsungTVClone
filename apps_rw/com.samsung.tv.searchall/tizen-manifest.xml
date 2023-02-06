@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="6.0" package="com.samsung.tv.searchall" version="4.22.10280">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv" />
+    <description>SearchAll Application</description>
+    <ui-application appid="com.samsung.tv.searchall" exec="SearchAll.dll" launch_mode="single" multiple="false" nodisplay="false" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse">
+        <icon>com.samsung.tv.searchall</icon>
+        <label>com.samsung.tv.searchall</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/smarthubreset" value="{'value':0,'process_name':'com.samsung.tv.searchall','vconf_key':'db/smarthub/reset/search-all','action':'kill','restart':false}" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="anytime" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/sdk/version" value="v1.0-beta.1.4" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/version" value="10000" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-saf-external-uiplugin" value="[{'moduleName': 'CommonSearchPlugin','libName': 'CommonSearch.dll','className':'Tizen.TV.Service.CommonSearch.CommonSearch','libPath':'lib/netcoreapp2.0/' }]" />
+    </ui-application>
+    <shortcut-list />
+    <app-context appid="com.samsung.tv.searchall">
+        <app-context-rule>
+            <source selector="key">XF86Search</source>
+            <condition operator="not" selector="app" state="run">com.samsung.tv.searchall</condition>
+            <condition operator="not" selector="product">b2b_option</condition>
+            <target args="__K_RELOCATE_BELOW:com.samsung.tv.csfs" request="launch" selector="app">com.samsung.tv.searchall</target>
+        </app-context-rule>
+    </app-context>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/imemanager</privilege>
+        <privilege>http://developer.samsung.com/privilege/voicecontrol</privilege>
+        <privilege>http://developer.samsung.com/privilege/microphone</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.partner</privilege>
+        <privilege>http://developer.samsung.com/privilege/was.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+    </privileges>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <build-info id="8536819">
+        <app-info exec="SearchAll.dll" id="com.samsung.tv.searchall" />
+    </build-info>
+</manifest>

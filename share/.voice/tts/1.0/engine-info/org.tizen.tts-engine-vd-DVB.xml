@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<tts-engine>
+  <name>VD engine</name>
+  <voices>
+    <voice type="female">ko_KR</voice>
+    <voice type="female">en_US</voice>
+    <voice type="female">en_GB</voice>
+    <voice type="female">fr_FR</voice>
+    <voice type="female">de_DE</voice>
+    <voice type="female">es_ES</voice>
+    <voice type="female">it_IT</voice>
+    <voice type="female">nl_NL</voice>
+    <voice type="female">pl_PL</voice>
+    <voice type="female">ru_RU</voice>
+    <voice type="female">da_DK</voice>
+    <voice type="female">fi_FI</voice>
+    <voice type="female">nn_NO</voice>
+    <voice type="female">nb_NO</voice>
+    <voice type="female">pt_PT</voice>
+    <voice type="female">sv_SE</voice>
+  </voices>
+  <credential>false</credential>
+  <text-size>2000</text-size>
+  <pitch-support>true</pitch-support>
+  <id>org.tizen.tts-engine-vd-DVB</id>
+</tts-engine>

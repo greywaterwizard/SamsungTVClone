@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.fuzzy-search-engine" version="2.0.721">
+    <profile name="tv" />
+    <service-application appid="com.samsung.tv.fuzzy-search-engine" auto-restart="true" exec="fuzzy-search-engine" launch_mode="single" multiple="false" nodisplay="false" on-boot="true" splash-screen-display="false" taskmanage="true" type="capp">
+        <icon>fuzzy-search-engine.png</icon>
+        <label>fuzzy-search-engine</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/action-id" value="tvFuzzySearch.SearchPrograms,tvFuzzySearch.SearchChannels" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/version" value="10000" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/sdk/version" value="v1.0-beta.1.4" />
+    </service-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/network.profile</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/filesystem.read</privilege>
+        <privilege>http://tizen.org/privilege/filesystem.write</privilege>
+        <privilege>http://tizen.org/privilege/content.write</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+    </privileges>
+    <provides-appdefined-privileges />
+    <tv-info api-version="4.4.1">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <build-info id="8666301">
+        <app-info exec="fuzzy-search-engine" id="com.samsung.tv.fuzzy-search-engine" />
+    </build-info>
+</manifest>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.5.0" package="com.samsung.tv.cis-service-app" version="1.2.7">
+    <description>CIS Service Application</description>
+    <profile name="tv-samsung"/>
+    <service-application appid="com.samsung.tv.cis" exec="cis-service-app" type="capp" multiple="false" taskmanage="true" nodisplay="true" auto-restart="true" on-boot="true">        
+        <label>CISServiceApp</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="cis-service-app"/>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/filesystem.read</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="6.6.0">   
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>	
+</manifest>

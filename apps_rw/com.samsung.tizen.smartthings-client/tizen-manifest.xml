@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4.0" package="com.samsung.tizen.smartthings-client" version="2.4.130">
+	<profile name="mobile"/>
+	<description>SES (SmartThings Client)</description>
+	<service-application appid="com.samsung.tizen.smartthings-client" auto-restart="true" exec="smartthings-client" multiple="false" nodisplay="true" on-boot="false" taskmanage="false" type="capp">
+		<label>smartthings-client</label>
+		<icon>smartthings-client.png</icon>
+		<metadata key="samsung-experience-service" value="true"/>
+		<background-category value="background-network"/>
+	</service-application>
+	<privileges>
+		<privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+		<privilege>http://tizen.org/privilege/network.get</privilege>
+		<privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+		<privilege>http://tizen.org/privilege/internet</privilege>
+		<privilege>http://tizen.org/privilege/account.read</privilege>
+		<privilege>http://tizen.org/privilege/account.write</privilege>
+		<privilege>http://tizen.org/privilege/alarm.get</privilege>
+		<privilege>http://tizen.org/privilege/alarm.set</privilege>
+		<privilege>http://tizen.org/privilege/bluetooth</privilege>
+		<privilege>http://tizen.org/privilege/datasharing</privilege>
+		<privilege>http://tizen.org/privilege/systemsettings.admin</privilege>
+		<appdefined-privilege>http://com.samsung.tizen.smartthings-hub/appdefined/smartthings-hub</appdefined-privilege>
+	</privileges>
+	<provides-appdefined-privileges>
+		<appdefined-privilege>http://com.samsung.tizen.smartthings-client/appdefined/smartthings-client</appdefined-privilege>
+	</provides-appdefined-privileges>
+	<dependencies>
+		<dependency type="requires">com.samsung.tizen.samsung-account</dependency>
+	</dependencies>
+</manifest>

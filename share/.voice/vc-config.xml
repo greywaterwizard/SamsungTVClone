@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<voice-control-config>
+        <engine>org.tizen.voice-client</engine>
+        <auto>off</auto>
+        <language>en_GB</language>
+        <enabled>on</enabled>
+</voice-control-config>

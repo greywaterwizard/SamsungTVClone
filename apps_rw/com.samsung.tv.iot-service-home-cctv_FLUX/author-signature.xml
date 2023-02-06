@@ -1,0 +1,847 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+    <Reference URI="tizen-manifest.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>O/UDxukt5fIVhVcgXYpU5LMaOhwkodRhUDz5gci8Ybo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fzu-ZA%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>TU0KoXnJChmLFgAvC3wqnj1LfSa50yQKKvzp81k8lZ0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fzh-TW%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>e218X6zoaDUsyMS/Kgx0y7GZ8cwqqPD9yrxt5M5BlPg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fzh-HK%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Uapl9vJFSx/GE9wq8GhvHx3Ugw2SYMP7D16w3GTAAHo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fzh-CN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Bir9oO23JLJBZ+6Y259r/zE9cTnAVoAkoyNDAciFLUc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fyo-NG%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>AnCwl1QM5MEVdNzPm8OFoukfxuHPbUPClYqbHi9rcWQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fxh-ZA%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>iRSbsyDINw1Pt3hnldEwR+6dGJNH7R8mqZmpyia5eyA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fvi-VN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NgRR9DSCcMrx8my+452PkRkd3+BP4X4apmiR8KQg4z8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fuz-Cyrl-UZ%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2IdCBlWwt1GcojcQ8m7xNXjUqhA/Bhi0iJHPERrixu8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fur-PK%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>idugOtWcUQMPwKlAYNhbhfiSa1xFVYFTF1nJD5RXYCA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fuk-UA%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>GW/b5N0AMllCA0/2AM/SK1ODWyj5tZZZiLvG7GI/km8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ftu-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xnAO2QWUz+1+4zgOsc6RkBykFG44AYDgr4uXCIcmYiU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ftr-TR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vFN7jbriuQuWf6vcigb1LZYNTEcvC7JwFwVoI3GsNgI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ftl-PH%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>skdYkqRSEV+7lJ4u6dg5EBBM7UYJ85lKRQP4kLZ2PC4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fth-TH%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>EK5EGpnSqyi95YMp2VGTjWvpKVyvo+AiQb4SL6aknXA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fte-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gNwStgG4DbM4URz1CgmFcMeVo5xqMb3B3cqvwzvy5v0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fta-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>hR7lsXiG54XvrRG4msvinnB1Hg2rISHEa3peU6R+1DU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsw-KE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mdikzDSoW0h+GyPvlNvCZCbNl2BdB1rTnS5Sk0m9Cg8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsv-SE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1Ltj5AjM4yPZQTMkEwUeTYftPvONb/fxwDf46DeFV0s=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsr%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>M/Rcoo/tpslynh5/aa+gUwpltXQHDbyiqJKtxiK3j+o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsq-AL%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>POSA9SCG9qTR844HqUq6R02sSiwpZghlIA2Yk4b4Ruo=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsl-SI%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2j9WNeHY2WQ2wC6muF/Zw7rgkCHY3JO2lfOAvsvPKDw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsk-SK%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RyEVTdBUdNqQdfmknMQG+PvsWRzLlDS1cEb9UeNPbqc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FServiceInfo.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bFKbM+BHQnd7yCfKP95iN6Ml0h6904CbNJ3xqROlOGw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsd-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>loJ2HQyzieni/6gfVvvKFctlZ+ZZ7UMbME369JsLzeg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsc_list_ic_camera.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wmBYSI4jujBXnM6+Xf/WUk5HGyLeRPdGaXypaSpL1B0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsat-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1MEK3/bKddDyX4aDb5/MiuqNOBgxL7Ful3aBqXv5/wE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fsa-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ScMgYmzz0G2Vjqef1KTXYimrueDazxp2yNQkuozTgSw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fru-RU%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RLkvrLHAQhnUyBGVXD06Io2Kxbo4LxKiIgnsNjQJqfM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fro-RO%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Wj1mGo8ZvfeEzgj2N7Pmo0GSOBlhjlbTOVnjGURgRpY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fpt-PT%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>u6/tkLwXr3u/GXR0vkSbNE/n76dcYfr/3PrrUcrC3Yw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fpt-BR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>acfgY1zYdzVkDqkSpBP9wN8k3lOmG0UVALCmSc5jx/Y=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fpl-PL%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+pKhpod+uuJBhIMNPZ6HP4U/6HyJa1wOZBduu7Xla6U=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fpa%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dntYVKL1HBbK1ezF9rye8Hdkt+9tmF+QEbN6qiV0uBQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2For-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>O16NgclIz1+CesI/ovX1Oryv++31l8QsJSGRTgQq/lc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fnn-NO%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JxIgUB6RraXMOL8mbDjzvhM7LYptqfMYE4qqK5sX0ZE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fnl-NL%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/wlxKsSuuLdwktOqRIHtNXYGGTCEH5b9KnhB8NHKJtw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fne-NP%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>H6Z3uLQnea6bwXZ0TN4YLJNk3R81fFRJOCIyzStuB3A=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fms-MY%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NyNmMyEAk0zOl3w96R/2An8twx6iWd88vyYF8AVvcmw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmr-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NkVa4tmmdGbh/PYA59z0EjysaaIG4D7bbP0JZN4gmz0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmni-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xyoyEl1jXtoLQwrufTKTTNiCWTMvEF/cTu/01efVVwQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmn-MN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0Nt4wXC1GYo0dGV3lCtq8rE2FkMa4oRhEKAFNYmX660=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fml-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2IBWdjADlNEsAwqyhsMd1FQ6G/D4Gbu/jT8zOiInP8E=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmk-MK%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>nwr133Bmo+y2+wTT9Cg8FvCHlILS/RZXyxfHr0/kZEU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmi-NZ%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gLNvXdjQdHh7nn35vjwQO26O4EwptC6CFugyagToWg4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fmai-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>z/HhPuYWUIBoqgeOxoCUaXM1rmR68/S58fb9UKJzp0U=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Flv-LV%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YCGRgYHZgH2DCUjTnnksxUaVq5PxqJCUAWMTUE9e+dw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Flt-LT%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vqXMMTSF4bhkGZY9g0ATxJIflKoJ03Kx4khIuE7J/F4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fkok-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rqkR/j4p+slOrU/Cmgzge1eFkoWe74S/UI8M36jBWk0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fko-KR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>i6kh+C+IkwcpL3hDmrSmzoVCn4/pb8V/WQ2J+PFux8s=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fkn-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9eBey0X8Lkn+Lh1LaLFbzpsWmqa464bPhcwVAZwxWok=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fkm-KH%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kKhHIcFlLHF7ZF77ymHI76faa/ziJs0Dts5TKjczWZg=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fkk-KZ%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qLxRnIjExi+0vAv9lsUp+6uwVdgqW12O1SUD5EvXV6E=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fka-GE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>TiFsSteznOo7//+Z6TE1QZa7d96lgcdYX2YYs9e1nhs=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fja-JP%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Q0V2j/trUjzWtBQnRmcx7hqmtPcqqo31yPHnh+EvyUI=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fit-IT%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>R5LqyuRw7flXE8OxoTYq/7Y9Grf9WT+zyQEYxMUdUD0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fig-NG%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0OntZwSnHO6hHg6oLDRXbsOGV/Oa/vj47Vhy+GDL6rY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fid-ID%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zkJkxxbGOjD/H7UHPJAIyTqHLUZwYI5MtII3+8vbO68=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fhy-AM%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JSAoESiEFHRIdalctVkvCERj1Hr3EPAGO/M9HfbRdMA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fhu-HU%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Zm/DCwINeKeli2sjJKPwgqCYBiNhR3DHSqDtqGehD0I=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fhr-HR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>nuCRtGOqpQWFI4P5m/yHzvLIkNACFmQi+DQAfT/LHmc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FHomeCCTVTextResource.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ZwZhsTGSzzqQOCzzBe8ReWwnYmjUPXkIQjT9cLAM0/o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fhi-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>hwy95ID/LgtE76qiCbmXz28Pyct03wGzJUeOEGyG+hQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fhe-IL%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LDNefzfAfko6SP+YCfMlVtuJ6OC8CQObWpSCM9qg+vY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fha%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>v75RorPcF7avGh3GaeLgGBeb+AmriMGOEn1cFy4Os1o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fgu-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>F91TjLPzYeuWnzi58MvcFE/YzFlJNBEf7ku4sKK0b/g=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ffr-FR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qLpffEJHUTsLnZAM+QJ1N32Zx8UW3a/7NjB0Ir3LxAc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ffr-CA%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>A/xK4efzx+AeZtdocEn+NX86NpSAHzsTKlzXEvgqyAY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ffi-FI%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>lD9KWXMxD6mw2ZBx6C2GkzMxURRePSlu7HFYMN86ZIk=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Ffa-IR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>GAsQF8yFcJMxXjw7qsP8P/FHRTOP8a0ZUzOvE/dlRqE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fet-EE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>thW7s3xr+KX4pXdkLUYKoDFptwOy+wMd/Av32S+3q3M=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fes-MX%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>achIe3QvYKVjl8E3OlAJnaVoK8YHpPJDN6DIA2bQ5s8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fes-ES%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>U+cciu6d0lsjtlrzK0hgRAfYUkGi7T4AJ1tC0o9Fgtw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fen-US%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>hPJnW+W8F240fD3hRzrGBjtJYJdkUzXkuif038YJPTY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fen-GB%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>jtJPUeOCzhir5WxzEx/Bcy9KSdNuUGcPSxctVEVLHE8=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fen-AU%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BZdNgjIgaUXsftpVKY6ARMngJB25jMrIpBXx8rgTl2o=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fel-GR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9pS44Gt3tzeygXehW5vuq935HjOJk67u6HzpMdR/LeU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fde-DE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YjBViKt60zVzppDFpeqYimywE/M1PEI3t4bxDxzjakM=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fda-DK%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rRF91FhjOb2k7WsQ9yJLE7a1nIRuHlgaCGvJpxvb8Ok=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fcs-CZ%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+jqxBjB2Ro1Uwwu/A94kmHcIjzBDacqiC8G4LIarZpQ=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fckb-IQ%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IVgH40PxqS/S/aTQeGw7qrSIdxy8Jfy8wOg+aaLoby4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fbs%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/BZH8Pf2+max298sphkRlUhkKC/fJjNbzLIu8tYm2qU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fbn-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zfdWgUHN/Csdhkpk/URjevnCPMR0T8zC4va5/6WHIlU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fbh-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zqeFPUWXVFGn/o2GuA4HnNKk60xz4ZSi+K/OjNsTVb0=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fbg-BG%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/FiSTUAJoZYf1dJj+fY6x+8x7gXg2kFJGNC6rgqbKNw=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Faz%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ersozFhTOGYxFUp6zhxOyRUW/il5AZ5ypBheawBI4cc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fas-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SNpemxxhyxGgs/eWvQY3scFByFheF8MVGxE4rfYffFU=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Far-AE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tKZ/vgjTyf381PPVKIrPFPlvQ5aWbmMKzHHiZj3Emf4=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fam-ET%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+wYkcMjWCKaB3XfjOAfHe2DjoNr0SZVcopAv3LQsojA=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Faf-ZA%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>DDv/fc/aZFnAY6o7x62MCFgN92csO4c2eMW8tAEWgHs=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fst_icon_function_fullscreen.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vtd/uKFW4typwbs0a11aprpEad79Rh2gEVkmHgSsfLQ=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fst_icon_function_cctv_list.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>XFLDkCNqYxb/uu1AsQVRRffi+82w/UTFO78A0nMJxBM=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fst_icon_function_camera_live.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>TzzfNaia5Egd7TNmvtzOsjFaAjEWuxC4wUFHiD1bFqw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fst_icon_camera_error.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>fJ4S9c2z57txiQKQfOw5K+yy/wKVtTHE7ndw4EW2XdQ=</DigestValue>
+    </Reference>
+    <Reference URI="lib%2FIoT.Common.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>N/0hFzCQShB5lRQCcS+CrwzpWb/xA68DjP64G8hVjP0=</DigestValue>
+    </Reference>
+    <Reference URI="iot-service-home-cctv-flux.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>cLco14QzzYLV2HUIEkB38u78M54q+gACi4Sg2P5lLAQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzu-ZA%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>TU0KoXnJChmLFgAvC3wqnj1LfSa50yQKKvzp81k8lZ0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-TW%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>e218X6zoaDUsyMS/Kgx0y7GZ8cwqqPD9yrxt5M5BlPg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-HK%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Uapl9vJFSx/GE9wq8GhvHx3Ugw2SYMP7D16w3GTAAHo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-CN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Bir9oO23JLJBZ+6Y259r/zE9cTnAVoAkoyNDAciFLUc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fyo-NG%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>AnCwl1QM5MEVdNzPm8OFoukfxuHPbUPClYqbHi9rcWQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fxh-ZA%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>iRSbsyDINw1Pt3hnldEwR+6dGJNH7R8mqZmpyia5eyA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fvi-VN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NgRR9DSCcMrx8my+452PkRkd3+BP4X4apmiR8KQg4z8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fuz-Cyrl-UZ%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2IdCBlWwt1GcojcQ8m7xNXjUqhA/Bhi0iJHPERrixu8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fur-PK%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>idugOtWcUQMPwKlAYNhbhfiSa1xFVYFTF1nJD5RXYCA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fuk-UA%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>GW/b5N0AMllCA0/2AM/SK1ODWyj5tZZZiLvG7GI/km8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftu-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xnAO2QWUz+1+4zgOsc6RkBykFG44AYDgr4uXCIcmYiU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftr-TR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vFN7jbriuQuWf6vcigb1LZYNTEcvC7JwFwVoI3GsNgI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftl-PH%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>skdYkqRSEV+7lJ4u6dg5EBBM7UYJ85lKRQP4kLZ2PC4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.TV.Logger.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>iE80NK7U0Re+wBoXJo7fv4SRujm1VyETyv4xPKUM+Bk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.TV.Application.Utility.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bDHKEs85ZGE6qtG/tclWKPQqljZkJotJf8Aj8rs6ECA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fth-TH%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>EK5EGpnSqyi95YMp2VGTjWvpKVyvo+AiQb4SL6aknXA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fte-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gNwStgG4DbM4URz1CgmFcMeVo5xqMb3B3cqvwzvy5v0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fta-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>hR7lsXiG54XvrRG4msvinnB1Hg2rISHEa3peU6R+1DU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsw-KE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mdikzDSoW0h+GyPvlNvCZCbNl2BdB1rTnS5Sk0m9Cg8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsv-SE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1Ltj5AjM4yPZQTMkEwUeTYftPvONb/fxwDf46DeFV0s=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsr%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>M/Rcoo/tpslynh5/aa+gUwpltXQHDbyiqJKtxiK3j+o=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsq-AL%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>POSA9SCG9qTR844HqUq6R02sSiwpZghlIA2Yk4b4Ruo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsl-SI%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2j9WNeHY2WQ2wC6muF/Zw7rgkCHY3JO2lfOAvsvPKDw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsk-SK%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RyEVTdBUdNqQdfmknMQG+PvsWRzLlDS1cEb9UeNPbqc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FServiceInfo.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bFKbM+BHQnd7yCfKP95iN6Ml0h6904CbNJ3xqROlOGw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsd-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>loJ2HQyzieni/6gfVvvKFctlZ+ZZ7UMbME369JsLzeg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsat-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1MEK3/bKddDyX4aDb5/MiuqNOBgxL7Ful3aBqXv5/wE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsa-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ScMgYmzz0G2Vjqef1KTXYimrueDazxp2yNQkuozTgSw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fru-RU%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RLkvrLHAQhnUyBGVXD06Io2Kxbo4LxKiIgnsNjQJqfM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fro-RO%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Wj1mGo8ZvfeEzgj2N7Pmo0GSOBlhjlbTOVnjGURgRpY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-PT%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>u6/tkLwXr3u/GXR0vkSbNE/n76dcYfr/3PrrUcrC3Yw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-BR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>acfgY1zYdzVkDqkSpBP9wN8k3lOmG0UVALCmSc5jx/Y=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpl-PL%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+pKhpod+uuJBhIMNPZ6HP4U/6HyJa1wOZBduu7Xla6U=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpa%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dntYVKL1HBbK1ezF9rye8Hdkt+9tmF+QEbN6qiV0uBQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2For-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>O16NgclIz1+CesI/ovX1Oryv++31l8QsJSGRTgQq/lc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fnn-NO%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JxIgUB6RraXMOL8mbDjzvhM7LYptqfMYE4qqK5sX0ZE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fnl-NL%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/wlxKsSuuLdwktOqRIHtNXYGGTCEH5b9KnhB8NHKJtw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fne-NP%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>H6Z3uLQnea6bwXZ0TN4YLJNk3R81fFRJOCIyzStuB3A=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmy-MM%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>87EALt7pNQVOItGlRvhH8SRBR8Mjo1iKXQK1fCe/Fsc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fms-MY%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NyNmMyEAk0zOl3w96R/2An8twx6iWd88vyYF8AVvcmw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmr-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NkVa4tmmdGbh/PYA59z0EjysaaIG4D7bbP0JZN4gmz0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmni-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xyoyEl1jXtoLQwrufTKTTNiCWTMvEF/cTu/01efVVwQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmn-MN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0Nt4wXC1GYo0dGV3lCtq8rE2FkMa4oRhEKAFNYmX660=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fml-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2IBWdjADlNEsAwqyhsMd1FQ6G/D4Gbu/jT8zOiInP8E=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmk-MK%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>nwr133Bmo+y2+wTT9Cg8FvCHlILS/RZXyxfHr0/kZEU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmi-NZ%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gLNvXdjQdHh7nn35vjwQO26O4EwptC6CFugyagToWg4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmai-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>z/HhPuYWUIBoqgeOxoCUaXM1rmR68/S58fb9UKJzp0U=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Flv-LV%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YCGRgYHZgH2DCUjTnnksxUaVq5PxqJCUAWMTUE9e+dw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Flt-LT%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vqXMMTSF4bhkGZY9g0ATxJIflKoJ03Kx4khIuE7J/F4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fku%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8xCwbRmCjhrk3t5xmuWD638TVfI/2rE1nIGe0LK0ajs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fks%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kvc5nSv8tXC8RL8J2KqEAdHdoPqrGGoYcDEcuIF0mnc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkok-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rqkR/j4p+slOrU/Cmgzge1eFkoWe74S/UI8M36jBWk0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fko-KR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>i6kh+C+IkwcpL3hDmrSmzoVCn4/pb8V/WQ2J+PFux8s=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkn-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9eBey0X8Lkn+Lh1LaLFbzpsWmqa464bPhcwVAZwxWok=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkm-KH%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kKhHIcFlLHF7ZF77ymHI76faa/ziJs0Dts5TKjczWZg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkk-KZ%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qLxRnIjExi+0vAv9lsUp+6uwVdgqW12O1SUD5EvXV6E=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fka-GE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>TiFsSteznOo7//+Z6TE1QZa7d96lgcdYX2YYs9e1nhs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fja-JP%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Q0V2j/trUjzWtBQnRmcx7hqmtPcqqo31yPHnh+EvyUI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fit-IT%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>R5LqyuRw7flXE8OxoTYq/7Y9Grf9WT+zyQEYxMUdUD0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FIoT.Common.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>N/0hFzCQShB5lRQCcS+CrwzpWb/xA68DjP64G8hVjP0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fiot-service-home-cctv-flux.runtimeconfig.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RGy9NEiii8fdwvQRkaCx61VldYBawsaj26wHFUsSXtA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fiot-service-home-cctv-flux.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>aCAsihc3X39dzXZm4dxRwDovPiBLalv6HhNJdflRj6Y=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fig-NG%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0OntZwSnHO6hHg6oLDRXbsOGV/Oa/vj47Vhy+GDL6rY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fid-ID%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zkJkxxbGOjD/H7UHPJAIyTqHLUZwYI5MtII3+8vbO68=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhy-AM%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>JSAoESiEFHRIdalctVkvCERj1Hr3EPAGO/M9HfbRdMA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhu-HU%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Zm/DCwINeKeli2sjJKPwgqCYBiNhR3DHSqDtqGehD0I=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhr-HR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>nuCRtGOqpQWFI4P5m/yHzvLIkNACFmQi+DQAfT/LHmc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FHomeCCTVTextResource.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>UBDTmBuZLiPKVisaG+UtquiSqyO7fIxl7QZ9qO3oZo4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FHomeCCTVTextResource.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ZwZhsTGSzzqQOCzzBe8ReWwnYmjUPXkIQjT9cLAM0/o=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhi-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>hwy95ID/LgtE76qiCbmXz28Pyct03wGzJUeOEGyG+hQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhe-IL%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LDNefzfAfko6SP+YCfMlVtuJ6OC8CQObWpSCM9qg+vY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fha%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>v75RorPcF7avGh3GaeLgGBeb+AmriMGOEn1cFy4Os1o=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fgu-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>F91TjLPzYeuWnzi58MvcFE/YzFlJNBEf7ku4sKK0b/g=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-FR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qLpffEJHUTsLnZAM+QJ1N32Zx8UW3a/7NjB0Ir3LxAc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-CA%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>A/xK4efzx+AeZtdocEn+NX86NpSAHzsTKlzXEvgqyAY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffi-FI%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>lD9KWXMxD6mw2ZBx6C2GkzMxURRePSlu7HFYMN86ZIk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffa-IR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>GAsQF8yFcJMxXjw7qsP8P/FHRTOP8a0ZUzOvE/dlRqE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fet-EE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>thW7s3xr+KX4pXdkLUYKoDFptwOy+wMd/Av32S+3q3M=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-MX%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>achIe3QvYKVjl8E3OlAJnaVoK8YHpPJDN6DIA2bQ5s8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-ES%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>U+cciu6d0lsjtlrzK0hgRAfYUkGi7T4AJ1tC0o9Fgtw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-US%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>hPJnW+W8F240fD3hRzrGBjtJYJdkUzXkuif038YJPTY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-GB%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>jtJPUeOCzhir5WxzEx/Bcy9KSdNuUGcPSxctVEVLHE8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-AU%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BZdNgjIgaUXsftpVKY6ARMngJB25jMrIpBXx8rgTl2o=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fel-GR%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9pS44Gt3tzeygXehW5vuq935HjOJk67u6HzpMdR/LeU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fde-DE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YjBViKt60zVzppDFpeqYimywE/M1PEI3t4bxDxzjakM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fda-DK%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rRF91FhjOb2k7WsQ9yJLE7a1nIRuHlgaCGvJpxvb8Ok=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcs-CZ%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+jqxBjB2Ro1Uwwu/A94kmHcIjzBDacqiC8G4LIarZpQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fckb-IQ%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IVgH40PxqS/S/aTQeGw7qrSIdxy8Jfy8wOg+aaLoby4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbs%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/BZH8Pf2+max298sphkRlUhkKC/fJjNbzLIu8tYm2qU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbn-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zfdWgUHN/Csdhkpk/URjevnCPMR0T8zC4va5/6WHIlU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbh-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zqeFPUWXVFGn/o2GuA4HnNKk60xz4ZSi+K/OjNsTVb0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbg-BG%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/FiSTUAJoZYf1dJj+fY6x+8x7gXg2kFJGNC6rgqbKNw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Faz%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ersozFhTOGYxFUp6zhxOyRUW/il5AZ5ypBheawBI4cc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fas-IN%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SNpemxxhyxGgs/eWvQY3scFByFheF8MVGxE4rfYffFU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Far-AE%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tKZ/vgjTyf381PPVKIrPFPlvQ5aWbmMKzHHiZj3Emf4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fam-ET%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+wYkcMjWCKaB3XfjOAfHe2DjoNr0SZVcopAv3LQsojA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Faf-ZA%2FHomeCCTVTextResource.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>DDv/fc/aZFnAY6o7x62MCFgN92csO4c2eMW8tAEWgHs=</DigestValue>
+    </Reference>
+    <Reference URI="#prop">
+      <Transforms>
+        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+      </Transforms>
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>e2rGZ9lURQWep1IIbrRk2NYMw5EXlejQt2B0bMLUyoc=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+tGLP637MYjivo7X/DoUx3S9fvx4y0JCab8GwfrAaDCDC4LDc3/uqXdLrYv5YdDfCGGjBtC38xoX/
+2ObhYmeRL90IGbk9ZcKbjcNCYUD7wHoqFAHpheFu/5sNBNvkBdSt654wbXVUDQk4541Yo6UsuF4Q
+W4Thvq1btD5eXOj3JoGzuNd6TZ34iqeBzfhErew939GLdA5kAfA0+yu/F9zCpXNsNSU3Zf3vHUqD
+WXKIerSHt2+9db73/Do+AyWq1GP7jQ9BrT37s66/BE8zHYW7CJJGK+8IOpVFmwI5cM0ZOl099G/b
+nYZWOW+Kxrwv0In0DzgYTb5l2HX4yQL2f5xCXA==
+</SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+      <X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <Object Id="prop">
+    <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+      <SignatureProperty Id="profile" Target="#AuthorSignature">
+        <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile>
+      </SignatureProperty>
+      <SignatureProperty Id="role" Target="#AuthorSignature">
+        <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role>
+      </SignatureProperty>
+      <SignatureProperty Id="identifier" Target="#AuthorSignature">
+        <dsp:Identifier></dsp:Identifier>
+      </SignatureProperty>
+    </SignatureProperties>
+  </Object>
+</Signature>

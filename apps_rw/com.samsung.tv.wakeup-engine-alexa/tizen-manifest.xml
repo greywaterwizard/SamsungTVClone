@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.wakeup-engine-alexa" version="21.21.11101">
+	<feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+	<profile name="tv-samsung" />
+	<service-application appid="com.samsung.tv.wakeup-engine-alexa" exec="wakeup-engine-alexa" auto-restart="true" type="capp" multiple="false" taskmanage="false" nodisplay="true">
+		<icon>wakeup-engine-alexa.png</icon>
+		<label>com.samsung.tv.wakeup-engine-alexa</label>
+		<metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+		<metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+		<metadata key="http://samsung.com/tv/metadata/servicename" value="com.samsung.tv.wakeup-engine-alexa"/>
+	</service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/appdir.shareddata</privilege>
+		<privilege>http://tizen.org/privilege/mediastorage</privilege>		<!--For the internal storage-->
+		<privilege>http://tizen.org/privilege/externalstorage</privilege>		<!--For the external storage-->
+    </privileges>
+	<tv-info api-version="5.5.0">
+		<infolink>T-INFOLINK2021-1003</infolink>
+	</tv-info>
+</manifest>

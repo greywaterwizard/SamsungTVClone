@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.pisa-service" version="1.6.4621">
+    <description>pisa service daemon</description>
+    <profile name="tv-samsung"/>
+    <service-application appid="com.samsung.tv.pisa-service" exec="pisa-service" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>pisa-service</label>
+        <icon>pisa-service.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="pisa-service"/>
+    </service-application>
+    <service-application appid="com.samsung.tv.adagent-service" exec="adagent-service" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>adagent-service</label>
+        <icon>adagent-service.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="adagent-service"/>
+    </service-application>
+    <service-application appid="org.tizen.pisa-control-service" exec="pisa-control-service" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <icon>org.tizen.pisa-control-service.png</icon>
+        <label>pisa-control-service</label>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/network.profile</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <feature name="http://tizen.org/feature/network.ethernet">true</feature>
+    <feature name="http://tizen.org/feature/network.wifi">true</feature>
+    <tv-info api-version="1.0.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <build-info id="7656569">
+        <app-info exec="pisa-service" id="com.samsung.tv.pisa-service"/>
+        <app-info exec="adagent-service" id="com.samsung.tv.adagent-service"/>
+        <app-info exec="pisa-control-service" id="org.tizen.pisa-control-service"/>
+    </build-info>
+</manifest>

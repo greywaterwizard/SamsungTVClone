@@ -1,0 +1,476 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "SafLaunchBridge/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "TextResources": "1.0.0",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.NET.Sdk": "1.0.9",
+          "Tizen.TV.Broadcast.Hybridcast": "1.0.4",
+          "Tizen.TV.FLUX": "1.0.30",
+          "Tizen.TV.FLUX.Component": "1.1.67.5",
+          "Tizen.TV.System": "1.0.115",
+          "LitJson": "1.0.0.0",
+          "Tizen.TV.Service.Flux.SAF": "1.0.0.0",
+          "Tizen.TV.Service.Seal": "1.0.0.0"
+        },
+        "runtime": {
+          "SafLaunchBridge.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Newtonsoft.Json/12.0.1": {},
+      "System.Runtime.CompilerServices.Unsafe/4.5.0": {},
+      "System.Text.Encoding.CodePages/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
+        }
+      },
+      "Tizen.NET/8.0.0.15712": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Tizen.NET.API8": "8.0.0.15712"
+        }
+      },
+      "Tizen.NET.API8/8.0.0.15712": {},
+      "Tizen.NET.Sdk/1.0.9": {},
+      "Tizen.TV.Broadcast.Hybridcast/1.0.4": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.115"
+        }
+      },
+      "Tizen.TV.FLUX/1.0.30": {},
+      "Tizen.TV.FLUX.Component/1.1.67.5": {},
+      "Tizen.TV.Security/1.0.4": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "4.5.0",
+          "Tizen.NET": "8.0.0.15712"
+        }
+      },
+      "Tizen.TV.System/1.0.115": {
+        "dependencies": {
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "TextResources/1.0.0": {
+        "runtime": {
+          "TextResources.dll": {}
+        },
+        "resources": {
+          "zu-ZA/TextResources.resources.dll": {
+            "locale": "zu-ZA"
+          },
+          "zh-TW/TextResources.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "zh-HK/TextResources.resources.dll": {
+            "locale": "zh-HK"
+          },
+          "zh-CN/TextResources.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "uz-Cyrl-UZ/TextResources.resources.dll": {
+            "locale": "uz-Cyrl-UZ"
+          },
+          "xh-ZA/TextResources.resources.dll": {
+            "locale": "xh-ZA"
+          },
+          "vi-VN/TextResources.resources.dll": {
+            "locale": "vi-VN"
+          },
+          "yo-NG/TextResources.resources.dll": {
+            "locale": "yo-NG"
+          },
+          "ur-PK/TextResources.resources.dll": {
+            "locale": "ur-PK"
+          },
+          "tr-TR/TextResources.resources.dll": {
+            "locale": "tr-TR"
+          },
+          "uk-UA/TextResources.resources.dll": {
+            "locale": "uk-UA"
+          },
+          "tu-IN/TextResources.resources.dll": {
+            "locale": "tu-IN"
+          },
+          "tl-PH/TextResources.resources.dll": {
+            "locale": "tl-PH"
+          },
+          "te-IN/TextResources.resources.dll": {
+            "locale": "te-IN"
+          },
+          "th-TH/TextResources.resources.dll": {
+            "locale": "th-TH"
+          },
+          "ta-IN/TextResources.resources.dll": {
+            "locale": "ta-IN"
+          },
+          "sw-KE/TextResources.resources.dll": {
+            "locale": "sw-KE"
+          },
+          "sv-SE/TextResources.resources.dll": {
+            "locale": "sv-SE"
+          },
+          "sl-SI/TextResources.resources.dll": {
+            "locale": "sl-SI"
+          },
+          "sr/TextResources.resources.dll": {
+            "locale": "sr"
+          },
+          "sq-AL/TextResources.resources.dll": {
+            "locale": "sq-AL"
+          },
+          "sk-SK/TextResources.resources.dll": {
+            "locale": "sk-SK"
+          },
+          "sd-IN/TextResources.resources.dll": {
+            "locale": "sd-IN"
+          },
+          "sat-IN/TextResources.resources.dll": {
+            "locale": "sat-IN"
+          },
+          "sa-IN/TextResources.resources.dll": {
+            "locale": "sa-IN"
+          },
+          "ru-RU/TextResources.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "ro-RO/TextResources.resources.dll": {
+            "locale": "ro-RO"
+          },
+          "pt-BR/TextResources.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pt-PT/TextResources.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "pl-PL/TextResources.resources.dll": {
+            "locale": "pl-PL"
+          },
+          "or-IN/TextResources.resources.dll": {
+            "locale": "or-IN"
+          },
+          "pa/TextResources.resources.dll": {
+            "locale": "pa"
+          },
+          "nn-NO/TextResources.resources.dll": {
+            "locale": "nn-NO"
+          },
+          "nl-NL/TextResources.resources.dll": {
+            "locale": "nl-NL"
+          },
+          "ne-NP/TextResources.resources.dll": {
+            "locale": "ne-NP"
+          },
+          "my-MM/TextResources.resources.dll": {
+            "locale": "my-MM"
+          },
+          "ms-MY/TextResources.resources.dll": {
+            "locale": "ms-MY"
+          },
+          "mni-IN/TextResources.resources.dll": {
+            "locale": "mni-IN"
+          },
+          "mr-IN/TextResources.resources.dll": {
+            "locale": "mr-IN"
+          },
+          "ml-IN/TextResources.resources.dll": {
+            "locale": "ml-IN"
+          },
+          "mn-MN/TextResources.resources.dll": {
+            "locale": "mn-MN"
+          },
+          "mk-MK/TextResources.resources.dll": {
+            "locale": "mk-MK"
+          },
+          "mi-NZ/TextResources.resources.dll": {
+            "locale": "mi-NZ"
+          },
+          "mai-IN/TextResources.resources.dll": {
+            "locale": "mai-IN"
+          },
+          "lv-LV/TextResources.resources.dll": {
+            "locale": "lv-LV"
+          },
+          "lt-LT/TextResources.resources.dll": {
+            "locale": "lt-LT"
+          },
+          "kok-IN/TextResources.resources.dll": {
+            "locale": "kok-IN"
+          },
+          "ku/TextResources.resources.dll": {
+            "locale": "ku"
+          },
+          "ks/TextResources.resources.dll": {
+            "locale": "ks"
+          },
+          "ko-KR/TextResources.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "kn-IN/TextResources.resources.dll": {
+            "locale": "kn-IN"
+          },
+          "ka-GE/TextResources.resources.dll": {
+            "locale": "ka-GE"
+          },
+          "it-IT/TextResources.resources.dll": {
+            "locale": "it-IT"
+          },
+          "ja-JP/TextResources.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "km-KH/TextResources.resources.dll": {
+            "locale": "km-KH"
+          },
+          "ig-NG/TextResources.resources.dll": {
+            "locale": "ig-NG"
+          },
+          "kk-KZ/TextResources.resources.dll": {
+            "locale": "kk-KZ"
+          },
+          "id-ID/TextResources.resources.dll": {
+            "locale": "id-ID"
+          },
+          "hy-AM/TextResources.resources.dll": {
+            "locale": "hy-AM"
+          },
+          "hr-HR/TextResources.resources.dll": {
+            "locale": "hr-HR"
+          },
+          "hu-HU/TextResources.resources.dll": {
+            "locale": "hu-HU"
+          },
+          "hi-IN/TextResources.resources.dll": {
+            "locale": "hi-IN"
+          },
+          "ha/TextResources.resources.dll": {
+            "locale": "ha"
+          },
+          "he-IL/TextResources.resources.dll": {
+            "locale": "he-IL"
+          },
+          "fr-FR/TextResources.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "gu-IN/TextResources.resources.dll": {
+            "locale": "gu-IN"
+          },
+          "fr-CA/TextResources.resources.dll": {
+            "locale": "fr-CA"
+          },
+          "fi-FI/TextResources.resources.dll": {
+            "locale": "fi-FI"
+          },
+          "fa-IR/TextResources.resources.dll": {
+            "locale": "fa-IR"
+          },
+          "es-MX/TextResources.resources.dll": {
+            "locale": "es-MX"
+          },
+          "et-EE/TextResources.resources.dll": {
+            "locale": "et-EE"
+          },
+          "en-GB/TextResources.resources.dll": {
+            "locale": "en-GB"
+          },
+          "es-ES/TextResources.resources.dll": {
+            "locale": "es-ES"
+          },
+          "en-US/TextResources.resources.dll": {
+            "locale": "en-US"
+          },
+          "en-AU/TextResources.resources.dll": {
+            "locale": "en-AU"
+          },
+          "el-GR/TextResources.resources.dll": {
+            "locale": "el-GR"
+          },
+          "de-DE/TextResources.resources.dll": {
+            "locale": "de-DE"
+          },
+          "da-DK/TextResources.resources.dll": {
+            "locale": "da-DK"
+          },
+          "cs-CZ/TextResources.resources.dll": {
+            "locale": "cs-CZ"
+          },
+          "bs/TextResources.resources.dll": {
+            "locale": "bs"
+          },
+          "bn-IN/TextResources.resources.dll": {
+            "locale": "bn-IN"
+          },
+          "ckb-IQ/TextResources.resources.dll": {
+            "locale": "ckb-IQ"
+          },
+          "bh-IN/TextResources.resources.dll": {
+            "locale": "bh-IN"
+          },
+          "am-ET/TextResources.resources.dll": {
+            "locale": "am-ET"
+          },
+          "af-ZA/TextResources.resources.dll": {
+            "locale": "af-ZA"
+          },
+          "as-IN/TextResources.resources.dll": {
+            "locale": "as-IN"
+          },
+          "bg-BG/TextResources.resources.dll": {
+            "locale": "bg-BG"
+          },
+          "az/TextResources.resources.dll": {
+            "locale": "az"
+          },
+          "ar-AE/TextResources.resources.dll": {
+            "locale": "ar-AE"
+          }
+        }
+      },
+      "LitJson/1.0.0.0": {
+        "runtime": {
+          "LitJson.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Tizen.TV.Service.Flux.SAF/1.0.0.0": {
+        "runtime": {
+          "Tizen.TV.Service.Flux.SAF.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Tizen.TV.Service.Seal/1.0.0.0": {
+        "runtime": {
+          "Tizen.TV.Service.Seal.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SafLaunchBridge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B0e5zqoqcKVHqq6cWG1w1LRfPkSDH8YkL/nzt3b+k2CP+uvbwWlZGxG+1yFL/v43uXfepJ2Q8yNAbvdEZK/ZWQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zJEnIENxZI94PcnvB5dzcx9Vmhc3hWb1vW4WPC2L9TL0gqSnqrbCIrThconq8Q/Y6usFFaf5i7Mvs+DliuUEZA==",
+      "path": "system.text.encoding.codepages/4.5.0",
+      "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
+    },
+    "Tizen.NET/8.0.0.15712": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CrstsTQeiKLxuQ3f43HATqDJS1mmIpWmpxz8cVbiyFkV9h3ADILSt0d7pzVpSYW+IECWwtcGiC3hbhfZxWD/jw==",
+      "path": "tizen.net/8.0.0.15712",
+      "hashPath": "tizen.net.8.0.0.15712.nupkg.sha512"
+    },
+    "Tizen.NET.API8/8.0.0.15712": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pOtdzC9HVirfEfO8aGfLLKwKgMoBUhhUNW+dF37KK+u9GkDjCzqtB1WbadnQ+FiAXcbFjd6GP5rY+dTtShp7qg==",
+      "path": "tizen.net.api8/8.0.0.15712",
+      "hashPath": "tizen.net.api8.8.0.0.15712.nupkg.sha512"
+    },
+    "Tizen.NET.Sdk/1.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-acid6tFOYPnfBSKnfxj9azlc9gkT0KG8oq/c7xA9EjXRE1TP0V/tfg7XSMIUdFNw2NAYQdS8LWdwu+YK1NGpjw==",
+      "path": "tizen.net.sdk/1.0.9",
+      "hashPath": "tizen.net.sdk.1.0.9.nupkg.sha512"
+    },
+    "Tizen.TV.Broadcast.Hybridcast/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gH3hNyEq1LgKCEGYQDH/su2FlvSLkQ93+LfKPEIbGVuun2w3phj1Lo66C2CRc0sjeNjBwW9EB58STukWY/VEeQ==",
+      "path": "tizen.tv.broadcast.hybridcast/1.0.4",
+      "hashPath": "tizen.tv.broadcast.hybridcast.1.0.4.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX/1.0.30": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vBkHu42LZ7qD1yLizb9u+NkJ9I41UGox+JELr0/18GtiUCqsh+ONpX08D+I1xaQnvDYqsqli0uJ4qeyTDaZCWw==",
+      "path": "tizen.tv.flux/1.0.30",
+      "hashPath": "tizen.tv.flux.1.0.30.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX.Component/1.1.67.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-diomW0DhbLyzU83amfuXiX/Ci5JOsrOevF6p/etjphRH0tPK/UfeU4C48thJuNU41+dcesooFVymRtoWQdUrWg==",
+      "path": "tizen.tv.flux.component/1.1.67.5",
+      "hashPath": "tizen.tv.flux.component.1.1.67.5.nupkg.sha512"
+    },
+    "Tizen.TV.Security/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wvbEn72TwXZnAfk+RA+ziMjz+5S7VUeuWcCIj2zHffWWiGC6LB5ExbvBwGP2rqpjdA5PxH3lNUgwej+nni1DMQ==",
+      "path": "tizen.tv.security/1.0.4",
+      "hashPath": "tizen.tv.security.1.0.4.nupkg.sha512"
+    },
+    "Tizen.TV.System/1.0.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cxePb4ff9UgIwX8SZIg/JPotwQ+SRNpjDdyaatDr69NUuNfNpvJCULp+ptuokun4gwRSiaOU+oIgVthdR7pTMQ==",
+      "path": "tizen.tv.system/1.0.115",
+      "hashPath": "tizen.tv.system.1.0.115.nupkg.sha512"
+    },
+    "TextResources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LitJson/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tizen.TV.Service.Flux.SAF/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tizen.TV.Service.Seal/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

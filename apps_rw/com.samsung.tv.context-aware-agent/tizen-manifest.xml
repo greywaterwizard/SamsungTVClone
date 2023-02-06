@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.5" package="com.samsung.tv.context-aware-agent" version="2.1.5">
+    <description>Context Aware Agent application</description>
+    <profile name="tv-samsung" />
+    <service-application appid="com.samsung.tv.context-aware-agent" auto-restart="true" exec="context-aware-agent" multiple="false" nodisplay="false" taskmanage="false" type="capp">
+        <label>ContextAwareAgent</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="com.samsung.tv.context-aware-agent" />
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="true" />
+    </service-application>
+    <service-application appid="com.samsung.tv.context-aware-grab-control" auto-restart="false" exec="grabcontrol" multiple="false" nodisplay="true" taskmanage="true" type="capp">
+        <label>Context Aware Agent GrabControl</label>
+    </service-application>
+    <service-application appid="com.samsung.tv.context-aware-agent-toast-view" auto-restart="false" exec="agent-toast-view" multiple="false" nodisplay="true" taskmanage="true" type="capp">
+        <label>Context Aware Agent UI Viewer</label>
+    </service-application>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <privileges>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+    </privileges>
+    <build-info id="6272543">
+        <app-info exec="context-aware-agent" id="com.samsung.tv.context-aware-agent" />
+        <app-info exec="grabcontrol" id="com.samsung.tv.context-aware-grab-control" />
+        <app-info exec="agent-toast-view" id="com.samsung.tv.context-aware-agent-toast-view" />
+    </build-info>
+</manifest>

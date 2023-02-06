@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="6.0" package="com.samsung.tv.vision-data-recognition-service" version="21.2.2">
+    <description>Vision Data Recognition</description>
+    <profile name="tv-samsung"/>
+    <service-application appid="com.samsung.tv.vision-data-recognition-service" exec="vision-data-recognition-service" type="capp" multiple="false" taskmanage="false" nodisplay="true">
+        <label>vision-data-recognition-service</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="vision-data-recognition-service"/>
+    </service-application>
+    <build-info id="3201909019295">
+    	<app-info exec="vision-data-recognition-service" id="com.samsung.tv.vision-data-recognition-service" />
+    </build-info>   
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="6.0.0">
+        <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+</manifest>

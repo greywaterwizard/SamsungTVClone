@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.mde-framework" version="3.21.30">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv-samsung-5.0" />
+    <service-application appid="com.samsung.tv.mde-framework" auto-restart="true" exec="mde-framework" multiple="false" nodisplay="true" on-boot="true" taskmanage="false" type="capp">
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="on" />
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="mde-framework" />
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="true" />
+        <label>mde-framework</label>
+        <icon>mde-framework.png</icon>
+        <metadata key="samsung-experience-service-api-level" value="1" />
+        <metadata key="http://tizen.org/iot/metadata/resource" value="shared/res/resource.json" />
+        <background-category value="background-network" />
+    </service-application>
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2021-1010</infolink>
+    </tv-info>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/imemanager</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://tizen.org/privilege/wifidirect</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <appdefined-privilege>http://com.samsung.tizen.smartthings-thing/appdefined/smartthings-thing.resource</appdefined-privilege>
+        <appdefined-privilege>http://com.samsung.tizen.smartthings-thing/appdefined/smartthings-thing.master</appdefined-privilege>
+    </privileges>
+    <build-info id="8060571">
+        <app-info exec="mde-framework" id="com.samsung.tv.mde-framework" />
+    </build-info>
+</manifest>

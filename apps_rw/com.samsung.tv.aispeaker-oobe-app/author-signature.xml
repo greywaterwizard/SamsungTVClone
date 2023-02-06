@@ -1,0 +1,735 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+    <Reference URI="tizen-manifest.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>/T9R0N9lvnUnE5vtXNwdFdnMTJSBFjmSLgc/PfESVuJgWFZa7suuQ8LmUMa37sdQgxDIsa2LMi75vV/BbN/uDA==</DigestValue>
+    </Reference>
+    <Reference URI="SoundbarOOBEApp.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>R0f+E3Fz9ICcAyTewueNFkzK07Y/WIdQBd8P8rYFv7RmEHkU1mrX6GPPWVupDnGX0Glu97nuWdaUgL1tjwl5zw==</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fimages.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>PP2kj7v+3y2RokUYjU8wB3Uia304C/C+Dp5pSguNmsVFRSiy3LRcwSmEorC4fhX4wsDNOnonjZ4Gtmt3AyTNGQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_9.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>+3eAOgLvQ6EimjmFi8f9351kB7p4MBoXUWBB7yAOLyIYagcp2yFj1JwpmU9aqlhvH76fkY/IDgYeUYKfISfeWQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_8.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>s+y5PHvyS/yrGdZvBh3XRBuFhl4iCAl0pCI/nVaDV6s2ej9EWmuWNWrOjmeCyjHa3eKMB82Z5a7KOSPKRcjblw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_7.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>kIt7vvlEm3v0FV9bAs7HMahu99WZPEwp1BSxVv7cv0Adiok2R8WRE7hNsGp6zF/tc9t+ixXEpNoUkSoO7Ablpg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_6.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>nsGUyhFkriDwT5iAJk4txAcQHc6PNdHHn9MyLXK/Qu1U/TaYOxfVtphAmu3Kg+rkrs4+vlbgd1dAeuTKj21ABg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_59.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>yriJR09dn4T98Zb6rbGEYHCh8AO29zyBP1SkRtcfva4DccQxDoUDkoB0TsJoPeF2e0lcmSLZP4Ql3yXiSdAHaw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_58.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>GfYH4jgR6EUXZ7OcD1j3g6dYMUXncJS3C2/CuhLOmdzXn+n4iDHuNVicMlk/jBbyvlfD5oK1fq5/kbLcgXOWyQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_57.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>CPvszdqRC/ACJUGdvioXMQvLAFsG1WavFjWRGLZcO9ND8mRegWmtMUzVseGi04PDFnkk3MDh+dMP1LARRj78Sg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_56.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>7MiQGT2eirYXxMrZmBCJsfTtkfp832nvg+1vWsry7P38e81YNcOHa7lMPhhALNlJc+pQvjDI0TBKznR/F+olHw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_55.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>k7b25fuB2SPySddV1AaJQBgKtzp2ksNOKjs2Tt6ShU9x9O6B4uoGL6zKMJ/TGMd4fBQezxu4po2iKwYt+iQrEQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_54.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>I9UF21FTxZeZRcvlFBPSiUONh/mlNyimsxOEe22kUhgLlJtMSwqlcPQd0LrIr5qHKJJe+rrGHd3bJas4lqR/PA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_53.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>Mdts5vi9JcjthHGOqO/gDDOQX9QA4Mst5xg/xp7dlvzB8V20Kyap7ZB9cwMXR2/ikEv/0C1U/SezBkx/gLidYQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_52.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>sPewkVFp9uhqp14kuqxLTw62IbT/3GgNLJ4MgBxeNFIHJghEPZmAwOLlVksL52kfKnfXl/oZdE5M6h9cWj6vyg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_51.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>LPC3helkxNdzZwYbLbqsYzyKGf/j+qcE7LHpp/mueTGHeKUZFZJisGGtNIzON70OZwgZmzbRjqZzn3La3oU72w==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_50.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>bKVPIT01P41pZT3fOEwu4CTtf4bnLgyQt6xJ1g8eYwta9QukWTRY+A8JHupCCRHrYnRHEN2pdLAO4vrOwceSZw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_5.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>zUB7FxXSswbG/CrZSTb2HAy5UQgjAfKY+MKPwV7pxoUi9SjRnGefzWDpHJWj34npQ10bH3UQQcyHW2boE5Cz4w==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_49.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>sv+sKZjo1+oU43NlJsLcWQqrUSMOcxuVwYrpNSrHnnt7Gvs10DzaFNEG27bB+wUi3kK4+li2AbO9WXm7eTjSGg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_48.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>I5dDLkP1Rw80pvRqIHS+i+BhJDuwbrLSQUMoSy4bZ0oiBPaGWxLKNTreI3yD2WdUELDgk/P8TtXvzZocbf8weg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_47.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>wgNkKRVHb6tcXAUHvyFqga+3bzO9KzhfixVoMTptW8d0HxKNH5lJIApib+pzdss1PDMjDDQ4zgBMX9XxDHENxQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_46.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>UJ/FgNK7N8B10BsmboEwCKlei0oUQch39bOiKA5yWht/evLpKUU+QZPiIaCCgz40x65Hv77pf6BCcSSYeTOE9A==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_45.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>KjN963gal6KDfFnir2bt3gpBXmnbe+n+xZ1I0TBuy0p+tHQBlzg3nIoDvJOm/HdxeuY7uhPTQdR0avHFs3syDA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_44.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>QLTtvnPJTtyIwy1NWhMoxZmshepVefxi4wbOD6iowmcpIfctXNPdoU7Jf3/XPZQAoZEatuRMTjq+wj/+TJLuxw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_43.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>0M0li4YUVwScxvzzrs+yi2hxWzrHyeAy/G1rPhm7En73uW0MXKSMgSyfVFMJYPfnZEnRL7LRHCDKvVU2TC6jPg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_42.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>WivFOOXKU2ugO/14tFGiiSO2GAOxCNhJMYizdxJHC3ma5b11xSk2q8uM4brBSRmujUkcB39sYkOll/hjV3gbhw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_41.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>6uVc2icxbPwc51eP2NQ32UDqxDuhqhYljdGqaQMoVPSF4J2vlGkpsb/LHKq136b0V1HRygzsB0xDEp5A1taLjA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_40.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>YK3kDDs6Bxe2KZMY1G9Ih0KDaxMtDFDGL3eU0K0ky9Fh2XC+JimM1/Nyl6t8eHlIvgabFnlb3XZUIo5qDcgAVw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_4.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>xR7JYRqy+tPzTQpywN+rtKiGchzK5QEe+9ro8TjvOzQlSDsZazYL03VDX5NIE/BqAqNAiUPbv3GursyxCttewA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_39.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>A7IKnp6bk7IVQZgnxDLylHF/64g5CrhpmrcD+yY2YsnudnkAByqpOMWDkceDirlefKR1TcoaChGQ6p0OhRqXqw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_38.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>JMMuFrGcmDF/GBUwISuFab/3YyqEbyWoQiPZMKidrnoiFzYpN6KtJ+itOC2jGS8Icr7AQjSiF5ersUnJZAanUw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_37.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>/YaQVR9h3zWfaJjZ7wuLGGKFKR3nehFKAOyWRpe4IxSZjsxmBtwM+A8IcP5XpOEEyzfV6gp2dMuouMySuoHaUA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_36.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>Qn6CHlHDG7c5mWUW3Ji5by2LPaeo3kCyYgRIbvb4sh6qVv+Yf/jCmhZXygS4adjW1zOFZtAYw+evaPtBi6o55Q==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_35.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>ULk2n0LvvYHfAi6pbeNGjB/49BlA1Y8rHH+ODxaZuMeX4oEzTYjiS+0tECfWeR9ljbR1IIV98GyFyNo8XCv55A==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_34.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>9f9KqEW+Pe58x7KddQYwYrsgCter91mlpuY31vbb1FQ/OTuf1FUvR0wpnh947ah6FYluF6zbPqOA9N893zE9GQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_33.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>008GbYTtjg9yia62RXuUP6LQJtx3ItAG434IXw/sarb2kdqY0UX1lsftbhxd6vZAEv1dcZZvq0GLc2zT/3PF7g==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_32.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>Q4JH1tyyBT2r2ZsezJ5FGqnFytNLM6em/CfIG9Fq5jRvj53yWuLLq2LwrBBxPkOPy0BeYMlK5dOkIYw7nUyR7A==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_31.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>6GyebJ/8RxOi2WVgIOneDt6M9cTBH6xkn3G6GHJ57Ds1HZSg3eprjkXZLaVnvbFJIE2M5FbYCsXhKosEcxf8dw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_30.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>mN5HWcqYF6y24FAtlwt5vouf2wQIKwQpw6ehem2g1r5fJvEnOFjIfYfXNJ9ntX4Y2Yt0HW94OjqHMmA17lp+2g==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_3.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>zQ2/CXSVu3lA7uAS9crBD+6VO7A2bxHQgZ2Se4dT22kvj+y9mFcmauPCY+IqntxrKj63Aux3VaQ2qtm6yfYZOw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_29.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>kSkQUxjwIEtM8ULDgADZYHNjHiOjUa38T4/5++q/U0fHMCWZ4ZMSQwWc4PibqDIn4YoijzuaF1woMLrdGwhxmQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_28.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>DmRcfGmDs071fOVDxJsmG497PSm5vOa6W64paOdKrGHu0V7dhNKNVuZAsETH2/ioBqlRrVXtRnD0cj4ec7L7Dg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_27.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>thhkKSlDUNYxb9Evr9qpyMue+GKLytmFn7LjFgQJ3faFYLrj/QSyhBWxls/C06CCLZyC3Bz/bCkkCYrrQc4L/A==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_26.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>ys5ux1/+I4NzT/G7RZYzaiLKX4ay67+05kGy1cTb/Xx7pjH91CAvpaCIxwC1EsUKaFx3eP8nZyMkeitdVZdIog==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_25.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>iWgpmIMYG13HVKd86oic4D9b+hkIMfOX7AUFWBBHg2KbCbGsAE6zyKnvAgI0EucrQdxHz2Pac273RYYmKqckZg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>LHEsFFAP4edrobudfoEQ8X8VYPePowNYHmHVzhauccrqVy/GCxnVYTPHkfyNpe4edv1R4eKP26W+AmnaPe/cMg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_23.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>//Wj3O/UaMxnbtvD81DrkNY65DPNaTwQUvYTsAqTMs1aHXlVhxfw6fI+yXJrMVeDDUSimx47BgA80IJ37bYsGw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_22.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>7HOqmwNI+nZhzQ2kOX4Htb2g+xSB/8Vii7QdBL6ac5RE8y6WB+90FeCWBJUJHg6doc1Poq0xLp1apPtkQ7q17w==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_21.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>mnA2XtrL4tXghYftQwjKn0DA+qRfIl7F7y6VhUPeaWZBGjjPPswD2+eDG26II8LbqdqPeoCR1dTGfWHCn23qcA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_20.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>6X/8R2n6xs6aOeaySPYHnYy/grh9BYqgT3hMFx0L9xza66EgR9Z+PIyfa8A9mQ/qA4F+BkteF6qlW7Y+swbQOA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_2.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>DdT0OHdZiDWtl+jZxDd285AWSKfhaH1zPaKI4SX+o2uR1A2wC329e9DCOFz0tEStwMlwzuDGOlw8zXRvlMtwmg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_19.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>CpyGLQjmCmSv9EkHAFwsb2J40MGLi0bhiPwseRiWSB95GuXZE09WlYjT2PSgLvqbj7cwWwGqA4RwEyiCwJ/2iQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_18.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>dEdSaC3Ie3OZJBXK7uCdB3EnHG5u+htciV0vwSwHL3m6zpZP6I5it4cJVlPdpvWmQgA+8Yp+cuED2qNo+7wsKA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_17.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>TWr1oqqPUDKAVKJM5Klngc7nQlqqu1LCHs4D4ruyys0Y7fjqJCtU2GjPTAnoI9t2NA7AEVb5v+ay+gSgL9L4tg==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_16.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>WF8wAdEYUEG6tKVS2yU9NPdB3YIMs2EDDR3Lxz0Nq/fUm8xYbgGlYebJcrVlWljDCJ6ZMaABQxQ9ABFIItmyHw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_15.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>SsV3h4UtIDsyLmjfC27gznWPGB2MFqYwiu4bKF7O0+vrjgnJL2N0oSScrkKdS9GTj/frSnz2UaUF/BC0mptJVQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_14.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>yMM/vh3zKKhA0JV1E/awLYtz8rxTPjI0M5IUQjZd0jLwyBMs97QqYVFv+WmsccgHWgAGzkQZX0nnfiuub6m67A==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_13.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>8ZB/9AVJBsWpRvMdDFDe3Q+USODjYLPyIUIUq9rNf2O19v7xp530qStaD6UDR4I3Fuq0SzEmskma6Uoaw912ag==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_12.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>xyiTfMrvVA0kzu6NWCOHoPociMQ66eEvUQToKvgwOmAeXMMBcgxHjjxh7XTlhjvDHVcSIcPNj671fNffmAPpaA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_11.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>umu64mtdIGrVHppCgtCQrThNmCTPwjvuDEhHqLhvIzLVEjimDBolDU1hCHOLQuH/FTf2ryL6TegvZwdYma1hdA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_10.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>5kANl67NZgc+apJ+0YO85HbqmQqYrl1r31MiG37YxHj2nYzrGhnivflOXYLpchNB60Dzfhx9pVL8cDLM1R8HZw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_1.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>ad+A7tLH+6iwsW/X1qmuidmffOO8rhSp7ub5EVNFeD29Bd9N4ccBr2tCIrO9eA9sZ7I/qFuIw7R9Bvgj1hpLYQ==</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fprogress%2Fdevice_care_progress_0.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>c6yrBi8WIKRS2eSaIUgc9eKi1/qqyj99amqUMvInoQqIzA8BaN4bQ47MBLaUeUGSnfwacAur7ha8/8F3XBh/Ew==</DigestValue>
+    </Reference>
+    <Reference URI="res%2FOPEN_THEME%2Fsb_img_guidebox_bg.9.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>cPVWC/+dq8v2hkWQlKrobSSYzBF5UbYJMzJsfGu5xNWleoNDt+fLAjEiLI2SZKNhxvWLFrwCjSeD/ywEIPr9iA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2FOPEN_THEME%2FJSON%2Fsb_img_guidebox_effect.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>udaBvuvpTEZEJzgUSN25G4STo71zK2918ajoWpGZ9LBv1kWbA2LjXTCuwzGSUiZfoAIhh05aGeivd++srjoRSw==</DigestValue>
+    </Reference>
+    <Reference URI="res%2FDARK_THEME%2Fsb_img_guidebox_bg.9.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>cPVWC/+dq8v2hkWQlKrobSSYzBF5UbYJMzJsfGu5xNWleoNDt+fLAjEiLI2SZKNhxvWLFrwCjSeD/ywEIPr9iA==</DigestValue>
+    </Reference>
+    <Reference URI="res%2FDARK_THEME%2FJSON%2Fsb_img_guidebox_effect.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>udaBvuvpTEZEJzgUSN25G4STo71zK2918ajoWpGZ9LBv1kWbA2LjXTCuwzGSUiZfoAIhh05aGeivd++srjoRSw==</DigestValue>
+    </Reference>
+    <Reference URI="lib%2Fversion.txt">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>qDfdi8Aufx2p/wj1gyV/y0SrqZQv3xYk+mTvqBuBDDI3HbWzMGIJXY6a02luExBwjd4p+dE9zhu/EkUUEskRrg==</DigestValue>
+    </Reference>
+    <Reference URI="lib%2FTizen.TV.Connectivity.EasySetup.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>ks5JaqYbxFrcjx6myetYoz1QIXnvAHQ2P1PwGJ1JDZZ6heAzeomlmCxNz064Q7LE0W3Kqy1yNvCuBenxfeKzBg==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzu-ZA%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>dBAY5pzb9FmIKbVON2y9Dy5a1ir4wikcTHPbZNYinLhg2Au+rW0upKUHifXqLaAv7lW3KRAP+hZ+JfVWAR1AAQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-TW%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>gUX1T+zF2J3fZGVtB5FYRdd9W0fqrm4gbsH3cBsfOaCKvSApHMA+30y3ykE+U3zEemgpcqhCcpwbog62mivcyg==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-HK%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>YZJCwpYft2teTq9u0/9nqBxLxsc/5pCtVyzvx2di7wq0uaQRHwcNyIWzllWfF0HicbDeJ3TCUZv5ehlnTq/kEQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-CN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>bUIBsqs98+Gwwv0QCYJWg5RG2dUXNg9F0asrR+6wn7BMioJ7tbBfgiAfvOvY30eBi8LRWIDoSv0iXMKzfi1KGQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fyo-NG%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>L+AEyvQLWPZb1JYRb4NxdgH2xjkeA/Nl61ompdt8U5RgQAwEUPQKFjfGz49B1TaMdokj63t1HsRi7T+hQS8u1Q==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fxh-ZA%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>emMfXCViqXFOaQoEcurzssWUtscYv730FVPuYae9IMBakSB6THuhbbjCNU5IyqJcoRTphPyQb1S7PMHRfBbU6Q==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fvi-VN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>m03qJFa7hhaBsdZUgxVCpGOHesCSLR8xdOxA8XKiaehLLLTV6ZnujvMh7U5Onc0G354605DMLoZFtFFxlqlCjw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fuz-Cyrl-UZ%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>aGDR+6yyBec8mEhkc7XPcYujAQyqgtAaiQ1TT+WRsyWRU6/f+AIWksYU54BXbb88ymYBo6X5nQECq9DFYlo9bQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fur-PK%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>gVPPGd3OY2PukyZYAridjDYIicp4iWy+/PEKXdhAljJt05eTFLpNrGCdCOAi/qLQUS3xn/BM2nxzSr3XXxIJog==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fuk-UA%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>RceR/S5/e6uju/BMwoNXpWO9BKNd+mTofEHRefcX+5DHSVJLn8a0CxQpDvBYWwtJlNuSkpz5GwWF8m22f/WRyQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftu-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>sFrwXLUU0AxwQYLJujxj7TufRRyojW0Y4JsuiB7xBywfg9BdWHcSFVHxbF9mpI9NhUcyTK8NnCVbsYR1E3Blkw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftr-TR%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>JIUyBmnRw9rOln6WjUI235tDZfshO68b4mDCcc1/4DUnAeXD/kUuN6W00n1fpYR+f/eiqxMuaZB5Frr9DGuF9w==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftl-PH%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>VVleNlMqotdxDKSvR5RMpTUI8A8bXq/jTW6phCoy2O68xrWUgDjzme1Ah2PQnD1jtaTBxczDRu0t2tUyVWnw8Q==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.TV.Connectivity.EasySetup.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>ks5JaqYbxFrcjx6myetYoz1QIXnvAHQ2P1PwGJ1JDZZ6heAzeomlmCxNz064Q7LE0W3Kqy1yNvCuBenxfeKzBg==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fth-TH%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>Laf8ZLGZkLONHK/BHddcELPLjPtosnojaJuU3gXehJ2InAe2cBtBMsp8QfE6IdvQMevdZtKOpTVDb98RSGkHSA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fte-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>0hhKorvCaVokuM3LrsLH4wCVHQUVdZqJIdxFCFPy61hZ6kn9wJfBC2LzlGMbBISmRVYyOQuBJ6i8Ub+HEnfT6g==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fta-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>NyigBZacTxqpY1v/6c9b2f0G6vVvsElj5NWLaUY+73r0uBIoTzXCv1DPusnVgJJybIt7JZAeMnyx8SJ8vCxORQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsw-KE%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>C59Mfq2ZtOnu6S/LvONYHvSztbtU8wrcjRK0tj2Dec186T3LncQ03hgaGvE5R1aXexV6g8/fEPE3Gwi6j6Pn7w==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsv-SE%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>rSN3Q48vyWbntj4EJJh/adjP3uK2W6MJw7tGAZ7stIxiMPkN5UzTE51Rvl6V0oZljkOr67peFHY5ky1+xrkKsQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsr%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>hixzTfg1cbkftUAklRH38+e/yg2xT54zG+ttnynqwhfFe+ILePdwbNe9elAUrOj27QE4UeG57ltxgfsVURNhPw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsq-AL%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>rcC+paDgMorR14CEoflxD0Q8MHT/cXmruU2ubsn+rY2OiPbPd+HA/P4EvTCZrV5wGT0Ko4Lua/oKF60xlLrIFw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FSoundbarOOBEAppTextResources.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>ibfP8CbHhimWAD79rBhL4Q1W9Fn7qIEyAwuDyRx7yV4K4fSUjSXCkdhdd2rYLnYM810VQ6/0jAJmJAGRQkczJQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FSoundbarOOBEAppTextResources.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>8Au0saXkCjCyXxdIjEOrL/x7JaFLj3ejZl1AjGFvZ2q4fV0uzRbDxpK6fiSxDUhyOxSDSeE6Sv7CtGIe4MMAfQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FSoundbarOOBEAppTextResources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>djcz4frtqVrlrR06+USIKLBF9rZWePnptGrW0O4juVf66mXRJ2EJouq4MVan/Bs2oIvhwXY53jTUzCv4V3nS1A==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FSoundbarOOBEApp.runtimeconfig.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>Gr/0byMUSwipkgYWJjXT/ADfl8uGIdTgdh2WoL58YfyQNThX/0ymKfU+NPa94udfdhdg20GLwN3udJ3hEHjTsw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FSoundbarOOBEApp.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>Ge4sKq2S40YeEDfopf2h8S19KXegSgSvADWo/8/2kdfI8d8y4akCbgUGtV/eZ/NQU12aNxa50QVEIqD71CVCfQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsl-SI%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>M2gz16tUeur31NA91ewFv8He6CaCouM1NiaPT7Y6X51MoEwLk3GXFFt2xh9j1ydessefaferA3RJdA2aoxUFNw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsk-SK%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>dJr0/0bRphOdmZgmxvOHOfecrYaib9kcvSdbBtMGXfQsr45fIEUdNPdyesLStB7nfJzKxLOMl9Yz+ePWljkgwA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsd-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>p/sxxo3kgenL/zH/GZK03GFR7JohdO6cIsO4TaEIXyPTAdgPX+u2Lxw8tzl6BONbWIRz/YLg6mYdCHYOI1pUfA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsat-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>mgQnzvbzQhBvvpZVRXrb2SPNTFl9jI2LxNfilk7UKoRJBYz8AvkVdsZImYbnKgyL9s2JjmjEQyZhk49ft5WSFQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsa-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>D5gAXrJQpyY9wzx+Td4f+8L7/CrPVRy7sltyZOX4M3QdddQPDXze7HqxMAYEy3xAxkWC2oSnyl6lZsnvmTH9NA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fru-RU%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>DF76nEGBBpGQdqm6ILs9Blg+NMGf81LziQDxo0BkMIE/5mN+7YIJ+Z1CHLN9p+kD44ex+1ZbSzzC/xuYbK5EAg==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fro-RO%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>uIgD6qqNLQBJ0CiIwBI2bsl0n6G4caNpkLzIloNgOY3cfuCQxiV8qVLVFY4Vmra83RoxSoNtdEYFPBFfDlN/yQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-PT%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>DoJqs/8Z1kHHtLmApDLMFa/ZtqrAoBMA862sUcez//AAauBQfFIYK29wPfPWYVwN+l4QixRwcbYXK/A3j+uNXA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-BR%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>nwwAL1ZwosTwXNHeAtf4be4E982UD5ymvufvzrTam7gX3Ky2rvbJNuftaE3WyFH9wAUwHw7d3S1R3gv4NOiDSg==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpl-PL%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>B8k8i7V9U178BBLvgQ+TFIGNlsyr/vDN67Zlx/9u8gCVLFNcjBGMRTi9Z1uJ0WSIxCrcpRPZgBSsbKo2X306yw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpa%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>YRWfQPjjxJTZTqVSoM8v1uNOzIYPDoOCAys/NLLvBqvOizzM+vHah3GZ5lBgFBKQ/noLGm0QcoFNYl8IAyZazA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2For-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>Tx3TWTm31IsQyxxx7anNQVJB3QCFps5hvQ5C14jYIrfWj64kvz9miBQA+7XOyRqFMtChff7DlR/6uGT+BG+BPA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fnn-NO%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>RwXxuW5wMX7V5yXFZBqfbRFFdYk0GALRO6lFz2yvkru+EHRtc7V2bdpjKuiL9EWYFASYgL/n3G3o1Wdd9fWjww==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fnl-NL%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>wcnSVp7cOjd3B6yb60GPJSXRwiq3LOTiaErQ7q9+Y27bBQeCdD6lqtdSf/DSXc3USubeyDUnfHIjk4U4xpdfxg==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fne-NP%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>73yNEpetanaKFlCNePFdvv0TYQ8kYLYq6PSo7n7y+zZB4aYSbihZw+acxvxkhNp6JC5qVyzADUPNtZzDl3N2iA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmy-MM%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>0zJlxxYoyeKgSx1Cpbqh7ibxqFTPAAfxQTsqEVRWMdl2CNZUdcv5k78uSeafo9W+4DfgjE1GD1EQbdH4sy2Pxw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fms-MY%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>QWcTpcwXQvqCirKXSZbIUcn5qU61gvXmM0y+iwuBuUgAUWV2EOhvPESk59B3cqf35ZHMm9igc4Q7wOd9IZX0XQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmr-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>VVYUhzE6s7PsW07wDGh9V/+ohpi3LeB7VSEmbfthizu0jOABngaEEFs8kBTak5Cy78SxHbR+nHbHtOhnIbF83Q==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmni-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>ADfKEngkJheW/0eEYG3UXeXqctUi0ipDT6PY0WkPbPTFEGNe5sdJGVL0hojZMj+1t5NYmEY3fLCeAF10ShS7EA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmn-MN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>Bq2oVwXyoHgyNXhxf8oWjqMsWU134OWQVtDQ7e7zPnCewvJmuhiYWbEvdjxG1kFgGq55Gf2AzYnYNCZtqOUWjA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fml-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>5FtRaRwvMlWjhdJmg2SleLpeYj9p4SRvxHEapedJU6shZmVavpMrm+0lwcq37VfzJXaG2uu97HSEywwmh+mjTw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmk-MK%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>MskTDsWIAR6mUpJE4XkNWi9SMzE3iHJPISwLQzNlmn4B5cazKWinPwa3p7KeFoxBJwzqebCEz0PdBzHS0qWDTw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmi-NZ%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>yng5I14RryKPnCS7/zgNzJlRzfWQvXzFbsqZicifeQzDOVz8wJ09XUiHRO8bzYezH+/fKO4t8gPl9iBrXvR0yQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmai-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>f+oZhsc4UWq7O+UcNkLcRoZ6jkOcSZNZMwoClpZl9QtVt+fo/Md4MzdAhf9Xl6qusGgJ/Bxh0mNdvaF8Qza+0w==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Flv-LV%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>aYnaZiG/PGqvuVbOoPsfCaKpZxQTx0Jc/hmwz8Y/eIvNrz8Elngx+7W5XPeSl+apQ0OEC+uaY8hMWziMkJZXWw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Flt-LT%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>g8Ns2W5ZpeP1ZW4hvvRYa1cDbTn7pATBl5WXTi39DjIKz42Usr8G4HAXJZ5J6HovtBSpQPPkWo4YDK0Wrn+mRQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fku%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>7dRUKz6zFg1UHcenvvLF3ZRxn0+QKdDperu/NEZKgf7gNjrJ7wneakcM8pmN6nm2Mq0lwAXiGt1eWPxFCh6ucw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fks%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>ZRXoimAZIePwHdc0Swgoik1LNY43PlZ8P1XTi/T4vxTuUo+PN7g/f0ZSkrYONl7lPVgkzcDuUMY2FlLrGs1s/A==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkok-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>pGzuk07CL2MxwXbqNcLLfixPg3/vSkl+8NrYr9SSXFcnLUEsd2k/XGu+mTNWTJnMr6+t7L2ND0y14QPd4LaqGg==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fko-KR%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>VgnfnUNVp33/HAkaTf+4SoViFERnkzw9sOxOpTGE6KrFt8E9MEbWtG/KLHfrCOGo2ke41U7c/uTiKRvniT6Fzw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkn-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>QJq53AcbU8EH4z83CNa1JNjv8zWzdCN0eLNwCgAxARy5WpH5iEvMc0FgUKVNAIo/FFQ3F4C6y9PPX/mgwo4zbA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkm-KH%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>fQ53UkDvPO/AIns63WJEdXpF9Eh3kX3QK5FwoAd3B26Ycw5+tx8xIwphbKNCkAV/8xovKPhkVr7d/j2o+4ZiFQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkk-KZ%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>V2771WYyRLOcTXhxJL6OGi9HR8M72+sd/KPdwqTPnouwSGcgm3mzwynfvJnKp3oJkzFSmafbQfhg9uy6KuDiHA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fka-GE%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>+pCbrVKQ3NTLO3Ch/HT5jKT68x8lHG+usNkjNGA9zbKL9UprDaP3+Ny9NH8lerZTIwb8nlLcHug8Fc8SxnnlZw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fja-JP%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>mtHIrfZGNmI18yll996FZhpz9b+15edvrDYc2e+wBwKQDR5jeJ0lJarO/bTb1fPrpDedUdBzx/i4gWMCHrhsVw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fit-IT%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>mjBFHDueN2oCJnkRdnMSxSrdiNI5E+OO91W8dtvJeBaR0syItkNZRkNP1mS/Pl6Lj4XFRSSgzja9WK51LTxBKg==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fig-NG%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>OUh9kohzFgMkaMQmtNne1ESlWRQ5M98PHi57V/5HWSS0EUyXgXUlWOI4cVzy7/WIuo17XNcwP2KMbieEOv9eqQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fid-ID%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>lAx6BguEr7xubNkvSpGXBW7jz0zks5sHyLLqOc0fNRrDEQq7eSy1FisNlKC8XBiUQ059l5dQoOa2htUS0cIjMA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhy-AM%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>O8o7yHtNR5qv+3RMX8AhKrk9Zvu5TObdy7WYdTe/EUrgmfX9n6QC+M36ar85eUIZ7jqr/Hmxna0wS2/vUYfxMw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhu-HU%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>J3aKqgf4izdzedlVfr17wkP7ARFaWdBGZ1WJRE869C9xkMXUqeYvynQnT6hDOxmryUFgC2+Bf1XEYe+55sBIpQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FHtmlAgilityPack.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>NwGaUQwmSPeSRRByDcMzLohaf8JGnvRbcLUJmd5qoTtqslmLaw+CH3rvHj9PKyYjm7cJg8oauDSybwOuid5QeQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhr-HR%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>1RD8AmE0B7wliI6iRZmtpyZldmsLPLjRGgLZNjZWLIwUNwFYKU9OdojiVo8+S+zhUAXEumXrb6nMw7lATkS7Hw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhi-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>9ODl8mqjcxouOae9k+T6AqmE7RObp+J8TeIrp4ZIPcyvm2OthG6xZkXtXebn7EBVcxQ38PiuMY5+iApMVIEgSA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhe-IL%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>IvP2pL75Hj/0FxhMLZR0NCNI4kaoMOPXin871nbmGKnJSFtL899rJxa9TPp0kZxcs5XtWyhpbAzeXSlXdXJS3Q==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fha%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>epOL9PTlbEh6phdkKrj2Y+cocvVEyvwTeCcgO2DG3ptwpIe8/RSlV876V5KAbxDIR/2kItmk9OrVukqQYU1+FA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fgu-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>5dINRhMy5IuJAvvo+q5SxeNH3pvmv1hoIumrdUEV94af6pb7UqC1rjJeUjJ+HJKxWjmV7l2Yd6vNvliH5GJA+g==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-FR%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>SyRQnpnhPWU3nbHSDhUJtJ9lwXyjHso2yZ5dLukoPrJQB70gI3blEtza12OeuSf+EjEdCOCCO+F0mNacfzKDAQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-CA%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>+qqaMXBqvnOSjhROwQzHEB8c/fSfHgbsW89QToqomMLkUZj3a+u4Eru/L+Msv8/Mt6BuwmHkuHa1svsq8wBUkA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffi-FI%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>21hg25+FFIZkj0awfG52l4zkGcEKzCXJ7Ln952C9dfdM3ya6tZHvTbCrVq3//qucSBXQWPEgGL8qfRsj6qkaxw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffa-IR%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>ii4bQD8xCPXMnAsHG2LfLqMz0PAgsW4f7XRdgcULW48uP36ya75knYCaF2NnCN2qvWCZ9+oDDTK6l507zrQcsQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fet-EE%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>pVZL5TcuCBRbMA/7UpVS6aHPLVSuPUxQf1/BDXWZGap14pJ+oGWU/Dw/dH59IQw8n4MRyJtt+VTdlqxHIrNSrA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-MX%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>lUvu5p58zFzshovk6TAC+vHKzlqK/LI+JHGoD84Jluw59/9mTH2IyR4DhOsdoPeYUsynYuVwkDXU9Wp+nNTKqQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-ES%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>RDVP+PsqMVGikOF0T8fGZOuMOfaEwP7DQVuY2g5hWXkvwxsnKDJihNjmdo63KCHtqVjMcPxM/uSQsQamMXqj+g==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-US%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>xkkpeozYlop1KX6uJQKIfhJ40AmNqrvxzC3ehBmuygbt7cKF2GPPPNE76/+CCMFG99i331aAZne5IpOCzY0p3g==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-GB%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>iki8CJggtqUcPFrFuiDH2nZO03RdsLTfzOeH00gkBf/J3XRJuuH+3aNAq5jKGNESsFZLpQ2Yv7nr5e+2LAORyw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-AU%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>yJo4IL2fzHJns9tH/C4CqKVlbyw9hpMgkme5agCy363A5oD+6U+kGtJNE8ULTAnCFzaIEnm3FZafeW5rjnZVMw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fel-GR%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>7Xjl6HTSxWwTz+Pioh/ybd4tdrAvnHjx7ZBJ3sGdiVhR3aSNPq3CyUye2zmJBvOmvspuqAb+wf+Tcpik3WCXBQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fde-DE%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>/ADn+U/AlV/FuJLZpxelA89m+J5ucXjU8qN31Z4rmkVOUybccgt13tdOx0IsrPMOtlO2bheAeLDYb8MSt7HLog==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fda-DK%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>tDfTcX3+53IlmuaAHDvyftc/zniBQ3hbO0ydR2qIMnO0O8HwX1kM/AoIE3IBCtbPV41xZXCY7mAIP2NjfmiiIw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcs-CZ%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>oVPzbYI19R+0JMf9iQtv6mO8mB/9LB2tCtYWSHQNanNMR5cHBGlTaI2tPSb1HJBowA/hjie+FF2JKgpdvV4vhw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fckb-IQ%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>aLFHxsTqWXtspC4UpKfLdaN9gM0rgH4erzNSv48mB5Yb9NZ9exDO/MbmwI5/MjParze+kN06cZl2GNlWdLhtWw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbs%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>VmBFh6+ssmKuAIvkMC1qV4dOWv7hWjcdnz0SVG6gZgO8lFVqp2Yc2J+8c3792a0gnhhPnrnooM0/4UnAKig+SQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbn-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>J3q88KOsii0WUtFvsb9aeypNTKgqjllYLwhcw+6fCu3tKdxd/a1nFC9twPIBJXKA0bbd/oFYOXA5kKRdga16tA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbh-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>cYTgYSFkCIn6CXeOJJatEH+hZMCamUR3bWwoSXI1fg/RgSQ/6sI8T2BgsUqVTDiwYnVkCirJ5K/kswbZ6Z4Djw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbg-BG%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>9VnR/aVHVK8s30TpNc32CKnrpkQ88zu5rYiSec3pT4asHkXmD9r1UGkqZi+3+tPJRBnPxhiDCQzyWdBxjN9/tw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Faz%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>wqcue3Q2QfcTlN7zabjxq2zcSe4ZvK2gey7BeHaXpnBKBRsb1a3JXAN6iOW1Ui6QbNM0lalLvephaPMKRNIKjw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fas-IN%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>0PPZFMsAAhmveal/cKQw2xfkLKGmjQ419Eovfraj3BqtMWkq5Qep1djA/7pPHHjzfyfiHWREr92IFG1lKCkoFA==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Far-AE%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>oqFjvlQipd+qIW9uY92TYF1iaYy09ZykZo5vm8RtHQHJOL4q6NunEO3/a0ALkp25sSV3iL5KRx9sGzjW6qAopQ==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fam-ET%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>Ta58JdxJYrVo/Kx6J8wFr5BeNqbHQNt0nxeV6sc4cEe7wPQTGOSSWpHBqNGleRq46vbe/mEJS61gU1//NPFtNw==</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Faf-ZA%2FSoundbarOOBEAppTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>sZ52Dpu/UQyl8+BtPuFtD582FBqYN/24WG4zcqBAXwxihsjmvKN/tIz4MDv9D6t+juyWfjmcUhRjiOXhHcHsxQ==</DigestValue>
+    </Reference>
+    <Reference URI="#prop">
+      <Transforms>
+        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+      </Transforms>
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+      <DigestValue>uZyQ+87kE4t6qxSN4VEx1Pox4WvKeg6zcxAkkLd37pva/nBlGrszr+isy/IJw4IgKnaB7eSEPU4PbccqlynCkQ==</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+tmgWGfsJIb8MSUABTtzgPRrqlNlLO2XAc92L03DlX/9Wh8f8/9JVIVM+rpsY1W1FcrwpoeCn/v07
+yIbCo5torWYi7txgLHI/Lg3AGMUmZ5x4F45+fJjOBsTYrFBU08fzd0FfQDmsWBILbbFjXa5zA8aC
+Eu2RvLUdI72eFzWPFHZm72fKpnR0spUC5/X1WRh3KZeAKzwFY0ByjqoquhPjjLiZVeAoVsjl3jsV
+7KIfiW/vjbKIprHXA1zJMkBqh5wQ+nmwcGU3DSnNrnDNT9tiycPKbzBz+6YfIMVUNtcCiBiJcXtc
+QLSpKFKat9cXE7Qp+OLMU+UwWFQ6ziI/MPDPaA==
+</SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+      <X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <Object Id="prop">
+    <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+      <SignatureProperty Id="profile" Target="#AuthorSignature">
+        <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile>
+      </SignatureProperty>
+      <SignatureProperty Id="role" Target="#AuthorSignature">
+        <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role>
+      </SignatureProperty>
+      <SignatureProperty Id="identifier" Target="#AuthorSignature">
+        <dsp:Identifier></dsp:Identifier>
+      </SignatureProperty>
+    </SignatureProperties>
+  </Object>
+</Signature>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<multi-assistant>
+  <name>Bixby</name>
+  <icon-path>shared/res/voice-app.png</icon-path>
+  <wakeup-words>
+    <wakeup-word>hi bixby,hello bixby</wakeup-word>
+  </wakeup-words>
+  <languages>
+    <language>ko_KR</language>
+    <language>zh_CN</language>
+    <language>en_US</language>
+  </languages>
+  <wakeup-engine-appid>com.samsung.tv.wakeup-engine-bixby</wakeup-engine-appid>
+  <audio-data-processing-appid>org.tizen.voice-client</audio-data-processing-appid>
+  <appid>org.tizen.voice-app</appid>
+</multi-assistant>

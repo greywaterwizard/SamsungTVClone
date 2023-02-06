@@ -1,0 +1,531 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "SoundbarOOBEApp/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.30",
+          "Newtonsoft.Json": "12.0.1",
+          "SoundbarOOBEAppTextResources": "1.0.0",
+          "Tizen.NET": "9.0.0.16810",
+          "Tizen.NET.Sdk": "1.1.6",
+          "Tizen.TV.Application.Utility": "1.4.8",
+          "Tizen.TV.FLUX": "1.0.63",
+          "Tizen.TV.FLUX.Component": "2.1.10",
+          "Tizen.TV.Logger": "1.0.1",
+          "Tizen.TV.Network.Speaker": "1.0.2",
+          "Tizen.TV.System": "1.0.146",
+          "Tizen.TV.System.Framework": "1.0.5",
+          "Tizen.TV.UIFW.UIConfig": "1.0.38",
+          "Samsung.Tizen.SmartThings.Client": "1.0.0.0",
+          "Tizen.TV.Connectivity.EasySetup": "4.4.0.0"
+        },
+        "runtime": {
+          "SoundbarOOBEApp.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.30": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.30.0",
+            "fileVersion": "1.11.30.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Newtonsoft.Json/12.0.1": {},
+      "System.Runtime.CompilerServices.Unsafe/4.5.0": {},
+      "System.Text.Encoding.CodePages/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
+        }
+      },
+      "Tizen.NET/9.0.0.16810": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Tizen.NET.API9": "9.0.0.16810"
+        }
+      },
+      "Tizen.NET.API9/9.0.0.16810": {},
+      "Tizen.NET.Sdk/1.1.6": {},
+      "Tizen.TV.Application.Utility/1.4.8": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16810",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.FLUX/1.0.63": {},
+      "Tizen.TV.FLUX.Component/2.1.10": {},
+      "Tizen.TV.Logger/1.0.1": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16810",
+          "Tizen.TV.Application.Utility": "1.4.8"
+        }
+      },
+      "Tizen.TV.Network.Speaker/1.0.2": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16810",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.146"
+        }
+      },
+      "Tizen.TV.Security/1.0.4": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "4.5.0",
+          "Tizen.NET": "9.0.0.16810"
+        }
+      },
+      "Tizen.TV.System/1.0.146": {
+        "dependencies": {
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.System.Framework/1.0.5": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16810",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.UIFW.UIConfig/1.0.38": {},
+      "SoundbarOOBEAppTextResources/1.0.0": {
+        "dependencies": {
+          "Tizen.NET": "9.0.0.16810"
+        },
+        "runtime": {
+          "SoundbarOOBEAppTextResources.dll": {}
+        },
+        "resources": {
+          "zh-TW/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "zu-ZA/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "zu-ZA"
+          },
+          "zh-HK/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "zh-HK"
+          },
+          "zh-CN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "yo-NG/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "yo-NG"
+          },
+          "xh-ZA/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "xh-ZA"
+          },
+          "vi-VN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "vi-VN"
+          },
+          "uz-Cyrl-UZ/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "uz-Cyrl-UZ"
+          },
+          "ur-PK/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ur-PK"
+          },
+          "tu-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "tu-IN"
+          },
+          "uk-UA/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "uk-UA"
+          },
+          "tr-TR/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "tr-TR"
+          },
+          "tl-PH/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "tl-PH"
+          },
+          "ta-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ta-IN"
+          },
+          "te-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "te-IN"
+          },
+          "th-TH/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "th-TH"
+          },
+          "sw-KE/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "sw-KE"
+          },
+          "sv-SE/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "sv-SE"
+          },
+          "sr/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "sr"
+          },
+          "sq-AL/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "sq-AL"
+          },
+          "sl-SI/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "sl-SI"
+          },
+          "sk-SK/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "sk-SK"
+          },
+          "sa-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "sa-IN"
+          },
+          "sd-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "sd-IN"
+          },
+          "pt-PT/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "sat-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "sat-IN"
+          },
+          "ru-RU/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "ro-RO/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ro-RO"
+          },
+          "pt-BR/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pa/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "pa"
+          },
+          "pl-PL/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "pl-PL"
+          },
+          "or-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "or-IN"
+          },
+          "nn-NO/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "nn-NO"
+          },
+          "nl-NL/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "nl-NL"
+          },
+          "ne-NP/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ne-NP"
+          },
+          "my-MM/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "my-MM"
+          },
+          "ms-MY/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ms-MY"
+          },
+          "mr-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "mr-IN"
+          },
+          "mni-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "mni-IN"
+          },
+          "ml-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ml-IN"
+          },
+          "mk-MK/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "mk-MK"
+          },
+          "mn-MN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "mn-MN"
+          },
+          "mi-NZ/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "mi-NZ"
+          },
+          "mai-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "mai-IN"
+          },
+          "lv-LV/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "lv-LV"
+          },
+          "lt-LT/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "lt-LT"
+          },
+          "ku/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ku"
+          },
+          "kok-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "kok-IN"
+          },
+          "ks/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ks"
+          },
+          "ko-KR/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "kn-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "kn-IN"
+          },
+          "ka-GE/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ka-GE"
+          },
+          "it-IT/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "it-IT"
+          },
+          "ja-JP/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "kk-KZ/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "kk-KZ"
+          },
+          "km-KH/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "km-KH"
+          },
+          "ig-NG/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ig-NG"
+          },
+          "id-ID/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "id-ID"
+          },
+          "hy-AM/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "hy-AM"
+          },
+          "hu-HU/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "hu-HU"
+          },
+          "hr-HR/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "hr-HR"
+          },
+          "ha/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ha"
+          },
+          "hi-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "hi-IN"
+          },
+          "he-IL/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "he-IL"
+          },
+          "gu-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "gu-IN"
+          },
+          "fr-FR/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "fr-CA/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "fr-CA"
+          },
+          "fi-FI/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "fi-FI"
+          },
+          "fa-IR/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "fa-IR"
+          },
+          "et-EE/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "et-EE"
+          },
+          "es-MX/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "es-MX"
+          },
+          "es-ES/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "es-ES"
+          },
+          "en-US/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "en-US"
+          },
+          "en-GB/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "en-GB"
+          },
+          "el-GR/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "el-GR"
+          },
+          "en-AU/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "en-AU"
+          },
+          "da-DK/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "da-DK"
+          },
+          "de-DE/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "de-DE"
+          },
+          "as-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "as-IN"
+          },
+          "cs-CZ/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "cs-CZ"
+          },
+          "ckb-IQ/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ckb-IQ"
+          },
+          "bh-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "bh-IN"
+          },
+          "af-ZA/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "af-ZA"
+          },
+          "bs/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "bs"
+          },
+          "bg-BG/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "bg-BG"
+          },
+          "bn-IN/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "bn-IN"
+          },
+          "am-ET/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "am-ET"
+          },
+          "az/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "az"
+          },
+          "ar-AE/SoundbarOOBEAppTextResources.resources.dll": {
+            "locale": "ar-AE"
+          }
+        }
+      },
+      "Samsung.Tizen.SmartThings.Client/1.0.0.0": {
+        "runtime": {
+          "Samsung.Tizen.SmartThings.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Tizen.TV.Connectivity.EasySetup/4.4.0.0": {
+        "runtime": {
+          "Tizen.TV.Connectivity.EasySetup.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoundbarOOBEApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.30": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IuOSVuuHCJKrnAjNe5rZnZCyR/NpXL6ExEL7UiM8h4fnhbt8tLqIKol9q5Lv0uoxWO8fl9Uq+1kpGfMDUdr5zA==",
+      "path": "htmlagilitypack/1.11.30",
+      "hashPath": "htmlagilitypack.1.11.30.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B0e5zqoqcKVHqq6cWG1w1LRfPkSDH8YkL/nzt3b+k2CP+uvbwWlZGxG+1yFL/v43uXfepJ2Q8yNAbvdEZK/ZWQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zJEnIENxZI94PcnvB5dzcx9Vmhc3hWb1vW4WPC2L9TL0gqSnqrbCIrThconq8Q/Y6usFFaf5i7Mvs+DliuUEZA==",
+      "path": "system.text.encoding.codepages/4.5.0",
+      "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
+    },
+    "Tizen.NET/9.0.0.16810": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IRe/4GX51PO52YUHoTWXKVkD99LOJnrYVk8ytUlcw3kyrEKYW6LaNXgX8LlzqQnHqP343zrvq2IGhNK1CwAQEA==",
+      "path": "tizen.net/9.0.0.16810",
+      "hashPath": "tizen.net.9.0.0.16810.nupkg.sha512"
+    },
+    "Tizen.NET.API9/9.0.0.16810": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CSEgDeRsj/nSfpj5UVP6rha8WS/eK1k55lBkHruQsI3Crf23RXQ1fl/LnlBU5uurDZxzr+q0J6HSbYA4VmToCw==",
+      "path": "tizen.net.api9/9.0.0.16810",
+      "hashPath": "tizen.net.api9.9.0.0.16810.nupkg.sha512"
+    },
+    "Tizen.NET.Sdk/1.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-25E63214Z5qc62CKhPXS7wgn/z4p9Ud8QAM5Ii8ldfBkC4nPIc29lPIGiX0FaILlS3k+ES5tl0/Yvtg2Z0ftvQ==",
+      "path": "tizen.net.sdk/1.1.6",
+      "hashPath": "tizen.net.sdk.1.1.6.nupkg.sha512"
+    },
+    "Tizen.TV.Application.Utility/1.4.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gzL98J0Ue+EfI5NKJ9fX4GZTCwYRVsOrFi3Ben/nvd5YruKthutqAeDo1erhWcBfxULWuMq3QytbMp9hVLH8GQ==",
+      "path": "tizen.tv.application.utility/1.4.8",
+      "hashPath": "tizen.tv.application.utility.1.4.8.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX/1.0.63": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0aDgqQ9t/jgUpBPU1aES/RYaHBxDG8C0ElA+FecDyQGbIu0VoK76Gd2oeKaDulc/+cae0Ry9qUO32WwgSxcH3A==",
+      "path": "tizen.tv.flux/1.0.63",
+      "hashPath": "tizen.tv.flux.1.0.63.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX.Component/2.1.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m0aG4KM8LqCohoOVRf1witffd7Fb+POoC39zybnzRSfjLOMQc7DP8x6pvhsPYHALhxWCDVGOddPFckg/dgzFww==",
+      "path": "tizen.tv.flux.component/2.1.10",
+      "hashPath": "tizen.tv.flux.component.2.1.10.nupkg.sha512"
+    },
+    "Tizen.TV.Logger/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XA6Te1O/T3ifLm19zKWLeoB+Gw63SfruFIfy/1zdmTn5cMUWEGxRp/n6Xq91hVVQlc7asvOyVFxbzWhhXBtOfA==",
+      "path": "tizen.tv.logger/1.0.1",
+      "hashPath": "tizen.tv.logger.1.0.1.nupkg.sha512"
+    },
+    "Tizen.TV.Network.Speaker/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1AT2OZxwnOjeq/GBYnktWlZS/e/0Bgyb8Z6Xf9P7+abW0LtFs4eJQOq85ZRLNuwBOk1w0GJK+d3D6AzOLPJmbA==",
+      "path": "tizen.tv.network.speaker/1.0.2",
+      "hashPath": "tizen.tv.network.speaker.1.0.2.nupkg.sha512"
+    },
+    "Tizen.TV.Security/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JlOEE6NOWEzgpiIBe+o9ZCo048dxW+o6hxQ0YMpCAV9s4EASf1XBs4zxU7DvOdND0kwSkynUsJL3UEIMVxpQHA==",
+      "path": "tizen.tv.security/1.0.4",
+      "hashPath": "tizen.tv.security.1.0.4.nupkg.sha512"
+    },
+    "Tizen.TV.System/1.0.146": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0hMFP+cg5l0cEzLbJSQnuL1TfSLw4OwO8gGhwxWpaIvpIxmw4ecZvjYzIwicVMYa2UpiLGw2T0Udqf/E9NXTLA==",
+      "path": "tizen.tv.system/1.0.146",
+      "hashPath": "tizen.tv.system.1.0.146.nupkg.sha512"
+    },
+    "Tizen.TV.System.Framework/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hUJgODHqWpsRJG2HKofl+sxbU/yEHxpe8TgcGubs+y9idRN3OroSd+FvDe7AuSAVcTEg+Apg7AJJUnA7/BFSjQ==",
+      "path": "tizen.tv.system.framework/1.0.5",
+      "hashPath": "tizen.tv.system.framework.1.0.5.nupkg.sha512"
+    },
+    "Tizen.TV.UIFW.UIConfig/1.0.38": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VCYlgQINXdAicgQalpXeKjoBNO98W8CjYYqT4ZabLjFJE6pdaqDXRhIRUGusUrfWpIYnTwtWsMjkXtnht35EvQ==",
+      "path": "tizen.tv.uifw.uiconfig/1.0.38",
+      "hashPath": "tizen.tv.uifw.uiconfig.1.0.38.nupkg.sha512"
+    },
+    "SoundbarOOBEAppTextResources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Samsung.Tizen.SmartThings.Client/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tizen.TV.Connectivity.EasySetup/4.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

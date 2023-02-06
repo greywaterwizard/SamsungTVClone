@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.5" install-location="internal-only" package="samsunghealth-service-tv" version="2.1.1">
+    <author email="pureunsol.ku@samsung.com" href="www.samsung.com">pureunsol.ku</author>
+    <description>Samsung Health Daemon Application</description>
+    <service-application appid="samsunghealth-service-tv" auto-restart="false" exec="samsunghealth-service-tv" multiple="false" nodisplay="true" on-boot="false" taskmanage="true" type="capp">
+        <label>SamsungHealth-Daemon</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive" />
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="samsunghealth-service-tv" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-account-wakeup" value="SIGN_IN|SIGN_OUT" />
+    </service-application>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+    </privileges>
+    <tv-info api-version="1.0.0">
+        <infolink>T-INFOLINK2020-1000</infolink>
+    </tv-info>
+    <build-info id="7582994">
+        <app-info exec="samsunghealth-service-tv" id="samsunghealth-service-tv" />
+    </build-info>
+</manifest>

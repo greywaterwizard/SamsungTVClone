@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tizen.samsung-cloud" version="2.4.17">
+    <profile name="mobile"/>
+	<description>SES (Samsung Cloud)</description>
+    <service-application appid="com.samsung.tizen.samsung-cloud" exec="samsungcloud" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>samsungcloud</label>
+        <icon>samsungcloud.png</icon>
+        <metadata key="samsung-experience-service" value="true"/>
+        <metadata key="samsung-experience-service-api-level" value="12"/>
+        <metadata key="samsung-experience-service-samsung-account-wakeup-event" value="SIGN_IN|SIGN_OUT|SIGN_IN_AGAIN"/>
+        <background-category value="background-network"/>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/calendar.write</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/calendar.read</privilege>
+        <privilege>http://tizen.org/privilege/push</privilege>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/bookmark.admin</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/keymanager</privilege>
+	<privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+	<privilege>http://developer.samsung.com/privilege/samsungpass.admin</privilege>
+	<privilege>http://tizen.org/privilege/bluetooth</privilege>
+    </privileges>
+    <provides-appdefined-privileges>
+        <appdefined-privilege>http://com.samsung.tizen.samsung-cloud/appdefined/samsung-cloud</appdefined-privilege>
+    </provides-appdefined-privileges>
+    <dependencies>
+        <dependency type="requires">com.samsung.tizen.samsung-account</dependency>
+    </dependencies>
+</manifest>

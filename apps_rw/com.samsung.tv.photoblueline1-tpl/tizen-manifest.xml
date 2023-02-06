@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4.0" package="com.samsung.tv.photoblueline1-tpl" version="2.3.5">
+    <profile name="tv" />
+    <ui-application appid="com.samsung.tv.photoblueline1-tpl" exec="photoBlueLine1.dll" launch_mode="single" multiple="false" nodisplay="true" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse">
+        <label>Mono</label>
+        <icon>photoblueline1.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.support" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/use.network" value="false" />
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.use.wallpaper" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/ambient.screen.support.subcategory" value="photo" />
+        <metadata key="http://samsung.com/tv/metadata/display.hidden" value="true" />
+        <metadata key="AmbientContentAppResetMyPhoto" value="true" />
+        <metadata key="AmbientContentAppResetMyPhotoFilePath" value="/opt/usr/home/owner/apps_rw/com.samsung.tv.photoblueline1-tpl/shared/data/ResetMyPhoto.Flag" />
+        <splash-screens />
+    </ui-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.partner</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://developer.samsung.com/privilege/iot.control</privilege>
+        <privilege>http://tizen.org/privilege/appdir.shareddata</privilege>
+    </privileges>
+    <provides-appdefined-privileges />
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <build-info id="5108357">
+        <app-info exec="photoBlueLine1.dll" id="com.samsung.tv.photoblueline1-tpl" />
+    </build-info>
+</manifest>

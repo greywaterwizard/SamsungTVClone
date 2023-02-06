@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4" package="com.samsung.tv.iot-service-notification" version="2.0.20">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv" />
+    <ui-application appid="com.samsung.tv.iot-service-notification" exec="iot-service-notification.dll" launch_mode="single" multiple="false" nodisplay="true" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse">
+        <label>IoT Notification Service</label>
+        <icon>images.png</icon>
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/use.network" value="false" />
+        <splash-screens />
+    </ui-application>
+    <tv-info api-version="6.6.0">
+        <infolink>T-INFOLINK2021-1007</infolink>
+    </tv-info>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/drminfo</privilege>
+        <privilege>http://developer.samsung.com/privilege/iot.control</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.admin</privilege>
+        <privilege>http://developer.samsung.com/privilege/securestorage</privilege>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/alarm.get</privilege>
+        <privilege>http://tizen.org/privilege/alarm.set</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth</privilege>
+        <appdefined-privilege>http://com.samsung.tizen.smartthings-client/appdefined/smartthings-client</appdefined-privilege>
+    </privileges>
+    <build-info id="6217323">
+        <app-info exec="iot-service-notification.dll" id="com.samsung.tv.iot-service-notification" />
+    </build-info>
+</manifest>

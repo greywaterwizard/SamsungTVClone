@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="org.tizen.primevideo" version="2.51.04">
+	<author email="Samsung-aiv-feedback@amazon.com" href="https://www.amazon.com/aiv">Amazon Digital Services LLC</author>
+	<description>Prime Video</description>
+	<profile name="tv"/>
+	<ui-application appid="org.tizen.primevideo-dummy" exec="primevideo" launch_mode="single" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+		<label>Prime Video</label>
+		<metadata key="http://samsung.com/tv/metadata/main_application" value="false" />
+		<metadata key="http://samsung.com/tv/metadata/use.accelerator" value="true"/>
+		<metadata key="http://samsung.com/tv/metadata/search.format" value="true"/>
+		<metadata key="http://samsung.com/tv/metadata/application/state.by.rotation" value="terminate"/>
+		<metadata key="http://samsung.com/tv/metadata/application/launch.on.mismatched.orientation" value="rotate_screen_and_launch"/>
+		<metadata key="http://samsung.com/tv/metadata/auto.update" value="true" /> 
+	</ui-application>
+	<ui-application appid="org.tizen.primevideo" exec="/usr/bin/aria-engine" launch_mode="single" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+		<label>Prime Video</label>
+		<icon>ignition.png</icon>
+		<metadata key="http://samsung.com/tv/metadata/main_application" value="true" />
+		<metadata key="http://samsung.com/tv/metadata/appbootingsupport"/>
+		<metadata key="http://samsung.com/tv/metadata/prelaunch.support" value="true"/>
+
+		<metadata key="http://samsung.com/tv/metadata/no_use_process_pool"/>
+		<metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+		<metadata key="http://samsung.com/tv/metadata/use.accelerator" value="true"/>
+		<metadata key="http://samsung.com/tv/metadata/search.format" value="true"/>
+		<metadata key="http://samsung.com/tv/metadata/devel.api.version" value="2.4"/>
+		<metadata key="http://samsung.com/tv/metadata/casting.protocol.dial" value=".amazon.com" /> 
+		<metadata key="http://samsung.com/tv/metadata/auto.update" value="true" /> 
+		<metadata key="http://samsung.com/tv/metadata/application/state.by.rotation" value="terminate"/>
+		<metadata key="http://samsung.com/tv/metadata/application/launch.on.mismatched.orientation" value="rotate_screen_and_launch"/>
+	</ui-application>
+	<privileges>
+		<privilege>http://tizen.org/privilege/network.get</privilege>
+		<privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+		<privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+		<privilege>http://tizen.org/privilege/notification</privilege>
+		<privilege>http://tizen.org/privilege/keygrab</privilege>
+	</privileges>
+	<feature name="http://tizen.org/feature/screen.size.all">true</feature>
+	<requires>
+		<package id="lib-ariafw-tv" storeid="3201901017624"  version="1.61.20" />
+	</requires>
+	<build-info id="PvodFW">   
+		<app-info exec="/usr/bin/aria-engine" id="org.tizen.primevideo"/>
+	</build-info>
+	<tv-info api-version="1.0.0">
+		<infolink>T-INFOLINK2021-1008</infolink>
+	</tv-info>
+</manifest>

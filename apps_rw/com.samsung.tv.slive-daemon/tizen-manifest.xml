@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.slive-daemon" version="2.3.52">
+    <description>TVPLUS and CH Meta service app</description>
+    <profile name="tv-samsung"/>
+    <service-application appid="com.samsung.tv.slive-daemon" exec="slive-provider-daemon" launch_mode="single" multiple="false" nodisplay="true" splash-screen-display="false" taskmanage="false" type="capp">
+        <label>SliveProviderDaemon</label>
+        <icon>slive-provider-daemon.png</icon>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false"/>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+        <metadata key="http://samsung.com/tv/metadata/prefer_instant_reset" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/servicename" value="slive-provider-daemon,bms"/>
+    </service-application>
+    <service-application appid="org.tizen.bms-service" exec="bms-service" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>bms-service</label>
+        <icon>bms-service.png</icon>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/network.profile</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/mediacontroller.server</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="1.0.0">
+        <infolink>T-INFOLINK2019-1002</infolink>
+    </tv-info>
+</manifest>

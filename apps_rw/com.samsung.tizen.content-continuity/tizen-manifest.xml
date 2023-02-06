@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4.0" package="com.samsung.tizen.content-continuity" version="2.4.2">
+    <description>SES (Content Continuity)</description>
+    <service-application appid="com.samsung.tizen.content-continuity" exec="content-continuity" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>content-continuity</label>
+        <icon>content-continuity.png</icon>
+        <metadata key="samsung-experience-service" value="true" />
+        <metadata key="samsung-experience-service-api-level" value="1" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/content-continuity-version" value="1.0"/>
+        <metadata key="http://tizen.org/iot/metadata/resource" value="shared/res/resource.json"/>
+        <background-category value="background-network"/>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/mediacontroller.client</privilege>
+        <privilege>http://tizen.org/privilege/mediacontroller.server</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.kill.bgapp</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.kill</privilege>
+        <appdefined-privilege>http://com.samsung.tizen.smartthings-thing/appdefined/smartthings-thing.resource</appdefined-privilege>
+    </privileges>
+    <dependencies>
+        <dependency type="requires">com.samsung.tizen.smartthings-thing</dependency>
+    </dependencies>
+</manifest>

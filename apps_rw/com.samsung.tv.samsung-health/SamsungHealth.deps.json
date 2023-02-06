@@ -1,0 +1,1709 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "SamsungHealth/1.0.0": {
+        "dependencies": {
+          "CompSamsungHealth": "1.0.0",
+          "Newtonsoft.Json": "12.0.1",
+          "System.Globalization": "4.3.0",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.NET.Sdk": "1.0.9",
+          "Tizen.TV.Service.CoBA.BPI": "1.1.5",
+          "Tizen.TV.Service.CoBA.Common": "1.1.5",
+          "Tizen.TV.Service.CoBA.Core": "1.1.5"
+        },
+        "runtime": {
+          "SamsungHealth.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.Win32.Primitives/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "Mono.Data.Sqlite.Portable/1.0.3.5": {},
+      "Newtonsoft.Json/12.0.1": {},
+      "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
+      "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
+      "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
+      "runtime.native.System/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "runtime.native.System.Net.Http/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "runtime.native.System.Net.Security/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "runtime.native.System.Security.Cryptography.Apple/4.3.0": {
+        "dependencies": {
+          "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple": "4.3.0"
+        }
+      },
+      "runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+        "dependencies": {
+          "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0",
+          "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0",
+          "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0",
+          "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0",
+          "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0",
+          "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0",
+          "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0",
+          "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0",
+          "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0",
+          "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0"
+        }
+      },
+      "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
+      "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
+      "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/4.3.0": {},
+      "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
+      "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
+      "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
+      "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
+      "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
+      "SuperSocket.ClientEngine.Core/0.10.0": {
+        "dependencies": {
+          "System.Collections.Specialized": "4.3.0",
+          "System.Linq": "4.3.0",
+          "System.Net.NameResolution": "4.3.0",
+          "System.Net.Security": "4.3.0",
+          "System.Net.Sockets": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Security.Cryptography.X509Certificates": "4.3.0"
+        }
+      },
+      "System.Collections/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Collections.Concurrent/4.3.0": {
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.Diagnostics.Tracing": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Threading": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
+        }
+      },
+      "System.Collections.NonGeneric/4.3.0": {
+        "dependencies": {
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Threading": "4.3.0"
+        }
+      },
+      "System.Collections.Specialized/4.3.0": {
+        "dependencies": {
+          "System.Collections.NonGeneric": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.Globalization.Extensions": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Threading": "4.3.0"
+        }
+      },
+      "System.Diagnostics.Debug/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Diagnostics.Tracing/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Globalization/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Globalization.Calendars/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Globalization": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Globalization.Extensions/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Globalization": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0"
+        }
+      },
+      "System.IO/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
+        }
+      },
+      "System.IO.FileSystem/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.IO": "4.3.0",
+          "System.IO.FileSystem.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
+        }
+      },
+      "System.IO.FileSystem.Primitives/4.3.0": {
+        "dependencies": {
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Linq/4.3.0": {
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0"
+        }
+      },
+      "System.Net.NameResolution/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Collections": "4.3.0",
+          "System.Diagnostics.Tracing": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.Net.Primitives": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Security.Principal.Windows": "4.3.0",
+          "System.Threading": "4.3.0",
+          "System.Threading.Tasks": "4.3.0",
+          "runtime.native.System": "4.3.0"
+        }
+      },
+      "System.Net.Primitives/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Handles": "4.3.0"
+        }
+      },
+      "System.Net.Security/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.Win32.Primitives": "4.3.0",
+          "System.Collections": "4.3.0",
+          "System.Collections.Concurrent": "4.3.0",
+          "System.Diagnostics.Tracing": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.Globalization.Extensions": "4.3.0",
+          "System.IO": "4.3.0",
+          "System.Net.Primitives": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Security.Claims": "4.3.0",
+          "System.Security.Cryptography.Algorithms": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0",
+          "System.Security.Cryptography.OpenSsl": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0",
+          "System.Security.Cryptography.X509Certificates": "4.3.0",
+          "System.Security.Principal": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading": "4.3.0",
+          "System.Threading.Tasks": "4.3.0",
+          "System.Threading.ThreadPool": "4.3.0",
+          "runtime.native.System": "4.3.0",
+          "runtime.native.System.Net.Security": "4.3.0",
+          "runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0"
+        }
+      },
+      "System.Net.Sockets/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.IO": "4.3.0",
+          "System.Net.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
+        }
+      },
+      "System.Reflection/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.IO": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Reflection.Primitives/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Resources.ResourceManager/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Globalization": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.0": {},
+      "System.Runtime.Extensions/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Runtime.Handles/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Runtime.InteropServices/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Reflection": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Handles": "4.3.0"
+        }
+      },
+      "System.Runtime.Loader/4.3.0": {
+        "dependencies": {
+          "System.IO": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Runtime.Numerics/4.3.0": {
+        "dependencies": {
+          "System.Globalization": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0"
+        }
+      },
+      "System.Security.Claims/4.3.0": {
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.IO": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Security.Principal": "4.3.0"
+        }
+      },
+      "System.Security.Cryptography.Algorithms/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Collections": "4.3.0",
+          "System.IO": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Runtime.Numerics": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "runtime.native.System.Security.Cryptography.Apple": "4.3.0",
+          "runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0"
+        }
+      },
+      "System.Security.Cryptography.Cng/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.IO": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Security.Cryptography.Algorithms": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0",
+          "System.Text.Encoding": "4.3.0"
+        }
+      },
+      "System.Security.Cryptography.Csp/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.IO": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Security.Cryptography.Algorithms": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading": "4.3.0"
+        }
+      },
+      "System.Security.Cryptography.Encoding/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Collections": "4.3.0",
+          "System.Collections.Concurrent": "4.3.0",
+          "System.Linq": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0"
+        }
+      },
+      "System.Security.Cryptography.OpenSsl/4.3.0": {
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.IO": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Runtime.Numerics": "4.3.0",
+          "System.Security.Cryptography.Algorithms": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0"
+        }
+      },
+      "System.Security.Cryptography.Primitives/4.3.0": {
+        "dependencies": {
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.IO": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Threading": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
+        }
+      },
+      "System.Security.Cryptography.X509Certificates/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Collections": "4.3.0",
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.Globalization.Calendars": "4.3.0",
+          "System.IO": "4.3.0",
+          "System.IO.FileSystem": "4.3.0",
+          "System.IO.FileSystem.Primitives": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Runtime.Numerics": "4.3.0",
+          "System.Security.Cryptography.Algorithms": "4.3.0",
+          "System.Security.Cryptography.Cng": "4.3.0",
+          "System.Security.Cryptography.Csp": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0",
+          "System.Security.Cryptography.OpenSsl": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading": "4.3.0",
+          "runtime.native.System": "4.3.0",
+          "runtime.native.System.Net.Http": "4.3.0",
+          "runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0"
+        }
+      },
+      "System.Security.Principal/4.3.0": {
+        "dependencies": {
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Security.Principal.Windows/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.Win32.Primitives": "4.3.0",
+          "System.Collections": "4.3.0",
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Security.Claims": "4.3.0",
+          "System.Security.Principal": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading": "4.3.0"
+        }
+      },
+      "System.Text.Encoding/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Text.Encoding.CodePages/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
+        }
+      },
+      "System.Threading/4.3.0": {
+        "dependencies": {
+          "System.Runtime": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
+        }
+      },
+      "System.Threading.Tasks/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Threading.ThreadPool/4.3.0": {
+        "dependencies": {
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Handles": "4.3.0"
+        }
+      },
+      "Tizen.Bixby/1.0.0-beta.1.4": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Tizen.Bixby.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Tizen.NET/8.0.0.15712": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Tizen.NET.API8": "8.0.0.15712"
+        }
+      },
+      "Tizen.NET.API8/8.0.0.15712": {},
+      "Tizen.NET.Sdk/1.0.9": {},
+      "Tizen.TV/1.2.9": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.116"
+        }
+      },
+      "Tizen.TV.Application.Utility/1.4.8": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Broadcast.TVService/1.1.12": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.ContextAware/1.0.7": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.DownloadableApplications/1.0.6": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Application.Utility": "1.4.8",
+          "Tizen.TV.System": "1.0.116"
+        }
+      },
+      "Tizen.TV.DownloadableApplications.ComSS/1.0.4": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Application.Utility": "1.4.8",
+          "Tizen.TV.System": "1.0.116"
+        }
+      },
+      "Tizen.TV.Logger/1.0.1": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Application.Utility": "1.4.8"
+        }
+      },
+      "Tizen.TV.Multimedia.Aifw.Api/1.3.5": {},
+      "Tizen.TV.Network.Curl/17.10.10": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV": "1.2.9",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Network.TVConnection/17.12.6": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.116"
+        }
+      },
+      "Tizen.TV.Security/1.0.4": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "4.5.0",
+          "Tizen.NET": "8.0.0.15712"
+        }
+      },
+      "Tizen.TV.Security.CA/1.0.0": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Broadcast.TVService": "1.1.12",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Service.CoBA.BPI/1.1.5": {
+        "dependencies": {
+          "System.Runtime.Loader": "4.3.0",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Service.CoBA.Common": "1.1.5"
+        }
+      },
+      "Tizen.TV.Service.CoBA.Common/1.1.5": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Broadcast.TVService": "1.1.12",
+          "Tizen.TV.DownloadableApplications": "1.0.6",
+          "Tizen.TV.DownloadableApplications.ComSS": "1.0.4",
+          "Tizen.TV.Logger": "1.0.1",
+          "Tizen.TV.Multimedia.Aifw.Api": "1.3.5",
+          "Tizen.TV.Network.Curl": "17.10.10",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.Service.ContentService": "1.0.2",
+          "Tizen.TV.Service.IoT.Server": "0.0.17",
+          "Tizen.TV.Service.SourceList": "1.0.7",
+          "Tizen.TV.Service.Sso": "1.7.8",
+          "Tizen.TV.SmartView": "1.0.0",
+          "Tizen.TV.System": "1.0.116",
+          "Tizen.TV.System.Framework": "1.0.5"
+        }
+      },
+      "Tizen.TV.Service.CoBA.Core/1.1.5": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Application.Utility": "1.4.8",
+          "Tizen.TV.Broadcast.TVService": "1.1.12",
+          "Tizen.TV.ContextAware": "1.0.7",
+          "Tizen.TV.DownloadableApplications": "1.0.6",
+          "Tizen.TV.Logger": "1.0.1",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.Security.CA": "1.0.0",
+          "Tizen.TV.Service.CoBA.BPI": "1.1.5",
+          "Tizen.TV.Service.CoBA.Common": "1.1.5",
+          "Tizen.TV.Service.ContentService": "1.0.2",
+          "Tizen.TV.Service.SourceList": "1.0.7",
+          "Tizen.TV.Service.Sso": "1.7.8",
+          "Tizen.TV.System": "1.0.116",
+          "Tizen.TV.System.Framework": "1.0.5",
+          "Tizen.TV.System.Hdmicec": "1.0.2",
+          "Tizen.TV.System.Mbr": "1.0.4",
+          "Tizen.Uix.Bixby": "1.0.5"
+        }
+      },
+      "Tizen.TV.Service.ContentService/1.0.2": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.116"
+        }
+      },
+      "Tizen.TV.Service.IoT.Server/0.0.17": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.116"
+        }
+      },
+      "Tizen.TV.Service.SourceList/1.0.7": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Service.Sso/1.7.8": {
+        "dependencies": {
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.116"
+        }
+      },
+      "Tizen.TV.SmartView/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "SuperSocket.ClientEngine.Core": "0.10.0",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.System/1.0.116": {
+        "dependencies": {
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.System.Framework/1.0.5": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.System.Hdmicec/1.0.2": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.116"
+        }
+      },
+      "Tizen.TV.System.Mbr/1.0.4": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.116"
+        }
+      },
+      "Tizen.Uix.Bixby/1.0.5": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "CompSamsungHealth/1.0.0": {
+        "dependencies": {
+          "Mono.Data.Sqlite.Portable": "1.0.3.5",
+          "Newtonsoft.Json": "12.0.1",
+          "TextResourceSamsungHealth": "1.0.0",
+          "Tizen.Bixby": "1.0.0-beta.1.4",
+          "Tizen.TV.DownloadableApplications": "1.0.6",
+          "Tizen.TV.Multimedia.Aifw.Api": "1.3.5",
+          "Tizen.TV.Network.TVConnection": "17.12.6",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.Service.CoBA.Common": "1.1.5",
+          "Tizen.TV.Service.CoBA.Core": "1.1.5"
+        },
+        "runtime": {
+          "CompSamsungHealth.dll": {}
+        }
+      },
+      "TextResourceSamsungHealth/1.0.0": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712"
+        },
+        "runtime": {
+          "TextResourceSamsungHealth.dll": {}
+        },
+        "resources": {
+          "zh-HK/TextResourceSamsungHealth.resources.dll": {
+            "locale": "zh-HK"
+          },
+          "zh-TW/TextResourceSamsungHealth.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "zu-ZA/TextResourceSamsungHealth.resources.dll": {
+            "locale": "zu-ZA"
+          },
+          "zh-CN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "yo-NG/TextResourceSamsungHealth.resources.dll": {
+            "locale": "yo-NG"
+          },
+          "xh-ZA/TextResourceSamsungHealth.resources.dll": {
+            "locale": "xh-ZA"
+          },
+          "vi-VN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "vi-VN"
+          },
+          "uz-Cyrl-UZ/TextResourceSamsungHealth.resources.dll": {
+            "locale": "uz-Cyrl-UZ"
+          },
+          "ur-PK/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ur-PK"
+          },
+          "uk-UA/TextResourceSamsungHealth.resources.dll": {
+            "locale": "uk-UA"
+          },
+          "tu-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "tu-IN"
+          },
+          "tr-TR/TextResourceSamsungHealth.resources.dll": {
+            "locale": "tr-TR"
+          },
+          "te-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "te-IN"
+          },
+          "tl-PH/TextResourceSamsungHealth.resources.dll": {
+            "locale": "tl-PH"
+          },
+          "th-TH/TextResourceSamsungHealth.resources.dll": {
+            "locale": "th-TH"
+          },
+          "ta-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ta-IN"
+          },
+          "sw-KE/TextResourceSamsungHealth.resources.dll": {
+            "locale": "sw-KE"
+          },
+          "sv-SE/TextResourceSamsungHealth.resources.dll": {
+            "locale": "sv-SE"
+          },
+          "sr/TextResourceSamsungHealth.resources.dll": {
+            "locale": "sr"
+          },
+          "sq-AL/TextResourceSamsungHealth.resources.dll": {
+            "locale": "sq-AL"
+          },
+          "sk-SK/TextResourceSamsungHealth.resources.dll": {
+            "locale": "sk-SK"
+          },
+          "sl-SI/TextResourceSamsungHealth.resources.dll": {
+            "locale": "sl-SI"
+          },
+          "sd-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "sd-IN"
+          },
+          "sat-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "sat-IN"
+          },
+          "sa-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "sa-IN"
+          },
+          "ru-RU/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "ro-RO/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ro-RO"
+          },
+          "pt-BR/TextResourceSamsungHealth.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pt-PT/TextResourceSamsungHealth.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "pa/TextResourceSamsungHealth.resources.dll": {
+            "locale": "pa"
+          },
+          "pl-PL/TextResourceSamsungHealth.resources.dll": {
+            "locale": "pl-PL"
+          },
+          "or-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "or-IN"
+          },
+          "nn-NO/TextResourceSamsungHealth.resources.dll": {
+            "locale": "nn-NO"
+          },
+          "ne-NP/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ne-NP"
+          },
+          "nl-NL/TextResourceSamsungHealth.resources.dll": {
+            "locale": "nl-NL"
+          },
+          "my-MM/TextResourceSamsungHealth.resources.dll": {
+            "locale": "my-MM"
+          },
+          "mr-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "mr-IN"
+          },
+          "ms-MY/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ms-MY"
+          },
+          "ml-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ml-IN"
+          },
+          "mni-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "mni-IN"
+          },
+          "mn-MN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "mn-MN"
+          },
+          "mk-MK/TextResourceSamsungHealth.resources.dll": {
+            "locale": "mk-MK"
+          },
+          "mai-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "mai-IN"
+          },
+          "mi-NZ/TextResourceSamsungHealth.resources.dll": {
+            "locale": "mi-NZ"
+          },
+          "lt-LT/TextResourceSamsungHealth.resources.dll": {
+            "locale": "lt-LT"
+          },
+          "ku/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ku"
+          },
+          "lv-LV/TextResourceSamsungHealth.resources.dll": {
+            "locale": "lv-LV"
+          },
+          "ks/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ks"
+          },
+          "kok-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "kok-IN"
+          },
+          "ko-KR/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "kn-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "kn-IN"
+          },
+          "km-KH/TextResourceSamsungHealth.resources.dll": {
+            "locale": "km-KH"
+          },
+          "kk-KZ/TextResourceSamsungHealth.resources.dll": {
+            "locale": "kk-KZ"
+          },
+          "it-IT/TextResourceSamsungHealth.resources.dll": {
+            "locale": "it-IT"
+          },
+          "ja-JP/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "ka-GE/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ka-GE"
+          },
+          "id-ID/TextResourceSamsungHealth.resources.dll": {
+            "locale": "id-ID"
+          },
+          "ig-NG/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ig-NG"
+          },
+          "hy-AM/TextResourceSamsungHealth.resources.dll": {
+            "locale": "hy-AM"
+          },
+          "hr-HR/TextResourceSamsungHealth.resources.dll": {
+            "locale": "hr-HR"
+          },
+          "hu-HU/TextResourceSamsungHealth.resources.dll": {
+            "locale": "hu-HU"
+          },
+          "hi-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "hi-IN"
+          },
+          "he-IL/TextResourceSamsungHealth.resources.dll": {
+            "locale": "he-IL"
+          },
+          "gu-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "gu-IN"
+          },
+          "ha/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ha"
+          },
+          "fr-FR/TextResourceSamsungHealth.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "fr-CA/TextResourceSamsungHealth.resources.dll": {
+            "locale": "fr-CA"
+          },
+          "fi-FI/TextResourceSamsungHealth.resources.dll": {
+            "locale": "fi-FI"
+          },
+          "fa-IR/TextResourceSamsungHealth.resources.dll": {
+            "locale": "fa-IR"
+          },
+          "et-EE/TextResourceSamsungHealth.resources.dll": {
+            "locale": "et-EE"
+          },
+          "es-MX/TextResourceSamsungHealth.resources.dll": {
+            "locale": "es-MX"
+          },
+          "es-ES/TextResourceSamsungHealth.resources.dll": {
+            "locale": "es-ES"
+          },
+          "en-GB/TextResourceSamsungHealth.resources.dll": {
+            "locale": "en-GB"
+          },
+          "en-US/TextResourceSamsungHealth.resources.dll": {
+            "locale": "en-US"
+          },
+          "el-GR/TextResourceSamsungHealth.resources.dll": {
+            "locale": "el-GR"
+          },
+          "bh-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "bh-IN"
+          },
+          "de-DE/TextResourceSamsungHealth.resources.dll": {
+            "locale": "de-DE"
+          },
+          "ckb-IQ/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ckb-IQ"
+          },
+          "da-DK/TextResourceSamsungHealth.resources.dll": {
+            "locale": "da-DK"
+          },
+          "bs/TextResourceSamsungHealth.resources.dll": {
+            "locale": "bs"
+          },
+          "cs-CZ/TextResourceSamsungHealth.resources.dll": {
+            "locale": "cs-CZ"
+          },
+          "bn-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "bn-IN"
+          },
+          "ar-AE/TextResourceSamsungHealth.resources.dll": {
+            "locale": "ar-AE"
+          },
+          "am-ET/TextResourceSamsungHealth.resources.dll": {
+            "locale": "am-ET"
+          },
+          "az/TextResourceSamsungHealth.resources.dll": {
+            "locale": "az"
+          },
+          "af-ZA/TextResourceSamsungHealth.resources.dll": {
+            "locale": "af-ZA"
+          },
+          "as-IN/TextResourceSamsungHealth.resources.dll": {
+            "locale": "as-IN"
+          },
+          "bg-BG/TextResourceSamsungHealth.resources.dll": {
+            "locale": "bg-BG"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SamsungHealth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.Primitives/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OQjyzNkDoBIdhADCzG4+tKZKeJFR8HRJk4qO2QXqcCOH2XnJoLQkDxmqm9fqQn93Kou4wktoXg++4/5st83gyw==",
+      "path": "microsoft.win32.primitives/4.3.0",
+      "hashPath": "microsoft.win32.primitives.4.3.0.nupkg.sha512"
+    },
+    "Mono.Data.Sqlite.Portable/1.0.3.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K9firU6nVyjwwpqr6aRJLNawao5bdRxr0AOfn/9bcwf2op02YOgCqNQ36fb9n7+O6F5spUAKky18/fBMqvXujA==",
+      "path": "mono.data.sqlite.portable/1.0.3.5",
+      "hashPath": "mono.data.sqlite.portable.1.0.3.5.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wie7GBALQYno/3Dakp4pbmGVlOwQWLbvSTt69QAhGuJxY+tHLcuT42GyglIDf947HtQAFwscN+V6Z61DilgVXQ==",
+      "path": "runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
+      "hashPath": "runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-plYDdDd2XVzg5SSqZxf2MyFAQKKZ0PqeFmP2TclsZFNJh7y6oxo1xvW+zLvZoAsgoQ1Eo1qleocL2a298LMm5Q==",
+      "path": "runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
+      "hashPath": "runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dF4dCsH572mFkqtoidNNHKChkwRDnYDB6r+/480847t/BSYHbf1n4alRHXAys4ffAySjGkOwB7GHJFR1QHXgXQ==",
+      "path": "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
+      "hashPath": "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "runtime.native.System/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bPX8Q6KsQP6EPUHcDbF4mkGw2JgvPJhzMoglldlE60Yp3RLJ1ItpqgzMjN4180Ut0Unf72lvY/0OzQh54a5hDg==",
+      "path": "runtime.native.system/4.3.0",
+      "hashPath": "runtime.native.system.4.3.0.nupkg.sha512"
+    },
+    "runtime.native.System.Net.Http/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zkqXNfcKk6fht48b6VprZsAzRHnYbLjqY4BHSQA7wwS+BGGfxftnP00pGxD0zvntvl7JTA+ljR66ad7+RjdIEA==",
+      "path": "runtime.native.system.net.http/4.3.0",
+      "hashPath": "runtime.native.system.net.http.4.3.0.nupkg.sha512"
+    },
+    "runtime.native.System.Net.Security/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MgGZCpaltVP0cNWaGlbQUbLwAAsVKDbG1Kw9uYbhyb1vGylqkGYOKu6tq5HPJTKPpqCaAxK+3Er0UZflL8UVgw==",
+      "path": "runtime.native.system.net.security/4.3.0",
+      "hashPath": "runtime.native.system.net.security.4.3.0.nupkg.sha512"
+    },
+    "runtime.native.System.Security.Cryptography.Apple/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SRA+gEOF92s3ngdWlBg6nJ3Lksz1pvPgrwz3HJf2y0rStjWaUlMkANWGfrYkBckVpGFJEvXQKooBop1pExL2JA==",
+      "path": "runtime.native.system.security.cryptography.apple/4.3.0",
+      "hashPath": "runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512"
+    },
+    "runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x1ztqHRudhDbSEX+6XuotAYk7QSXijEk4fVCLM16R92lH5pe7kTx3yDlNolHBVg5hA1oFU7tMSQX+0L19LUlgg==",
+      "path": "runtime.native.system.security.cryptography.openssl/4.3.0",
+      "hashPath": "runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+x/B3YzBne0Q1QrgU3dXs6VHCC2LKt17BpPYEK2vseOlKAKPCdvf+wYVakrLPL1imJu4+EKL9MWysp4aYd5L5Q==",
+      "path": "runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
+      "hashPath": "runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WKZ8MDSZf0VLdB5iOUrEVCaaDyIppdRH706/ozJBM7KiMCvx6mMGuz0t+vY1+J6EpdW8OqSqoSUSnyMAirDNnA==",
+      "path": "runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
+      "hashPath": "runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xTRXRbpPwl1OAxIh0GhD+IM/o3cv6gOMXmgDiemHEbZCXidDMECdtRPFAXrdUegvKdmGjtGuYWIwEpqtYe1DUg==",
+      "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
+      "hashPath": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512"
+    },
+    "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Iu5fBiJvUUuEHyynNkCKnJSjMTchoR04BSd2LhdvEjsjaXpwzuk6Sm9boEM+zEQTcQqjbNv7r+gd+oloCjWOnQ==",
+      "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
+      "hashPath": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cWiNvOSNTTY82oeNackPl9D6mlPfW3+dQluxDTHDc+q5jg2/UItGez72np/oAe2anAz0wA8AnejwpzDNnH2BwQ==",
+      "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
+      "hashPath": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-53Kvkg++jAVDO5lZYFcZgFJaawG4UJTumta2cn9mRuaVzmYEaoVbiToPceMGrgTH8PpQzn68sR5498dyA/267g==",
+      "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
+      "hashPath": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HxtECjXKXCOFVqfIe9Idy14YYH7mKWwY6pWoWjRYRrEU9IXaXv72gxI1Eu/M8j8rS5YjEAopY/IQrd66xLVYtw==",
+      "path": "runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
+      "hashPath": "runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nylw/SLLseYVP26DPJRdxxjNF6RvDrF2n9GTk16proU8Bjg1lR925uxOc9Yn9Qi541hMy39KUVjYK8l63Upn3w==",
+      "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
+      "hashPath": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "SuperSocket.ClientEngine.Core/0.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1jkmODECz0/6jgKTDUFDkBxiLJJq0ROapAkcu6KfLBJUJl+jK6pvZbS2QtZ6QbeljpgESeFaiA17Ng4GCz8XjA==",
+      "path": "supersocket.clientengine.core/0.10.0",
+      "hashPath": "supersocket.clientengine.core.0.10.0.nupkg.sha512"
+    },
+    "System.Collections/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
+      "path": "system.collections/4.3.0",
+      "hashPath": "system.collections.4.3.0.nupkg.sha512"
+    },
+    "System.Collections.Concurrent/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-povM4Vu6Yt1D4tGR2SVMVKGx9nhobaZ9/Z3GoxauVhGxmd7oXivkfnsBgdKuoIiRydPv9j/36kVEDHwC7WfEAQ==",
+      "path": "system.collections.concurrent/4.3.0",
+      "hashPath": "system.collections.concurrent.4.3.0.nupkg.sha512"
+    },
+    "System.Collections.NonGeneric/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/Im+vfO929gJfYAEZ7f7ucgbA+Q0UdorW80EJJZgAqSJ9VC2XEtjuP4qXStCNg0XmsCLXAYXJgXf1bTDedik8A==",
+      "path": "system.collections.nongeneric/4.3.0",
+      "hashPath": "system.collections.nongeneric.4.3.0.nupkg.sha512"
+    },
+    "System.Collections.Specialized/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qU3p02osVPTXRcm+s2h/zqDwBI+Mnkl/bUmF/WTuULQ+c28PMBmgTJxIrhT0MJkJsbnN36gk6lKQXMRSdgGM3w==",
+      "path": "system.collections.specialized/4.3.0",
+      "hashPath": "system.collections.specialized.4.3.0.nupkg.sha512"
+    },
+    "System.Diagnostics.Debug/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZUhUOdqmaG5Jk3Xdb8xi5kIyQYAA4PnTNlHx1mu9ZY3qv4ELIdKbnL/akbGaKi2RnNUWaZsAs31rvzFdewTj2g==",
+      "path": "system.diagnostics.debug/4.3.0",
+      "hashPath": "system.diagnostics.debug.4.3.0.nupkg.sha512"
+    },
+    "System.Diagnostics.Tracing/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rRALxiTlz1GxZkUBOFQmsLkopT/Dphg3132Rnx4xv8JfLom6HvOMztdU50/tD/+96qte7O8VUkob32RhdsxrOg==",
+      "path": "system.diagnostics.tracing/4.3.0",
+      "hashPath": "system.diagnostics.tracing.4.3.0.nupkg.sha512"
+    },
+    "System.Globalization/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kYdVd2f2PAdFGblzFswE4hkNANJBKRmsfa2X5LG2AcWE1c7/4t0pYae1L8vfZ5xvE2nK/R9JprtToA61OSHWIg==",
+      "path": "system.globalization/4.3.0",
+      "hashPath": "system.globalization.4.3.0.nupkg.sha512"
+    },
+    "System.Globalization.Calendars/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pWu8m2WwGgqSpwWRt9rwx8n00yyrM7AqeCR2K3Fy+/GlEO7XflBIXZ4E2TTiK7l1z6/dpYoZottydtWHWgvHZA==",
+      "path": "system.globalization.calendars/4.3.0",
+      "hashPath": "system.globalization.calendars.4.3.0.nupkg.sha512"
+    },
+    "System.Globalization.Extensions/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dWx0jRfVtRgtMpmganRd4dJt/+sQ3J8jaKKiFTzLhO9ZEM8aHvCl4v4AoqSLHj20VZ0AwFf7H+o/hzIuZkALcw==",
+      "path": "system.globalization.extensions/4.3.0",
+      "hashPath": "system.globalization.extensions.4.3.0.nupkg.sha512"
+    },
+    "System.IO/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3qjaHvxQPDpSOYICjUoTsmoq5u6QJAFRUITgeT/4gqkF1bajbSmb1kwSxEA8AHlofqgcKJcM8udgieRNhaJ5Cg==",
+      "path": "system.io/4.3.0",
+      "hashPath": "system.io.4.3.0.nupkg.sha512"
+    },
+    "System.IO.FileSystem/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y45xma5BnozQfw39Ds9Xpl5uZ5zJtXy9QRCyQq1uW0W80ZjGN3/IKza+UB++NjgTMu7k/A5I7Hcovrzrs1v0dw==",
+      "path": "system.io.filesystem/4.3.0",
+      "hashPath": "system.io.filesystem.4.3.0.nupkg.sha512"
+    },
+    "System.IO.FileSystem.Primitives/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yYn3SUr8cngg4If6OoU2sQokAqWoqklCmoQVym7ViyBZjj6LUaNmglVZecyPk5mCHMvcHaqW7EyYaWQcIxWLoQ==",
+      "path": "system.io.filesystem.primitives/4.3.0",
+      "hashPath": "system.io.filesystem.primitives.4.3.0.nupkg.sha512"
+    },
+    "System.Linq/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5DbqIUpsDp0dFftytzuMmc0oeMdQwjcP/EWxsksIz/w1TcFRkZ3yKKz0PqiYFMmEwPSWw+qNVqD7PJ889JzHbw==",
+      "path": "system.linq/4.3.0",
+      "hashPath": "system.linq.4.3.0.nupkg.sha512"
+    },
+    "System.Net.NameResolution/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lvz0qKpYrLz8OVNAkOPk8SY5xVR259Tneb6DCo9DMRpW6vROx388uI0yD/G/9O2yR5OYLCZ6lC4TlMW+dC+9Gw==",
+      "path": "system.net.nameresolution/4.3.0",
+      "hashPath": "system.net.nameresolution.4.3.0.nupkg.sha512"
+    },
+    "System.Net.Primitives/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VUY9S05SWhH2CIb2ZWKQU1tBzOHlxJpIfk0RuUaWx2kjTq+OuS9Mqy9TTX+8EwcnkAnIRk5hB7Pqcpv0wJGlwA==",
+      "path": "system.net.primitives/4.3.0",
+      "hashPath": "system.net.primitives.4.3.0.nupkg.sha512"
+    },
+    "System.Net.Security/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fPNEZgNT0wWX88PNfd0Uf3/3eDlfZz4nm9nDhqFbQI1p/Tb5V1e7ejhnN5t33JahE+axMJn54XVV46RLxmdyMw==",
+      "path": "system.net.security/4.3.0",
+      "hashPath": "system.net.security.4.3.0.nupkg.sha512"
+    },
+    "System.Net.Sockets/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yKWf7JZS3uEujuhCLQFbad0+CmkaOcH2xHIZsv+WNUl9m1ZqPQkVDJksYHcZbQYuTZa+Xpb92zwB6ohtPUuoQg==",
+      "path": "system.net.sockets/4.3.0",
+      "hashPath": "system.net.sockets.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KMiAFoW7MfJGa9nDFNcfu+FpEdiHpWgTcS2HdMpDvt9saK3y/G4GwprPyzqjFH9NTaGPQeWNHU+iDlDILj96aQ==",
+      "path": "system.reflection/4.3.0",
+      "hashPath": "system.reflection.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection.Primitives/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5RXItQz5As4xN2/YUDxdpsEkMhvw3e6aNveFXUn4Hl/udNTCNhnKp8lT9fnc3MhvGKh1baak5CovpuQUXHAlIA==",
+      "path": "system.reflection.primitives/4.3.0",
+      "hashPath": "system.reflection.primitives.4.3.0.nupkg.sha512"
+    },
+    "System.Resources.ResourceManager/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/zrcPkkWdZmI4F92gL/TPumP98AVDu/Wxr3CSJGQQ+XN6wbRZcyfSKVoPo17ilb3iOr0cCRqJInGwNMolqhS8A==",
+      "path": "system.resources.resourcemanager/4.3.0",
+      "hashPath": "system.resources.resourcemanager.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B0e5zqoqcKVHqq6cWG1w1LRfPkSDH8YkL/nzt3b+k2CP+uvbwWlZGxG+1yFL/v43uXfepJ2Q8yNAbvdEZK/ZWQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    },
+    "System.Runtime.Extensions/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-guW0uK0fn5fcJJ1tJVXYd7/1h5F+pea1r7FLSOz/f8vPEqbR2ZAknuRDvTQ8PzAilDveOxNjSfr0CHfIQfFk8g==",
+      "path": "system.runtime.extensions/4.3.0",
+      "hashPath": "system.runtime.extensions.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime.Handles/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OKiSUN7DmTWeYb3l51A7EYaeNMnvxwE249YtZz7yooT4gOZhmTjIn48KgSsw2k2lYdLgTKNJw/ZIfSElwDRVgg==",
+      "path": "system.runtime.handles/4.3.0",
+      "hashPath": "system.runtime.handles.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime.InteropServices/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uv1ynXqiMK8mp1GM3jDqPCFN66eJ5w5XNomaK2XD+TuCroNTLFGeZ+WCmBMcBDyTFKou3P6cR6J/QsaqDp7fGQ==",
+      "path": "system.runtime.interopservices/4.3.0",
+      "hashPath": "system.runtime.interopservices.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime.Loader/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DHMaRn8D8YCK2GG2pw+UzNxn/OHVfaWx7OTLBD/hPegHZZgcZh3H6seWegrC4BYwsfuGrywIuT+MQs+rPqRLTQ==",
+      "path": "system.runtime.loader/4.3.0",
+      "hashPath": "system.runtime.loader.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime.Numerics/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0PcG4S/dIOGUN5qDSawf/t/VaGeBjddr8hgn2YHNZdPZ6GlBtjrOV5vY1GO5tNjFmNNFrIYbulRRh9bZwvKTbw==",
+      "path": "system.runtime.numerics/4.3.0",
+      "hashPath": "system.runtime.numerics.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Claims/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uPbsydkCvWeZwwGFiY2V+ItvaVKNdg3lQhSA+5T6hIJBDvvurDKi/dNiJXli9rsbsaxUC9nHL+85lXJaj1jabg==",
+      "path": "system.security.claims/4.3.0",
+      "hashPath": "system.security.claims.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Algorithms/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XDFkCVzQsqv9q0KDZI8xgPRNw80QZk80/8+kQglt46q6Fz7P9LGwVTlJQGaCss01VKjFncb16Pl9jZaoG3DL8g==",
+      "path": "system.security.cryptography.algorithms/4.3.0",
+      "hashPath": "system.security.cryptography.algorithms.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Cng/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cwvqIPvAdtec+xp9fqzPPn/v1eWY3F2dcYo2NWfRWaXlKKZLf1PBqSfYNCS6dRnbgWjupuIkypZQQ1aV7Ty7rQ==",
+      "path": "system.security.cryptography.cng/4.3.0",
+      "hashPath": "system.security.cryptography.cng.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Csp/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p7JiSDb2mr5TYrn1K46qgvYCPEC0BxKwQmr0ky20MIG5H9+beyPG04YNvHgKqJ1FJW1lal323A1OwDrQVz3T1Q==",
+      "path": "system.security.cryptography.csp/4.3.0",
+      "hashPath": "system.security.cryptography.csp.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Encoding/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IcbIDqb9IXIpqoKbHmnQWb+BZAaXPvr/9gKo4pt0k15vbTQnXhLJgD2AI2O+pgBQ6Xks4/S+gITVUl7Lisqhpw==",
+      "path": "system.security.cryptography.encoding/4.3.0",
+      "hashPath": "system.security.cryptography.encoding.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.OpenSsl/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2UOkQPEZdvYs3+EggqD3ssC9cyjWeXlfox1Z1f3Mu+jc7oLI1eXn6lDfcPWROlYxl40ugnVUoQ69hoxvmqPPSg==",
+      "path": "system.security.cryptography.openssl/4.3.0",
+      "hashPath": "system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Primitives/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+GqtcaSXWY+9OtWxm5q+nIdKOvHDokuwvWeM+4QCEak6inzrn7Rj6gIiMMXpsKgZa4XczEot80v3pCZmZgp4ZA==",
+      "path": "system.security.cryptography.primitives/4.3.0",
+      "hashPath": "system.security.cryptography.primitives.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.X509Certificates/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YROldIoxoY5aGuNE4bmqv70zGC9dRpE+IMooUeNHrDXUuJNmWdGe4Qxy4n+A+lEFuavuLEe2httll8RolMYzSA==",
+      "path": "system.security.cryptography.x509certificates/4.3.0",
+      "hashPath": "system.security.cryptography.x509certificates.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Principal/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/WeEhBONzOx1KGcUUCOjywvyF+atJT+HVAOkj4X3NYClpSumCGubc9XStPeltTSckXhlV4vfR/KCihvaGUs7lw==",
+      "path": "system.security.principal/4.3.0",
+      "hashPath": "system.security.principal.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e3DqNOSrIpLsu/weWrJHVinIaCejE6TV4nkye73+oS351re4IYvCcE+lOFIIhNOoXpQyuo9np4c6E2HjcAbyWQ==",
+      "path": "system.security.principal.windows/4.3.0",
+      "hashPath": "system.security.principal.windows.4.3.0.nupkg.sha512"
+    },
+    "System.Text.Encoding/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BiIg+KWaSDOITze6jGQynxg64naAPtqGHBwDrLaCtixsa5bKiR8dpPOHA7ge3C0JJQizJE+sfkz1wV+BAKAYZw==",
+      "path": "system.text.encoding/4.3.0",
+      "hashPath": "system.text.encoding.4.3.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zJEnIENxZI94PcnvB5dzcx9Vmhc3hWb1vW4WPC2L9TL0gqSnqrbCIrThconq8Q/Y6usFFaf5i7Mvs+DliuUEZA==",
+      "path": "system.text.encoding.codepages/4.5.0",
+      "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
+    },
+    "System.Threading/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VkUS0kOBcUf3Wwm0TSbrevDDZ6BlM+b/HRiapRFWjM5O0NS0LviG0glKmFK+hhPDd1XFeSdU1GmlLhb2CoVpIw==",
+      "path": "system.threading/4.3.0",
+      "hashPath": "system.threading.4.3.0.nupkg.sha512"
+    },
+    "System.Threading.Tasks/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LbSxKEdOUhVe8BezB/9uOGGppt+nZf6e1VFyw6v3DN6lqitm0OSn2uXMOdtP0M3W4iMcqcivm2J6UgqiwwnXiA==",
+      "path": "system.threading.tasks/4.3.0",
+      "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
+    },
+    "System.Threading.ThreadPool/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g/Xv1KOqbgp/8nS5FNBOPsGFNY/35SOEAI/Nkq9ZS7kdO9YTbVOyMI7hjQwP0u6V6yox3H4ELjfYOnSV9VmANQ==",
+      "path": "system.threading.threadpool/4.3.0",
+      "hashPath": "system.threading.threadpool.4.3.0.nupkg.sha512"
+    },
+    "Tizen.Bixby/1.0.0-beta.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-39MgtsWSoxKFYQoWmTA7l9Y6A8xFHNFjk5z0oNg+Yx/78G3KZzNgF0HTgYBRlm49Q0mSw9mHgBBVqbzKnLWWvw==",
+      "path": "tizen.bixby/1.0.0-beta.1.4",
+      "hashPath": "tizen.bixby.1.0.0-beta.1.4.nupkg.sha512"
+    },
+    "Tizen.NET/8.0.0.15712": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-68EpEYUg3orXMIj4FnhDO6hUQ0J50tv0AOMaKTF/SSwHyyKlD3912oguVlE8ptSQw8w96gGcQeT4h3xLRjhvDA==",
+      "path": "tizen.net/8.0.0.15712",
+      "hashPath": "tizen.net.8.0.0.15712.nupkg.sha512"
+    },
+    "Tizen.NET.API8/8.0.0.15712": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1djtFJv/IH9Y8b8r/8bPRj6NENp4kU2JBi6bXM48nH7swzXGfwRaRDdiL15KOzibwrmH43HUf6ISdmIXqQwapg==",
+      "path": "tizen.net.api8/8.0.0.15712",
+      "hashPath": "tizen.net.api8.8.0.0.15712.nupkg.sha512"
+    },
+    "Tizen.NET.Sdk/1.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-acid6tFOYPnfBSKnfxj9azlc9gkT0KG8oq/c7xA9EjXRE1TP0V/tfg7XSMIUdFNw2NAYQdS8LWdwu+YK1NGpjw==",
+      "path": "tizen.net.sdk/1.0.9",
+      "hashPath": "tizen.net.sdk.1.0.9.nupkg.sha512"
+    },
+    "Tizen.TV/1.2.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/VYfgfUlqHGW4bIw79LJz3ymyFIlAV7pezvmtk4xKnWB8P6P1jjDpV8wsDYTE+nyJj1OzrdMf45hT6HLzs2Jyg==",
+      "path": "tizen.tv/1.2.9",
+      "hashPath": "tizen.tv.1.2.9.nupkg.sha512"
+    },
+    "Tizen.TV.Application.Utility/1.4.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LijhNm2jmktS27XgbgCecZ65kd4Xoa7FcHIblluConz/yI4LGVt7V3UZq/U7T1AiuxKwCWA3iBh4+EMUuwPhRA==",
+      "path": "tizen.tv.application.utility/1.4.8",
+      "hashPath": "tizen.tv.application.utility.1.4.8.nupkg.sha512"
+    },
+    "Tizen.TV.Broadcast.TVService/1.1.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aKFffqm6x/x2PJN1vrWM0qovRYlSKrkSnOWa3mlmnSkqfshG81yRprhsZ95egn2DswU++MttzdVh9frTbWJE9g==",
+      "path": "tizen.tv.broadcast.tvservice/1.1.12",
+      "hashPath": "tizen.tv.broadcast.tvservice.1.1.12.nupkg.sha512"
+    },
+    "Tizen.TV.ContextAware/1.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kdzxzgbK8KJMTzdyN4wT1h5m0D9lwn2tc7UdB/AbYvnd1073IIDfqsqeGZx3uSPbCUw5G/+AXM0ygGTQ6rQuXw==",
+      "path": "tizen.tv.contextaware/1.0.7",
+      "hashPath": "tizen.tv.contextaware.1.0.7.nupkg.sha512"
+    },
+    "Tizen.TV.DownloadableApplications/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eHkxIQXjRdmIWdiAfW3j7ojQPPdFGVEumbBdQukOdpwkJRzhAVUyt3sW0z11oG4xcJ7Vm9plOqzg5/qtO4WJQw==",
+      "path": "tizen.tv.downloadableapplications/1.0.6",
+      "hashPath": "tizen.tv.downloadableapplications.1.0.6.nupkg.sha512"
+    },
+    "Tizen.TV.DownloadableApplications.ComSS/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rlz2HiKaVqrGVamveE5pAI0SHqwcELSUvgciFEDXppNDfGeJ+fP32LWge2YB2LCSqnLAIxrRigPklXfI7agRxA==",
+      "path": "tizen.tv.downloadableapplications.comss/1.0.4",
+      "hashPath": "tizen.tv.downloadableapplications.comss.1.0.4.nupkg.sha512"
+    },
+    "Tizen.TV.Logger/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OqUy7PI6xX617G9DEiptCf86RngD4lCvRrW2nlhnZ/4j6PtNyW2ZZAtjWsaqBGDBtYXd1LdrOZudLrJjI8HZ2Q==",
+      "path": "tizen.tv.logger/1.0.1",
+      "hashPath": "tizen.tv.logger.1.0.1.nupkg.sha512"
+    },
+    "Tizen.TV.Multimedia.Aifw.Api/1.3.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4puncAhrZh0urrsF6XRr+6JJSHEbnMLCUED79GVjydIwdhZTt6US7Lti/Hb6cmPxeL3nTQvJGNjW5nIL8R+B9A==",
+      "path": "tizen.tv.multimedia.aifw.api/1.3.5",
+      "hashPath": "tizen.tv.multimedia.aifw.api.1.3.5.nupkg.sha512"
+    },
+    "Tizen.TV.Network.Curl/17.10.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B6OKT4oE/QzZJ8L4DMTKZTx0abHK6Yx/WmkUOJeZntP2COJEZSpnu+RdhKTPD5cvjkCKr7xXhHW//kcr6Mp0hw==",
+      "path": "tizen.tv.network.curl/17.10.10",
+      "hashPath": "tizen.tv.network.curl.17.10.10.nupkg.sha512"
+    },
+    "Tizen.TV.Network.TVConnection/17.12.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WsCwssj9fsS9zkEURoX6cHbEabI7G3yD0AkSQ3ljTzG+4P64FjfGjtRKxcCVwfj+GCjLLCdZYCLc++h9+A7wHg==",
+      "path": "tizen.tv.network.tvconnection/17.12.6",
+      "hashPath": "tizen.tv.network.tvconnection.17.12.6.nupkg.sha512"
+    },
+    "Tizen.TV.Security/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-caKKemN5in0yGJPnszmrfO7orGuxUGSrbYdGDnt6lFJ5OW3JtMx/xW4coaPBn8hui4zyr9ycxwCqiVEqozdkXA==",
+      "path": "tizen.tv.security/1.0.4",
+      "hashPath": "tizen.tv.security.1.0.4.nupkg.sha512"
+    },
+    "Tizen.TV.Security.CA/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jlYOD69cm6fKNgIWBbcYczeoBhDrDzh9O/f6lfUGMiFTiB6QoUZKioNIsNHYHviqL00F9kzp4p44OLOEGxgVTQ==",
+      "path": "tizen.tv.security.ca/1.0.0",
+      "hashPath": "tizen.tv.security.ca.1.0.0.nupkg.sha512"
+    },
+    "Tizen.TV.Service.CoBA.BPI/1.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2zlrVzRYvOyfh3MVsk6ysPJpHz4OHPbjbOTcXfBZ4b4JVze6wWCXWthl1qVjttLFSA5nhU8qjLHafViXw1mWSw==",
+      "path": "tizen.tv.service.coba.bpi/1.1.5",
+      "hashPath": "tizen.tv.service.coba.bpi.1.1.5.nupkg.sha512"
+    },
+    "Tizen.TV.Service.CoBA.Common/1.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uunBgkrgchuQhTIyn0Yt0C8Fhp+y26yAwbTDlMbqDg2nUDMmMh+NYjVFLif21Jd0oBTMMNS2uhgzxGqOF/YUQw==",
+      "path": "tizen.tv.service.coba.common/1.1.5",
+      "hashPath": "tizen.tv.service.coba.common.1.1.5.nupkg.sha512"
+    },
+    "Tizen.TV.Service.CoBA.Core/1.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dbOfQnp//eR/aPV/O02ogiIFXrJuvlJ91ExLpLTsPTx1IETttZXQKO5eM8y8NpzsFJ0OmA/p/nOjMS2sZywi9g==",
+      "path": "tizen.tv.service.coba.core/1.1.5",
+      "hashPath": "tizen.tv.service.coba.core.1.1.5.nupkg.sha512"
+    },
+    "Tizen.TV.Service.ContentService/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YtfydXZzUcYyUZ0f5UnCA3B5OHQLAAEM/G/kmEeL5oPehha2CWJCliNEDFY1SadjY+Juawql0+/pQ+9iQgeQ+w==",
+      "path": "tizen.tv.service.contentservice/1.0.2",
+      "hashPath": "tizen.tv.service.contentservice.1.0.2.nupkg.sha512"
+    },
+    "Tizen.TV.Service.IoT.Server/0.0.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8nbahyZS06eaMjw4UGRuybp0dicRstPj7SYwOA+u7oFUWr8JwC4O4FOe42UEX9bIgN9Hpmrj7LWRO7BAI9PnsA==",
+      "path": "tizen.tv.service.iot.server/0.0.17",
+      "hashPath": "tizen.tv.service.iot.server.0.0.17.nupkg.sha512"
+    },
+    "Tizen.TV.Service.SourceList/1.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5/XS0zfM0hmkj0/N5PDGhGQQYgCDXskI5dV3gQpyiKH0lD60wl9szpJq6Rupt8Xjt67TBwKjE19AXhPT6xC+hA==",
+      "path": "tizen.tv.service.sourcelist/1.0.7",
+      "hashPath": "tizen.tv.service.sourcelist.1.0.7.nupkg.sha512"
+    },
+    "Tizen.TV.Service.Sso/1.7.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NROVsUnfYnhTf3wljthcYn+yG19KOUTczTeIQhHRO5WR88MjmIVRj++smh8kCMIUFK+W15V6CugZ5TIDLQ5FYw==",
+      "path": "tizen.tv.service.sso/1.7.8",
+      "hashPath": "tizen.tv.service.sso.1.7.8.nupkg.sha512"
+    },
+    "Tizen.TV.SmartView/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Pda8m+sp7bahyvYft5A2VJzke5Le5JtQKgtQqLYp+h77PcVZL4vauy8KUcAEG1VPHQhudM5yuq7yk++dE5hSuw==",
+      "path": "tizen.tv.smartview/1.0.0",
+      "hashPath": "tizen.tv.smartview.1.0.0.nupkg.sha512"
+    },
+    "Tizen.TV.System/1.0.116": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PMyLQkLires/FZdUDnykCIcti4Qa5cOsbzf6+dQ1NXBLYDznQ8hXK9KvtnqejxTrb9Lxc680qjUSnsYEZN7Qrg==",
+      "path": "tizen.tv.system/1.0.116",
+      "hashPath": "tizen.tv.system.1.0.116.nupkg.sha512"
+    },
+    "Tizen.TV.System.Framework/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iXi0j3T5ppevUzc+qho2MrSI00VKM8ViQwCfmqnAF556htzIZ7gF+Mg98dgff4FpTByEalK3UVLo7g5F0x9l4A==",
+      "path": "tizen.tv.system.framework/1.0.5",
+      "hashPath": "tizen.tv.system.framework.1.0.5.nupkg.sha512"
+    },
+    "Tizen.TV.System.Hdmicec/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jlZ9sEJ/LLZZYVK+uYf+g5gfjPU3xnF3bUuqoOb/jfvAzoKLXLc+vbBVtQ1zTmstIp46bfBTjtHj0iyjrffTfQ==",
+      "path": "tizen.tv.system.hdmicec/1.0.2",
+      "hashPath": "tizen.tv.system.hdmicec.1.0.2.nupkg.sha512"
+    },
+    "Tizen.TV.System.Mbr/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gftq5rCvjlTGChQarru455xBKIBJbJp7lhBqxGtpsOV35uoSo+TV3+JAH0hZzDPmtElhnoYUv+Ia9M5Bhs1yzQ==",
+      "path": "tizen.tv.system.mbr/1.0.4",
+      "hashPath": "tizen.tv.system.mbr.1.0.4.nupkg.sha512"
+    },
+    "Tizen.Uix.Bixby/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kDWOyH54v+xA3ROi09NMXPgIE2tKwQ4VeHlTHABmRiDmM56qHwKPU9yfoOHLXJzq9blaq7YhgxHm8HzPtiLFCQ==",
+      "path": "tizen.uix.bixby/1.0.5",
+      "hashPath": "tizen.uix.bixby.1.0.5.nupkg.sha512"
+    },
+    "CompSamsungHealth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextResourceSamsungHealth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

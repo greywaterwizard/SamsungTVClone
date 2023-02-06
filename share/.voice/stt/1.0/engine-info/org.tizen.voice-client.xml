@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<stt-engine>
+  <languages>
+    <lang>en_US</lang>
+    <lang>en_GB</lang>
+    <lang>ko_KR</lang>
+    <lang>it_IT</lang>
+    <lang>de_DE</lang>
+    <lang>fr_FR</lang>
+    <lang>es_ES</lang>
+    <lang>zh_CN</lang>
+    <lang>en_IN</lang>
+    <lang>ru_RU</lang>
+    <lang>pt_BR</lang>
+  </languages>
+  <silence-detection-support>false</silence-detection-support>
+  <name>Samsung stt engine</name>
+  <id>org.tizen.stt-client</id>
+</stt-engine>

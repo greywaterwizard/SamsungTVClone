@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5" package="com.samsung.tv.mybixby" version="4.21.12101">
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <profile name="tv" />
+    <description>Explore Bixby</description>
+    <ui-application appid="com.samsung.tv.mybixby" exec="com.samsung.tv.mybixby.dll" launch_mode="single" multiple="false" nodisplay="false" splash-screen-display="true" taskmanage="true" type="dotnet-inhouse">
+        <icon>MyBixbyTest.png</icon>
+        <label>VoiceDiscoveryMenu</label>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="false" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="anytime" />
+        <metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="responsive" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/sdk/version" value="v1.0-beta.1.4" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/version" value="10000" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/bixby/companion-app/action-id-settings" value="tvSettings.OpenSettings,tvSettings.CloseSettings" />
+    </ui-application>
+    <shortcut-list />
+    <tv-info api-version="5.5.0">
+        <infolink>T-INFOLINK2021-1003</infolink>
+    </tv-info>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.partner</privilege>
+        <privilege>http://developer.samsung.com/privilege/sso.platform</privilege>
+        <privilege>http://tizen.org/privilege/widget.viewer</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth.admin</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+    </privileges>
+    <build-info id="6888127">
+        <app-info exec="com.samsung.tv.mybixby.dll" id="com.samsung.tv.mybixby" />
+    </build-info>
+</manifest>

@@ -1,0 +1,1063 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+    <Reference URI="tizen-manifest.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>cycZ66BhJUas0njcWGuQjKDf7LNvqudLdlHiTCDyQSc=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fcom.samsung.tv.CSBilling.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/gTbhhRqVKFAMykTkZyDaEozK7OBNMSXGtsJpmRcLuE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Flayout%2FPaypalLoginXaml.xaml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>phRPt4hIK6EfuCJ+yW0ArE5BBlJCNLLtkMt6diQgmJs=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fi_icon_thumbnailinfo_check.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wz6BLCyyVyfbadAPmGMUk9xrKABNAxfOhCfN/VeAphE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_logo_samsungpay.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vMAyWyuZY7Uen2qYaQbRXeZz7MILgm+2GXlQuoDHFrU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_logo_paypal.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LtmJcGKzbJdNhFePNzkUcvNphOHbY1MtangwMtT/3Ao=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_logo_paypal_full.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qsTzHZF0HBTXDYBKdAq+qfYKtwMFtCGXSRpVdezC4vE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_img_paypal.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>A7pEKVlbe6BA8d3ZVjMlDJrGQ05ak7pZ/wNZSa/fRVk=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_img_card.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rtxMo3GdnhVOO5jU057b5fvjyWLuQmYDVtccKd9Q5YE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_terms_condition.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>q3zFN19FTcrx3wwshIWqMt65WGx7FhO62Nbg6UWlCHc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_subscription.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kPf0jZ5clPz4vyb1VgNP0CYHNOmbR5hFgbfsDHE/bAA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_reset_pin.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>pCWodE77/wUV3ZGXOUOMGwlEqknyqPJIQ0trA7EtsxY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_redeem_coupon.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>HnYVKhrXKEATdhr2Ecwfql9yMTXwnLn5QR00jVOalls=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_promotion_codes.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>oMOE36qE0fjJN4N5GRhOLAqWsP/Oe+aD97VKAtp5y4M=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_profile.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Wbsdl55yPKQF33jpPWl1Ulm0WbOckqwWs6vjMRjUUiw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_payment_input.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FV9ERiVx967IiXWCgU+d8P7lnoEnT89mLBXz5ApFvWg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_payment_info.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ixmWZmBe/ebQdhouRTj9Pxsd/cL+NddVHscx7jDCNGo=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_history.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>po2lPHOJ1S9860591EKqQQ6QT4MfAIBdwfvpTV0Pc8Y=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_device_mobile.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8mthtQm/aa6dz8SzxrLR5eO8QZPrYMbLXR/QNJ7cUfA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_default.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wUyO5dSSunPbeb2z4nZCVMAw0VTM9O54YUYRHHG58pQ=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_complete.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>lDTZTjTnjJRtTgIW4wZIKQHMYy/fg7ZV5eL0XUS9xpE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_change_method.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vgPethYjxyUGFg3tWc2u+YbCwgBr/Lrn9AjwR3nt/T4=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_card.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>5ASKePTNi/65JUgLzkIFcPsVCmE+Af3mExCoZqM8pXc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_card_edit.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>M47BKFYIkcSPsFCU/JHqGwYtwKqS4r3QXZy0go5aeNw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_card_delete.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qV1QgmoeghxrsSZTk58ioJi+TneLPJ67s+c33Wymf1Q=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_add_card_tv.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+OBaOYwb0bdnSl8TrYpEwb6URRDblTtWOx82wJJGg0g=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_add_card_mobile_s.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tXk7ShjErs5MpvrQZdurRPXisXT5pJWVXQPCP4nexVY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Flite%2Fbilling_icon_add_card_mobile_l.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bbpIKWfqAuhp3e58/kgwGK4q0lmHYH4lkavTypa2Xf4=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fime_depth_bg.9.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>px/gDueKSzAcwhuC2cBtoBwIn3rfBGEFbNJPpB+17UU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fime_bg_input_hc.9.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ywEUdep3l6SmqakeUHval1Ju7SEKKzGTdgbUXOhq5Ng=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fi_icon_thumbnailinfo_check.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>o8T1YodVbCOLQlUfrL9j/Z+fSGtJre/GO6WDE0TzZG8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2FCC_Billing_BG_103.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RP8NBBreSEBkRQFE1V+2YerNDEFkvlNyP22ir7Uzueg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fdefault_24.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NhPn8ZBdoAL9X3FkpGLNCl/qSFJ18UMWcxuFMnU/UoM=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_vme_checkout_pay_now_v2_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>5dnAIFyVv1G6Cc+d2/O9d2IHg20cKOxIXHrXoiOvOlw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_vme_checkout_pay_now_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vTNwZAdCtpey5fwqT9q3sTDPzHeaglE0M1iRad8uYsE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_vme_acceptance_vertical_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9HiY1RFS1eZQkPe0Bg9J5k5tsNQQjYFchOGJtrBCSlk=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_vme_acceptance_horizontal_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rWnMjVpJoNhowz+Kn91hP7VU/iKTYz/JOVHUGLJsspg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_visa_electron_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ZdWAb0x4BM/zYe2KBTYr8vzLkNcO0b0QXFKS1U/wLAo=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_visa_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YBg4dHCKKK1sGeHL2qYI14yCkOKOAVdx3u80Yc2Al1w=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_poweredbyworldpay_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>yzvng+ybLwRhQGMR0TWyvlgEK89W0HZBTtVYlsQVuHM=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_masterpass_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>H+MPQyKI1YyHqEi+YFFfzOW7wx9B3LpS+ixwSOGYADE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_mastercard_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dzlhOCwaoXSLYRbzTVIFjN3uiQt5lNFwRaahpd7RIrc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_maestro_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VFpCoLKOKHSP0LhWKbvOYKFMbG3kIgK00/4/Lm6sn0I=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_logo_paypal_card.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gzqUcJu4+M60XrfOFdZKgoFemEuoT82tKEe0sGWOTAY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_laser_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SF/F6fr0u/Buf8ZXyT0WoHMS4I3ZI5mddt5P/3bzABw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_jcb_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Jskusc/nZNqMCUPyexCoQjdxZ6CxEQ0uKPkldV89ehY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_elv_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mvqRodvADYssnysc+3zPuUF2hJrKzowehXfYgVgFahc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_discover_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0rzRXYhsOCTmOUAvcd0313BvkqtFw2mToGER0P9tfg8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_diners_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>cIBa/xdckqkKiCeqVJYiEa6sIhK2jKWLk2weJFDJ5Fs=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fcard%2Fbilling_amex_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>cTTR1WXEFQ7FucdoK0x/L2Bnq8vHyE4WZ6AQBTLkGcA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_logo_samsungpay.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VYW+WiN9DHFLuDWpmpWQoX1htj3Jl9RkUx+xiayfzTQ=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_logo_paypal.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LtmJcGKzbJdNhFePNzkUcvNphOHbY1MtangwMtT/3Ao=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_logo_paypal_full.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qsTzHZF0HBTXDYBKdAq+qfYKtwMFtCGXSRpVdezC4vE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_img_paypal.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>A7pEKVlbe6BA8d3ZVjMlDJrGQ05ak7pZ/wNZSa/fRVk=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_img_card.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rtxMo3GdnhVOO5jU057b5fvjyWLuQmYDVtccKd9Q5YE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_terms_condition.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+YBwlMVxeFYLRdWK7OcQ4+aXVUhffS6QudKMN5QvSfo=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_subscription.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IRLou5CM7Daqk106ZR0c65NNglgk1xfaZ0W0x6AbXM8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_reset_pin.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>CVGdrAVYHA2HsIzar5DFh66HNkkS4BBHhCBXggerdZs=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_redeem_coupon.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>G20WvkauuJAXWwBepEmvt+oJ8xg1+XHz3RrBRGyGFBU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_promotion_codes.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+3rZlqg2AQhch4qeuHFoXf+k9JtyDhJlP53cTfurNeI=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_profile.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qqolSEO0jBTtTUCNalW5ihJK4OM30JYOcl5n1tqPcqY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_payment_input.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>fEtii1elxTjqBP7Za51oAW5R9+NMJAq72RAuj4R3Pmw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_payment_info.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bA3V0sAlh7Wm9JjlMlXh2hBO9+zcrz3yNevB9RXFfhw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_history.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1sg7P9l9MJdNwI9RqgAqVNcuqbXACkxWOCFWYLBOZyA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_device_mobile.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IQSDtWS2gao+6fC95FX3EgITNrePR0ERLdlTpmvFWoc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_default.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Whcit32DQ0FZeAbX8Dz+4lt+Sv7mnsfuRiaMvFuiouc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_complete.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>056O+kdoqYTwILC7JzdRxjowOCf2sEkxufpo4xF5bgg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_change_method.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YQGGnuhjrk5ntvSHyJXkDC8jJomC3akbScCxrHjdcGI=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_card.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xdJkyVCrfCSdxDFI+036VD1tAPEfZkLv0UsTY0bq1qw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_card_edit.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>KSCIa1YAhN6+oiOxifz5kTm/CLx55PsPhOVyQ/sfeLU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_card_delete.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bO/T/HpgcdEEYBqMS1lKkPrksxA06QcslDt25LcUel4=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_add_card_tv.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2+3jMVhgcEUkzXwVWbl8NS4Bs5GhlVP/ClIKacXW66I=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_add_card_mobile_s.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>AO22vlIMNyStKzAkZ3J1ouPDAXSMK0++9urmIiT39yY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_icon_add_card_mobile_l.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ueZ441NGiEaXKub01jqHthWCf8Sy2ohu4cqOCNW9eqU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FOPEN_THEME%2Fbilling_account_profile.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Je4WI3ljNfY5BO9VG/0nI9oxyrUd27/J4ZSGIBaNLaA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fi_icon_thumbnailinfo_check.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wz6BLCyyVyfbadAPmGMUk9xrKABNAxfOhCfN/VeAphE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_logo_samsungpay.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vMAyWyuZY7Uen2qYaQbRXeZz7MILgm+2GXlQuoDHFrU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_logo_paypal.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LtmJcGKzbJdNhFePNzkUcvNphOHbY1MtangwMtT/3Ao=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_logo_paypal_full.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qsTzHZF0HBTXDYBKdAq+qfYKtwMFtCGXSRpVdezC4vE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_img_paypal.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>A7pEKVlbe6BA8d3ZVjMlDJrGQ05ak7pZ/wNZSa/fRVk=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_img_card.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rtxMo3GdnhVOO5jU057b5fvjyWLuQmYDVtccKd9Q5YE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_terms_condition.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>q3zFN19FTcrx3wwshIWqMt65WGx7FhO62Nbg6UWlCHc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_subscription.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kPf0jZ5clPz4vyb1VgNP0CYHNOmbR5hFgbfsDHE/bAA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_reset_pin.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>pCWodE77/wUV3ZGXOUOMGwlEqknyqPJIQ0trA7EtsxY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_redeem_coupon.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>HnYVKhrXKEATdhr2Ecwfql9yMTXwnLn5QR00jVOalls=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_promotion_codes.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>oMOE36qE0fjJN4N5GRhOLAqWsP/Oe+aD97VKAtp5y4M=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_profile.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Wbsdl55yPKQF33jpPWl1Ulm0WbOckqwWs6vjMRjUUiw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_payment_input.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FV9ERiVx967IiXWCgU+d8P7lnoEnT89mLBXz5ApFvWg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_payment_info.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ixmWZmBe/ebQdhouRTj9Pxsd/cL+NddVHscx7jDCNGo=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_history.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>po2lPHOJ1S9860591EKqQQ6QT4MfAIBdwfvpTV0Pc8Y=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_device_mobile.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>8mthtQm/aa6dz8SzxrLR5eO8QZPrYMbLXR/QNJ7cUfA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_default.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zbgSjTxZ13rGpnSk9UZBM6OS675IuqrvjZIKPWjomUA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_complete.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>r+dBVtlBDZct6JM2NRU0mrDsYKBuAG0U+giOqVg9jiE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_change_method.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vgPethYjxyUGFg3tWc2u+YbCwgBr/Lrn9AjwR3nt/T4=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_card.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>5ASKePTNi/65JUgLzkIFcPsVCmE+Af3mExCoZqM8pXc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_card_edit.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>M47BKFYIkcSPsFCU/JHqGwYtwKqS4r3QXZy0go5aeNw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_card_delete.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qV1QgmoeghxrsSZTk58ioJi+TneLPJ67s+c33Wymf1Q=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_add_card_tv.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+OBaOYwb0bdnSl8TrYpEwb6URRDblTtWOx82wJJGg0g=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_add_card_mobile_s.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>tXk7ShjErs5MpvrQZdurRPXisXT5pJWVXQPCP4nexVY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Flite%2Fbilling_icon_add_card_mobile_l.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bbpIKWfqAuhp3e58/kgwGK4q0lmHYH4lkavTypa2Xf4=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fime_depth_bg.9.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>px/gDueKSzAcwhuC2cBtoBwIn3rfBGEFbNJPpB+17UU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fime_bg_input_hc.9.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ywEUdep3l6SmqakeUHval1Ju7SEKKzGTdgbUXOhq5Ng=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fi_icon_thumbnailinfo_check.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>o8T1YodVbCOLQlUfrL9j/Z+fSGtJre/GO6WDE0TzZG8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2FFRAME%2Fbilling_icon_default.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IVmK0v5ly9/taGuEzXvn7+kr1ZI9k7tP1OO895529J8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2FCC_Billing_BG_103.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RP8NBBreSEBkRQFE1V+2YerNDEFkvlNyP22ir7Uzueg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fdefault_24.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NhPn8ZBdoAL9X3FkpGLNCl/qSFJ18UMWcxuFMnU/UoM=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_vme_checkout_pay_now_v2_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>5dnAIFyVv1G6Cc+d2/O9d2IHg20cKOxIXHrXoiOvOlw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_vme_checkout_pay_now_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>vTNwZAdCtpey5fwqT9q3sTDPzHeaglE0M1iRad8uYsE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_vme_acceptance_vertical_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9HiY1RFS1eZQkPe0Bg9J5k5tsNQQjYFchOGJtrBCSlk=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_vme_acceptance_horizontal_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rWnMjVpJoNhowz+Kn91hP7VU/iKTYz/JOVHUGLJsspg=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_visa_electron_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ZdWAb0x4BM/zYe2KBTYr8vzLkNcO0b0QXFKS1U/wLAo=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_visa_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YBg4dHCKKK1sGeHL2qYI14yCkOKOAVdx3u80Yc2Al1w=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_poweredbyworldpay_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>yzvng+ybLwRhQGMR0TWyvlgEK89W0HZBTtVYlsQVuHM=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_masterpass_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>H+MPQyKI1YyHqEi+YFFfzOW7wx9B3LpS+ixwSOGYADE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_mastercard_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dzlhOCwaoXSLYRbzTVIFjN3uiQt5lNFwRaahpd7RIrc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_maestro_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VFpCoLKOKHSP0LhWKbvOYKFMbG3kIgK00/4/Lm6sn0I=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_logo_paypal_card.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>gzqUcJu4+M60XrfOFdZKgoFemEuoT82tKEe0sGWOTAY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_laser_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>SF/F6fr0u/Buf8ZXyT0WoHMS4I3ZI5mddt5P/3bzABw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_jcb_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Jskusc/nZNqMCUPyexCoQjdxZ6CxEQ0uKPkldV89ehY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_elv_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>mvqRodvADYssnysc+3zPuUF2hJrKzowehXfYgVgFahc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_discover_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>0rzRXYhsOCTmOUAvcd0313BvkqtFw2mToGER0P9tfg8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_diners_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>cIBa/xdckqkKiCeqVJYiEa6sIhK2jKWLk2weJFDJ5Fs=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fcard%2Fbilling_amex_24.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>cTTR1WXEFQ7FucdoK0x/L2Bnq8vHyE4WZ6AQBTLkGcA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_logo_samsungpay.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>VYW+WiN9DHFLuDWpmpWQoX1htj3Jl9RkUx+xiayfzTQ=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_logo_paypal.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>LtmJcGKzbJdNhFePNzkUcvNphOHbY1MtangwMtT/3Ao=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_logo_paypal_full.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qsTzHZF0HBTXDYBKdAq+qfYKtwMFtCGXSRpVdezC4vE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_img_paypal.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>A7pEKVlbe6BA8d3ZVjMlDJrGQ05ak7pZ/wNZSa/fRVk=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_img_card.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>rtxMo3GdnhVOO5jU057b5fvjyWLuQmYDVtccKd9Q5YE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_terms_condition.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+YBwlMVxeFYLRdWK7OcQ4+aXVUhffS6QudKMN5QvSfo=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_subscription.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IRLou5CM7Daqk106ZR0c65NNglgk1xfaZ0W0x6AbXM8=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_reset_pin.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>CVGdrAVYHA2HsIzar5DFh66HNkkS4BBHhCBXggerdZs=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_redeem_coupon.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>G20WvkauuJAXWwBepEmvt+oJ8xg1+XHz3RrBRGyGFBU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_promotion_codes.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+3rZlqg2AQhch4qeuHFoXf+k9JtyDhJlP53cTfurNeI=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_profile.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qqolSEO0jBTtTUCNalW5ihJK4OM30JYOcl5n1tqPcqY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_payment_input.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>fEtii1elxTjqBP7Za51oAW5R9+NMJAq72RAuj4R3Pmw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_payment_info.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bA3V0sAlh7Wm9JjlMlXh2hBO9+zcrz3yNevB9RXFfhw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_history.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>1sg7P9l9MJdNwI9RqgAqVNcuqbXACkxWOCFWYLBOZyA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_device_mobile.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>IQSDtWS2gao+6fC95FX3EgITNrePR0ERLdlTpmvFWoc=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_default.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7PCldTrubPqEf0GZ7W3YbIfSKXSH4hnDq/BhvrRI3aY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_complete.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7J/X3Kc01iY6e/hOfPBvlBD2AxImPrN1lUwiag9yvm0=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_change_method.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YQGGnuhjrk5ntvSHyJXkDC8jJomC3akbScCxrHjdcGI=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_card.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>xdJkyVCrfCSdxDFI+036VD1tAPEfZkLv0UsTY0bq1qw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_card_edit.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>KSCIa1YAhN6+oiOxifz5kTm/CLx55PsPhOVyQ/sfeLU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_card_delete.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bO/T/HpgcdEEYBqMS1lKkPrksxA06QcslDt25LcUel4=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_add_card_tv.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2+3jMVhgcEUkzXwVWbl8NS4Bs5GhlVP/ClIKacXW66I=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_add_card_mobile_s.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>AO22vlIMNyStKzAkZ3J1ouPDAXSMK0++9urmIiT39yY=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_icon_add_card_mobile_l.svg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ueZ441NGiEaXKub01jqHthWCf8Sy2ohu4cqOCNW9eqU=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fimages%2FDARK_THEME%2Fbilling_account_profile.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Je4WI3ljNfY5BO9VG/0nI9oxyrUd27/J4ZSGIBaNLaA=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fcertificate%2FTizen_DNA_ss.crt">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>A5K3Nsdh0U8WLSs7LB3BrCOm3XVUrEgtWJVffKYbMAk=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fcertificate%2Fstar_samsungcloudsolution_com.crt">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>N0MJii6DqFRqDl9hufatlZEsjnDK7/2l6gljN7MAnRE=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fcertificate%2Fcom.samsung.tv.CSBilling.sign">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>btNgLIKI2M6agFnZB8o/mvlbxx3pbY6ci+WrFAPlV6I=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fcertificate%2Fbilling2.crt">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ujsl0GFomQr09GQCsuZA3Yy9PoPnupn9/Ks2rsgbU0A=</DigestValue>
+    </Reference>
+    <Reference URI="com.samsung.tv.CSBilling.2021.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dX5dVjV68ocOpASnliyLwgJe8SDPbVL50qitVXwTtDo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzu-ZA%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>cl8Me+MeKIWHifak/u07eOW5l7RNeEbmD1bP5W5LYT8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-TW%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>/YL2rvXNlOTs+FR3AlRVrBqNnT6K3ieREED3ajsfi/0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-HK%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>sz0ZqyI/sUubSiwDL4Lnb/fuK+HGLaKg9+3neIPaJb4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fzh-CN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>R1SZh4RwLwHwu0ysQqz2ikA+kKgV7lr9dl3VOdwGVm0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fyo-NG%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>96XBZ8aezRtpK/i2ykI9eXl7MdVaTrtyDeqrS0GmM6k=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fxh-ZA%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>DIfBKLAZ0qLS3VZEErVaxMro1j6Of9k7HH4trRI1upE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fvi-VN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>yNJU4vFRyL+y5WFXxzYaZluYLKaLbg5zydDtQ+cDyMo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fuz-Cyrl-UZ%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>KDBOuN+lzAeM2tAAAU8umy1NmajYXCjVo4Q33jLaeaU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fur-PK%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>UkL3FzfRreURZfSc0CGC/mwjL6u3e8+Ms4/OuJ6YiTA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fuk-UA%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>my2PJIs3KUY90FNRwbZEtW5sZAmDhRWTbeegT73615I=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftu-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>UwSHhraSSgjhIN/+yaAAmXAwqz/eCjAZmuhBQY0ekE0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftr-TR%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wgb9diOIqwXa4wRwWdcJ4m7hz+xjIp8+HtkuVs7Q2ps=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ftl-PH%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>YFedBuYm5TMPnUOCXjilVF2a52pyDBM4j2zmeU5t+Aw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fth-TH%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>hiSLV3qrH9z+5yUckzQt541/a9XII+eEIIIkFrXq6mA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fte-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7wJ/Mbjx04/8T25S0tooZKenpYeveH/fp5B37Nu9WXo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fta-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>5wkVcHvDpyCGfzucM7YBd6mO7F/QRhgZXhN8dxYBcNs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsw-KE%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>3luEJacnaVYezoaDdf+VsyfsDYzuChZBei9PffI4qPc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsv-SE%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>lE8ZDA0QQICLOgOW4hjYRjARvDGktOtQxzY9XE67RRU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsr%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>kXdu1SSBOQf6asy+Ew74sf3LY9FuWhTCsZOikQcALoo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsq-AL%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>TZ+W1CoQ9r9uvCHGWgVEBUDoV8+KPG/DwUYEx236pgA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsl-SI%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>6zJN2eSdM5eG3xqv3K8f37UtwL3uumcBStWVNAAIubA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsk-SK%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>OO8nUdmOPf4IowBuX56r4Ni730no1JdbwC8EGPNhp7o=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsd-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>9BrfLRnNYzsllhKKnCVAX21YzJsPAarnKVEdCtV2SRA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsat-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>nKKRCyxyBxhdjdYSnfATVN2hVLyTFPmD17CcGVlFN0k=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fsa-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dq97OZDhfhjEiHfczS4jRn+648Bb5y/nnBRHt3EzJD0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fru-RU%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BSy1lb7k6paJvKOdDWDV/5ieNQSh3vQhCmDIJSm3jQk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fro-RO%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>h2Z5hrQnjXhW5CUoAhpxlnxKHeasV8SdgahzdHLc0Ss=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-PT%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wgLUpTkVuNT5FRgvNrUyBIV9kvnabqj/hVr9dcqv5vo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpt-BR%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>L88YddZqpbj0j3bB6SttTXfOwxjBfMidTOIPCP/cbIE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpl-PL%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>GVAMxc7Hm03MjLlOpHYqqUNPcj1k0pZIKwa6oPeoioo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fpa%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Q2xX3A0k8GWulgVIiMWFj0Uq2BZ3djhoUtvq+R13heA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2For-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>jLU31tXIhDVbkIRdSxNTwYdPx8KlriERvjBdv5Vc3Yo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fnn-NO%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>svyfl2P7bKroUg2LkpZfY+XOSoFlOTxDfst5aKObdis=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fnl-NL%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>eA+9w11tzMQA1jdZY4WyO5+qYZxNPQB5N6BFsmC49EA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fne-NP%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>W3+j7yqwufwrgtMW5ZpPdcATDiYQ75XGuqHAOKEIZHM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmy-MM%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Tx070hV8Ms5Pyyl6ua4l6Yhlzh1RDqvx7KYwYE7PQcM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fms-MY%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>3j21IfnWWS0ByUV7UJanFzzcCnR7NJoOrzWyOwktVLo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmr-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Cmz1kxXrBEsqzVtGKPU0E8N+diH1zgwaONliE45DorM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmni-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7OjeA7r/JKr92KwbzwTv6By3jFNxH6ztzfeb6MNBbVA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmn-MN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>a4K7CZusos6Xaitkn29UQsOYP5WCsMf/YA7M2+k/DZU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fml-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>u3xGkpqmpGrUKicccvsNAkifkrvN7SxejFJ0yXEPHx0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmk-MK%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>DVRcImAG0BKPReO3KJxamhwa8j1/Edx3Aa+/LlEUdWY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmi-NZ%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FNxRbqAngg7mQFne4tjNVMk0/CA+KmV9NWyEPm5O7iM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fmai-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>DZNJJ1W+kywFgcY4whZlxi83Su+UqKdFz8Z9F50koME=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Flv-LV%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RjU8Khk4aTn2guIUC7syKJhUrJMVFzjEbI6cFeJo8Rs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Flt-LT%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>L3xjB/v1/XzT0g6nA8gNJW/w4EV7yxoPGb3YO2TZo5s=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fku%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>AMM0cd0U0aPqxQzfX3/v4DxDH7Lwzmpodr0B5EV0qA0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fks%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>oiHzeh6/fnrEoaCqhga+RCFUWhctyxpV7DWW7iqP9NI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkok-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>uk85QOvFHdM4Zfkcgfe3S4ctvW5YJw8OFR9xQbOzy0o=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fko-KR%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>bcbOLYKP0VwqcQg0ij9naU8IDLzlh4HUcJnEq/NDngs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkn-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>qMydUekJQ0bl5wE6zq9LkdxWZY6wCTEesLxfXjeVc8Y=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkm-KH%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>F0cdxkLCRwGL9KQbzn4+BfyqryHYOR3Aq3XmKNRRvaQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fkk-KZ%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>QTTlaN5QKgkQ1ObOaWCwe0rPadgFNaQgPV5PBY+R90E=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fka-GE%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2D0v0Rh1rYdHhyDrLKZDwVmcIQtepkm3nqUco4DY5qM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fja-JP%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>QaIh2GG48Un33M+5QzoT9jkorT9Y6JJUQ+bsr/ICCqE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fit-IT%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>fzVkVz7r3vH4AEvvE1BrxDn4kjMN7D4af2I4+N3OC7E=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fig-NG%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Ru1+DDSkqEgRSqnddKc6f6nI3z7OOQGXb/yae/8ASC0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fid-ID%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>ZsZa6PZWUzrAQ5qAwE7bOOP2HWDHZqVZngBJ0DD4B6c=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhy-AM%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>zNeg6/1CR7vcohMFd7nrthFMk4yu1RNarLgRBT1MxMo=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhu-HU%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>MWPEZEkFCSsYDUwFYwOFizTOEfpST1bDPXmVsm8Kw0c=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhr-HR%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>GrnajUCVvQ0kJDyk2gPXqIjPKkdFDZPPCBUh4ZV0wbg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhi-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>+EIPahzlUIm7CRLheX07Bn1QN+FWCisac3ZHSGfQ3UQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fhe-IL%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>wCAdeUY/HB1r1vFFW2B5rj6qPqyQlqZDSDULEaVwGCA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fha%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>R1yPE7qdDWthWhNRQpNq2xhB7YbV7E6VMCpskjq9nXI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fgu-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>66EfuUMjPh+VWAElyZswluFDb8e9PtLnki74vxgoULw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-FR%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>is1+9Azsq+5C6ezHx4f3W9fJPuXd46GaGTXMs3SbWfQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffr-CA%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>KvLT0AAetyAqzwe6kns6+DiFyMs5J8Uyde1YEdTJ4Rk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffi-FI%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>hU39PLR1UsgptzH0TM7gO+/RmlPs0P0RUDAixu/qwUc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Ffa-IR%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>TT6yjvoBeUOEDdVQmNRm/nq9+z0rmKv96zYl0z+CDbs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fet-EE%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7oy1dc6nhY4HabcQ/ZT3rzLkzkQ4/arSuKb5a30jlTE=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-MX%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>hGx1ohr8HkbIiIKspBvzBgfulXnI4iA1JprEI06dyaY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fes-ES%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Ut9eeMmPo7bfXOK9YBfgsU36v1ePR8tWbnjbHqe9QMw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-US%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Y+N702NelVFjZIgQNgb49soD7ZZYiIA4+NtS++CF6Ic=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-GB%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>sUdq5dF0fkmqt3qIdjDJ5vWPQETOns8ZXpHGi9yob/I=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fen-AU%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FjDy953nIFv4Kqv2QpPLr68LyNfEfe1cXgzAFA7m1CI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fel-GR%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>TFfmcuSoAkL9F80Gg0CrrKLICQi3PyYBR8yZWbeADpY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fde-DE%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>FqGeZWhu0KNVAODkSukJ70bxUGMu4ZqSUdVW9ES4ap0=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fda-DK%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>utW4GWvwnn7KEAPJ+hocAvsm0Tl28CXQraRbS7eA5vk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcs-CZ%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>3vvSESZIp/ikMYkc2DQEN4R5u3kzMhObob0OHQHAzdI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcom.samsung.tv.CSBilling.runtimeconfig.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>RGy9NEiii8fdwvQRkaCx61VldYBawsaj26wHFUsSXtA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcom.samsung.tv.CSBilling.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>UN7M7mjZFbS3i8WJBS8tFaKrM7Z4t10Rf9g8WuWQjZU=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fcom.samsung.tv.CSBilling.Core.2021.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>BpIj74dbak92Rk6RC6/EuXqUNORxbyh39JuU9MG/0b4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fckb-IQ%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>2jrISXc8W739IT3aeXpUiGzlklTWT9mbAwOjsNGYa8s=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbs%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NRJOg5jOHehv/asYtTT6O87inGqAeg793pQfKTZ6lDM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbn-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>DrqSW2XYjWHGAuf4obqFnRZZcfF1/HhnNmKnHHHaX9g=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FBillingTextResources.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>NATZPHAUnaCI5y3c9aQorEd7Unh51Z+dMmmR0lFN/XY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FBillingTextResources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>njix4Rs8Dw6uuMhebOFIKNHfftNqaP1Haw3Uh1yafHM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbh-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>dumu5dDckKN/J7PkXpqgkAMVsXa/rL/VYZoRo5Rn+Hc=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fbg-BG%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>iBau4r9grTvkquI/PadI/Bhnkyv056MMVpg4txsD7+A=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Faz%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>Ed//+FBgPhU6+iR1vugucnS0SCGB7D+rzg83rlpEs4A=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fas-IN%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>W7/ehYqIC17Jpr2RbO/f0KTYvTAqYwfglvJvqF4T1HY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Far-AE%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>7KmiYZV2OXiUaV3LeNKXanpedHotZCuqfx4296oRzgM=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Fam-ET%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>q6LwIAcjoNNCl9EQPDyqVCdPPQpWkxHIU8RDebjJuYI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2Faf-ZA%2FBillingTextResources.resources.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>EGsCe/5ysIbglu0WY3JheFBNPca+VVqfGDOXBJvvxEU=</DigestValue>
+    </Reference>
+    <Reference URI="#prop">
+      <Transforms>
+        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+      </Transforms>
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+      <DigestValue>e2rGZ9lURQWep1IIbrRk2NYMw5EXlejQt2B0bMLUyoc=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+JYSUhEEg5uqMPCR6g6ODZuWNReKHJuchn9BcPgk6hKHvqpnzjSBGUy0pk2Zdv1RWv0zDKQo7OB1F
+/gFt02a9r4hd/k9Xc03A2l6ehC8Q/99YbR1c54ORXlmJEk8tevvo/8GKKMYj06qh7FY/ZBrzXTHh
+XX4eZPMgB8Snju0dJJF7xhBOjBUTNEsG+d95X+fjRWr2bOzscZ3fxYp1LtO58RmRjx6ziLkwnCu6
+xwewlGDGtKfhjnNBmVm2n6jw8b/yn6mM4/M+886/8rQCA/75/2/U5wP03kgUS/mHUXercj+F/39v
+HXCzH/FYQGpe399+Z432fcZYKzwEhawsdpMPsw==
+</SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+      <X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <Object Id="prop">
+    <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+      <SignatureProperty Id="profile" Target="#AuthorSignature">
+        <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile>
+      </SignatureProperty>
+      <SignatureProperty Id="role" Target="#AuthorSignature">
+        <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role>
+      </SignatureProperty>
+      <SignatureProperty Id="identifier" Target="#AuthorSignature">
+        <dsp:Identifier></dsp:Identifier>
+      </SignatureProperty>
+    </SignatureProperties>
+  </Object>
+</Signature>

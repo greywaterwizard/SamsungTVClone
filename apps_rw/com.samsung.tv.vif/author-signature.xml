@@ -1,0 +1,787 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+<Reference URI="bin%2Fvoice-interaction-framework">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DEzrLs0BwMG66u7X1acRk3lo81ZS3oembed19VyYQhw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Finc%2Fbixby.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NoB1Qp0SnCUDZIqa3mqvAdvvi1wzxA8TsoT6/rGVDrE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibbixby.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zUxjC936mOgh8sA958GuWquvBBfIGWajKWvXpCyJxGg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibslive-api.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/RZFJhQbpuwBtnwMI4drzdBCSh96j6uL1/kC7LQwiSE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Flibtvs-api.so">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1qLTItZ2++z14ygjhniHOrmyiCX8P72urqkTGPvVU4s=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FAocDebug.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Auk555M8gRxOJb7MPPwtyb6UIzaqQzF5lyz9sCgpa98=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FDTVmwConst.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EO5AZxFm3hJWwAHyFConXEtRuuEtEE6SVF9JH4ERImg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCAocAppInfoAPI.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gbUz8xuW6hYDPnhtCNAXSIy1nJgruG/ptPNRQ4xtlTo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCAocDataUtil.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KPrw59mj2sM5OuhyXo4bFWZSjtszOATsBB2A2VH0amY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCAocProgramInfoAPI.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dussPMF4ovHPYz9amVCnguH5tEGiK+QFko0dbUbSSio=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCEMSProxy.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eKrBd+Nn97miigHxiSogZXcwlKScyedSie8BVW6dSDI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCElementData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p5YVW5XcKHgSUEPS735r6rkj5il3HXSMZvvUN/U0bQM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCEnum.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>b/oqHqz2TUiCgYtisjcO3/ZHhkVoOYGW55HuQR9wn3o=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCMarshal.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JYGgp6DAjva+n68zlMPxT6vVBC1YLIIn/z+KRkSq3Mk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCMarshalMeta.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VvM6udBP36g8u4t09eWXMKZ+kJP64+I5/Okoiv0IRi0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCMarshalTVPlus.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/OBqgCe30RI4fiEZEOhnbItf/wqtrsjrdknf36U6GdE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCRating.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JjWlMrPMtPfLsC/5tsnu7GRexVWi0Nkzno8vHJxybt0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCRemoteContentAPI.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UPw9ophHffxd50psc0q8/eZLW9qH9E98sX1OYStY1uw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCRemoteContent_MSOAPI.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vJeryfh8YJm9WOOzKjzFmERxayqvG2eYcc2qzSCmnNQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCServiceIdUtil.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gOnT0QV0BHcwDZHfkhJSI/fB2SoaSxbaEG4wT86WM8c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCTVPlusAPI.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4zEnaYOzYTZFn2OCyo0gZvI1m+ejwNBoDVpRoJnHiaw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCThumbnailManagerAPI.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XHVLfMi0ZxB/6/HpnX4LZGaWMv3R8Cd3GKhS9sgUal4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCTime.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kNuYDUvjRM2yE6GDztpsJqxNqR1nEunwPTdgqrQF2Z4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCTvplusContentData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rDIbkfwX/NHD/Cw94KupwMIvP9RUtwuRc/4I0ZlyY9c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCVirtualChannelInfo.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9lp6nS4gZHL541cdPRL6bLdbY200uv1se9VYFFQ4TjY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCVirtualChannelsAPI.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>67gFUMKf/NV0r9ratnUocuVIp1F/m3Zf+51B8AQZZhQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFCVirtualProgramData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kdS6zvH41o1qY2WmSaDOTrz/s/M1XLPSu776+z8PxIA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFIACRSupportAPI.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Vhl71BQZOdw81B7q7X27baK9ojfFqKzFNrBnVuuUJpk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFIEMS.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6FkZCjhhUv5zG1ramy7YPUPVUeXsOozuXnX2xcyTklU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFIMatchFinder.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>M2phfCUjCX4N0Um9KdzJMr6/veYRw9HJV+zR0ALs3ho=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFIPCSDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>43hYO09fJqVO0XWzMnrV4nvL99qERmnouMJito8Wbck=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFSEventData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zX+BqO5M31ignuLt/5szwjUfa/Txm9sF++4YUdJhMds=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FFreesiaDefine.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kyXbOlpiHItE6Avl/mnkrBYVwYkF8fmlWRmPPqa39L0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FMBRNetworkChannel.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2Q2jn6kdQ8W1WUbYsVMVqKcxK9be+3And5nPwl1Y5c8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FMBRNetworkChannelAPI.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FDpBVvqHc9zHChkLlppGAu9zw+WS2R/21d6THPgYSQw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FMBRNetworkChannelTable.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YjVyniWoiANs7wIENruHE0iaYFzkhH6X0G46QFzIGTo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FMBRNetworkProgram.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GwqtPW0JJErpXD+/dNmjlhNKpXp68qCcpnMqPdZzY0g=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FMBRNetworkProgramTable.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gy5OMr4jnEC50M+9kwLzNGOq+bOmeuMc1clTaOvcRdk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FRFNetworkChannelAPI.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g7ekB6WzI5f38GC9xCLTEOoub0jot+cbmxIqlSkQCic=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FRFNetworkChannelTable.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bd9jT9+BQtm0k/tCsFCMVU+LopMO2gZhHS+1GvtyGIc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FSLiveDebug.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>j3IGt5xI9XkZIsmxL7mOl0WNEPZsnqoOBhHgy7bsypo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fslive-api%2FSLiveResponse.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bwGOtnoFcm//4M73GbnSbjba5nMi9GLEpBuhaZwFIxY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FATSC3DataSubscriberData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SHWLHx1gcMl+kaily4Usg1+HJNz+prbObzSj8sxsE2U=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FATSC3DataSubscriberDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ksMAVZGZKEdyFXgXrN3pm217ppyi3J4tbYbuuOIPvYE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FAVControlDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NRqjtS+OBXabFpiuyJBBJjlIsUmduOGL1dCDSF4062s=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FBinderExt.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Z2icNsT2CHjq4NFBJ2ergdC/QeFu/+VrGwE2XzdX7xQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FBinderManager.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oJzQs2rZMI8yhBfHBOaEe8EI9KPTDRnEZ75DNu8jHf4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FCIStatusDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4EM4DWrfVYZRyvaBgJooPVOrflj0FY5Qyr3ud9WEUlw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FClassToTreeFormatter.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ND4L78ACQ93CpUHQIyD/2DFRCRWxkQWuRTE+2byfwRk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FConfigAppTag.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ERvcuCZGdv8sRsqKK+K1PI6UsUeHvYlmQZkkzyCWD4I=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FCriteriaHelper.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Oz/FJP5YHngmhCgmLATchwL1vWGqbaM+zIa6O/zyByY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FDataControlDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NBcMUx0n7PLNrSE94lyW80QnIK1OxPlJHSj7i3c+YjQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FDataSubscriberDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>q7AsgBBwM49FBJe5WZZG/3XUx2jMxyvZD28ZoRCHqpk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FDsmDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qif5FQ80280olR35U3hfZBGlUTfrJpRu5sP8Roq7m+E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FESCommonDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2JC+8tsQETeOeWwiacUeGgLIG41gG9YLL/2a0oHBGlI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FEWBSDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0j5o1+T0mHpCwmQ7qTBJS7ayKoqqK+U6NCDUUKhpjgs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIATSC3DataControl.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>r2ZmkYvcWufNIcHgkXka4tIPtQ2PXf/hb8pxXtqmtZk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIATSC3DataSubscriber.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bXddzi3A2eafj13iQyumEUbg6E6LSM8CXr+Q/JGFOyU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIAVControl.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GIrHPk250hQUkXIAEUZPhfyNXIFeHL1ZZ22MecgBRm8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIBinder.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TZx0iEDXH4zMCfbyMjpm2AExw+VHUyRNhUNCGkYdBpE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FICIStatus.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eIxeBfWU1LZNmF03G+DCYzAgSCELMB9mBHXwQ7mbuf8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FICallListener.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tPTTP/RGt2Krehd/AMnTs6QT6/5QCAEQTFhxvhSelrI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIChannelData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RITaM3I//cn48qgyttYbswbh4MHEo5gScuXyz+uPBDk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIConfigApp.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GpnBrIvE6A72MDfisyPcpl8t0OCI9NGsqNBKMxcGMiY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIDataControl.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bBaaQu99J1l13eK/96Q6wRlH8HKwSxY6WspoKamWiMw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIDataSubscriber.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PzTGZ2rWtHeCAj2sJ6wMvBb/RYgru0YwpYhYqIGGBKw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIDsm.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>b9g4nSnbIkLe62+rMgVZ0qEg/MYZNWOaQZP3jdxjGmw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIEITRawData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kIlv8Bad8+ndl/K6gyVW81yvDCkXmpvkYsk17fwENZc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIEWBS.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zwajB0Y+5IgmFyhgZZc8zNf1eGx+kjRxDsbjlQPY9hQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIExportable.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Bl1gg2pPRKJkTzKCMcZQgoOR1GlhqBGnjX4f8aAkbDs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIIPCCallersObserver.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5K188OoAcHEKhomjUMCvEntEREq+HseDoWksiZRwJ24=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIIPCConnection.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v1mgRHlYMmKXJyQB6b1STQX7vy/wPb9T3gjw0KE0t0E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIIPCListener.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fu+bl6t6ltdcS1LGfuIMhVXgpLY/QpCsNcWMOLjKwXo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIIPCProperties.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NFKzSBPzxthkF2c4ajNN9N5oerJGIlBb0s15WSaH2SA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIMarshalable.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AXwCOR266BERx5UV6dFj5nXcu607uzCLVMi9ZNMQ3Qw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIPCDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jIil84YAjm8O5z3rHz/tcUyx0tbo+PMdSW1SusMDsyQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIPESDataSubscriber.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WR8VAmUNUgHt8bohGPa89U/Aksd1mJ7I3KJeeED2GMA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIPVR.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>s4jQS07qnLXD0xEEIJ8ne35kxWs2z31BmJ4HkHdobJE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIPVREx.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>haZ3FVZRXNVgdXerDEV6De2hx1ilF2rF3CPPq68uczg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIPipelineUtility.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FDMS+7ouQknq6wkwbjO7X5U/sxrnE67Fl4Vh+Q/dFPQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIPlayback.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3oujcDyTjwyO6UGdNEp/Q50w1FtrrArEMxGIAAZy1VM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIProgramSubscriber.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FWsDrB30WVECSZgrPxt5n3R75TdBMePvs8oq9+qGTMM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIRating.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DF5wwjtwVFZZvhLj1S/rIDQhVZYtJdQEUJMFd4XUOII=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIRatingSystem.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3IqQXkHX7EdXkopaoU2qzdoDKdPFnfGFGXIEYjw/gXg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIRatingUtil.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>N+4F9iUifCGPN337RLF2ew0mtXSaf3CqWV0/AosNg6M=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIReferenceCount.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>a+9wlHNIZGwcEgg0yHgByLKLzvsqNWLzrhPeSMZ3U18=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FISOSpecApp.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4xd88cmKspZ2Tp8BAK4NPN5i0EYwa4uS4klEKJFMPJo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FISOSpecAppAnalog.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oEJ+4tPHQfTPQYpBHDDB+CIhwNwZNT1EvmGB/uxCAVk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FISOSpecControl.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ibK2gjNS+P5ujbaHA39N+ZN5vspwJAGcJHcs4RYIuM0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FISatellite.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iMAIwQJYjucxs9xUUhMclI7FZWR0Gkqu0qLauusuENk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FISatelliteControl.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gCoBtb4fgWAYzQo2uTZ7C+SEgTIjTyVAC632rxWG6TI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FISatelliteSettings.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LpOQmAjqD8AWn1TaWuMbm6war9b/VjT0C3aKHZs8C+c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIScanControl.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XRCv7DSRJxRmILbLRD6idMbnHYF3uYJBIp/juZtBAJ8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIScanData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rHKAIkdM0QFe202YsadHjhqMfUCooMdu6rz758XIF5k=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FISectionFeeder.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7ZAU5zTkas3Il0m/YfEq5VMdPnXtZx7tObz70GUcDCM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FISectionSubscriber.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZtNNBE4ozHdgr6ElK+gkvTryNyWGcioHPTkUi91bXhM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIService.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bmqpsu0wj2krkQX+rKyCx5521xA3gA+4KqpUP83G8V8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIServiceDataAux.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>k3/iv9L50S8cga66LHF2YMLpqiMDudy4H0kcMerC2MM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIServiceGuide.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/T4IwzypTIVhzOfo+8uRlqJ6xjosZFO+onWRXk/dWEk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIServiceNavigation.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Wj0uBi8hjqwq6rmLARKaYNkIUat/250YZKntuYu58JE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FISignalSubscriber.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nQRbOTogvqqurJyoCSGjR6QJoOWVVQI6bVaKu2BkrAM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FISourceControl.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mzmZTWQcwgnZHFb9WnRtsOU7GKEyrq2pskgPcryA+f0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FITVPlus.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Jlxu+ZBzn1M+8+mWdAj7ZsconwWcma8PxwSAMq9ZGPU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FITVServiceWrapperWin32.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6RE4P3R6WQFSIUKHxizRwaQcOtZA3kfWmHFl4rULsZU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FITunerControl.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VFwqSaDXBPqSqw5W3g1FvLx8WeDTNv0eBWmNW2izuVQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FITvsControl.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FNt8mVJFwa2+c3Cd7mxvpkT1gEXj9tj6qT7nRD6hwIk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FITvsSession.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gIHmW7E68y0r7dW+hhuhbnn1zZoyP7K+Fpg5zGMIS44=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIUtil.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MIGLxBsoh2HQkLRqnD18nxH8vL8W1rIJj7DOVA2pj+0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FIVideoControl.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>N0pdIgjsrowDwWA2+VS0lNE6+f03so/vh8HFo5qjJTo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FMarshalable.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>U2zOZaqW+RUy+SemynNXgA7sDA6hatYwDE/1uFY6S9Q=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FMarshalableNodeCreator.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>t8pIGwnbk8VguDfuUgQRVWPkBm0KU1WAt/qS1V9eJHU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FMarshallingHelper.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rRTeQwABEaEHnzu8AH/ZABX5zuApv27nsfpPZ2tNp+s=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FMarshallingHelperProxy.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JYROXaSa/jC+1v2O9lYuY6fd+Npbh3arrdKzGl9D4Ww=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FMarshallingMarks.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>h2SNv9xB2omWlzrWHVRa0GBMWXQd6Pa2S8dn9u1UxVM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FMessageBuffer.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/vazLDLs69BgGQagzysJcI/X8Mhmb9pI4Dvb1+ynSVk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FMultiScreenDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nL0kat5iIPF9VTfTbel4xHdKeMPH7yB40bjrWqyvgww=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FNavigationModeHelper.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5vkUGTGddiVmWhckmNIzLcPl0o9FY+jjoIArfctCL0c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FNavigationModeHelperHotel.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cDRXPnZ1UzUPkH4VjKh4fQHWCT5zQLkRSLLVxwpt93o=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FPESDataSubscriberDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zwn4S8iUxeD9nPNTpUZIBLYJHicLUX69dZX2Ft/c/o4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FPVRDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wlzWISDBiSnKhxmkDlDY5BLnvDUO+kKYIHKgM5+9WH0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FPVRExDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>I1z4ksA5F3H+EqdRx9xRTpzZcNhxqXy5fL+obVJeWpg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FPipelineUtilityDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/3uwio3BkJDv7Qy5VfnP8OygpTEPEcW/UjytfzALR2c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FProgramData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>w3QCpOJZi6B9XCnls3GEcM4mV5DmKrSl05R9a6WgL6w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FProgramSubscribeData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WhgDpQCHQd256gwfrVzfMLtTmphoE0YTUleo6Is8Jg8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FProgramSubscriberDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zj+JYlZKxM1kk9w++oyPO45xUtK0yHMwnOwYHZ0piE0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FRatingDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qw51hNjFK5/vXA4X31IrwRKA83ZKqPx+BozLJIKXz/Q=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FRawEpgData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2iZGOPJeVrQSkuB2bJ5eY8CHFyq77rh/+wo9N4TrjOI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FRegionRating.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DQwST+rUnHxGoD7QAEv3PKhoxXW/NAt3CaxrpU/yzTA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FSOSpecDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5VRo1T5zrrUDfV+SJatQDc9HPPRVpvUw0DM34S9l0IM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FSOSpecTag.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>H22o6ifTnx0h8NXkRXnJ8Zf5X0pQhrAyuYYGFimHm8A=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FSatelliteControlDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uSPquoNdTC7UAH6xRT03BlJwlQwL+hSUs6wT3abM3bE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FSatelliteDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZwqgKMdSRjo486PrcAJEevHPk8pCK0CxvQIMdD0Aay8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FSatelliteSettingsDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SUnvbqH7x9HtzvwVBVHLyY3omTBx+7MB8LQd+gpM454=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FScanChannelDataDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cFSSRKj9rd3MIuIE0TuGAcOPz0r2VAMrZ5VMfoLLBww=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FScanDataDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MeAMvNn8LO+srTomJduep2ovQ1GNcQTc+2uT/hiDgps=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FSectionDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xzp2rQNbB86JeZB67g8FJlveFCR6ugTrJX0CZySTtLE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FSectionFeederDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Timkqm08J8ryNfAs30zS1GHbhhdIZpSRgt91Oo2U5lo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FSectionSubscribeData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iFylq4XrolyNx/CelFCRowsMYaOpRXvxp6qWKhjXA08=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FSectionSubscriberDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qisUaBrWL6QczZsLTZX0LBWhE/c05CcHrKZcbbDavDA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FServiceData.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xajy3GMPmuXAzazHdc8pD/W8K/pljp5hiT3/nHK/Isk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FServiceDataTag.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>a7pF/cCIWr/9ElYEFpGcAhSwJvvt7fCYl6hrrP9sQqE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FServiceDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fdW81/eHDrKO7GpayYuvP7sZuzvMxVQ0/X5zi83uUSM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FServiceGuideDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IRvhjA0GGhKJrcNXVCqeycs5rrl8TfxAGN4sfFQoQKU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FServiceNavigationDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>O9ySdfgoUHtoGetpUb418BtPH4if63UA5AYm80yiuGw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FServiceUtility.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nBvKPcnCksryQ5T9Zah3VSa7GttB92Jwd4D3AgYDEp4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FSignalSubscriberDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wXNOcvgtEyAIZnFlTYYJvY3LK9nWNa6RXxC0Jt13rfA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FSourceControlDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oBW318LNZ7q85dbLD/W2OCRWP48qBbr7K1wYXgHxtL0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTVServiceAssert.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VOsJiUHKXreX9WjTNLtbOQeon73TA0LAspVcaU4lj4o=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTVServiceDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cibha0Y/EONs9zQN0q53Awp8zZv8b2fjxUSniNBsVqo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTreeBranch.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HzMnKeBBHrKiC21rBulmDH/bAswybIbIkLGfzDE8BBA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTreeBranchList.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5+MojQs0KYWC35XeDi4thPrkFvwqbIiBDqPNN6bQ/GQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTreeBranchMap.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CMBXKPr3bEd+GVR9DtRxBV/kDNKXilPw80pEBAmGU14=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTreeFormatter.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rOyE4ZJoWawtkGLUixmh2aFk7wz7SLxWsSQtpSEnpmM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTreeLeaf.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0qdH18HeO2hAThY4MpmfMKS5i6f86AcmvmSdHPo3Cw8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTreeLeafFixed.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+/UgJuMg0e7HbC8A+QJDgdyIIPCXelNIsJV2n6KtEaQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTreeLeafVar.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PoFaNZQfg63bwLw1LbHBYl9kEeWwYR611uOq3X+V18U=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTreeNode.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eVK2GqFEiZh8+QKz7eNnFxipO3ixaU49aqUCAlZr1N0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTreeToClassFormatter.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bhESTD1F5fVjEP8uJ0Xk202wSi1bIfbKacZRWE1WTus=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTunerControlDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KPB1L1UZIWFwMmWx5JNP/11vr8ZMie+q9c3drjQdCiU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FTvsControlDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ao1Ca81jdNfw9siod9qBrm3y6fkOi1oMnZdpMSoIxL0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FUtilDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>b+pdFDijgYmlR3ask63HhtatZP9MhN6hiq1fx8iGLFw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2FVideoControlDataType.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Hr4FADDQA/QjcWHuP6na87pNoS5qLaIW0euS2hiOoVU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fb2b%2FIB2BControl.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ptvIOFV+lf3muTkl0yNHGwSS2eQnsGsiYHoYsO4pc2k=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fb2b%2FSignalSubscriberDataTypeB2B.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BSvTpGW1QOXkATP+YM0Q4JXUITlPdFXSGLHwtSTTeU4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fmanaged%2FIPCConnection_C.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hqMnjJTV+otMQCv21rVMqFxTnkPDsJeT9VIiM5fHac0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fmanaged%2FIPCDataType_C.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LEWD5rQWiQU7H9e8n/NdV9Q2P8DBQZ13uRkH+8GOx38=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fmanaged%2FTVServiceDataType_C.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jpoVja+r7lcBMfQqcwCGRrYbpcpqLGSww7KxwtZuDqo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fmeson.build">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3o87aj2ZEfw4sADCk/y+02ISH3GegmE/fdcxjg/xbB4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fproxy%2FDtvHuffman.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oxHi+c8c/2HUH553VWzKxI4LUWd8zU9aUgmbYptlftQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fproxy%2FResolutionUtility.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Q4C8NOv2gwbYYTFkN/gmZdnCV57Xy+BJDOIQs5zZYEk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fproxy%2FServiceDataUtility.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OOW9rBzdfleTopcRQzn63Vze609Gezl9UcOZ4eACcKU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fproxy%2FTVServiceAPI.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SsdukP55vuN9gfZWM/Wwp7tCtFVJqo3yAta+T6A5lGc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fproxy%2FTVServiceAPIConnection.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>i4yTUJvDlH7rlHBWi8rROR2kG0uCY8Q8qQC3vB70OMg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftvs-api%2Fproxy%2FUnicodeConverter.h">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TKK+S1OR8Fai9lEEJMF6m/wZqCfO9bhhJ0X/2ZxngLw=</DigestValue>
+</Reference>
+<Reference URI="res%2FTizen_DNA_ss.crt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A5K3Nsdh0U8WLSs7LB3BrCOm3XVUrEgtWJVffKYbMAk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fcom.samsung.tv.vif_ss.sign">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>y/nrUdMKGPCQVNZZuFW3P9YY1c2Qbm8QHTXrWD2LHbg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fko-KR%2Fexplicits.tsv">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TdHvi8hz77BL0wYHI34WTzohCAk1y0/Re6OTC8N6I2c=</DigestValue>
+</Reference>
+<Reference URI="res%2Freadme.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fvfs-config.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>W1gMrjHQ/qwYika6xAQ7yC/gDLkNYIvBPNbWl5i3tMs=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fvoice-interaction-framework.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=</DigestValue>
+</Reference>
+<Reference URI="tizen-manifest.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iRu07lvj7VbXg3pAAzWV5SSbgdD9a8/wXAnlbthhnx4=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpo8tUDs054eLlBQXiDPVDVKfw30ZZdtkRs1jd7H5K8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+HByzXROE8qCfnxj08h/PmRQLF0WqWE4eHaDQBvcIM2BJHQvnvtBQOyLCcIRt58Blr6KwS56qH2Td
+fOwwlNRegpd1Fk00F+3X2ncVT0YmhS9ssmY4peJ6iyUHHDGiU15fksZP973nqJeuRhY/eDtsnmBt
+Blk9Go2xKTPU2tlmF2+EcJH75y4SBEueeihtMdagXlj7zYxzoyjI1yFlHZCiQuJjL9rX5TLkSOni
+P1Di5wq3zuCW+HyPowOc1IYJiTA+aZGcNDASXaeuuDHlKCmj9ay3QJuU4RITpXF25UqGcPiLjT0Y
+rcvaX3viwNFw25fxV+xfgOStxGCUKMnmDoUnQQ==
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIDszCCApugAwIBAgIBAjANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJLUjEUMBIGA1UECAwL
+U291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVsZWN0cm9uaWNz
+IENvLiwgTHRkLjELMAkGA1UECwwCVkQxFTATBgNVBAMMDFZEIEF1dGhvciBDQTAeFw0xNjAxMDEw
+MDAwMDBaFw0yOTEyMzEyMzU5NTlaMIGJMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU3V3b24xDjAM
+BgNVBAcTBVN1d29uMRwwGgYDVQQKExNTYW1zdW5nIEVsZWN0cm9uaWNzMQswCQYDVQQLEwJWRDEv
+MC0GA1UEAxMmU2Ftc3VuZyBFbGVjdHJvbmljcyBJbi1Ib3VzZSBEZXZlbG9wZXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4/rIDyVO2TwqRqJKW6M/wJx05wag57eFNoSfOd+LQEIz5
+Py1JTlqi+J6RS8DP98OiTPEqQardeTgq29abrdst5V4dk/kHTwNe+5zOlPZICzvIhqXZOImFRbZ3
+HX+gcJ6x+mvzUom4JaUrJ4fZ6B2Ql8vnx833Z3LUytfeKbmwFQu9L31T7ByVAshJu1CsRpaCbp65
+rq8Fnr1k8mE6r6fLL+sesehWt3SDfMeD186hjzYoR73CjaLCkVhRqMzPgkdv07CTDzcEEuv3ALi7
+R6rpf+Ommu/hfTzp6Gkw5oWMDD9SoMKql4gIds/zsW+hJGEQMJfei4T4LP4EAvgA8I/nAgMBAAGj
+LzAtMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3
+DQEBCwUAA4IBAQCAoZXvWK6/3l/PvrfAEduEtkmMOkBDIoybG7/3w36/c+MTiVyKrWP81/Q5N2PS
+h6xBkNKaiFJ0/ww2HC4PZgrplXDgHLLbD1hfY/u/zkXqHuMTMRVzzeMjDm2jdVqWG/4PDf8pYyPK
+0hO4aA878cs7ZB+zVxls5af0auD4fAPu3bQPY5oHUioh8/IqL+oni1Ld6ENIznULLeOnTaq+/scI
+iqDRQFM8qPDuU3yDC8tjLlrnLxl+MU/Whg8DiCtlslOgFrH2ry8bN2/SyyzuDrUx+kP8qs5Nbs7W
+qHA6zqgtiWjCu+6QMKXAwZsfBtnJaVIIN56WWloj8/QEBaiCtmp3
+</X509Certificate>
+<X509Certificate>
+MIIDjzCCAnegAwIBAgIBATANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsMAlZEMRowGAYDVQQDDBFWRCBBdXRob3IgUm9vdCBDQTAeFw0x
+NTAxMTMwNTQ5MjBaFw0zMDAxMDkwNTQ5MjBaMH8xCzAJBgNVBAYTAktSMRQwEgYDVQQIDAtTb3V0
+aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25pY3MgQ28u
+LCBMdGQuMQswCQYDVQQLDAJWRDEVMBMGA1UEAwwMVkQgQXV0aG9yIENBMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1SaxfDNXQMUVE/7tqv/XcaAcgQGXMI/oo2PF1PH18IBZLnazaA8U
+OCAooBQO4WJpnj3KouTBmr07bKG6fyJJunzEKsdMNjkS6orh2KJUtBteD59YB8rh9nLqwsTGANIE
+KZd4C9BiB0DQnYk6dw1qtdcCcGuEvNk9jtxTuvFQo9r0DRPC16mN+sDd1rsxYq9ixZ8axPIxdECa
+wOEOHzBrmyG/Mo7KTjf0sUUfanQXhVuajRBX3i28F4BBXt6ruXpm7MNWgKz6mZryJ5MQLetW1YvX
+S2PXQXtyU8vwxqAChfQiAW0yGunP8o/YNAYcu1bIXKc25RP2ReVZi2+53QwdmQIDAQABoxAwDjAM
+BgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBB7za36fUCusE6q1TaU+0WPz+dkumosXV0
+3HxzcqqcajP/5OumrikQx7LHbRlvLkIPlPOH8yMMS454XCgswnSoOxgeorzBchDJll9z+rTaQro7
+rmCN7TS/N9l2rIEaa/RVEQPUeEeE4yDeMf61aDhPEhnNdylV0kyS3YLkJd2KBPedsSKkCWUCi2F9
+g2bHrnuggkEQtOoP2kTBFKvqgNAJEzm5q6EdV0Ya0JFescY5oUmtu8ayTc1cBS6OvadXoN/Po62I
+r6BOc1JI0tnUAUlOmJ+Ku5ZRJCrL80ozpbcvz6JU+Xefs4e/uHpmxHSolvHnzTGm866k6JZhj0ug
+deAD
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>

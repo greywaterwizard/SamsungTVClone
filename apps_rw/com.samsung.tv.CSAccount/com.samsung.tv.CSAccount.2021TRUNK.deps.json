@@ -1,0 +1,635 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "com.samsung.tv.CSAccount/1.0.0": {
+        "dependencies": {
+          "MyAccountTextResources": "1.0.0",
+          "Newtonsoft.Json": "12.0.1",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.NET.API4": "4.0.1.14164",
+          "Tizen.NET.API5": "5.0.0.14638",
+          "Tizen.NET.API6": "6.0.0.14995",
+          "Tizen.NET.API8": "8.0.0.15712",
+          "Tizen.NET.Internals": "8.0.0.15712",
+          "Tizen.NET.Sdk": "1.0.9",
+          "Tizen.TV.Application": "1.0.8",
+          "Tizen.TV.FLUX": "1.0.30",
+          "Tizen.TV.FLUX.Component": "1.1.67.6",
+          "Tizen.TV.Logger": "1.0.1",
+          "Tizen.TV.NUI": "1.0.154",
+          "Tizen.TV.Network.Connection": "1.0.12",
+          "Tizen.TV.Network.Curl": "17.10.10",
+          "Tizen.TV.Network.TVConnection": "17.12.6",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.Service.Billing": "1.2.0",
+          "Tizen.TV.Service.Settings": "1.0.2",
+          "Tizen.TV.Service.Sso": "1.7.8",
+          "Tizen.TV.System": "1.0.115",
+          "Tizen.TV.UIFW.UIConfig": "1.0.31",
+          "Tizen.TV.Service.CustomizationService": "4.4.0.0"
+        },
+        "runtime": {
+          "com.samsung.tv.CSAccount.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Newtonsoft.Json/12.0.1": {},
+      "System.Runtime.CompilerServices.Unsafe/4.5.0": {},
+      "System.Text.Encoding.CodePages/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
+        }
+      },
+      "Tizen.NET/8.0.0.15712": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Tizen.NET.API8": "8.0.0.15712"
+        }
+      },
+      "Tizen.NET.API4/4.0.1.14164": {},
+      "Tizen.NET.API5/5.0.0.14638": {},
+      "Tizen.NET.API6/6.0.0.14995": {},
+      "Tizen.NET.API8/8.0.0.15712": {},
+      "Tizen.NET.Internals/8.0.0.15712": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712"
+        }
+      },
+      "Tizen.NET.Sdk/1.0.9": {},
+      "Tizen.TV/1.2.9": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.115"
+        }
+      },
+      "Tizen.TV.Application/1.0.8": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Application.Utility/1.4.8": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.FLUX/1.0.30": {},
+      "Tizen.TV.FLUX.Component/1.1.67.6": {},
+      "Tizen.TV.Logger/1.0.1": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Application.Utility": "1.4.8"
+        }
+      },
+      "Tizen.TV.Network.Connection/1.0.12": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Network.Curl/17.10.10": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV": "1.2.9",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Network.TVConnection/17.12.6": {
+        "dependencies": {
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.115"
+        }
+      },
+      "Tizen.TV.NUI/1.0.154": {},
+      "Tizen.TV.Security/1.0.4": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "4.5.0",
+          "Tizen.NET": "8.0.0.15712"
+        }
+      },
+      "Tizen.TV.Service.Billing/1.2.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Service.Settings/1.0.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "Tizen.NET": "8.0.0.15712",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.Service.Sso/1.7.8": {
+        "dependencies": {
+          "Tizen.TV.Security": "1.0.4",
+          "Tizen.TV.System": "1.0.115"
+        }
+      },
+      "Tizen.TV.System/1.0.115": {
+        "dependencies": {
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.UIFW.UIConfig/1.0.31": {},
+      "MyAccountTextResources/1.0.0": {
+        "runtime": {
+          "MyAccountTextResources.dll": {}
+        },
+        "resources": {
+          "zu-ZA/MyAccountTextResources.resources.dll": {
+            "locale": "zu-ZA"
+          },
+          "zh-TW/MyAccountTextResources.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "zh-HK/MyAccountTextResources.resources.dll": {
+            "locale": "zh-HK"
+          },
+          "zh-CN/MyAccountTextResources.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "yo-NG/MyAccountTextResources.resources.dll": {
+            "locale": "yo-NG"
+          },
+          "xh-ZA/MyAccountTextResources.resources.dll": {
+            "locale": "xh-ZA"
+          },
+          "uk-UA/MyAccountTextResources.resources.dll": {
+            "locale": "uk-UA"
+          },
+          "vi-VN/MyAccountTextResources.resources.dll": {
+            "locale": "vi-VN"
+          },
+          "uz-Cyrl-UZ/MyAccountTextResources.resources.dll": {
+            "locale": "uz-Cyrl-UZ"
+          },
+          "tu-IN/MyAccountTextResources.resources.dll": {
+            "locale": "tu-IN"
+          },
+          "ur-PK/MyAccountTextResources.resources.dll": {
+            "locale": "ur-PK"
+          },
+          "tr-TR/MyAccountTextResources.resources.dll": {
+            "locale": "tr-TR"
+          },
+          "tl-PH/MyAccountTextResources.resources.dll": {
+            "locale": "tl-PH"
+          },
+          "te-IN/MyAccountTextResources.resources.dll": {
+            "locale": "te-IN"
+          },
+          "th-TH/MyAccountTextResources.resources.dll": {
+            "locale": "th-TH"
+          },
+          "ta-IN/MyAccountTextResources.resources.dll": {
+            "locale": "ta-IN"
+          },
+          "sw-KE/MyAccountTextResources.resources.dll": {
+            "locale": "sw-KE"
+          },
+          "sv-SE/MyAccountTextResources.resources.dll": {
+            "locale": "sv-SE"
+          },
+          "sq-AL/MyAccountTextResources.resources.dll": {
+            "locale": "sq-AL"
+          },
+          "sr/MyAccountTextResources.resources.dll": {
+            "locale": "sr"
+          },
+          "sk-SK/MyAccountTextResources.resources.dll": {
+            "locale": "sk-SK"
+          },
+          "sl-SI/MyAccountTextResources.resources.dll": {
+            "locale": "sl-SI"
+          },
+          "sd-IN/MyAccountTextResources.resources.dll": {
+            "locale": "sd-IN"
+          },
+          "sat-IN/MyAccountTextResources.resources.dll": {
+            "locale": "sat-IN"
+          },
+          "sa-IN/MyAccountTextResources.resources.dll": {
+            "locale": "sa-IN"
+          },
+          "ru-RU/MyAccountTextResources.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "ro-RO/MyAccountTextResources.resources.dll": {
+            "locale": "ro-RO"
+          },
+          "pt-PT/MyAccountTextResources.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "pt-BR/MyAccountTextResources.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pl-PL/MyAccountTextResources.resources.dll": {
+            "locale": "pl-PL"
+          },
+          "nl-NL/MyAccountTextResources.resources.dll": {
+            "locale": "nl-NL"
+          },
+          "or-IN/MyAccountTextResources.resources.dll": {
+            "locale": "or-IN"
+          },
+          "pa/MyAccountTextResources.resources.dll": {
+            "locale": "pa"
+          },
+          "nn-NO/MyAccountTextResources.resources.dll": {
+            "locale": "nn-NO"
+          },
+          "ne-NP/MyAccountTextResources.resources.dll": {
+            "locale": "ne-NP"
+          },
+          "ms-MY/MyAccountTextResources.resources.dll": {
+            "locale": "ms-MY"
+          },
+          "my-MM/MyAccountTextResources.resources.dll": {
+            "locale": "my-MM"
+          },
+          "mr-IN/MyAccountTextResources.resources.dll": {
+            "locale": "mr-IN"
+          },
+          "mni-IN/MyAccountTextResources.resources.dll": {
+            "locale": "mni-IN"
+          },
+          "mn-MN/MyAccountTextResources.resources.dll": {
+            "locale": "mn-MN"
+          },
+          "mk-MK/MyAccountTextResources.resources.dll": {
+            "locale": "mk-MK"
+          },
+          "ml-IN/MyAccountTextResources.resources.dll": {
+            "locale": "ml-IN"
+          },
+          "mi-NZ/MyAccountTextResources.resources.dll": {
+            "locale": "mi-NZ"
+          },
+          "mai-IN/MyAccountTextResources.resources.dll": {
+            "locale": "mai-IN"
+          },
+          "lv-LV/MyAccountTextResources.resources.dll": {
+            "locale": "lv-LV"
+          },
+          "lt-LT/MyAccountTextResources.resources.dll": {
+            "locale": "lt-LT"
+          },
+          "ku/MyAccountTextResources.resources.dll": {
+            "locale": "ku"
+          },
+          "ks/MyAccountTextResources.resources.dll": {
+            "locale": "ks"
+          },
+          "kn-IN/MyAccountTextResources.resources.dll": {
+            "locale": "kn-IN"
+          },
+          "kok-IN/MyAccountTextResources.resources.dll": {
+            "locale": "kok-IN"
+          },
+          "ko-KR/MyAccountTextResources.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "kk-KZ/MyAccountTextResources.resources.dll": {
+            "locale": "kk-KZ"
+          },
+          "km-KH/MyAccountTextResources.resources.dll": {
+            "locale": "km-KH"
+          },
+          "ka-GE/MyAccountTextResources.resources.dll": {
+            "locale": "ka-GE"
+          },
+          "it-IT/MyAccountTextResources.resources.dll": {
+            "locale": "it-IT"
+          },
+          "ja-JP/MyAccountTextResources.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "ig-NG/MyAccountTextResources.resources.dll": {
+            "locale": "ig-NG"
+          },
+          "id-ID/MyAccountTextResources.resources.dll": {
+            "locale": "id-ID"
+          },
+          "hy-AM/MyAccountTextResources.resources.dll": {
+            "locale": "hy-AM"
+          },
+          "hu-HU/MyAccountTextResources.resources.dll": {
+            "locale": "hu-HU"
+          },
+          "hi-IN/MyAccountTextResources.resources.dll": {
+            "locale": "hi-IN"
+          },
+          "hr-HR/MyAccountTextResources.resources.dll": {
+            "locale": "hr-HR"
+          },
+          "he-IL/MyAccountTextResources.resources.dll": {
+            "locale": "he-IL"
+          },
+          "ha/MyAccountTextResources.resources.dll": {
+            "locale": "ha"
+          },
+          "gu-IN/MyAccountTextResources.resources.dll": {
+            "locale": "gu-IN"
+          },
+          "fr-CA/MyAccountTextResources.resources.dll": {
+            "locale": "fr-CA"
+          },
+          "fr-FR/MyAccountTextResources.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "fi-FI/MyAccountTextResources.resources.dll": {
+            "locale": "fi-FI"
+          },
+          "fa-IR/MyAccountTextResources.resources.dll": {
+            "locale": "fa-IR"
+          },
+          "et-EE/MyAccountTextResources.resources.dll": {
+            "locale": "et-EE"
+          },
+          "es-MX/MyAccountTextResources.resources.dll": {
+            "locale": "es-MX"
+          },
+          "es-ES/MyAccountTextResources.resources.dll": {
+            "locale": "es-ES"
+          },
+          "en-US/MyAccountTextResources.resources.dll": {
+            "locale": "en-US"
+          },
+          "en-AU/MyAccountTextResources.resources.dll": {
+            "locale": "en-AU"
+          },
+          "en-GB/MyAccountTextResources.resources.dll": {
+            "locale": "en-GB"
+          },
+          "el-GR/MyAccountTextResources.resources.dll": {
+            "locale": "el-GR"
+          },
+          "da-DK/MyAccountTextResources.resources.dll": {
+            "locale": "da-DK"
+          },
+          "de-DE/MyAccountTextResources.resources.dll": {
+            "locale": "de-DE"
+          },
+          "cs-CZ/MyAccountTextResources.resources.dll": {
+            "locale": "cs-CZ"
+          },
+          "ckb-IQ/MyAccountTextResources.resources.dll": {
+            "locale": "ckb-IQ"
+          },
+          "bn-IN/MyAccountTextResources.resources.dll": {
+            "locale": "bn-IN"
+          },
+          "bs/MyAccountTextResources.resources.dll": {
+            "locale": "bs"
+          },
+          "bh-IN/MyAccountTextResources.resources.dll": {
+            "locale": "bh-IN"
+          },
+          "am-ET/MyAccountTextResources.resources.dll": {
+            "locale": "am-ET"
+          },
+          "bg-BG/MyAccountTextResources.resources.dll": {
+            "locale": "bg-BG"
+          },
+          "as-IN/MyAccountTextResources.resources.dll": {
+            "locale": "as-IN"
+          },
+          "af-ZA/MyAccountTextResources.resources.dll": {
+            "locale": "af-ZA"
+          },
+          "ar-AE/MyAccountTextResources.resources.dll": {
+            "locale": "ar-AE"
+          },
+          "az/MyAccountTextResources.resources.dll": {
+            "locale": "az"
+          }
+        }
+      },
+      "Tizen.TV.Service.CustomizationService/4.4.0.0": {
+        "runtime": {
+          "Tizen.TV.Service.CustomizationService.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "com.samsung.tv.CSAccount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B0e5zqoqcKVHqq6cWG1w1LRfPkSDH8YkL/nzt3b+k2CP+uvbwWlZGxG+1yFL/v43uXfepJ2Q8yNAbvdEZK/ZWQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zJEnIENxZI94PcnvB5dzcx9Vmhc3hWb1vW4WPC2L9TL0gqSnqrbCIrThconq8Q/Y6usFFaf5i7Mvs+DliuUEZA==",
+      "path": "system.text.encoding.codepages/4.5.0",
+      "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
+    },
+    "Tizen.NET/8.0.0.15712": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kUdG93nsJu78YtyLoVXBLcEkovJp1z1Z+KtI7Jj3lXQEyqCa7FTSYuljUNJ6Jhc76RvirfHH8kKvBPkZ9f3EhA==",
+      "path": "tizen.net/8.0.0.15712",
+      "hashPath": "tizen.net.8.0.0.15712.nupkg.sha512"
+    },
+    "Tizen.NET.API4/4.0.1.14164": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SHoRxdtxbJApcnZ2JwQjc+YlL41EAdDHtumFufQYATIQh+eDSh4LrZ4gClXasfFzrBCoxy3y6MNCBqzZ6pj0UA==",
+      "path": "tizen.net.api4/4.0.1.14164",
+      "hashPath": "tizen.net.api4.4.0.1.14164.nupkg.sha512"
+    },
+    "Tizen.NET.API5/5.0.0.14638": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NMuuzZCM3NygSSeytAFfxdZN4GM7RKe0oLjmij3iOWBnFjCN+aozYliglI3myRlS/NTbznQogNmaopvmdcmTzw==",
+      "path": "tizen.net.api5/5.0.0.14638",
+      "hashPath": "tizen.net.api5.5.0.0.14638.nupkg.sha512"
+    },
+    "Tizen.NET.API6/6.0.0.14995": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j9aluiOXT/5uOi+J4Gj9dkeZCr5PXdKw6jyRjOncgQelZFUu7nU/L807YAN3brTapkgv/7cfoBvbcK9mWfwdwA==",
+      "path": "tizen.net.api6/6.0.0.14995",
+      "hashPath": "tizen.net.api6.6.0.0.14995.nupkg.sha512"
+    },
+    "Tizen.NET.API8/8.0.0.15712": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cvyGqYrjklfNRJ5vheFoTTtKaE6NZW79YJy+HzZPD1iUosWltBUvNyvnKL5942JyfH0uHegK0VC+OA7UmB7yZw==",
+      "path": "tizen.net.api8/8.0.0.15712",
+      "hashPath": "tizen.net.api8.8.0.0.15712.nupkg.sha512"
+    },
+    "Tizen.NET.Internals/8.0.0.15712": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GEGV5koG5QUt9PM4b5cY4eulu/I7gTtn8WtXrvxkxRSHqjbArhjjHXTZPH/yqDrX80ltejUNZOfJ2eDcH3YT3g==",
+      "path": "tizen.net.internals/8.0.0.15712",
+      "hashPath": "tizen.net.internals.8.0.0.15712.nupkg.sha512"
+    },
+    "Tizen.NET.Sdk/1.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-acid6tFOYPnfBSKnfxj9azlc9gkT0KG8oq/c7xA9EjXRE1TP0V/tfg7XSMIUdFNw2NAYQdS8LWdwu+YK1NGpjw==",
+      "path": "tizen.net.sdk/1.0.9",
+      "hashPath": "tizen.net.sdk.1.0.9.nupkg.sha512"
+    },
+    "Tizen.TV/1.2.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z5Ks69+6HEbmaziL3PTLNHSz7S26PLiLqHNey+oKUVsGXV63/6EbmZc9SvxKLyH7IFmtFUWDgMCajvSvD+q4Ag==",
+      "path": "tizen.tv/1.2.9",
+      "hashPath": "tizen.tv.1.2.9.nupkg.sha512"
+    },
+    "Tizen.TV.Application/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rzkz9m3oQ2T2aW14OWDIgJ7gfsmuPUY5PZap7XRSGOXWGxqLqMTG3Su3d0zEZNQ/KdmfoHdYlkc2YTtgDjXSVQ==",
+      "path": "tizen.tv.application/1.0.8",
+      "hashPath": "tizen.tv.application.1.0.8.nupkg.sha512"
+    },
+    "Tizen.TV.Application.Utility/1.4.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KkD8/UTc6WmtuWESEXFAVRKEuCHy8J9+++YRNoXXiZ08fn2UOPzsUsj5jEjrTnS69ANUHxOxEl19/vt3RjCEKw==",
+      "path": "tizen.tv.application.utility/1.4.8",
+      "hashPath": "tizen.tv.application.utility.1.4.8.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX/1.0.30": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f3AxsfCMcjPf/drRGiwgIITrmlphC96ss14YFxvlYhSqUAdTVOe5wlNvjA//GGTj6+xndAPKkJIlTNcqyncRMQ==",
+      "path": "tizen.tv.flux/1.0.30",
+      "hashPath": "tizen.tv.flux.1.0.30.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX.Component/1.1.67.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KNrQRjUdmFL7MuVen87Q8R9bkvCfdFQPkAv27/rsYJzso3CCI4GCKijUNX2rgjD2kx3nheAwDsePHhQYVv54Vg==",
+      "path": "tizen.tv.flux.component/1.1.67.6",
+      "hashPath": "tizen.tv.flux.component.1.1.67.6.nupkg.sha512"
+    },
+    "Tizen.TV.Logger/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C9ibCay/vkKIv3kSYkg9Tf+zjebMdOEWCUGR8wCw1TwiwW9TnEmITlqyW4VLzfgJyiiPwuECNs85GGytz9V36Q==",
+      "path": "tizen.tv.logger/1.0.1",
+      "hashPath": "tizen.tv.logger.1.0.1.nupkg.sha512"
+    },
+    "Tizen.TV.Network.Connection/1.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PZMH4WPKE2pO+Mgh4tpWNa6mG+z2djjtzAeKkYMUjRNjN+jSyPL20XEfpsolpTXgNbu7UJXhn94w2TElbDuyxA==",
+      "path": "tizen.tv.network.connection/1.0.12",
+      "hashPath": "tizen.tv.network.connection.1.0.12.nupkg.sha512"
+    },
+    "Tizen.TV.Network.Curl/17.10.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZKvt0kDgjysy6fCCKOMfVIF51jDyTcXUVYd/sbNV44D2WmVWjSbjgNYU3n5zl2Umz7x+z+f6ATCMKUA5wiwVjQ==",
+      "path": "tizen.tv.network.curl/17.10.10",
+      "hashPath": "tizen.tv.network.curl.17.10.10.nupkg.sha512"
+    },
+    "Tizen.TV.Network.TVConnection/17.12.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NwfjrQiIqV55s2UPQZTDvuzcPpcoOA/rVTt1ydhqarXIj3tCmGVdXMSADfq4yyH07hMrtto7jBO2gkhIKGMKNg==",
+      "path": "tizen.tv.network.tvconnection/17.12.6",
+      "hashPath": "tizen.tv.network.tvconnection.17.12.6.nupkg.sha512"
+    },
+    "Tizen.TV.NUI/1.0.154": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-86mfHJg+EelGK+PcA0jQkXjcYoJdyWWJmvVrrdNsnyOHn3DdGIZ5lIWwfJCpwKlZBK4AESqT7C38sBdTpyN66Q==",
+      "path": "tizen.tv.nui/1.0.154",
+      "hashPath": "tizen.tv.nui.1.0.154.nupkg.sha512"
+    },
+    "Tizen.TV.Security/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g/BEqI5mqJ9MXXXld+PoD8nLmNODhCLENMzcSDE4alj7EOBzJEgmrg5UKag5091pS1U+nbzwd7eIhdJUCvIr9Q==",
+      "path": "tizen.tv.security/1.0.4",
+      "hashPath": "tizen.tv.security.1.0.4.nupkg.sha512"
+    },
+    "Tizen.TV.Service.Billing/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EYRt3CDBxsgWPH8RytzUfEpJoqV1oGDHLMsVAbrlXnUFP1wGiUu8bGZbLdDKdnxtIJAGJ5j9LIcu5Xoqqa24xA==",
+      "path": "tizen.tv.service.billing/1.2.0",
+      "hashPath": "tizen.tv.service.billing.1.2.0.nupkg.sha512"
+    },
+    "Tizen.TV.Service.Settings/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NSBtvedYoZXHVAP00lcomnoiHtmVZNNfD5H1/GHPf94iHdxtiWX6r97wSI2HfNR0v4riA2FBdy7RX4+loHP/pg==",
+      "path": "tizen.tv.service.settings/1.0.2",
+      "hashPath": "tizen.tv.service.settings.1.0.2.nupkg.sha512"
+    },
+    "Tizen.TV.Service.Sso/1.7.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HBBBCVjjYklVd2Pw3jC+HUzrw0SIAM5rEGiPA5IvOWLwh7dImd6gP6nZprnbgxEONH7uVQ8vtB7ug8Yq1YFJEg==",
+      "path": "tizen.tv.service.sso/1.7.8",
+      "hashPath": "tizen.tv.service.sso.1.7.8.nupkg.sha512"
+    },
+    "Tizen.TV.System/1.0.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XxXSFY4CeQHfAd2BivpYJw2iJW11EYyj1TLY2Lu1Gs5qq22MzVzEmAgeP1eJbyFqixSKYISxpsJBpBg/NpqdOQ==",
+      "path": "tizen.tv.system/1.0.115",
+      "hashPath": "tizen.tv.system.1.0.115.nupkg.sha512"
+    },
+    "Tizen.TV.UIFW.UIConfig/1.0.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P7RWKGMvdWckULQ+59SO0pNIO+YwbB+UabOybZhB/OFeleymKdlBKC0cRYew573bpfej4r0syI775/wLs35UQQ==",
+      "path": "tizen.tv.uifw.uiconfig/1.0.31",
+      "hashPath": "tizen.tv.uifw.uiconfig.1.0.31.nupkg.sha512"
+    },
+    "MyAccountTextResources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tizen.TV.Service.CustomizationService/4.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

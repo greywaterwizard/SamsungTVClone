@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="com.samsung.tv.ocf-d2d-app" version="1.0.1">
+<feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+	<profile name="tv-samsung-5.0" />
+        <description>OCF D2D App</description>
+	<service-application appid="com.samsung.tv.ocf-d2d-app" exec="ocf-d2d-app" type="capp" multiple="false" taskmanage="false" nodisplay="true" auto-restart="false">
+		<label>ocf-d2d-app</label>
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true"/>
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="inactive"/>
+		<metadata key="http://samsung.com/tv/metadata/servicename" value="ocf-d2d-app" />
+	</service-application>
+    <tv-info api-version="6.0.0">
+    <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.kill.bgapp</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/window.priority.set</privilege>
+        <privilege>http://tizen.org/privilege/web-history.admin</privilege>
+        <privilege>http://tizen.org/privilege/screenshot</privilege>
+        <privilege>http://tizen.org/privilege/keygrab</privilege>
+        <privilege>http://tizen.org/privilege/download</privilege>
+        <privilege>http://tizen.org/privilege/bookmark.admin</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/systemsettings.admin</privilege>
+        <privilege>http://tizen.org/privilege/externalstorage</privilege>
+        <privilege>http://tizen.org/privilege/mediastorage</privilege>
+        <privilege>http://tizen.org/privilege/keymanager</privilege>
+        <privilege>http://tizen.org/privilege/mediahistory.read</privilege>
+        <privilege>http://tizen.org/privilege/content.write</privilege>
+        <privilege>http://tizen.org/privilege/recorder</privilege>
+        <privilege>http://tizen.org/privilege/inputgenerator</privilege>
+        <privilege>http://tizen.org/privilege/application.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/was</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+    </privileges>	
+</manifest>

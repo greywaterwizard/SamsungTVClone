@@ -1,0 +1,176 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "MusicFlex/1.0.0": {
+        "dependencies": {
+          "Tizen.NET": "6.0.0.15044",
+          "Tizen.NET.Sdk": "1.0.9",
+          "Tizen.NET.TV": "5.5.0.4997532",
+          "Tizen.TV.Application.Utility": "1.4.8",
+          "Tizen.TV.FLUX": "1.0.28",
+          "Tizen.TV.FLUX.Component": "1.0.77",
+          "Tizen.TV.Multimedia.Unipicture": "1.3.1",
+          "Tizen.TV.NUI": "1.0.136",
+          "Tizen.TV.System": "1.0.75"
+        },
+        "runtime": {
+          "MusicFlex.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.0": {},
+      "System.Text.Encoding.CodePages/4.5.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
+        }
+      },
+      "Tizen.NET/6.0.0.15044": {
+        "dependencies": {
+          "Tizen.NET.API6": "6.0.0.15044"
+        }
+      },
+      "Tizen.NET.API6/6.0.0.15044": {},
+      "Tizen.NET.Sdk/1.0.9": {},
+      "Tizen.NET.TV/5.5.0.4997532": {
+        "dependencies": {
+          "Tizen.NET": "6.0.0.15044"
+        }
+      },
+      "Tizen.TV.Application.Utility/1.4.8": {
+        "dependencies": {
+          "Tizen.NET": "6.0.0.15044",
+          "Tizen.TV.Security": "1.0.4"
+        }
+      },
+      "Tizen.TV.FLUX/1.0.28": {},
+      "Tizen.TV.FLUX.Component/1.0.77": {},
+      "Tizen.TV.Multimedia.Unipicture/1.3.1": {},
+      "Tizen.TV.NUI/1.0.136": {},
+      "Tizen.TV.Security/1.0.4": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "4.5.0",
+          "Tizen.NET": "6.0.0.15044"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Tizen.TV.Security.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      },
+      "Tizen.TV.System/1.0.75": {
+        "dependencies": {
+          "Tizen.TV.Security": "1.0.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Tizen.TV.System.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MusicFlex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B0e5zqoqcKVHqq6cWG1w1LRfPkSDH8YkL/nzt3b+k2CP+uvbwWlZGxG+1yFL/v43uXfepJ2Q8yNAbvdEZK/ZWQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zJEnIENxZI94PcnvB5dzcx9Vmhc3hWb1vW4WPC2L9TL0gqSnqrbCIrThconq8Q/Y6usFFaf5i7Mvs+DliuUEZA==",
+      "path": "system.text.encoding.codepages/4.5.0",
+      "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
+    },
+    "Tizen.NET/6.0.0.15044": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MMjfk1b5H8hQ62D6XHEZK1Zo49PxFUa2yQN58MVsbQqoKV46auUx9j+EJLJv+2RFxd8JrW2b6iyQbYVr2E0Fgw==",
+      "path": "tizen.net/6.0.0.15044",
+      "hashPath": "tizen.net.6.0.0.15044.nupkg.sha512"
+    },
+    "Tizen.NET.API6/6.0.0.15044": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PegQ2+Plr8VlE+j9RiC1Hr0G3t9qQ8MIFr1Pm1S8SMeoRURMbDVmZd5S6uw+1dK4BJ4eY7cQ/65NyZSxp4C1Jg==",
+      "path": "tizen.net.api6/6.0.0.15044",
+      "hashPath": "tizen.net.api6.6.0.0.15044.nupkg.sha512"
+    },
+    "Tizen.NET.Sdk/1.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-acid6tFOYPnfBSKnfxj9azlc9gkT0KG8oq/c7xA9EjXRE1TP0V/tfg7XSMIUdFNw2NAYQdS8LWdwu+YK1NGpjw==",
+      "path": "tizen.net.sdk/1.0.9",
+      "hashPath": "tizen.net.sdk.1.0.9.nupkg.sha512"
+    },
+    "Tizen.NET.TV/5.5.0.4997532": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wE9EjAzS3uWdJPRGvzTXzMzZPPWUDaeKLGQzqdCF6bpZsfDN1hJI4K34xvDykPYygepIpIZQeOp96t4y83HxRA==",
+      "path": "tizen.net.tv/5.5.0.4997532",
+      "hashPath": "tizen.net.tv.5.5.0.4997532.nupkg.sha512"
+    },
+    "Tizen.TV.Application.Utility/1.4.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RX3sC9EKRhZUlHUz9edKTafzZi+ImvHYeaPJETl8NzAbaM49TCDwQG6KDzcHhaKhHFobRt6EicxV4n5o3k/yhA==",
+      "path": "tizen.tv.application.utility/1.4.8",
+      "hashPath": "tizen.tv.application.utility.1.4.8.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX/1.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wc7sGnwvTmQ9iVquFL5YYbdZHtBDmO3P9ZABUPpTb2XhCJOjVtSnzy2ZFUPipEl0BeTekCAeRmRV1MdtuDOvDA==",
+      "path": "tizen.tv.flux/1.0.28",
+      "hashPath": "tizen.tv.flux.1.0.28.nupkg.sha512"
+    },
+    "Tizen.TV.FLUX.Component/1.0.77": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a+NIMfMllnT57Klm9SPvVK57TMq0JPqydJdQXwT1rt0GO8GAQdI2n54eIYq14Lz273mA21aUgErH7Vd4/sKwIg==",
+      "path": "tizen.tv.flux.component/1.0.77",
+      "hashPath": "tizen.tv.flux.component.1.0.77.nupkg.sha512"
+    },
+    "Tizen.TV.Multimedia.Unipicture/1.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fQOULcQX4kNkRLLNYxh1ZQq7pFCUf5Uy3No4IVvzok6DSgs8xRN3hurU4+jHATWF2EYn8bgk4CWw9Ag+jTuFuA==",
+      "path": "tizen.tv.multimedia.unipicture/1.3.1",
+      "hashPath": "tizen.tv.multimedia.unipicture.1.3.1.nupkg.sha512"
+    },
+    "Tizen.TV.NUI/1.0.136": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vzLOppqi1B5daOKN69IVt+l92WRnGIWbSLFI1TsNQHS/7J9ApHaHLPePq2gKZ1OMSuu32HWDhEyz1lDKtFoOMw==",
+      "path": "tizen.tv.nui/1.0.136",
+      "hashPath": "tizen.tv.nui.1.0.136.nupkg.sha512"
+    },
+    "Tizen.TV.Security/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e8ADnxMdDTc3fJM7/FdAROD8zEkVHsIb4wc8zPD9KZRlU2zOE44ZvJDYrMUZutMvgLaVisoO8LntRWUb4SYuDQ==",
+      "path": "tizen.tv.security/1.0.4",
+      "hashPath": "tizen.tv.security.1.0.4.nupkg.sha512"
+    },
+    "Tizen.TV.System/1.0.75": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QhHj5eX+MXyNkc6+lW7LaB8AmN81+d6VOVjRBe9dgRqy3HBPIFTR1KXfIjd0u7zy1RfjaosOrmAZcVRE8gKQBA==",
+      "path": "tizen.tv.system/1.0.75",
+      "hashPath": "tizen.tv.system.1.0.75.nupkg.sha512"
+    }
+  }
+}

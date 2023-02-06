@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.samsung.tv.safLaunchBridge" version="1.21.10181" api-version="6.0" xmlns="http://tizen.org/ns/packages">
+    <profile name="tv" />
+    <ui-application appid="com.samsung.tv.safLaunchBridge" exec="SafLaunchBridge.dll" multiple="false" nodisplay="true" taskmanage="true" type="dotnet-inhouse" splash-screen-display="true" launch_mode="single">
+        <icon>SafLaunchBridge.png</icon>
+        <label>SafLaunchBridge</label>
+        <metadata key="http://samsung.com/tv/metadata/mountinstall" value="true" />
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/built-in-app" value="true" />
+        <metadata key="http://samsung.com/tv/metadata/background-update" value="anytime" />
+        <metadata key="http://samsung.com/tv/metadata/waitingscreen.type" value="none" />
+        <metadata key="http://samsung.com/tv/metadata/use.network" value="false" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-saf-external-uiplugin" value="[{'moduleName': 'PinPopupPlugin','libName': 'PinPopupPlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.PinPopup.PinPopupPlugin'},{'moduleName': 'MessageBoxPlugin','libName':'MessageBoxPlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.MessageBox.MessageBoxPlugin'},{'moduleName': 'NetErrorPopupPlugIn','libName':'NetErrorPopupPlugIn.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.NetErrorPopup.NetErrorPopupPlugIn'}]" />
+        <metadata key="http://developer.samsung.com/tizen/metadata/support-saf-external-utilityplugin" value="[{'moduleName': 'NetworkUtilPlugin','libName': 'NetworkUtilPlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.NetworkUtil.NetworkUtilPlugin'},{'moduleName': 'RestUtilPlugin','libName': 'RestUtilPlugin.dll','libPath':'lib/netcoreapp2.0/','className':'Tizen.TV.Service.RestUtil.RestUtilPlugin'}]" />
+        <splash-screens />
+    </ui-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://developer.samsung.com/privilege/was.platform</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.admin</privilege>
+        <privilege>http://developer.samsung.com/privilege/logging</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+    </privileges>
+    <provides-appdefined-privileges />
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+    <tv-info api-version="6.6.0">
+      <infolink>T-INFOLINK2021-1000</infolink>
+    </tv-info>
+</manifest>

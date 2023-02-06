@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" smack-label="dtv-org.tizen.pvod-appfw" package="org.tizen.pvod-appfw" version="1.53.39021">
+	<label>PvodFW</label>
+	<description>PVOD Framework</description>
+	<feature name="http://tizen.org/feature/screen.size.all">true</feature>
+	<ui-application appid="org.tizen.pvod-appfw" exec="pvod-appfw" nodisplay="true" type="capp">
+		<label>PvodFW</label>
+		<metadata key="http://samsung.com/tv/metadata/auto.update" value="true"/>
+	</ui-application>
+	<privileges>
+		<privilege>http://tizen.org/privilege/appmanager.launch</privilege>                     
+	</privileges>
+	<tv-info api-version="1.0.0">
+		<infolink>T-INFOLINK2019-1000</infolink>
+	</tv-info>
+	<build-info id="PvodFW">   
+		<app-info exec="pvod-appfw" id="org.tizen.pvod-appfw" />
+	</build-info> 
+</manifest>
